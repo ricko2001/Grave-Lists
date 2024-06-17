@@ -1,0 +1,471 @@
+﻿
+Friedhof (graveyard) in the dorf (village) Waldzell, Germany.
+Waldzell, along with Hausen, is currently under the same administration as Steinfeld, the larger neighboring village.
+
+Location coordinates:
+(center of Friedhof): 49.942538, 9.632052
+
+
+Description
+The area is roughly rectangular, oriented about NE. (an arrow from Friedhof center to center of top
+edge of diagram points NE) 
+Friedhofstraße runs along the NW side, Eckweg along the SW side.
+The front gate is in the middle of the shorter side at the bottom and opens onto Eckweg. 
+There is a small building for burial ceremonies, and a gate on the far right corner opposite the front gate.
+For the purposes of this document and plot naming, the wall along Eckweg is the SOUTH wall, and the NE wall the NORTH wall.
+
+
+Aerial view from Google Maps:
+Friedhof Waldzell - Aerial View -e2015.jpg   (Imagery Date: 4/23/2015)
+Friedhof Waldzell - Aerial View -e2022.jpg 
+
+
+
+                 NORTH
+        |------------------+++++  North wall
+        |          ||      +++++
+        |   ====== ||======+++++  Building
+        |   ║   3  ||      ║   |
+        |   ====== ||======    |
+        |          ||          |
+        |=========+O+==========|  hedge, cross at center
+        |          |||||||||||||
+WEST    |                      |     EAST
+        |          2           |
+        |                      |
+        =======================|  hedge
+        |                      |
+        |                      |
+        |          1           |
+        |                      |
+        |--------  ------------|   South wall
+              front gate
+                SOUTH
+
+The graveyard is divided into three sections by hedges that run the width. The sections are labeled 1,2 & 3 in the figure above.
+
+Landmarks:
+Near the center of the graveyard stands a pedestal of three steps supporting a large crucifix. 
+See photo by Herbert Krug (2011): K800_Leichenhalle und Friedhofskreuz.JPG
+It is in section three, but also partially in section 2.
+
+Near the center of the North wall, is a Pieta type sculpture.
+
+A chapel is at the North East corner.
+
+
+The sections are shown enlarged, below, with numbers representing the approximate locations of burial plots. 
+Using PID series of 2022:
+
+                       NORTH
+ WALL    |-------------------------------------------------|    PS =Pieta statue
+         |    3N1   3N2   3N3   -PS-  3N4 3N5 3N6 3N7 +++++|    stones & plaques face S
+         | 3W7            |||||||||||||||             +++++|  
+         |                |||||||||||||||             +++++|  Structure
+         | 3W6                   |||                  +++++|
+HEDGE    |        ===============|||================       |
+         | 3W5   ║  331 332 333  |||  334 335 336   ║  3E3 |    stone face S
+         |       ║               |||          3E2-6 ║      |
+         | 3W4   ║               |||          3E2-5 ║      |    EAST
+         |       ║               |||          3E2-4 ║      |
+         | 3W3   ║               |||          3E2-3 ║      |
+         |       ║               |||          3E2-2 ║  3E2 |
+         | 3W2   ║               |||          3E2-1 ║      |
+         |       ║  321 322 323  |||  324 325 326   ║      |    stones face N
+HEDGE    | 3W1   ================|||================   3E1 |
+         |     311   312   313   +O+   314   315   316     |    stones face N
+HEDGE    |=======================+O+=======================|     +O+ crucifix statue
+
+
+Section 2
+         |=======================+O+=======================| hedge
+         |   241  242  243  244  ||| 245 246 247 248 249   |
+         | 2W5to6                      |||||||||||||||||||||||||||
+         |   231  232   233   234  235  236  237  238  239 |
+         | 2W4                                         2E4 |
+         |   221  222  223  224  225  226  227  228  229   |
+         | 2W3                                         2E3 |
+         |   211  212  213  214  215  216  217  218  219   |
+         | 2W2                                         2E2 |
+         | 2W1                                         2E1 |
+         |=================================================|  hedge
+         
+
+Section 1
+|=================================================|  hedge
+| 1W6                                             |
+| 1W5                                             |
+|   131  132  133  134  135  136  137  138  139   |
+| 1W4                                         1E4 |
+|   121  122  123  124  125  126  127  128  129   |
+| 1W3                                         1E3 |
+|   111  112  113  114  115  116  117  118  119   |
+| 1W2                                         1E2 |
+| 1W1                                         1E1 |
+|-----------------------   -----------------------|  fence
+                      gate on Friedhof Strasse
+ 
+  legend:
+ North is up (actually NNE)
+ ||||     paved path
+ +O+      central crucifix
+ -PS-      pieta statue
+ +++++    chapel building area
+ === ║║║  hedge
+ ----    fence
+ N & E & W sides are enclosed by a stone wall (?)
+ 
+ These diagrams are not drawn to scale.
+ 
+Top series-
+3-4 1  3-4-2    3  -PS-  4  5  6  7
+are sites: 3-4-1, 3-4-2, 3-4-3, to 3-4-7
+-PS- is the statue, 3-4-3 is WWI memorial plaque, 3-4-4 to 3-4-7 are WWII memorials.
+
+Numbering scheme-
+    ^
+row |
+    +-->
+     column
+(Column is the horizontal axis, Row is the vertical axis)
+
+
+ Section-Row-Column
+		<1 | 2 | 3 | N> - <1 | 2 | 3 | 4 | N> - <col #>
+		rows are digits 1 to 4 or N (for north wall)
+		Column has a leading zero
+		Grave markers face North or South
+OR
+ Section Column-Row
+		<1 | 2 | 3> - <E | W | E2> - <row #>
+		Only 2 column designations : E or W or E2
+		Row has a leading zero
+		Grave markers face East or West
+
+
+Note: prior to 2022, the wall plots were specified by left & right.
+In 2022 and later, they are East & West.
+
+Looking at the Google Earth image from 2015
+Section 1 appears to have-
+3 rows of 9 plots in the middle.
+4 plots on each of the left and right sides
+there may be one plot up against the S wall (1995-44)
+
+Section 2 appears to have-
+3 rows of 9 plots in the middle
+4 plots on W side, 5 on the E side of the cross against the N hedge
+5 plots on each of the left and right sides
+
+Section 3 appears to have-
+3 rows of 6 plots in the middle
+  row 1 and 2 have stones facing north
+2 plots along the N wall, along with the 5 plaques.  Consider them plots for numbering purposes.
+7 plots on the left side
+3 plots on the right side
+
+These stones face E or W:
+3-E-1 to 3-E-8; 3-W-1 to 3-W-3; 3-E2-1 to 1-E2-6
+2-W-1 to 2-W-4; 2-E-1 to 2-E-4
+1-W-1 to 1-E-4; 1-E-1 to 1-E-4
+These stone face as marked:
+1-2, 1-2, 1-3 face S
+2-1 faces N
+2-3, 2-3, 2-4 face S
+3-1, 3-2 face N
+3-3, 3-N face S
+
+
+War memorial
+Plaques listing war dead and missing are on N wall in section 3.
+
+
+_Row: 1-1: entire row visible in overview photos. 9 standard plots.
+_Row: 2-E: from aerial view, looks like 3 plots can fit. 
+
+===Location: s5
+surety on scale of 1 to 5. % direct visual evidence of location.
+
+
+
+=========================================================================
+=========================================================================
+
+Visits and Photo sets
+
+=========================================================================
+2022
+Richard J Otter visited the graveyard in September 2022.
+
+Mostly overview photos. Not done systematically.
+Several individual grave markers also photographed.
+
+=========================================================================
+2019
+Richard J Otter visited the graveyard in September 2019.
+
+Overview photos
+Overview of 5 war memorial plaques is in photo Images2019/IMG_20190928_102851279_HDR.jpg
+Notice that pieta statue is between A and B.
+
+Section 3 complete 360 view, each photo to the left of previous
+Taken from a position directly to left of plot 2019-3-5-1
+Grave\Waldzell\Images 2019\UNREF\section3- full 360 view
+IMG_20190928_102851279_HDR		chapel building and plaques B-E
+IMG_20190928_102854732_HDR		pieta statue & plaque A
+IMG_20190928_102857209_HDR		looking directly west
+IMG_20190928_102859523_HDR		looking S W
+IMG_20190928_102901837_HDR		looking S S W  can see crucifix
+IMG_20190928_102903901			looking south
+IMG_20190928_102906232_HDR		plot 2019-3-5-3 in center. (Staab).  
+IMG_20190928_102908487_HDR		looking east.  plot 2019-5-3-1 in center. (Hellwig)
+IMG_20190928_102911094_HDR		rear of chapel building, pathway & East gate.
+IMG_20190928_102914130_HDR		back to start. Chapel building.
+
+Section 3 complete 360 view, try 2, each photo to the left of previous
+Grave\Waldzell\Images 2019\UNREF\section3- full 360 view try 2\
+IMG_20191001_141726292_HDR.jpg
+IMG_20190928_103018998.jpg
+IMG_20190928_103020635.jpg
+IMG_20190928_103022625.jpg
+IMG_20190928_103024538_HDR.jpg
+IMG_20190928_103027410_HDR.jpg
+IMG_20190928_103236408.jpg
+IMG_20191001_141720936_HDR.jpg
+
+
+=========================================================================
+2018
+Richard J Otter visited the graveyard in July 1995.
+
+Didn't examine overall layout. Assumed it had remained unchanged.
+
+Using the numbering from 1995 above, notes show photos taken in order-
+19, 20, 21, 51, 52
+
+53, 54, 55, 22, 23
+
+1 to 6
+7 to 13
+24 to 28
+29 to 35
+36 to 41
+42 to 50
+
+then, on day 2, made a counter clockwise spiral
+numbers below are just serial numbers
+images 9114 to 9144
+
+|-----------------------------------------|  wall
+| 13    12  11    10 09 08 07 06 |========|  face S 
+| 14                             |========|  Chapel & gate
+| 15                             |========|
+|                                         |
+|      32   31       30   29       28  05 |
+| 16   33                          27     |
+|      34                          26     |
+|                                  25  04 |
+| 17                               24     |
+| 18                   22          23     |
+|                                      03 |
+|      19   20  21          01     02     |  face N
+|=================+O+=====================|
+----
+
+=========================================================================
+2011
+Color digital photos were taken by Herbert Krug on June 2 2011. 
+They are mostly named in the format "K800_Gräber Waldzell_0NN.JPG".
+
+
+=========================================================================
+1995
+
+Richard J Otter visited the graveyard in July 1995 and in June 2018 and September 2019.
+In 1995, found 85 grave stones or occupied plots. Some had associated wooden cross grave markers.
+Herbert Krug visited in 2011 and provided about 36 photos.
+2019 visit: had time for only several photos.
+
+All plots were directly read and transcribed. (Cannot find the notebook as of 2022-11-25.)
+Black and white film photos were taken by Richard Otter in July 1995. These were scanned and are named in the format- "Waldzell 1995-07 Marker NN.jgp".
+At least 2 rolls were lost. Only one was developed and scanned.
+
+Direct reading/transcription in 1995 did not reflect use of U/L case on grave stone. Always used proper case.
+Later transcription attempt to follow use as on grave stone.
+
+from notebook-
+1995 plot numbering system
+Section 3
+North at top
+
+|-----------------------------------------|  wall
+|     56   57     A  B  C  D  E \\\\\\\\\\|  face S 
+| 60             |||||||||||||||\\\\\\\\\\|
+| 59             |||||||||||||||\\\\\\\\\\|  Chapel 
+|                   |||         \\\\\\\\\\|
+| 58    ============|||==============     |
+|     ║  61   62    ||| 63   64   65 ║ 78 |
+| 71  ║             |||            66║    |
+|     ║             |||            67║    |
+|     ║             |||            68║ 79 |
+| 72  ║             |||            69║    |
+| 77  ║ 73   74 75  |||      76    70║    |
+|     ==============|||=============== 80 |
+|    81   82  83    |||     84     85     |  face N
+|===================+O+===================|  hedge
+
+
+Section 2
+|===================+O+===================| hedge
+|  42 43 44 45 46   ||| 47 48  49  50     |
+| 52                |||||||||||||||||||||||
+|                                      53 |
+|      36  37  38          39  40  41     |
+| 51                                   54 |
+|      29  30  31      32  33  34  35     |
+|                                      55 |
+|      24              25  26  27  28     |
+|=========================================|  hedge
+
+
+Section 1
+|==========================================|  hedge
+|                  14  15  16  17  18      |
+|  21                                   22 |
+|       07   08    09  10  11  12  13      |
+|  20                                   23 |
+|       01   02    03  04  05      06      |
+|  19                                      |
+|--------------------  --------------------|  fence
+                  Front gate
+
+
+=========================================================================
+Background
+Grave sites are leased for a period of time, generally 20 years. After which the lease can
+be renewed or let to expire. 
+For an expired lease, at some point the existing grave stone is removed. Perhaps by an interested family member, perhaps by the graveyard administration.
+In 2019, the graveyard administration was in the city hall of Lohr.
+
+Upon a death, a family that has an existing grave site may have the grave stone engraved with the new name, or an new stone may be created. In which case, the old stone might be preserved in an off-site location.
+Most times, a temporary wooden cross is erected for the burial ceremony with the stone chnages at a later date.
+
+=========================================================================
+
+
+
+TODO
+Find out whether there already is an official cemetery plot map that should be used.
+Find out if there are cemetery records
+
+
+NOTES for entire file
+
+(b) = *
+(d) = ✝
+(ic) = ✠
+geb. = geboren
+gest. = gestorben
+raised dot = ·
+
+
+text in <> in Transcription section are comments not on grave marker
+
+Only names listed on grave stone are included in table section.
+
+In RootsMagic database, burial location is recorded in Place Detail as, for example:
+Friedhof Waldzell, Grabstelle 2018-3-R-02
+
+
+FS Number, view at-
+https://www.familysearch.org/tree/person/details/<FS#>
+https://ancestors.familysearch.org/en/<FS#>
+
+FaG number- view at-
+https://www.findagrave.com/memorial/<FaG#>
+
+RM number, need software and data file.		(RootsMagic SW)
+
+
+
+Date:  <year>
+1995: Grave stones were directly read and transcribed. Some photos on film were taken and transcription confirmed.
+After 1995: date refers to date of digital photo. Transcriptions from photos made soon thereafter. 
+  Corrections should be noted.
+
+The plot status in the given year. That was mostly established by photo taken in that year. 
+The photo may have been re-read since that time and the actual transcription updated.
+
+
+Location confirmation work
+2021-10
+may add a section to plots where this is proved.
+
+plots 351, 352, 353
+Overview ===Photos:	
+Images 2019\IMG_20191001_141726292_HDR.jpg
+Images 2019\IMG_20191001_141720936_HDR.jpg
+Show that 
+351 is Staab with heart shaped hole in stone
+353 is Hedwig with heart shaped stone, 
+352 is vacant (to be Alban & Rose Otter)
+question: looks like there is room at left of 353 for another site. 
+May remember that the site cannot be used because it is too close to opening in hedge
+space between 351 and 153 looks like it can hold 2 sites, but I think it will have just one.
+(previous maps had the order reversed. In 2021-10, made numbers increase as the location
+goes up in the map, like all other sequences.)
+
+Same 2 photos show the 3R 1 to 3 series.
+No room to left of 3R3 
+May be room to right of 3R1.  But the main divider hedge may be close.
+That space is near 316, but no photo as 316 is vacant.
+
+Overview 
+===Photos:	
+Images 2019\IMG_20190928_102851279_HDR.jpg
+
+===PID: 2022-01-01     Coord: [49.861413, 10.408814]     Ort: "Oberschwarzach"     Stones: 1
+
+
+
+Stone Date
+Don't update it if the latest photo doesn't show the text. (but is just an overview confirming its presence)
+- actually, maybe confirming its presence is what should be captured?
+
+
+
+==============
+
+Tricks
+search for names
+\h*\|\h*
+<first name>\h*\|\h*<last name>
+\h is blank space but not line termination
+
+in Notepadd++, do a search for all in file. Can find desired result quickly.
+
+Policy, if no photo available-
+FS	attach the "no photo.jpg" image to the source, but remove it from tagged memories.
+FaG	attach the "no photo.jpg" image to the memorial if no more recent stone pic is available.
+Funeral cards and gravestone pics remain tagged to people, but also attached to sources.
+
+
+Progress notes for adding Grave Marker to FaG and FS
+s_a = FaG source found in FS FaG database and attached to person
+s_am = FS source created pointing to FaG record and and attached to FS person
+s_n = created a new source for gravestone from memory image and attached it.
+s_nm = as s_n but there are multiple photos to attach to source.
+m_an = no grave picture to attach- these tags deleted when s_n is done and added.
+d = appears on both gravestone and memorial plaque
+
+OLD and Removed=bc = burial checked for format, and "gravestone" reason.
+OLD and Removed=m_a = grave image attached to FS person and tagged
+
+
+
+Boilerplate
+
+NO KNOWN CONECTION TO FERDINAND OTTER FAMILY
+NO KNOWN CONECTION TO ROSA MAIER FAMILY
+MATCHES_TO_RM
+2022	Use *✝✠ symbols.

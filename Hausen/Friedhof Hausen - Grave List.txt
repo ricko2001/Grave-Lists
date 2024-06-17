@@ -1,0 +1,5169 @@
+﻿=========================================================================DIV80==
+===PID: 2018-2-1-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+ADOLF STAUB
+28.2.1899 ✠ 9.12.1945
+ELISE STAUB
+5.8.1900 ✝ 15.7.1990
+ALOIS BIENER
+30.5.1925 ✝ 27.8.2002
+ANTON VOGEL
+4.5.1883 ✝ 15.5.1972
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9591.JPG
+===Notes:
+Same stone since 1995. Added:  ALOIS BIENER & ANTON VOGEL
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "08 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Adolf    | Staub       | 28.002.1899 | 09.012.1945 |   |
+|           |          |       | Elise    | Staub       | 05.008.1900 | 15.007.1990 |   |
+|           |          |       | Alois    | Biener      | 30.005.1925 | 27.008.2002 |   |
+|           |          |       | Anton    | Vogel       | 04.005.1883 | 15.005.1972 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+===Stone: 1
+===Date: 2028
+===Transcription:
+-----------------------------------------------------DIV60--
+Familie Andr. u. Joh. Stamm
+JOSEFA STAMM
+3.9.1864 - 10.6.1912
+JOHANN STAMM
+22.4.1861 - 7.12.1931
+JOSEF STAMM
+19.3.1895 - 27.11.1972
+GERTRAUD STAMM
+8.4.1899 - 19.1.1985
+FRIEDA STAMM
+9.12.1923 - 18.11.2008
+MARIA
+4.9.1934 - 20.5.1946
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 3
+file://./Images_2018/IMG_9592.JPG
+file://./Images_2018/IMG_9593.JPG
+file://./Images_2018/IMG_9594.JPG
+===Notes:
+Same stone since 1995. Added:  FRIEDA STAMM
+Corrected inscription at top of monument. Anna, not Andr.
+Changed it back again. Which is correct? (synched table data)
+TODO NEW PHOTO  clear up top inscription words
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "7 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Andreas  | Stamm       |             |             |   |
+|           |          |       | Johann   | Stamm       |             |             |   |
+|           |          |       | Josefa   | Stamm       | 03.009.1864 | 10.006.1912 |   |
+|           |          |       | Johann   | Stamm       | 22.004.1861 | 07.012.1931 |   |
+|           |          |       | Josef    | Stamm       | 19.003.1895 | 27.011.1972 |   |
+|           |          |       | Gertraud | Stamm       | 08.004.1899 | 19.001.1985 |   |
+|           |          |       | Frieda   | Stamm       | 09.012.1923 | 18.011.2008 |   |
+|           |          |       | Maria    | Stamm       | 04.009.1934 | 20.005.1946 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+===Stone: 1
+===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Reinhardt
+Erich
+* 22.5.1932
+✝ 5.12.2015
+
+►wooden cross◄
+Josef Stamm
+15.10.1936 - 21.03.2018
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 3
+file://./Images_2018/IMG_9595.JPG
+file://./Images_2018/IMG_9596.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Josef     | Stamm       | 15.010.1936 | 21.003.2018 |   |
+|           |          |       | Reinhardt | Erich       | 22.005.1932 | 05.012.2015 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+BIENER
+WALTER  * 17.11.1924
+        ✝ 8.8.1979
+ERNA    * 23.12.1921
+        ✝ 31.5.2011
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9597.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Walter   | Biener      | 17.011.1924 | 08.008.1979 |   |
+|           |          |       | Erna     | Biener      | 23.012.1921 | 31.005.2011 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+STAMM
+
+MONIKA
+1915 - 1981
+HERMANN
+1911 - 1989
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9598.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Monika   | Stamm       |        1915 |        1981 |   |
+|           |          |       | Hermann  | Stamm       |        1911 |        1989 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+STAMM
+
+VINZENZ   1903 - 1961
+EMILIE    1908 - 1989
+ERIKA     1940 - 2012
+
+CHRISTINE u. VINZENZ
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+===Photos:
+file://./Images_2018/IMG_9599.JPG
+===Notes:
+Same stone since 1995. Added:  ERIKA
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "04 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Vinzenz   | Stamm       |        1903 |        1961 |   |
+|           |          |       | Emilie    | Stamm       |        1908 |        1989 |   |
+|           |          |       | Erika     | Stamm       |        1940 |        2012 |   |
+|           |          |       | Christine | Stamm       |             |             |   |
+|           |          |       | Vinzenz   | Stamm       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-07    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+VORNDRAN
+
+LEO   1912 - 1999
+ANN   1917 - 2008
+
+JOSEFINE u. LUDWIG
+MAX ✠ EMIL
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+===Photos:
+file://./Images_2018/IMG_9600.JPG
+===Notes:
+Same stone since 1995. Added: LEO & ANN 
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "03 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Leo      | Vorndran    |        1912 |        1999 |   |
+|           |          |       | Ann      | Vorndran    |        1917 |        2008 |   |
+|           |          |       | Josefine | Vorndran    |             |             |   |
+|           |          |       | Ludwig   | Vorndran    |             |             |   |
+|           |          |       | Max      | Vorndran    |             |             |   |
+|           |          |       | Emil     | Vorndran    |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+RUHESTÄTE FAMILIE FRANZ·SCHUCK
+
+Unvergessen ruht in Gott
+Frau Ann Schuck
+geb. Schaub
+* 15.6.1898 - 1.5.1946 ✝
+Herr Franz Schuck
+Müllermeister
+* 28.9.1895 - 23.4.1967 ✝
+Herr Kurt Schuck
+Müllermeister
+ * 23.9.1931 - 21.9.2006 ✝
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9601.JPG
+===Notes:
+Same stone since 1995. Added: Herr kurt Schuck
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "02 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Ann      | Schuck      | 15.006.1898 | 01.005.1946 |   |
+|           |          |       | Ann      | Schaub      | 15.006.1898 | 01.005.1946 | b |
+|           |          |       | Franz    | Schuck      | 28.009.1895 | 23.004.1967 |   |
+|           |          |       | Kurt     | Schuck      | 23.009.1931 | 21.009.2006 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-1-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HILDA NÖTH
+* 21.8.1905   ✝ 18.7.1980
+ALFONS NÖTH
+* 15.8.1901   ✝ 30.4.1982
+EGON NÖTH
+*  8.9.1958   ✝ 26.10.2008
+HEINZ NÖTH
+* 27.8.1955   ✝ 31.3.1956
+
+VALENTIN U. ELISABETH STAMM
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9602.JPG
+===Notes:
+No changes since 1995.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "01 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Heinz     | Nöth        | 27.008.1955 | 31.003.1956 |   |
+|           |          |       | Hilda     | Nöth        | 21.008.1905 | 18.007.1980 |   |
+|           |          |       | Alfons    | Nöth        | 15.008.1901 | 30.004.1982 |   |
+|           |          |       | Egon      | Nöth        | 08.009.1958 | 26.010.2008 |   |
+|           |          |       | Valentin  | Stamm       |             |             |   |
+|           |          |       | Elisabeth | Stamm       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-11     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+KARL GEHRLING
+* 15.2.1892   ✝ 13.1.1937
+EUGENIE GEHRLING
+GEB. NÖTH
+* 24.11.1894  ✝ 15.11.1947
+ALOIS MARSCHALL
+* 13.8.1904  ✝ 11.7.1981
+EMMA MARSCHALL
+GEB GEHRLING
+* 11.9.1914  ✝ 13.10.1990
+✠
+* 28.2.1918 WILLI GEHRLING GEF. 15.7.1943
+RUHET SANFT!
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9603.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "09 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Gehrling    | 15.002.1892 | 13.001.1937 |   |
+|           |          |       | Eugenie  | Gehrling    | 24.011.1894 | 15.011.1947 |   |
+|           |          |       | Eugenie  | Nöth        | 24.011.1894 | 15.011.1947 | b |
+|           |          |       | Alois    | Marschall   | 13.008.1904 | 11.007.1981 |   |
+|           |          |       | Emma     | Marschall   | 11.009.1914 | 13.010.1990 |   |
+|           |          |       | Emma     | Gehrling    | 11.009.1914 | 13.010.1990 | b |
+|           |          |       | Willi    | Gehrling    | 28.002.1918 | 15.007.1943 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-10     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MARSCHALL
+
+August  * 25.9.1895  ✝ 10.9.1968
+Rosa    * 28.3.1899  ✝ 10.9.1981
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9604.JPG
+===Notes:
+New stone since 1995. Names in common August Marschall & Rosa Marschall.
+
+TODO  Does the curent stone have "Edmund u. Franziska Marschall" at the bottom?
+if it does, then probably only one stone. If not, then the current entry in stone #2.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+August Marschall
+25.9.1895  10.9.1968
+Rosa Marschall
+28.3.1899  10.9.1981
+
+Edmund u. Franziska Marschall
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "10 Hausen"
+
+===Interpretation:
+Maybe stone 2 was created to allow more room for family.
+
+===Table:
+| FG        | RM    | FN        | LN          | b           | d           | T |
+|-----------|-------|-----------|-------------|-------------|-------------|---|
+|           |       | August    | Marschall   | 25.009.1895 | 10.009.1968 |   |
+|           |       | Rosa      | Marschall   | 28.003.1899 | 10.009.1981 |   |
+|           |       | Edmund    | Marschall   |             |             |   |
+|           |       | Franziska | Marschall   |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+REIMER
+
+KLAUS     1940 - 1984
+MARLEEN   1991 - 1992
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9605.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "11 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Klaus    | Reimer      |        1940 |        1984 |   |
+|           |          |       | Marleen  | Reimer      |        1991 |        1992 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-07     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HIER RUHEN IN FRIEDEN
+
+BURKHARD STAMM
+1929  -  2006
+
+KLEMENS STAMM
+1927  -  2007
+
+GREGOR U. LUZIA
+
+►wooden cross◄
+Theresia Stamm
+geb. Frank
+06.03.1935  -  16.07.2017
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 4
+file://./Images_2018/IMG_9606.JPG
+file://./Images_2018/IMG_9607.JPG
+file://./Images_2018/IMG_9608.JPG
+file://./Images_2018/IMG_9609.JPG
+===Notes:
+New stone since 1995. Names in common: Gregor & Luzia.
+Less info on new stone.
+
+TODO  get new photo since wooden cross.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Gregor Stamm
+1889 - 1965
+Luzia Stamm
+1896 - 1985
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "12 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Burkhard | Stamm       |        1929 |        2006 |   |
+|           |          |       | Klemens  | Stamm       |        1927 |        2007 |   |
+|           |          |       | Gregor   | Stamm       |             |             |   |
+|           |          |       | Luzia    | Stamm       |             |             |   |
+|           |          |       | Theresia | Stamm       | 06.003.1935 | 16.007.2017 |   |
+|           |          |       | Theresia | Frank       | 06.003.1935 | 16.007.2017 | b |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Vondran
+
+Franz u. Regina
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9610.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Franz    | Vondran     |             |             |   |
+|           |          |       | Regina   | Vondran     |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruht in Frieden
+meine liebe Gättin unsere gute Mitter
+Frau
+Josefine Seufert
+geb. Walz
+geb. 22.6.1877 z. Kassel  gest. 12.1.1927 dahier.
+Edmiund Seufert
+geb. 13.3.1930  gest. 26.9.1947
+
+Das Teuerste was ich besessen
+Ach, ganz verzweifelt gab ich's her -
+Und heißer Schmerz durchzieht die Seele,
+Ich habe keine Mutter mehr!
+Der Sonne Gold umschwebt den Hügel,
+Und Friede weht durch Wald und Flur -
+Wie Geisterhauch, auf leichtem Flügel
+Kommt mir der Trost.
+    Sie schläft ja nur.
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9611.JPG
+===Notes:
+
+===Interpretation:
+Includes place info for Josefine Seufert geb. Walz, b Kassel d Hausen.
+
+inscription from-
+https://trauer.rp-online.de/traueranzeige/helene-irmen-9999-31129999
+Sie schläft ja nur...
+Das Teuerste was ich besessen,
+Ach, ganz verzweifelt gab ich’s her –
+Und heißer Schmerz durchzieht die Seele,
+Ich habe keine Mutter mehr.
+Ich rufe sie mit tausend Tränen,
+Im tiefsten Traum der stillen Nacht –
+Doch ungestillt bleibt all mein Sehnen –
+Sie schläft nur still, die einst gewacht.
+Die mich gestützt in Lieb’ und Treue
+Und mich geführt mit zarter Hand,
+Die unermüdlich stets aufs neue
+Viel Trost in jedem Kummer fand.
+Oh! Mutter! Mutter! Ruh’ in Frieden!
+Will schmücken still dein teures Grab!
+Drauf lass ich tausend Blumen blühen,
+Weil ich so heiss geliebt dich hab’.
+Der Sonne Gold umschwebt den Hügel,
+Und Friede weht durch Wald und Flur –
+Wie Geisterhauch, auf leichtem Flügel
+Kommt mir der Trost.
+Sie schläft ja nur.
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josefine | Seufert     | 22.006.1877 | 12.001.1927 |   |
+|           |          |       | Josefine | Walz        | 22.006.1877 | 12.001.1927 | b |
+|           |          |       | Edmiund  | Seufert     | 13.003.1930 | 26.009.1947 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FRANK
+
+ALOIS       1905  -  1973
+DEDWIG      1911  -  1985
+ELISABETH   1937  -  2011
+HERRMANN    1937  -  2017
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9612.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Alois     | Frank       |        1905 |        1973 |   |
+|           |          |       | Dedwig    | Frank       |        1911 |        1985 |   |
+|           |          |       | Elisabeth | Frank       |        1937 |        2011 |   |
+|           |          |       | Herrmann  | Frank       |        1937 |        2017 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruhen in Gott
+
+Burkhard Gopp
+* 15.8.1883
+✝ 27.5.1966
+Priska Gopp
+* 7.5.1882
+✝ 21.12.1970
+Karl Stolz
+* 10.3.1928
+✝ 8.2.2007
+
+✠
+Martin Gopp
+1919  verm. 1942
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9613.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Burkhard | Gopp        | 15.008.1883 | 27.005.1966 |   |
+|           |          |       | Priska   | Gopp        | 07.005.1882 | 21.012.1970 |   |
+|           |          |       | Karl     | Stolz       | 10.003.1928 | 08.002.2007 |   |
+|           |          |       | Martin   | Gopp        |        1919 |        1942 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+KONRAD MEHLING
+1942  -  1998
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9614.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Konrad   | Mehling     |        1942 |        1998 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-2-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FRANK
+
+ERNST    * 1911  ✝ 1988
+EMMA     * 1920  ✝ 1990
+
+MANFRED - AGNES - LUDWIG - MARTIN
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 2
+file://./Images_2018/IMG_9615.JPG
+file://./Images_2018/IMG_9616.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "17 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Ernst    | Frank       |        1911 |        1988 |   |
+|           |          |       | Emma     | Frank       |        1920 |        1990 |   |
+|           |          |       | Manfred  | Frank       |             |             |   |
+|           |          |       | Agnes    | Frank       |             |             |   |
+|           |          |       | Ludwig   | Frank       |             |             |   |
+|           |          |       | Martin   | Frank       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+WEIDNER
+
+JOSEF
+* 1.2.1914   ✝ 30.7.1996
+HILDA
+* 13.6.1913  ✝ 18.4.1998
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9617.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josef    | Weidner     | 01.002.1914 | 30.007.1996 |   |
+|           |          |       | Hilda    | Weidner     | 13.006.1913 | 18.004.1998 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FAMILIE WEBER
+Karl   * 1882  -  1939 ✝
+Monika * 1895  -  1974 ✝
+
+WERTHMANN
+Bruno  * 1910  -  1997 ✝
+Maria  * 1923  -  2011 ✝
+
+Nadine  * 1975 ✝
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 0
+file://./Images_2018/IMG_9618.JPG
+===Notes:
+Same stone since 1995. Added: Bruno & Maria.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "24 Hausen"
+
+===Interpretation:
+Nadine b & d same year.
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Weber       |        1882 |        1939 |   |
+|           |          |       | Monika   | Weber       |        1895 |        1974 |   |
+|           |          |       | Bruno    | Werthmann   |        1910 |        1997 |   |
+|           |          |       | Maria    | Werthmann   |        1923 |        2011 |   |
+|           |          |       | Nadine   | Werthmann   |        1975 |        1975 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-03     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+EICH
+
+MICHAEL     1902  -  1964
+MARIA       1901  -  1979
+EMIL        1934  -  2001
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9619.JPG
+===Notes:
+New stone since 1995. Names in common: Michael Eich & Maria Eich.
+Less info on new stone.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Venanz Eich
+17.5.1874  22.3.1922
+Anna Eich
+geb. Wüst
+27.7.1874  28.2.1951
+FRL. Barbara
+5.5.1913  18.8.1948
+Michael Eich
+5.5.1902  28.7.1964
+Maria Eich
+2.1.1901  1.5.1979
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "23 Hausen"
+
+===Interpretation:
+FRL. Barbara = Barbara Eich
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Michael  | Eich        | 05.005.1902 | 28.007.1964 |   |
+|           |          |       | Maria    | Eich        | 02.001.1901 | 01.005.1979 |   |
+|           |          |       | Emil     | Eich        |        1934 |        2001 |   |
+|           |          |       | Venanz   | Eich        | 17.005.1874 | 22.003.1922 |   |
+|           |          |       | Anna     | Eich        | 27.007.1874 | 28.002.1951 |   |
+|           |          |       | Anna     | Wüst        | 27.007.1874 | 28.002.1951 | b |
+|           |          |       | Barbara  | Eich        | 05.005.1913 | 18.008.1948 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-04     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Röder
+
+Rita
+* 12.3.1934  ✝ 8.6.2006
+Vinzenz
+* 15.8.1926  ✝ 19.2.2015
+Kurt
+* 15.2.1956  ✝ 26.9.2016
+
+Vinzenz u. Margarete
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9620.JPG
+===Notes:
+New stone since 1995. Names in common: Vinzenz & Margarete.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Vinzenz Röder
+22.9.1889  23.5.1949
+Margarethe Röder
+geb. Petermann
+19.8.1900  16.4.1981
+Gottfried Röder
+8.8.1844  9.2.1912
+Sabine Röder
+geb. Albert
+18.10.1845  11.9.1920
+Barbara, Michael Röder
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "22 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Rita      | Röder       | 12.003.1934 | 08.006.2006 |   |
+|           |          |       | Vinzenz   | Röder       | 15.008.1926 | 19.002.2015 |   |
+|           |          |       | Kurt      | Röder       | 15.002.1956 | 26.009.2016 |   |
+|           |          |       | Vinzenz   | Röder       | 22.009.1889 | 23.005.1949 |   |
+|           |          |       | Margarete | Röder       | 19.008.1900 | 16.004.1981 |   |
+|           |          |       | Margarete | Petermann   | 19.008.1900 | 16.004.1981 | b |
+|           |          |       | Gottfried | Röder       | 08.008.1844 | 09.002.1912 |   |
+|           |          |       | Sabine    | Röder       | 18.010.1845 | 11.009.1920 |   |
+|           |          |       | Sabine    | Albert      | 18.010.1845 | 11.009.1920 | b |
+|           |          |       | Barbara   | Röder       |             |             |   |
+|           |          |       | Michael   | Röder       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Röder
+Ursula
+* 7.5.1939
+✝ 22.7.2010
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9621.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Röder    | Ursula      | 07.005.1939 | 22.007.2010 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+RÖDER
+Paul
+* 26.3.1935
+✝ 31.3.2013
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9622.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |  Paul    | Röder       | 26.003.1935 | 31.003.2013 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+STAMM
+
+EMIL    1907  ✠  1944
+
+UHLEINBROCK
+
+ANTON   1913  -  1983
+LYDIA   1913  -  2007
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 2
+file://./Images_2018/IMG_9623.JPG     overview
+file://./Images_2018/IMG_9624.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Emil     | Stamm       |        1907 |        1944 |   |
+|           |          |       | Anton    | Uhleinbrock |        1913 |        1983 |   |
+|           |          |       | Lydia    | Uhleinbrock |        1913 |        2007 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+THEOPLIL MARSCHALL  1880  -  1954
+AGNES MARSCHALL     1885  -  1961
+ANTON SCHERG        1915  -  2013
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9625.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Theoplil | Marschall   |        1880 |        1954 |   |
+|           |          |       | Agnes    | Marschall   |        1885 |        1961 |   |
+|           |          |       | Anton    | Scherg      |        1915 |        2013 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+WEBER
+
+Rosina   1890  -  1975
+Hedwig   1928  -  2012
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9626.JPG
+===Notes:
+Same stone since 1995. Added: Hedwig.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "18 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Rosina   | Weber       |        1890 |        1975 |   |
+|           |          |       | Hedwig   | Weber       |        1928 |        2012 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-3-10     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+BÜDEL
+ALFRED    * 21.3.1951  ✝ 22.11.1995
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9627.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Alfred   | Büdel       | 21.003.1951 | 22.011.1995 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Alfred Klein
+* 17.12.1934   ✝ 16.5.2017
+
+Anna u. Albin Otter
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9628.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Alfred   | Klein       | 17.012.1934 | 16.005.2017 |   |
+|           |          |       | Anna     | Otter       |             |             |   |
+|           |          |       | Albin    | Otter       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MARSCHALL
+
+FRANZ  * 27.11.1911   ✝ 2.8.1993
+RITA   * 23.1.1922   ✝ 15.1.2005
+
+BARBARA u. ADOLF
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9629.JPG
+===Notes:
+Same stone since 1995. Added: RITA.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "28 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Franz    | Marschall   | 27.011.1911 | 02.008.1993 |   |
+|           |          |       | Rita     | Marschall   | 23.001.1922 | 15.001.2005 |   |
+|           |          |       | Barbara  | Marschall   |             |             |   |
+|           |          |       | Adolf    | Marschall   |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+ZIMMERMANN
+
+Franziska   1878  -  1951
+Kaspar      1871  -  1953
+Anna        1911  -  1974
+Franz       1908  -  1975
+Rosa        1911  -  1999
+
+Alfred       ✠      Eduard
+1921 - 1941         1913 - 1945
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9630.JPG
+===Notes:
+Same stone since 1995. Added: Rosa.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "29 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Franziska | Zimmermann  |        1878 |        1951 |   |
+|           |          |       | Kaspar    | Zimmermann  |        1871 |        1953 |   |
+|           |          |       | Anna      | Zimmermann  |        1911 |        1974 |   |
+|           |          |       | Franz     | Zimmermann  |        1908 |        1975 |   |
+|           |          |       | Rosa      | Zimmermann  |        1911 |        1999 |   |
+|           |          |       | Alfred    | Zimmermann  |        1921 |        1941 |   |
+|           |          |       | Eduard    | Zimmermann  |        1913 |        1945 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+EMMA KNEIP
+21.9.1912  -  31.12.1974
+
+ADAM KNEIP
+24.5.1913  -  3.1.1975
+
+ANDREAS  U.  REGINA OTTER
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 2
+file://./Images_2018/IMG_9631.JPG
+file://./Images_2018/IMG_9632.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+TODO  new photo    filled in missing info from 1995 reading, but get a good photo
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "30 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Emma     | Kneip       | 00.009.1912 | 31.012.1974 |   |
+|           |          |       | Adam     | Kneip       | 24.005.1913 | 03.001.1975 |   |
+|           |          |       | Andreas  | Otter       |             |             |   |
+|           |          |       | Regina   | Otter       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FAM. MOSER
+
+GEORG      1920  ✠  1944
+ROSA     * 1919  -  1993 ✝
+STEPHAN  * 1966  -  1975 ✝
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9633.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "31 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Georg    | Moser       |        1920 |        1944 |   |
+|           |          |       | Rosa     | Moser       |        1919 |        1993 |   |
+|           |          |       | Stephan  | Moser       |        1966 |        1975 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+SCHEINER
+
+MICHAEL    1901  ✝  1977
+JUSTINA    1904  ✝  1987
+DIETER     1941  ✝  1987
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9634.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "32 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Michael  | Scheiner    |        1901 |        1977 |   |
+|           |          |       | Justina  | Scheiner    |        1904 |        1987 |   |
+|           |          |       | Dieter   | Scheiner    |        1941 |        1987 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+SCHUCK
+
+ALFRED    * 15.5.1928  ✝ 14.11.2000
+LINA      * 25.7.1928  ✝ 14.12.2011
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9635.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Alfred   | Schuck      | 15.005.1928 | 14.011.2000 |   |
+|           |          |       | Lina     | Schuck      | 25.007.1928 | 14.012.2011 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-01     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HIER RUHEN IN FRIEDEN
+
+HERMANN NÖTH
+* 23.12.1895   ✝ 28.10.1960
+EUGENIA NÖTH
+* 23.6.1896   ✝ 11.12.1968
+
+TILLI NÖTH
+* 24.6.1927   ✝ 1.10.1934
+
+KARL NÖTH
+* 16.3.1867   ✝ 6.9.1916
+JOSEFA NÖTH
+* 21.8.1873   ✝ 24.9.1960
+AGNES NÖTH
+* 17.6.1904   ✝ 15.8.1961
+
+ZUM GEDENKEN
+KARL NÖTH
+* 18.12.1923  VERMISST 1943
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9636.JPG
+===Notes:
+New stone since 1995. Names in common: Most names.
+New stone appears to be missing Karl Nöth 8.9.1901  20.5.1977 Anna Nöth 17.11.1901  28.10.1967
+
+TODO    check for more names below KARL NOTH, as per 1995 reading. If they are there, same satone as 1995.
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hermann Nöth
+23.12.1895  28.10.1960
+Eugenia Nöth
+23.6.1896  11.12.1968
+Karl Nöth
+16.3.1867  6.9.1916
+Josefa Nöth
+21.8.1873  24.9.1960
+Agnes Nöth
+17.6.1904  15.8.1961
+Tilli Nöth
+24.6.1927  1.10.1934
+Zum Gedenken
+Karl Nöth
+18.12.1923  Vermisst 1943
+Karl Nöth
+8.9.1901  20.5.1977
+Anna Nöth
+17.11.1901  28.10.1967
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "33 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Hermann  | Nöth        | 23.012.1895 | 28.010.1960 |   |
+|           |          |       | Eugebia  | Nöth        | 23.006.1896 | 11.012.1968 |   |
+|           |          |       | Karl     | Nöth        | 16.003.1867 | 06.009.1916 |   |
+|           |          |       | Josefa   | Nöth        | 21.008.1873 | 15.008.1961 |   |
+|           |          |       | Tilli    | Nöth        | 24.006.1927 | 01.010.1934 |   |
+|           |          |       | Karl     | Nöth        | 18.012.1923 |        1943 |   |
+|           |          |       |Agnes     | Nöth        | 17.006.1904 | 15.008.1961 |   |
+|           |          |       |Karl      | Nöth        | 08.009.1901 | 20.005.1977 |   |
+|           |          |       |Anna      | Nöth        | 17.011.1901 | 28.010.1967 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-5-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+SCHEINER
+LEO   * 17.9.1923   ✝ 29.9.1997
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9637.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Leo      | Scheiner    | 17.009.1923 | 29.009.1997 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-5-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+M. E. 
+SCHUMANN
+1969
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9638.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | M. E.    | Schumann    |             |        1969 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-5-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+►white cross, no name◄
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9639.JPG
+===Notes:
+no text on the cross
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |          |  ►NULL◄     |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-8-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Mauceri
+Alfio
+* 18.11.1946   ✝ 19.3.2017
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9647.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Alfio    | Mauceri     | 18.011.1946 | 19.003.2017 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-7-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Wolf
+Franz
+* 12.5.1927
+✝ 14.9.2000
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9648.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Franz    | Wolf        | 12.005.1927 | 14.009.2000 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-7-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Franz Josef
+Kohlhepp
+* 11.2.1963  ✝ 18.6.2011
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9649.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN          | LN          | b           | d           | T |
+|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
+|           |          |       | Franz Josef | Kohlhepp    | 11.002.1963 | 18.006.2011 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-7-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Familien Pschorr & Stamm
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9650.JPG
+===Notes:
+TODO   look for given names
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | NULL     | Pschorr     |             |             |   |
+|           |          |       | NULL     | Stamm       |             |             |   |
+
+========================================================================DIV80==
+===PID: 2018-1-7-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+August Amend
+* 30.4.1949  ✝ 9.4.2005
+
+Jöen Schmidt
+* 5.8.1976  ✝ 20.9.2016
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9651.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | August   | Amend       | 30.004.1949 | 09.004.2005 |   |
+|           |          |       | Jöen     | Schmidt     | 05.008.1976 | 20.009.2016 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-7-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+JOSEF BIENER
+* 13.3.1992  ✠  12.6.1944
+JOSEF BIENER
+* 3.9.1895   ✝ 5.12.1971
+FRIEDA BIENER
+* 19.10.1899   ✝ 10.10.1998
+GERHARD BIENER
+* 16.11.1940   ✝ 27.1.2017
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9652.JPG
+===Notes:
+Same stone since 1995. Added: GERHARD BIENER
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "88 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josef    | Biener      | 13.003.1992 | 12.006.1944 |   |
+|           |          |       | Josef    | Biener      | 03.009.1895 | 05.012.1971 |   |
+|           |          |       | Frieda   | Biener      | 19.010.1899 | 10.010.1998 |   |
+|           |          |       | Gerhard  | Biener      | 16.011.1940 | 27.001.2017 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-7-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HILDEGARD MARSCHALL
+GEB. WERTHMANN
+* 5.6.1908   ✝ 15.8.1962
+✠ LEO MARSCHALL
+* 11.12.1905  GEF. 27.4.1945
+FRANZ MARSCHALL
+* 15.2.1930   ✝ 8.9.2013
+MONIKA WERTHMANN
+GEB. LIEBLEIN
+* 22.8.1890   ✝ 25.8.1950
+KARL WERTHMANN
+* 28.2.1892   ✝ 1.9.1954
+MARIA LIEBLEIN
+* 26.5.1894   ✝ 23.11.1978
+
+RUHET IN FRIEDEN!
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9653.JPG
+===Notes:
+Same stone since 1995. Added: FRANZ MARSCHALL
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "89 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Hildegard | Marschall   | 05.006.1908 | 15.008.1962 |   |
+|           |          |       | Hildegard | Werthmann   | 05.006.1908 | 15.008.1962 | b |
+|           |          |       | Leo       | Marschall   | 11.012.1905 | 27.004.1945 |   |
+|           |          |       | Franz     | Marschall   | 15.002.1930 | 08.009.2013 |   |
+|           |          |       | Monika    | Werthmann   | 22.008.1890 | 25.008.1950 |   |
+|           |          |       | Monika    | Lieblein    | 22.008.1890 | 25.008.1950 | b |
+|           |          |       | Karl      | Werthmann   | 28.002.1892 | 01.009.1954 |   |
+|           |          |       | Maria     | Lieblein    | 26.005.1894 | 23.011.1978 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-11     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HAAS
+
+KARL-HEINZ
+29.3.1962  -  5.9.2012
+
+FAM. RÜPPEL
+
+►wooden cross◄
+Alfred Haas
+06.01.1934 -  6.►?◄.2018
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 2
+file://./Images_2018/IMG_9654.JPG
+file://./Images_2018/IMG_9655.JPG    wooden cross
+===Notes:
+TODO   look for given names for fam Ruppel
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN         | LN          | b           | d           | T |
+|-----------|----------|-------|------------|-------------|-------------|-------------|---|
+|           |          |       | Karl-Heinz | Haas        | 29.003.1962 | 05.009.2012 |   |
+|           |          |       | NULL       | Rüppel      |             |             |   |
+|           |          |       | Alfred     | Haas        | 06.001.1934 | 06.000.2018 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+ERIKA SEUFERT
+* 2.7.1937  -  1.7.1955 ✝
+RICHARD SEUFERT
+* 20.1.1913  -  19.6.1990 ✝
+ROSA SEUFERT
+* 2.2.1913  -  28.7.1991 ✝
+CHRISTIAN PETER
+* 8.1.1866  -  27.6.1907 ✝
+VERONIKA MÜLLER
+GEB. STAMM VERW. PETER
+* 20.5.1871  -  18.9.1923 ✝
+JOHANN MÜLLER
+* 10.1.1870  - 26.2.1958 ✝
+
+✠ ZUM GEDENKEN ✠
+HUGO PETER
+* 3.2.1906 - 9.11.1944 ✠
+
+FRIEDE
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9656.JPG
+===Notes:
+Same stone since 1995. No changes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "81 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN      | b           | d           | T |
+|-----------|----------|-------|-----------|---------|-------------|-------------|---|
+|           |          |       | Erika     | Seufert | 02.007.1937 | 01.007.1955 |   |
+|           |          |       | Richard   | Seufert | 20.001.1913 | 19.006.1990 |   |
+|           |          |       | Rosa      | Seufert | 02.002.1913 | 28.007.1991 |   |
+|           |          |       | Christian | Peter   | 08.001.1866 | 27.006.1907 |   |
+|           |          |       | Veronika  | Müller  | 20.005.1871 | 18.009.1923 |   |
+|           |          |       | Veronika  | Stamm   | 20.005.1871 | 18.009.1923 | b |
+|           |          |       | Veronika  | Peter   | 20.005.1871 | 18.009.1923 |   |
+|           |          |       | Johann    | Müller  | 10.001.1870 | 26.002.1958 |   |
+|           |          |       | Hugo      | Peter   | 03.002.1906 | 09.011.1944 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+JOSEF GEHRING
+4.8.1920  -  15.3.1970
+ROSA GEHRING
+23.9.1919  -  23.10.2014
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9657.JPG
+===Notes:
+Same stone since 1995. Added: ROSA GEHRING
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "80 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josef    | Gehring     | 04.008.1920 | 15.003.1970 |   |
+|           |          |       | Rosa     | Gehring     | 23.009.1919 | 23.010.2014 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Marschall
+
+Martin
+23.4.1940  -  23.11.2001
+Margot
+6.5.1937  -  23.3.2013
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9658.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Martin   | Marschall   | 23.004.1940 | 23.011.2001 |   | 
+|           |          |       | Margot   | Marschall   | 06.005.1937 | 23.003.2013 |   | 
+
+=========================================================================DIV80==
+===PID: 2018-1-6-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FAMILIE MARSCHALL
+
+ELISABETH GEB. MARSCHALL  28.9.1941  - 17.12.1966
+HEDWIG GEB. STAMM  31.5.1922  -  5.5.2016
+THOMAS  7.2.1915 ✠ VERM. JUNI 1944
+
+GELIEBT, BEWEINT UNVERGESSEN!
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9659.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "79 Hausen"
+79 Hausen
+Familie Marschall
+Elisabeth geb. Marschall
+28.9.1941  17.12.1966
+Thomas  7.2.1915
+(ic) verm. Juni 1944
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN         | LN          | b           | d           | T |
+|-----------|----------|-------|------------|-------------|-------------|-------------|---|
+|           |          |       | Elisabeth  | Marschall   | 28.009.1941 | 17.012.1966 |   |
+|           |          |       | Elisabeth  | Marschall   | 28.009.1941 | 17.012.1966 | b |
+|           |          |       | Hedwig     | Marschall   | 31.005.1922 | 05.005.2016 |   |
+|           |          |       | Hedwig     | Stamm       | 31.005.1922 | 05.005.2016 | b |
+|           |          |       | Thomas     | Marschall   | 07.002.1915 | 00.006.1944 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Wer an mich glaubt wird ewig leben!
+Unvergessen ruhen in Gott
+
+Monika Marschall
+geb. Stamm verw. Nöth
+* 19.4.1868 -  29.5.1952 ✝
+Emilian Marschall
+* 9.9.1880 - 24.6.1965 ✝
+Albin Marschall
+* 15.12.1907 - 4.2.1955 ✝
+Elisabeth Marschall
+* 22.4.1913 - 7.1.2014 ✝
+Joseph Nöth
+* 23.4.1861 - 23.5.1905 ✝
+✠
+Gregor Nöth
+*17.7.1893 - 14.10.1918 ✠
+
+R.I.P.
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9660.JPG
+===Notes:
+TODO  check spelling conflict "Emilion"
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "78 Hausen"
+78 Hausen
+Monika Marschall
+geb. Stamm verw. Nöth
+19.4.1868  29.5.1952
+Emilion Marschall
+9.9.1880  24.6.1965
+Albin Marschall
+15.12.1907  4.2.1955
+Joseph Nöth
+23.4.1861  23.5.1905
+Gregor Nöth
+17.7.1893  14.10.1918 (ic)
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Monika    | Marschall   | 19.004.1868 | 29.005.1952 |   |
+|           |          |       | Monika    | Nöth        | 19.004.1868 | 29.005.1952 |   |
+|           |          |       | Monika    | Stamm       | 19.004.1868 | 29.005.1952 | b |
+|           |          |       | Emilian   | Narschall   | 09.009.1880 | 24.006.1965 |   |
+|           |          |       | Albin     | Marschall   | 15.012.1907 | 04.002.1955 |   |
+|           |          |       | Elisabeth | Marschall   | 22.004.1913 | 07.001.2014 |   |
+|           |          |       | Joseph    | Nöth        | 23.004.1861 | 23.005.1905 |   |
+|           |          |       | Gregor    | Nöth        | 17.007.1893 | 14.010.1918 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-6-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Konrad Gehrling
+* 18.2.1889   ✝ 20.9.1951
+Rosa Gehrling
+* 13.9.1888   ✝ 8.11.1984
+Alfred Knabe
+*  1.3.1908   ✝ 19.10.1990
+Heino Knabe
+* 20.11.1910   ✝ 11.2.1986
+Joseph Huber
+* 10.6.1915   ✝ 21.8.2008
+Luzia Knabe
+* 27.2.1919   ✝ 14.9.2013
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9661.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Konrad   | Gehrling    | 18.002.1889 | 20.009.1951 |   |
+|           |          |       | Rosa     | Gehrling    | 13.009.1888 | 08.011.1984 |   |
+|           |          |       | Alfred   | Knabe       | 01.003.1908 | 19.010.1990 |   |
+|           |          |       | Heino    | Knabe       | 20.011.1910 | 11.002.1986 |   |
+|           |          |       | Joseph   | Huber       | 10.006.1915 | 21.008.2008 |   |
+|           |          |       | Luzia    | Knabe       | 27.002.1919 | 14.009.2013 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+ANDREAS MÜLLER
+15.10.1870  -  22.3.1920
+IDA MÜLLER
+21.12.1882  -  2.8.1970
+JOSEF MÜLLER
+30.10.1914  ✠  1.7.1943
+ANGELUS MÜLLER
+12.5.1917  ✠  17.11.1941
+THERESIA MÜLLER
+14.10.1919  -  1.3.2015
+JOSEF STAMM
+3.4.1905  -  2.12.1970
+ANGELINA STAMM
+29.9.1912  -  1.1.2002
+
+16.8.1894  KILIAN STAMM  3.2.1956
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9662.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "69 Hausen"
+69 Hausen
+Andreas Müller
+15.10.1870 - 22.3.1920
+Ida Müller
+21.12.1882 - 2.8.1970
+Josef Müller
+30.10.1914 (ic) 1.7.1943
+Angelus Müller
+12.5.1917 (ic) 17.11.1941
+Josef Stamm
+3.4.1905  2.12.1970
+16.8.1894 Kilian Stamm 3.2.1956
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Andreas  | Müller      | 15.010.1870 | 22.003.1920 |   |
+|           |          |       | Ida      | Müller      | 21.012.1882 | 02.008.1970 |   |
+|           |          |       | Josef    | Müller      | 30.010.1914 | 01.007.1943 |   |
+|           |          |       | Angelus  | Müller      | 12.005.1917 | 17.011.1941 |   |
+|           |          |       | Theresia | Müller      | 14.010.1919 | 01.003.2015 |   |
+|           |          |       | Josef    | Stamm       | 03.004.1905 | 02.012.1970 |   |
+|           |          |       | Angelina | Stamm       | 29.009.1912 | 01.001.2002 |   |
+|           |          |       | Kilian   | Stamm       | 16.008.1894 | 03.002.1956 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+CHRISTUS IST MEIN LEBEN
+hier ruht in frieden
+
+Hermann Weidner
+* 17.2.1913 - 19.5.1998 ✝
+Lydia Weidner
+* 16.3.1923 - 2.6.2001 ✝
+Anna Weidner
+geb. Schürger
+* 28.1.1903 - 10.12.1949 ✝
+Georg u. Gerhard
+Schürger
+
+Auf Widersehen!
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9663.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Hermann  | Weidner     | 17.002.1913 | 19.005.1998 |   |
+|           |          |       | Lydia    | Weidner     | 16.003.1923 | 02.006.2001 |   |
+|           |          |       | Anna     | Weidner     | 28.001.1903 | 10.012.1949 |   |
+|           |          |       | Anna     | Schürger    | 28.001.1903 | 10.012.1949 | b |
+|           |          |       | Georg    | Schürger    |             |             |   |
+|           |          |       | Gerhard  | Schürger    |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FRANK
+
+GERTRUD      1878 - 1923
+HILDEGARD    1895 - 1953
+ERHARD       1878 - 1964
+FRANZ        1931 - 2003
+FRANZ        1965 - 2008
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9664.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "71 Hausen"
+71 Hausen
+Frank
+Gertrud    1878 - 1923
+Hildegard  1895 - 1953
+Erhard     1878 - 1964
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Gertrud   | Frank       |        1878 |        1923 |   |
+|           |          |       | Hildegard | Frank       |        1895 |        1953 |   |
+|           |          |       | Erhard    | Frank       |        1878 |        1964 |   |
+|           |          |       | Franz     | Frank       |        1931 |        2003 |   |
+|           |          |       | Franz     | Frank       |        1965 |        2008 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FRANZ FRANK
+* 15.6.1871  ✝ 11.2.1962
+CHRISTINE FRANK
+GEB. SIEGLER
+* 24.7.1873  ✝ 29.1.1953
+✠ HERMANN FRANK
+* 10.4.1819 VERM, JAN 1943
+VALENTIN FRANK
+* 24.9.1903  ✝13.5.1970
+ROSALIE FRANK
+GEB. OTTER
+* 1.2.1911  ✝ 5.11.1975
+
+EIN HERZ STEHT STILL WENN GOTT ES WILL!
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9665.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "72 Hausen"
+72 Hausen
+Franz Frank  
+15.6.1871  11.2.1962
+Christine Frank geb Siegler
+24.7.1873  29.1.1953
+(ic) Hermann Frank
+10.4.1910 verm. Jan. 1943
+Valentin Frank
+24.9.1903  13.5.1970
+Rosalie Frank
+geb Otter
+1.2.1911  5.11.1975
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Franz     | Frank       | 15.006.1871 | 11.002.1962 |   |
+|           |          |       | Christine | Frank       | 24.007.1873 | 29.001.1953 |   |
+|           |          |       | Christine | Siegler     | 24.007.1873 | 29.001.1953 | b |
+|           |          |       | Hermann   | Frank       | 10.004.1819 | 00.001 1943 |   |
+|           |          |       | Valentin  | Frank       | 24.009.1903 | 13.005.1970 |   |
+|           |          |       | Rosalie   | Frank       | 01.002.1911 | 05.011.1975 |   |
+|           |          |       | Rosalie   | Otter       | 01.002.1911 | 05.011.1975 | b |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+JOSEF GEHRLING
+4.8.1920  -  15.3.1970
+ROSA GEHRLING
+23.9.1919  -  23.10.2014
+►wooden cross◄
+Theo Stamm
+06.03.1922 - 24.02.2017
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9666.JPG
+file://./Images_2018/IMG_9676.JPG
+===Notes:
+Plot has a stone grave marker and a wooden cross.
+photo IMG_9676.JPG shows the ston ein the background.
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josef    | Gehrling    | 04.008.1920 | 15.003.1970 |   |
+|           |          |       | Rosa     | Gehrling    | 23.009.1919 | 23.010.2014 |   |
+|           |          |       | Theo     | Stamm       | 06.003.1922 | 24.002.2017 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruhen in Gottes Frieden
+
+►left◄
+Anna Maria Stamm
+geb. Mehling
+* 17.10.1857  ✝ 10.2.1912
+
+Josef Stamm
+* 23.4.1859  ✝ 1.10.1936
+
+►right◄
+Bruno Stamm
+*30.8.1888  ✝ 25.11.1951
+
+Rosa Stamm
+* 20.1.1892  ✝ 10.2.1983
+
+►bottom◄
+unser liebes kind  Rudolf
+* 24.3.1964  ✝ 5.7.1965
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 3
+file://./Images_2018/IMG_9667.JPG
+file://./Images_2018/IMG_9668.JPG
+file://./Images_2018/IMG_9670.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "74 Hausen"
+74 Hausen
+Anna Maria Stamm geb. Mehling
+17.10.1857  10.2.1912
+Josef Stamm
+23.4.1859  1.10.1936
+Bruno Stamm
+30.8.1888  25.11.1951
+Rosa Stamm
+20.1.1892  10.2.1983
+unser lb. kind
+Rudolf  24.3.1964 - 5.7.1965
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN         | LN          | b           | d           | T |
+|-----------|----------|-------|------------|-------------|-------------|-------------|---|
+|           |          |       | Anna Maria | Stamm       | 17.010.1857 | 10.002.1912 |   |
+|           |          |       | Anna Maria | Mehling     | 17.010.1857 | 10.002.1912 | b |
+|           |          |       | Josef      | Stamm       | 23.004.1859 | 01.010.1936 |   |
+|           |          |       | Bruno      | Stamm       | 30.008.1888 | 25.011.1951 |   |
+|           |          |       | Rosa       | Stamm       | 20.001.1892 | 10.002.1983 |   |
+|           |          |       | Rudolf     | Stamm       | 24.003.1964 | 05.007.1965 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+ANGELINA WOLF
+GEB. HOCK
+* 22.6.1895  ✝ 25.3.1963
+OKSAR WOLF
+* 17.9.1894  ✝ 4.6.1969
+JOSEF WOLF
+* 24.8.1924  ✝ 4.1.1925
+HEDWIG HASSE
+GEB WOLF
+* 15.2.1921  ✝ 13.4.1994
+WALTER HAASE
+* 6.9.1919  ✝ 5.8.1995
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9669.JPG
+file://./Images_2018/IMG_9671.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "75 Hausen"
+75  Hausen
+Angelina Wolf geb. Hock
+22.6.1895  25.3.1963
+Josef Wolf
+24.8.1924  4.1.1925
+Hedwig Haase geb. Wolf
+15.2.1921  13.4.1994
+Oskar Wolf
+17.9.1894  4.6.1969
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Angelina | Wolf        | 22.006.1895 | 25.003.1963 |   |
+|           |          |       | Angelina | Hock        | 22.006.1895 | 25.003.1963 | b |
+|           |          |       | Oksar    | Wolf        | 17.009.1894 | 04.006.1969 |   |
+|           |          |       | Josef    | Wolf        | 24.008.1924 | 04.001.1925 |   |
+|           |          |       | Hedwig   | Hasse       | 15.002.1921 | 13.004.1994 |   |
+|           |          |       | Hedwig   | Wolf        | 15.002.1921 | 13.004.1994 | b |
+|           |          |       | Walter   | Haase       | 06.009.1919 | 05.008.1995 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-5-11     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruhen in Gott
+
+Karl Amend
+* 19.9.1915  ✝ 8.3.1986
+Klara Amend
+* 4.1.1921  ✝ 17.5.2008
+Linus Amend
+* 25.11.1879  ✝ 8.8.1936
+Rosa Amend
+* 9.6.1886  ✝ 25.1.1978
+
+Kaspar Schäb
+* 1877   ✝ 1913
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9672.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "76 Hausen"
+76 Hausen
+Karl Amend  19.9.1915  8.3.1986
+Linus Amend  25.11.1879  8.8.1936
+Rosa Amend  9.6.1886  25.1.1978
+Kaspar Schäb
+1877 - 1913
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Amend       | 19.009.1915 | 08.003.1986 |   |
+|           |          |       | Klara    | Amend       | 04.001.1921 | 17.005.2008 |   |
+|           |          |       | Linus    | Amend       | 25.011.1879 | 08.008.1936 |   |
+|           |          |       | Rosa     | Amend       | 09.006.1886 | 25.001.1978 |   |
+|           |          |       | Kaspar   | Schäb       |        1877 |        1913 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-10     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MARSCHALL
+
+ANNELIESE  
+* 28.2.1926
+✝ 14.9.2002
+ROMAN
+* 2.6.1925
+✝ 27.12.2013
+
+KONRAD; JOHANNA u. RUD ►??◄
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9673.JPG
+file://./Images_2018/IMG_9674.JPG
+===Notes:
+Names in common KONRAD; JOHANNAMARSCHALL. New stone.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Familie Konrad Marschall
+Konrad Marschall
+1886 - 1953
+Johanna Marschall
+1887 - 1973
+
+►perhaps others. worn out stone.◄ 
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "68 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Anneliese | Marschall   | 28.002.1926 | 14.009.2002 |   |
+|           |          |       | Roman     | Marschall   | 02.006.1925 | 27.012.2013 |   |
+|           |          |       | Konrad    | Marschall   |             |             |   |
+|           |          |       | Johanna   | Marschall   |             |             |   |
+|           |          |       | Rud►??◄   | Marschall   |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruhen in gott
+
+Walburga Stamm
+* 26.1.1914  ✝ 19.1.1966
+Karl Stamm
+Altbürgermeister
+* 28.11.1907  ✝ 7.9.1992
+Emma Stamm
+* 9.4.1910  ✝ 28.2.2000
+Rosalia Stamm
+* 4.9.1878  ✝ 22.3.1948
+Eusebius Stamm
+* 23.12.1872  ✝ 21.1.1958
+Ottilie Stamm
+* 19.12.1943  ✝ 6.12.2006
+Winfried Stamm
+* 22.11.1941  ✝ 22.6.2017
+
+RUHESTÄTTE DER FAMILIE STAMM
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9675.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "67 Hausen"
+67 Hausen
+Walburga Stamm
+26.1.1914  19.1.1966
+Karl Stamm
+Altbürgermeister
+28.11.1907  7.9.1992
+Rosalia Stamm
+4.9.1878  22.3.1948
+Eusebius Stamm
+23.12.1872  21.1.1958
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Walburga | Stamm       | 26.001.1914 | 19.001.1966 |   |
+|           |          |       | Karl     | Stamm       | 28.011.1907 | 07.009.1992 |   |
+|           |          |       | Emma     | Stamm       | 09.004.1910 | 28.002.2000 |   |
+|           |          |       | Rosalia  | Stamm       | 04.009.1878 | 22.003.1948 |   |
+|           |          |       | Eusebius | Stamm       | 23.012.1872 | 21.001.1958 |   |
+|           |          |       | Ottilie  | Stamm       | 19.012.1943 | 06.012.2006 |   |
+|           |          |       | Winfried | Stamm       | 22.011.1941 | 22.006.2017 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+IN FRIEDEN RUHEN
+
+EUSEBIUS ROTH
+* 15.12.1867  -  23.6.1949 ✝
+KATHARINA ROTH
+GEB. EBERT
+* 8.5.1870  -  6.10.1938 ✝
+MARIA ROTH
+* 30 .6.1894  -  10.7.1966 ✝
+HEDWIG ROTH
+* 30.4.1908  -  23.10.1988 ✝
+LUIZA HÖFLING
+GEB. ROTH
+* 6.4.1912  -  10.2.1994 ✝
+KONRAD HÖFLING
+* 15.11.1913  -  17.5.1995 ✝
+
+✠
+ZUM GEDENKEN AN
+JOSEF ROTH
+* 22.2.1904  VERM, JUNI 1944
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9676.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "66 Hausen"
+66 Hausen
+Eusebius Roth
+15.12.1867  23.6.1949
+Katharina Roth
+Geb Ebert
+8.5.1870  6.10.1938
+Maria Roth
+30.6.1894  10.7.1966
+Hedwig Roth
+30.4.1908  23.10.1988
+Luzia Höfling
+geb. Roth
+6.4.1912  10.2.1944
+Zum Gedenken
+Josef Roth
+22.2.1904  verm. Jun 1944
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Eusebius  | Roth        | 15.012.1867 | 23.006.1949 |   |
+|           |          |       | Katharina | Roth        | 08.005.1870 | 06.010.1938 |   |
+|           |          |       | Katharina | Ebert       | 08.005.1870 | 06.010.1938 | b |
+|           |          |       | Maria     | Roth        | 30.006.1894 | 10.007.1966 |   |
+|           |          |       | Hedwig    | Roth        | 30.004.1908 | 23.010.1988 |   |
+|           |          |       | Luiza     | Höfling     | 06.004.1912 | 10.002.1994 |   |
+|           |          |       | Luiza     | Roth        | 06.004.1912 | 10.002.1994 | b |
+|           |          |       | Konrad    | Höfling     | 15.011.1913 | 17.005.1995 |   |
+|           |          |       | Josef     | Roth        | 22.002.1904 |    006.1944 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+GÜNTHER WEINER
+* 14.9.1925  ✝ 23.11.1988
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9677.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "65 Hausen"
+65 Hausen
+Günther Weiner
+14.9.1935  23.11.1988
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Günther  | Weiner      | 14.009.1925 | 23.011.1988 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HIER RUHEN IN GOTT
+
+FERDINAND KNOPP
+* 12.9.1888
+✝ 8.3.1963
+SUSANNE KNOPP
+* 8.10.1895
+✝ 4.7.1986
+ERIKA WOLF
+* 1.3.1924
+✝ 8.5.2009
+
+RUHET IN FRIEDEN
+
+►wooden cross◄
+Erika Wolf
+geb Knopp
+* 1. Marz 1924
+✝ 8. Mai 2009
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9678.JPG
+file://./Images_2018/IMG_9679.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "64 Hausen"
+64 Hausen
+Ferdinand Knopp
+12.9.1888  8.3.1963
+Susanne Knopp
+8.10.1895  4.7.1986
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Ferdinand | Knopp       | 12.009.1888 | 08.003.1963 |   |
+|           |          |       | Susanne   | Knopp       | 08.010.1895 | 04.007.1986 |   |
+|           |          |       | Erika     | Wolf        | 01.003.1924 | 08.005.2009 |   |
+|           |          |       | Erika     | Knopp       | 01.003.1924 | 08.005.2009 | b |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+RUDI WERTHMANN
+* 26.4.1924  ✝ 18.11.1965
+GITTI WERTHMANN
+* 3.7.1928  ✝ 20.9.1999
+FRIEDRICH GOLD
+GASTWIRT
+* 17.7.1896  ✝ 16.3.1965
+FRANZISKA GOLD
+GEB. KOHLMANN
+* 2.8.1899  ✝ 28.1.1976
+RICHARD STAMM
+* 15.10.1918  ✝ 19.12.1983
+ELSIE STAMM
+* 12.4.1925  ✝ 13.2.1993
+
+RIP
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9680.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "63 Hausen"
+63 Hausen
+Rudi Werthmann
+26.4.1924   18.11.1965
+Fredrich Gold
+Gastwirt
+17.7.1896  16.3.1965
+Franziska Gold
+Geb Kohlmann
+2.8.1899  28.1.1976
+Richard Stamm
+15.10.1918  19.12.1983
+Elise Stamm
+12.4.1925  13.2.1993
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Rudi      | Werthmann   | 26.004.1924 | 18.011.1965 |   |
+|           |          |       | Gitti     | Werthmann   | 03.007.1928 | 20.009.1999 |   |
+|           |          |       | Friedrich | Gold        | 17.007.1896 | 16.003.1965 |   |
+|           |          |       | Franziska | Gold        | 02.008.1899 | 28.001.1976 |   |
+|           |          |       | Franziska | Kohlmann    | 02.008.1899 | 28.001.1976 | b |
+|           |          |       | Richard   | Stamm       | 15.010.1918 | 19.012.1983 |   |
+|           |          |       | Elsie     | Stamm       | 12.004.1925 | 13.002.1993 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-4-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Familie Hock
+
+FRANZ    7.11.1891  -  11.6.1969
+ANNA     25.3.1895  -  6.11.1979
+JOSEF     9.6.1923  ✠  21.6.1944
+PETER    2.11.1958  -  28.8.1980
+HILDE     9.2.1931  -   8.2.2013
+KARL    14.10.1927  -  16.9.2013
+
+Unvergessen !
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9681.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "62 Hausen"
+62 Hausen
+Familie Hock
+Franz  7.11.1891  11.6.1969
+Anna   25.3.1895  6.11.1979
+Josef  9.6.1923 (ic) 21.6.1944
+Peter  2.11.1958  28.8.1980
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Franz    | Hock        | 07.011.1891 | 11.006.1969 |   |
+|           |          |       | Anna     | Hock        | 25.003.1895 | 06.011.1979 |   |
+|           |          |       | Josef    | Hock        | 09.006.1923 | 21.006.1944 |   |
+|           |          |       | Peter    | Hock        | 02.011.1958 | 28.008.1980 |   |
+|           |          |       | Hilde    | Hock        | 09.002.1931 | 08.002.2013 |   |
+|           |          |       | Karl     | Hock        | 14.010.1927 | 16.009.2013 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HOCK
+MARTIN   1974 - 1979
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9682.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "55 Hausen"
+55 Hausen
+Hock
+Martin  1974 - 1979
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Hock     | Martin      |        1974 |        1979 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-02     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HERMANN HOCK
+REISE U. OMNIBUSUNTERNEHMER
+* 27.9.1921  ✝ 21.8.2004
+
+IRENE HOCK
+* 3.5.1925  ✝ 10.10.2012
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9683.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Hermann  | Hock        | 27.009.1921 | 21.008.2004 |   |
+|           |          |       | Irene    | Hock        | 03.005.1925 | 10.010.2012 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+elisabeth hartmann
+* 7.7.1906  ✝ 2.4.1986
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9684.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "56 Hausen"
+56 Hausen
+Elisabeth Hartmann
+7.7.1906  2.4.1986
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Elisabeth | Hartmann    | 07.007.1906 | 02.004.1986 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-04     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FRANK
+
+JOSEF   * 11.11.1901  ✝ 1.8.1981
+IDA      * 17.4.1909  ✝ 17.8.1990
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9685.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "57 Hausen"
+57 Hausen
+Frank
+Josef   11.11.1901  1.8.1981
+Ida     17.4.1909  17.8.1990
+
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josef    | Frank       | 11.011.1901 | 01.008.1981 |   |
+|           |          |       | Ida      | Frank       | 17.004.1909 | 17.008.1990 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Gertrud Weiner
+1912  -  2006
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9686.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Gertrud  | Weiner      |        1912 |        2006 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-06     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Christus ist mein Leben, sterben mein Gewinn!
+Unvegessen ruhen in Gott
+
+►left◄
+Rudolf Marschall
+* 8.6.1893  -  18.8.1951 ✝
+
+Lucia Marschall
+geb. Stamm
+* 27.10.1903  -  23.6.1978 ✝
+
+►right◄
+Theophil Marschall
+* 1.5.1850  -  21.10.1935 ✝
+
+Barbara Marschall
+geb. Väthbrückner
+* 4.12.1862  -  25.12.1910 ✝
+
+Frl. Maria Marschall
+* 22.4.1890  -  9.6.1916 ✝
+
+►bottom◄
+unsere lieben kinder, Josef, Anton u. Milli.
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9687.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "59 Hausen"
+59 Hausen
+Rudolf Marschall
+8.6.1893  18.8.1951
+Lucia Marschall
+geb. Stamm
+27.10.1903 - 23.6.1978
+Theophil Marschall
+1.5.1856  21.10.1935
+Barbara Marschall
+geb. Väthbrückner
+4.12.1862  25.12.1940
+Frl. Maria Marschall
+22.4.1890  9.6.1946
+unsere lieben Kinder
+Josef, Anton u. Willi
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN           | b           | d           | T |
+|-----------|----------|-------|----------|--------------|-------------|-------------|---|
+|           |          |       | Rudolf   | Marschall    | 08.006.1893 | 18.008.1951 |   |
+|           |          |       | Lucia    | Marschall    | 27.010.1903 | 23.006.1978 |   |
+|           |          |       | Lucia    | Stamm        | 27.010.1903 | 23.006.1978 | b |
+|           |          |       | Theophil | Marschall    | 01.005.1850 | 21.010.1935 |   |
+|           |          |       | Barbara  | Marschall    | 04.012.1862 | 25.012.1910 |   |
+|           |          |       | Barbara  | Väthbrückner | 04.012.1862 | 25.012.1910 | b |
+|           |          |       | Maria    | Marschall    | 22.004.1890 | 09.006.1916 |   |
+|           |          |       | Josef    | Marschall    |             |             |   |
+|           |          |       | Anton    | Marschall    |             |             |   |
+|           |          |       | Milli    | Marschall    |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FAMILIE GEBAUER
+
+JOSEFA     10.5.1886  -  18.6.1975
+BERNHARD   17.9.1913  ✠  14.1.1942
+ALOISA     27.4.1912  -  10.4.2006
+
+FAMILIE HILPERT
+
+WALTER     26.7.1929  -   5.1.1987
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9688.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "60 Hausen"
+60 Hausen
+Familie Gebauer
+Josefa  10.5.1886  18.6.1975
+Bernhard 17.9.1913 (ic) 14.1.1942
+Familie Hilpert
+Walter  26.7.1929  5.1.1987
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Josefa   | Gebauer     | 10.005.1886 | 18.006.1975 |   |
+|           |          |       | Bernhard | Gebauer     | 17.009.1913 | 14.001.1942 |   |
+|           |          |       | Aloisa   | Gebauer     | 27.004.1912 | 10.004.2006 |   |
+|           |          |       | Walter   | Hilpert     | 26.007.1929 | 05.001.1987 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-3-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+valentin schumann
+* 6.9.1883  ✝ 16.8.1961
+barbara schumann
+* 15.10.1883  ✝ 4.2.1965
+emil schumann
+* 3.4.1917   ✝ 9.9.1999
+
+emma schumann
+* 9.3.1924   ✝ 18.12.2004
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9689.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Valentin | Schumann    | 06.009.1883 | 16.008.1961 |   |
+|           |          |       | Barbara  | Schumann    | 15.010.1883 | 04.002.1965 |   |
+|           |          |       | Emil     | Schumann    | 03.004.1917 | 09.009.1999 |   |
+|           |          |       | Emma     | Schumann    | 09.003.1924 | 18.012.2004 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-10     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MÄCK
+
+HELGA
+* 16.5.1949
+✝ 8.10.1994
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9690.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "54 Hausen"
+54 Hausen
+Mäck
+Helga
+16.5.1949  8.10.1994
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Helga    | Mäck        | 16.005.1949 | 08.010.1994 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+BLUM
+
+PAULA   * 18.11.1925  ✝ 10.6.1992
+FRITZ   *  11.4.1925  ✝ 10.2.2012
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9691.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "53 Hausen"
+53 Hausen
+Blum
+Paula 18.11.1925
+      10.6.1992
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Paula    | Blum        | 18.011.1925 | 10.006.1992 |   |
+|           |          |       | Fritz    | Blum        | 11.004.1925 | 10.002.2012 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-08     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+WALLRAPP
+
+THERESIA GEB. VÄTHBRÜCKNER
+* 26.2.1922  ✝ 25.3.1986
+
+MAX U. AMANDA VÄTHBRÜCKNER
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9692.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "52 Hausen"
+52 Hausen
+Wallrapp
+Theresia geb. Väthbrückner
+26.2.1922  25.3.1986
+Max u. Amanda Väthbrückner
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN           | b           | d           | T |
+|-----------|----------|-------|----------|--------------|-------------|-------------|---|
+|           |          |       | Theresia | Wallrapp     | 26.002.1922 | 25.003.1986 |   |
+|           |          |       | Theresia | Väthbrückner | 26.002.1922 | 25.003.1986 | b |
+|           |          |       | Max      | Väthbrückner |             |             |   |
+|           |          |       | Amanda   | Väthbrückner |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+VÄTHBRÜCKNER
+
+JOSEF    * 1869  -  1956 ✝
+FRANZISKA   * 1869  -  1955 ✝
+AMALIE   * 1903  -  1975 ✝
+ERICH  * 1927  -  1970 ✝
+
+UNSER LB. KIND LEO
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9693.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "51 Hausen"
+51 Hausen
+Väthbrückner
+Josef     1869 - 1956
+Franziska 1869 - 1955
+Amalie    1903 - 1975
+Erich     1927 - 1980
+unser Lb. Kind Leo
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN           | b           | d           | T |
+|-----------|----------|-------|-----------|--------------|-------------|-------------|---|
+|           |          |       | Josef     | Väthbrückner |        1869 |        1956 |   |
+|           |          |       | Franziska | Väthbrückner |        1869 |        1955 |   |
+|           |          |       | Amalie    | Väthbrückner |        1903 |        1975 |   |
+|           |          |       | Erich     | Väthbrückner |        1927 |        1970 |   |
+|           |          |       | Leo       | Väthbrückner |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+SCHEINER
+
+BENEDIKT    1904  -  1986
+ANNA        1908  -  1998
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9694.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Benedikt | Scheiner    |        1904 |        1986 |   |
+|           |          |       | Anna     | Scheiner    |        1908 |        1998 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-04     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+HIER RUHEN IN FRIEDEN
+
+KARL RIEDMANN
+* 21.2.1904  ✝ 4.3.1986
+ROSA RIEDMANN
+* 6.2.1905  ✝ 16.2.1994
+AGNES URLAUB
+* 7.7.1936  ✝ 29.12.2013
+
+►??◄A u. BERNHARD AMEND
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9695.JPG
+===Notes:
+TODO  new photo   can't read all
+Added name Agnes.
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "49 Hausen"
+49 Hausen
+Karl Riedmann
+21.2.1904  4.3.1986
+Rosa Riedmann
+6.2.1905  16.2.1994
+Maria u. Bernhard Amend
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Riedmann    | 21.002.1904 | 04.003.1986 |   |
+|           |          |       | Rosa     | Riedmann    | 06.002.1905 | 16.002.1994 |   |
+|           |          |       | Agnes    | Urlaub      | 07.007.1936 | 29.012.2013 |   |
+|           |          |       |          | Amend       |             |             |   |
+|           |          |       | Bernhard | Amend       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-03     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+UNSERE MUTTER
+
+FANNY KROMER
+* 25.9.1906
+✝ 22.9.1986
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9696.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "48 Hausen"
+48 Hausen
+Fanny Kromer
+25.9.1906  22.9.1986
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Fanny    | Kromer      | 25.009.1906 | 22.009.1986 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-2-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Wunderling
+
+Ludwig
+* 18.10.1922  ✝ 1.8.2007
+Hilde
+* 30.11.1925  ✝ 25.7.2015
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9697.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Ludwig   | Wunderling  | 18.010.1922 | 01.008.2007 |   |
+|           |          |       | Hilde    | Wunderling  | 30.011.1925 | 25.007.2015 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-01     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MARTIN STAMM
+1898  -  1976
+MARIA STAMM
+1896  -  1984
+PAULA STAMM
+1924  -  1991
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9698.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "36 Hausen"
+36 Hausen
+Martin Stamm
+1898 - 1976
+Maria Stamm
+1896 - 1984
+Paula Stamm
+1924 - 1991
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Martin   | Stamm       |        1898 |        1976 |   |
+|           |          |       | Maria    | Stamm       |        1896 |        1984 |   |
+|           |          |       | Paula    | Stamm       |        1924 |        1991 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-03     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Handel
+
+August
+* 19.2.1926  ✝ 18.12.2012
+
+Scheiner u. Stamm
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9699.JPG
+===Notes:
+Names in common Scheiner u. Stamm
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Georg Adam Stamm
+3.3.1872  23.7.1929
+Emilie Stamm
+26.7.1873  15.2.1953
+Albin Scheiner
+28.12.1895
+12.2.1963
+Helene Scheiner
+17.8.1901
+29.12.1968
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "37 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | August   | Handel      | 19.002.1926 | 18.012.2012 |   |
+|           |          |       |          | Scheiner    |             |             |   |
+|           |          |       |          | Stamm       |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-05     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+FAMILIE SIEGLER
+HIER RUHEN IN GOTT
+
+JULIUS SIEGLER
+* 21.1.1896
+✝ 31.8.1951
+HILARIA SIEGLER
+* 11.5.1890
+✝ 25.1.1978
+
+R.I.P.
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9700.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "47 Hausen"
+47 Hausen
+Julius Siegler
+21.1.1896  31.8.1951
+Hilaria Siegler
+11.5.1890  25.1.1978
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Julius   | Siegler     | 21.001.1896 | 31.008.1951 |   |
+|           |          |       | Hilaria  | Siegler     | 11.005.1890 | 25.001.1978 |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-07     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+MARSCHALL
+
+OTTO
+27.12.1905  ✠  7.9.1944
+FRIEDA
+  5.5.1913  -  5.11.1998
+OTTO
+10.10.1936  -  24.4.2005
+
+MARTIN u. FRANZISKA
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9701.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "39 Hausen"
+39 Hausen
+Otto Marschall
+27.12.1905 (ic) 7.9.1944
+Martin u. Franziska Marschall
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Otto      | Marschall   | 27.012.1905 | 07.009.1944 |   |
+|           |          |       | Frieda    | Marschall   | 05.005.1913 | 05.011.1998 |   |
+|           |          |       | Otto      | Marschall   | 10.010.1936 | 24.004.2005 |   |
+|           |          |       | Martin    | Marschall   |             |             |   |
+|           |          |       | Franziska | Marschall   |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-08     Coord: []     Ort: "Hausen"     Stones: 2
+
+ ===Stone: 2
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+SCHEINER
+
+OTTILIE
+27.3.1932  -  7.12.1996
+ERWIN
+26.4.1922  -  4.1.2009
+
+AUGUST U. MONIKA
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 2
+file://./Images_2018/IMG_9702.JPG
+file://./Images_2018/IMG_9703.JPG
+===Notes:
+Names AUGUST U. MONIKA in common. New stone.
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+(ic)
+Johann Seufert
+16.9.1887  Gef. 14.11.1915
+August Scheiner
+21.2.1886  6.3.1962
+Rita Scheiner
+23.7.1925  29.8.1927
+Monika Scheiner
+Geb. Vorndran
+6.1.1886  2.11.1970
+Johann, Barbara u. Bernhard Vorndran
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "40 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Ottilie  | Scheiner    | 27.003.1932 | 07.012.1996 |   |
+|           |          |       | Erwin    | Scheiner    | 26.004.1922 | 04.001.2009 |   |
+|           |          |       | August   | Scheiner    |             |             |   |
+|           |          |       | Monika   | Scheiner    |             |             |   |
+
+=========================================================================DIV80==
+===PID: 2018-1-1-09     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Balbach
+
+Paul
+* 28.10.1916
+✝ 13.10.1978
+Meta
+* 6.1.1918
+✝ 16.12.2010
+
+Loschert
+
+Eduard
+* 21.8.1883
+✝ 24.9.1963
+Rosa
+* 10.3.1890
+✝ 1.8.1971
+Alois
+* 17.5.1937
+verm. 25.10.1943
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9704.JPG
+===Notes:
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "41 Hausen"
+41 Hausen
+Paul Balbach
+28.10.1916  13.10.1978
+TODO mystery - 2 1995 entries correspond to one 2018 entry
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "42 Hausen"
+42 Hausen
+Eduard Loschert
+21.8.1883  24.9.1963
+Rosa Loschert
+Geb. Keller
+10.3.1890  1.8.1971
+Alois Loschert
+17.5.1921  verm. 25.10.1943
+Kaspar u. Margarete Loschert
+TODO mystery - 2 1995 entries correspond to one 2018 entry
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Paul     | Balbach     | 28.010.1916 | 13.010.1978 |   |
+|           |          |       | Meta     | Balbach     | 06.001.1918 | 16.012.2010 |   |
+|           |          |       | Eduard   | Loschert    | 21.008.1883 | 24.009.1963 |   |
+|           |          |       | Rosa     | Loschert    | 10.003.1890 | 01.008.1971 |   |
+|           |          |       | Alois    | Loschert    | 17.005.1937 | 25.010.1943 |   |
+ 
+
+=========================================================================DIV80==
+===PID: 2018-1-1-10     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Knöferl
+
+Martin   * 13.1.1920  ✝ 8.4.2000
+Zenzi   * 25.9.1923   ✝ 9.7.2011
+
+Johann u. Anna Seufert
+-----------------------------------------------------DIV60--
+
+ ===Date: 2018
+ ===Photos: 1
+file://./Images_2018/IMG_9705.JPG
+===Notes:
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Martin   | Knöferl     | 13.001.1920 | 08.004.2000 |   |
+|           |          |       | Zenzi    | Knöferl     | 25.009.1923 | 09.007.2011 |   |
+|           |          |       | Johann   | Seufert     |             |             |   |
+|           |          |       | Anna     | Seufert     |             |             |   |
+
+=========================================================================DIV80==
+===PID: ??? 05    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Adam Stamm
+11.1.1826  26.5.1902
+
+Kath. Stamm
+geb. Dietz
+14.12.1825  1.10.1888
+
+Richard Stamm
+20.6.1898  29.7.1918
+Bei Armentieres
+
+Ferdinand Stamm
+24.5.1890  3.4.1963
+
+Juliane Stamm
+26.10.1892  3.1.1981
+
+Monika Stamm
+4.3.1915  10.4.1981
+
+Hermann Stamm
+10.8.1911  26.1.1989
+
+Eduard Stamm
+29.12.1861  25.3.1946
+
+Sab. Stamm
+geb. Geissler
+12.7.1865  9.7.1943
+
+Herrmann Stamm
+12.11.1891  20.11.1915
+bei Karvin
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "05 Hausen"
+
+===Interpretation:
+Kath. = Katarina
+Sab. = Sabine
+
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Adam      | Stamm       | 11 Jan 1826 | 26 May 1902 |   |
+|           |          |       |Katharina | Stamm       | 14 Dec 1825 | 01 Oct 1888 |   |
+|           |          |       |Katharina | Dietz       | 14 Dec 1825 | 01 Oct 1888 | b |
+|           |          |       |Richard   | Stamm       | 20 Jun 1898 | 29 Jul 1918 |   |
+|           |          |       |Ferdinand | Stamm       | 24 May 1890 | 03 Apr 1963 |   |
+|           |          |       |Juliane   | Stamm       | 26 Oct 1892 | 03 Jan 1981 |   |
+|           |          |       |Monika    | Stamm       | 04 Mar 1915 | 10 Apr 1981 |   |
+|           |          |       |Hermann   | Stamm       | 10 Aug 1911 | 26 Jan 1989 |   |
+|           |          |       |Eduard    | Stamm       | 29 Dec 1861 | 25 Mar 1946 |   |
+|           |          |       |Sabine    | Stamm       | 12 Jul 1865 | 09 Jul 1943 |   |
+|           |          |       |Sabine    | Geissler    | 12 Jul 1865 | 09 Jul 1943 | b |
+|           |          |       |Herrmann  | Stamm       | 12 Nov 1891 | 20 Nov 1915 |   |
+
+=========================================================================DIV80==
+===PID: ??? 13    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+13 Hausen
+Hier ruhet in Gott
+uns. Lieb. Eltern und Grosseltern
+Adam Vorndran
+29.4.1848  18.4.1928
+Josefa Vorndran
+geb. Rüth
+3.9.1852  11.5.1930
+Franz Vorndran
+11.3.1879  30.6.1964
+Regina Vorndran
+geb. Ziegler
+25.8.1894  10.5.1981
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "13 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |  Adam    |    Vorndran | 29.4.1848 | 18.4.1928 |   |
+|           |          |       |  Josefa  |    Vorndran | 03.9.1852 | 11.5.1930 |   |
+|           |          |       |  Josefa  |    Rüth     | 03.9.1852 | 11.5.1930 | b |
+|           |          |       |  Franz   |    Vorndran | 11.3.1879 | 30.6.1964 |   |
+|           |          |       |  Regina  |    Vorndran | 25.8.1894 | 10.5.1981 |   |
+|           |          |       |  Regina  |    Ziegler  | 25.8.1894 | 10.5.1981 | b |
+
+=========================================================================DIV80==
+===PID: ??? 13A    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Josefine Seufert
+geb. Walz
+22.6.1877 Kassel
+(d) 12.1.1927 dahier
+Edmund Seufert  [nephew of above]
+13.3.1930  26.9.1947
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "13A Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Josefine  | Seufert     | 22.6.1877 | 12.1.1927 |   |
+|           |          |       |Josefine  | Walz        | 22.6.1877 | 12.1.1927 | b |
+|           |          |       |Edmund    | Seufert     | 13.3.1930 | 26.9.1947 |   |
+
+=========================================================================DIV80==
+===PID: ??? 14    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Katharina Guth
+geb. Frank
+23.9.1883  31.3.1926
+Johann Guth
+21.7.1878  1.11.1957
+Alois Frank
+25.9.1905  5.19.1973
+Hedwig Frank
+9.6.1911  5.9.1985
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "14 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Katharina | Guth        | 23.9.1883 | 31.3.1926 |   |
+|           |          |       | Katharina | Frank       | 23.9.1883 | 31.3.1926 | b |
+|           |          |       | Johann    | Guth        | 21.7.1878 | 01.11.1957 |   |
+|           |          |       | Alois     | Frank       | 25.9.1905 | 05.19.1973 |   |
+|           |          |       | Hedwig    | Frank       | 09.6.1911 | 05.9.1985 |   |
+
+=========================================================================DIV80==
+===PID: ??? 15    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Burkard Gopp
+(b) 15.8.1883
+(d) 27.5.1966
+Priska Gopp
+7.5.1882
+21.12.1970
+Martin Gopp
+1919 verm. 1942
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "15 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |  Burkard | Gopp        | 15.8.1883 | 27.5.1966 |   |
+|           |          |       |  Priska  | Gopp        | 07.5.1882 | 21.12.1970 |   |
+|           |          |       |  Martin  | Gopp        |       1919 |       1942 |   |
+
+=========================================================================DIV80==
+===PID: ??? 16    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Johann Schüb
+1844  1924
+Katharina Schüb
+1845  1931
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "16 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Johann    | Schüb       |        1844 |        1924 |   |
+|           |          |       | Katharina | Schüb       |        1845 |        1931 |   |
+
+=========================================================================DIV80==
+===PID: ??? 19     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Theophil Marschall  1880 - 1954
+   Agnes Marschall  1885 - 1961
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "19 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Theophil | Marschall   |        1880 |        1954 |   |
+|           |          |       | Agnes    | Marschall   |        1885 |        1961 |   |
+
+=========================================================================DIV80==
+===PID: ??? 20     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Stamm
+Emil  1907 (ic) 1944
+Uhlenbrock
+Anton  1913 - 1983
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "20 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM          | FN       | LN          | b           | d           | T |
+|-----------|----------|-------------|----------|-------------|-------------|-------------|---|
+|           | LTVM-VTR |        1657 | Emil     | Stamm       |        1907 |        1944 |   |
+|           |          |             | Anton    | Uhlenbrock  |        1913 |        1983 |   |
+
+=========================================================================DIV80==
+===PID: ??? 21     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Martha Christ Riedmann
+29.5.61  Steinfeld - 5.12.20 Hausen
+Franz Riedmann
+25.11.1883  26.2.1955
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "21 Hausen"
+
+===Interpretation:
+29.5.61  Steinfeld - 5.12.20 Hausen = b 28 May 1861  Steinfeld  d 5 Dec 1920 Hausen
+
+===Table:
+| FG        | FS       | RM    | FN             | LN          | b           | d           | T |
+|-----------|----------|-------|----------------|-------------|-------------|-------------|---|
+|           |          |       | Martha Christ  | Riedmann    | 29.5.1861   | 05.12.1920 |   |
+|           |          |       | Franz          | Riedmann    | 25.11.1883  | 26.2.1955 |   |
+
+=========================================================================DIV80==
+===PID: ??? 25     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Berta Müller
+geb. Marschall
+2.5.1910  22.6.1950
+(ic)
+Zum gedenken an
+Gregor Müller
+4.8.1910 - 8.8.1941
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "25 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Berta    | Müller      | 02.5.1910 | 22.6.1950 |   |
+|           |          |       | Berta    | Marschall   | 02.5.1910 | 22.6.1950 | b |
+|           |          |       | Gregor   | Müller      | 04.8.1910 | 08.8.1941 |   |
+
+=========================================================================DIV80==
+===PID: ??? 26     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruhet in Gott
+Frau
+Dorothea Seufert
+1839 - 1918
+Herr
+Johann Seufert
+1898 - 1945
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "26 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Dorothea  |Seufert      |        1839 |        1918 |   |
+|           |          |       |Johann    |Seufert      |        1898 |        1945 |   |
+
+=========================================================================DIV80==
+===PID: ??? 27    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Otter
+Anna  1912 - 1981
+Albin 1906 - 1993
+Georg u. Ottilie
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "27 Hausen"
+
+===Interpretation:
+Georg u. Ottilie = Georg u. Ottilie Otter
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Anna     | Otter       |        1912 |        1981 |   |
+|           |          |       | Albin    | Otter       |        1906 |        1993 |   |
+|           |          |       | Georg    | Otter       |             |             |   |
+|           |          |       | Ottilie  | Otter       |             |             |   |
+
+=========================================================================DIV80==
+===PID: ??? 45    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Philipp  1897 - 1970
+Josefa   1898 - 1985
+Stamm
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "45 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Philipp   | Stamm       |        1897 |        1970 |   |
+|           |          |       |Josefa    | Stamm       |        1898 |        1985 |   |
+
+=========================================================================DIV80==
+===PID: ??? 82    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Alois Rüppel
+28.2.1881  6.1.1924
+Mathilde Rüppel Geb. Matreux
+27.6.1880  15.8.1946
+(ic) Hans Rüppel
+31.7.1911  verm. 13.8.1944
+(ic) Otto Rüppel
+21.8.1907 verm. 10.1.1943
+Hildegard Rüppel
+Geb. Stamm
+27.2.1910  30.9.1966
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "82 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Alois     | Rüppel      | 28.2.1881 |06.1.1924 |   |
+|           |          |       | Mathilde  | Matreux     | 27.6.1880 |15.8.1946 |   |
+|           |          |       | Mathilde  | Matreux     | 27.6.1880 |15.8.1946 | b |
+|           |          |       | Hans      | Rüppel      | 31.7.1911 |13.8.1944 |   |
+|           |          |       | Otto      | Rüppel      | 21.8.1907 |10.1.1943 |   |
+|           |          |       | Hildegard | Rüppel      | 27.2.1910 |30.9.1966 |   |
+|           |          |       | Hildegard | Stamm       | 27.2.1910 |30.9.1966 | b |
+
+=========================================================================DIV80==
+===PID: ??? 83    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Helga Stamm
+17 Jan. 1942
+3 Okt. 1994
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "83 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           | G7D1-MCQ |  1665 |Helga     |Stamm        |17 Jan 1942  | 03 Oct 1994 |   |
+
+=========================================================================DIV80==
+===PID: ??? 34    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+►Marble cross with no names◄
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "34 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |          | NULL        |             |             |   |
+
+=========================================================================DIV80==
+===PID: ??? 35    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+M.E. Schuhmann  1969
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "35 Hausen"
+
+===Interpretation:
+M.E. Schuhmann  1969 = M.E. Schuhmann  died in 1969
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | M.E.     | Schuhmann   |             |        1969 |   |
+
+=========================================================================DIV80==
+===PID: ??? 38    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Gertraud Siegler
+geb Ritter
+3.9.1869  1.9.1953
+Oskar Siegler
+Inh. Bundesverdienskreuzes
+(b) 18.12.1899
+(d) 6.11.1974
+Alois Siegler
+23.1.1865  26.11.1955
+Katharina Siegler
+geb. Marschall
+4.12.1901  25.10.1987
+Zum gedenken an unseren lieben Sohn
+(ic) Karl Siegler
+20.5.1924 vermisst April 1944 a.d. Krimm.
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "38 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Gertraud  | Siegler     | 03.9.1869  | 01.9.1953 |   |
+|           |          |       | Gertraud  | Ritter      | 03.9.1869  | 01.9.1953 | b |
+|           |          |       | Oskar     | Siegler     | 18.12.1899 | 06.11.1974 |   |
+|           |          |       | Alois     | Siegler     | 23.1.1865  | 26.11.1955 |   |
+|           |          |       | Katharina | Siegler     | 04.12.1901 | 25.10.1987 |   |
+|           |          |       | Katharina | Marschall   | 04.12.1901 | 25.10.1987 | b | 
+|           |          |       | Karl      | Siegler     | 20.5.1924  | Apr 1944 |   |
+
+=========================================================================DIV80==
+===PID: ??? 43    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Eva-Maria Bethge
+geb. Schmidt
+3.7.1915  1.4.1994
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "43 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Eva-Maria | Bethge      | 03 Jul 1915 | 01 Apr 1994 |   |
+|           |          |       |Eva-Maria | Schmidt     | 03 Jul 1915 | 01 Apr 1994 | b |
+
+=========================================================================DIV80==
+===PID: ??? 44    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Georg Seufert
+7.11.1869  28.5.1930
+Anna Seufert
+14.7.1901  5.10.1951
+
+Zur erinnerung
+Adm. Seufert     Karl Seufert
+(ic) 1917         1942 (ic)
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "44 Hausen"
+
+===Interpretation:
+Adm. Seufert  = Adam Seufert
+dates for Adm. and Karl are death dates
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Georg    | Seufert     | 07.11.1869   | 28.5.1930  |   |
+|           |          |       | Anna     | Seufert     | 14.7.1901    | 05.10.1951 |   |
+|           |          |       | Adam     | Seufert     |              |       1917 |   |
+|           |          |       | Karl     | Seufert     |              |       1942 |   |
+
+=========================================================================DIV80==
+===PID: ??? 46    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Karl Scheiner
+1903 - 1976
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "46 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Scheiner    |        1903 |        1976 |   |
+
+=========================================================================DIV80==
+===PID: ??? 06    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Bernhard Amend
+18.2.1892  28.10.1941
+Emma Amend
+Geb. Stamm
+6.1.1890  11.3.1957
+Walter Bienert
+17.11.1924  8.8.1979
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "06 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Bernhard | Amend       | 18.2.1892  | 28.10.1941 |   |
+|           |          |       | Emma     | Amend       | 06.1.1890  | 11.3.1957  |   |
+|           |          |       | Emma     | Stamm       | 06.1.1890  | 11.3.1957  | b | 
+|           |          |       | Walter   | Bienert     | 17.11.1924 | 08.8.1979  |   |
+
+
+=========================================================================DIV80==
+===PID: ??? 50    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Brigitte Scheiner
+geb. Lieblein
+27.5.1876  5.12.1944
+Franz Scheiner
+17.11.1874  14.8.1952
+Benedikt Scheiner
+1.12.1904  7.6.1968
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "50 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Brigitte | Scheiner    | 27.5.1876   | 05.12.1944 |   |
+|           |          |       | Brigitte | Lieblein    | 27.5.1876   | 05.12.1944 | b |
+|           |          |       | Franz    | Scheiner    | 17.11.1874  | 14.8.1952  |   |
+|           |          |       | Benedikt | Scheiner    | 01.12.1904  | 7.6.1968   |   |
+
+=========================================================================DIV80==
+===PID: ??? 58    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Gerling
+Michael
+22.11.1898  5.7.1983
+Mechthilde
+geb. Väthbrückner
+18.10.1898  26.9.1983
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "58 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN          | LN           | b           | d           | T |
+|-----------|----------|-------|-------------|--------------|-------------|-------------|---|
+|           |          |       | Michael     | Gerling      | 22.11.1898 | 05.7.1983 |   |
+|           |          |       | Mechthilde  | Gerling      | 18.10.1898 | 26.9.1983 |   |
+|           |          |       | Mechthilde  | Väthbrückner | 18.10.1898 | 26.9.1983 | b |
+
+=========================================================================DIV80==
+===PID: ??? 61    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Valentin Schuhmann
+6.9.1883  16.8.1961
+Barbara Schuhmann
+15.10.1883  4.9.1965
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "61 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS        | RM    | FN       | LN          | b           | d           | T |
+|-----------|-----------|-------|----------|-------------|-------------|-------------|---|
+|           |           |       | Valentin  | Schuhmann  | 06.9.1883  | 16.8.1961 |   ||
+|           |           |       | Barbara   | Schuhmann  | 15.10.1883 | 04.9.1965 |   ||
+
+=========================================================================DIV80==
+===PID: ??? 70    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Maria Weidner
+geb. Schürger
+28.1.1903  10.12.1949
+Georg u. Gertraud Schürger
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "70 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Maria    | Weidner     | 28.1.1903   | 10.12.1949  |   |
+|           |          |       | Maria    | Schürger    | 28.1.1903   | 10.12.1949  | b |
+|           |          |       | Georg    | Schürger    |             |            |   |
+|           |          |       | Gertraud | Schürger    |             |            |   |
+
+=========================================================================DIV80==
+===PID: ??? 73    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Herrmann
+Karl       1882 - 1940
+Margarete  1889 - 1982
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "73 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Karl      | Herrmann    |        1882 |        1940 |   |
+|           |          |       | Margarete | Herrmann    |        1889 |        1982 |   |
+
+=========================================================================DIV80==
+===PID: ??? 77    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Michael Gehrling
+Distriktsstrassen wärter
+11.Mar.1863 - 4.Marz.1941
+unser lb. Mutter Frau
+Luisa Gehrling
+geb Vorndran
+30.Okt.1868 - 4.Jan.1942
+Rosa Gehrling
+13.9.1888  8.11.1984
+Konrad Gehrling
+18.2.1889  20.9.1951
+Heino Knab
+20.11.1910  11.2.1986
+Alfred Knab
+1.3.1908  19.10.1990
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "77 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Michael  | Gehrling    | 11 Mar 1863 | 04 Mar 1941 |   |
+|           |          |       | Luisa    | Gehrling    | 30 Oct 1868 | 04 Jan 1942 |   |
+|           |          |       | Luisa    | Vorndran    | 30 Oct 1868 | 04 Jan 1942 | b |
+|           |          |       | Rosa     | Gehrling    | 13.9.1888   | 08.11.1984  |   |
+|           |          |       | Konrad   | Gehrling    | 18.2.1889   | 20.9.1951   |   |
+|           |          |       | Heino    | Knab        | 20.11.1910  | 11.2.1986   |   |
+|           |          |       | Alfred   | Knab        | 01.3.1908   | 19.10.1990  |   |
+
+=========================================================================DIV80==
+===PID: ??? 84    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Lydia Henkelmann
+5.1.1916  30.12.1985
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "84 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Lydia    | Henkelmann  | 05 Jan 1916 | 30 Dec 1985 |   |
+
+=========================================================================DIV80==
+===PID: ??? 85    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Inge Ferkinghoff
+geb. Feix
+2.7.1938  2.5.1973
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "85 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Inge     | Ferkinghoff | 02 Jul 1938 | 02 May 1973 |   |
+|           |          |       | Inge     | Feix        | 02 Jul 1938 | 02 May 1973 | b |
+
+=========================================================================DIV80==
+===PID: ??? 86    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Philomena Schuck
+geb. Kullmann
+18.11.1860  29.5.1902
+Anton Schuck
+Mühlenbesitzer
+27.10.1854  21.11.1924
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "86 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          | 16597 | Philomena | Schuck      | 18 Nov 1860 | 29 May 1902 |   |
+|           |          | 16597 | Philomena | Kullmann    | 18 Nov 1860 | 29 May 1902 | b |
+|           |          | 16596 | Anton     | Schuck      | 27 Oct 1854 | 21 Nov 1924 |   |
+
+=========================================================================DIV80==
+===PID: ??? 87    Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Karl Wolf
+27.1.1898  21.12.1972
+Klementine Wolf
+9.12.1896  1.3.1978
+und deren eltern
+Wilhelm u. Angelina Wolf
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: "87 Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN          | LN          | b           | d           | T |
+|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
+|           |          |       | Karl        | Wolf        | 27.1.1898   | 21.12.1972  |   |
+|           |          |       | Klementine  | Wolf        | 09.12.1896  | 01.3.1978   |   | 
+|           |          |       | Wilhelm     | Wolf        |             |             |   |
+|           |          |       | Angelina    | Wolf        |             |             |   |
+
+=========================================================================DIV80==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEMPLATE
+=========================================================================DIV80==
+===PID: ???     Coord: []     Ort: "Hausen"     Stones: 1
+
+ ===Stone: 1
+ ===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+-----------------------------------------------------DIV60--
+
+ ===Date: 1995
+ ===Photos: 0
+===Notes:
+From direct reading, photo lost.
+Recorded as: " Hausen"
+
+===Interpretation:
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+
+=========================================================================DIV80==
+
+
+
+
+
+
+
+
+
+
+
+
+SN Marker # FName LName geb Person
+ID BDate DDate
+1 H-01 Hilda Nöth  1699 1905-08-21 1980-07-18
+2 H-01 Alfons Nöth  1698 1901-08-15 1982-04-30
+3 H-01 Heinz Nöth  4503 1955-08-27 1956-03-31
+4 H-01 Valentin Stamm  1690  
+5 H-01 Elisabeth Stamm  1691  
+6 H-02 Anna Schuck  - 1898-06-15 1946-05-01
+7 H-02 Anna Schaub geb - 1898-06-15 1946-05-01
+8 H-02 Franz Schuck  - 1895-09-28 1967-04-23
+9 H-03 Josefine Vorndran  -  
+10 H-03 Ludwig Vorndran  -  
+11 H-03 Max Vorndran  -  
+12 H-03 Emile Vorndran  -  
+13 H-04 Vinzenz Stamm  - 1903 1961
+14 H-04 Emile Stamm  - 1908 1989
+15 H-04 Christine Stamm  -  
+16 H-04 Vinzenz Stamm  -  
+17 H-05 Adam Stamm  - 1826-01-11 1902-05-26
+18 H-05 Kath. Stamm  - 1825-12-14 1888-10-01
+19 H-05 Kath. Dietz geb - 1825-12-14 1888-10-01
+20 H-05 Richard Stamm  - 1898-06-20 1918-07-29
+21 H-05 Ferdinand Stamm  - 1890-05-24 1963-04-03
+22 H-05 Juliane Stamm  - 1892-10-26 1981-01-03
+23 H-05 Monika Stamm  - 1915-03-04 1981-04-10
+24 H-05 Hermann Stamm  - 1911-08-10 1989-01-26
+25 H-05 Eduard Stamm  - 1861-12-29 1946-03-25
+26 H-05 Sab. Stamm  - 1865-07-12 1943-07-09
+27 H-05 Sab. Geissler geb - 1865-07-12 1943-07-09
+28 H-05 Herrmann Stamm  - 1891-11-12 1915-11-20
+29 H-06 Bernhard Amend  - 1892-02-18 1941-10-28
+30 H-06 Emma Amend  - 1890-01-06 1957-03-11
+31 H-06 Emma Stamm geb - 1890-01-06 1957-03-11
+32 H-06 Walter Bienert  - 1924-11-17 1979-08-08
+33 H-07 Andr. Stamm  47  
+34 H-07 Josefa Stamm  404 1864-09-03 1912-06-10
+35 H-07 Johann Stamm  405 1861-04-22 1931-12-07
+36 H-07 Josef Stamm  411 1895-03-19 1972-11-27
+37 H-07 Gertraud Stamm  423 1899-04-08 1985-01-19
+38 H-07 Maria Stamm  1741 1934-09-04 1946-05-20
+39 H-08 Adolf Staub  - 1899-02-28 1945-12-09
+40 H-08 Elise Staub  - 1900-08-05 1990-07-15
+41 H-09 Karl Gehrling  - 1892-02-15 1937-01-13
+42 H-09 Eugene Gehrling  - 1894-11-24 1947-11-15
+43 H-09 Eugene Nöth geb - 1894-11-24 1947-11-15
+44 H-09 Alois Marschall  - 1904-06-13 1981-07-11
+45 H-09 Emma Marschall  - 1914-09-11 1990-10-13
+46 H-09 Emma Gehrling geb - 1914-09-11 1990-10-13
+47 H-09 Willi Gehrling  - 1918-02-28 1943-07-15
+48 H-10 August Marschall  - 1895-09-25 1968-09-10
+49 H-10 Rosa Marschall  - 1899-03-28 1981-09-10
+50 H-10 Edmund Marschall  -  
+51 H-10 Franziska Marschall  -  
+52 H-11 Klaus Reimer  - 1940 1984
+53 H-11 Marleen Reimer  - 1991 1992
+54 H-12 Gregor Stamm  - 1889 1965
+55 H-12 Luzia Stamm  - 1896 1985
+56 H-13 Adam Vorndran  - 1848-04-29 1928-04-18
+57 H-13 Josefa Vorndran  - 1852-09-03 1930-05-11
+58 H-13 Josefa Rüth geb - 1852-09-03 1930-05-11
+59 H-13 Franz Vorndran  - 1879-03-11 1964-06-30
+60 H-13 Regina Vorndran  - 1894-08-25 1981-05-10
+61 H-13 Regina Ziegler geb - 1894-08-25 1981-05-10
+62 H-13A Josefine Seufert  - 1877-06-22 1927-01-12
+63 H-13A Josefine Walz geb - 1877-06-22 1927-01-12
+64 H-13A Edmund Seufert  - 1930-03-30 1947-09-26
+65 H-14 Katharina Guth  - 1883-09-23 1926-03-31
+66 H-14 Katharina Frank geb - 1883-09-23 1926-03-31
+67 H-14 Johann Guth  - 1878-07-21 1957-11-01
+68 H-14 Alois Frank  - 1905-09-25 1973-19-05
+69 H-14 Hedwig Frank  - 1911-06-09 1985-09-05
+70 H-15 Burkard Gopp  - 1883-08-15 1966-05-27
+71 H-15 Priska Gopp  - 1882-05-07 1970-12-21
+72 H-15 Martin Gopp  - 1919 1942
+73 H-16 Johann Schüb  - 1844 1924
+74 H-16 Katharina Schüb  - 1845 1931
+75 H-17 Ernst Frank  - 1911 1988
+76 H-17 Emma Frank  - 1920 1990
+77 H-18 Rosina Weber  - 1890 1975
+78 H-19 Theophil Marschall  - 1880 1954
+79 H-19 Agnes Marschall  - 1885 1961
+80 H-20 Emil Stamm  1694 1907 1944
+81 H-20 Anton Uhlenbrock  - 1913 1983
+82 H-21 Martha Christ Riedmann  - 1861-05-29 1920-12-05
+83 H-21 Franz Riedmann  - 1883-11-25 1955-02-26
+84 H-22 Vinzenz Röder  - 1889-09-22 1949-05-23
+85 H-22 Margarethe Röder  - 1900-08-19 1981-04-16
+86 H-22 Margarethe Petermann geb - 1900-08-19 1981-04-16
+87 H-22 Gottfried Röder  - 1844-08-08 1912-02-09
+88 H-22 Sabine Röder  - 1845-10-18 1920-09-11
+89 H-22 Sabine Albert geb - 1845-10-18 1920-09-11
+90 H-22 Barbara Röder  -  
+91 H-22 Michael Röder  -  
+92 H-23 Venanz Eich  - 1874-05-17 1922-03-22
+93 H-23 Anna Eich  - 1874-07-27 1951-02-28
+94 H-23 Anna Wüst geb - 1874-07-27 1951-02-28
+95 H-23 FRL. Barbara Eich  - 1913-05-05 1948-08-18
+96 H-23 Michael Eich  - 1902-05-05 1964-07-28
+97 H-23 Maria Eich  - 1901-01-02 1979-05-01
+98 H-24 Karl Weber  - 1882 1939
+99 H-24 Monika Weber  - 1895 1974
+100 H-24 Nadine Werthmann  - 1975 1975
+101 H-25 Berta Müller  - 1910-05-02 1950-06-22
+102 H-25 Berta Marschall geb - 1910-05-02 1950-06-22
+103 H-25 Gregor Müller  - 1910-08-04 1941-08-08
+104 H-26 Dorothea Seufert  - 1839 1918
+105 H-26 Johann Seufert  - 1898 1945
+106 H-27 Anna Otter  - 1912 1981
+107 H-27 Albin Otter  - 1906 1993
+108 H-27 Georg Otter  -  
+109 H-27 Ottilie Otter  -  
+110 H-36 Martin Stamm  - 1898 1976
+111 H-36 Maria Stamm  - 1896 1984
+112 H-36 Paula Stamm  - 1924 1991
+113 H-37 Georg Adam Stamm  - 1872-03-03 1929-07-23
+114 H-37 Emilie Stamm  - 1873-07-26 1953-02-15
+115 H-37 Albin Scheiner  - 1895-12-28 1963-02-12
+116 H-37 Helene Scheiner  - 1901-08-17 1968-12-29
+117 H-45 Philipp Stamm  - 1897 1970
+118 H-45 Josefa Stamm  - 1898 1985
+119 H-63 Rudi Werthmann  - 1924-04-26 1965-11-18
+120 H-63 Fredrich Gold  - 1896-07-17 1965-03-16
+121 H-63 Franziska Gold  - 1899-08-02 1976-01-28
+122 H-63 Franziska Kohlmann geb - 1899-08-02 1976-01-28
+123 H-63 Richard Stamm  - 1918-10-15 1983-12-19
+124 H-63 Elise Stamm  - 1925-04-12 1993-02-13
+125 H-67 Walburga Stamm  - 1914-01-26 1966-01-19
+126 H-67 Karl Stamm  - 1907-11-28 1992-09-07
+127 H-67 Rosalia Stamm  - 1878-09-04 1948-03-22
+128 H-67 Eusebius Stamm  - 1872-12-23 1958-01-21
+129 H-69 Andreas Müller  - 1870-10-15 1920-03-22
+130 H-69 Ida Müller  - 1882-12-21 1970-08-02
+131 H-69 Josef Müller  - 1914-10-30 1943-07-01
+132 H-69 Angelus Müller  - 1917-05-12 1941-11-17
+133 H-69 Josef Stamm  - 1905-04-03 1970-12-02
+134 H-69 Kilian Stamm  - 1894-08-16 1956-02-03
+135 H-72 Franz Frank  - 1871-06-15 1962-02-11
+136 H-72 Christine Frank  - 1873-07-24 1953-01-29
+137 H-72 Christine Siegler geb - 1873-07-24 1953-01-29
+138 H-72 Hermann Frank  - 1910-04-10 1943-01
+139 H-72 Valentin Frank  - 1903-09-24 1970-05-13
+140 H-72 Rosalie Frank  - 1911-02-01 1975-11-05
+141 H-72 Rosalie Otter geb - 1911-02-01 1975-11-05
+142 H-82 Alois Rüppel  - 1881-02-28 1924-01-06
+143 H-82 Mathilde Rüppel  - 1880-06-27 1946-08-15
+144 H-82 Mathilde Matreux geb - 1880-06-27 1946-08-15
+145 H-82 Hans Rüppel  - 1911-07-31 1944-08-13
+146 H-82 Otto Rüppel  - 1907-08-21 1943-01-10
+147 H-82 Hildegard Rüppel  - 1910-02-27 1966-09-30
+148 H-82 Hildegard Stamm geb - 1910-02-27 1966-09-30
+149 H-83 Helga Stamm  - 1942-01-17 1994-10-03
+150 H-89 Hildegard Marschall  - 1908-06-05 1962-08-15
+151 H-89 Hildegard Werthmann geb - 1908-06-05 1962-08-15
+152 H-89 Leo Marschall  - 1905-12-11 1945-04-27
+153 H-89 Monika Werthamnn  - 1890-08-22 1950-08-25
+154 H-89 Monika Lieblein geb - 1890-08-22 1950-08-25
+155 H-89 Karl Werthmann  - 1892-02-28 1954-09-01
+156 H-89 Maria Lieblein  - 1894-05-26 1978-11-23
+157 H-28 Franz Marschall  - 1911-11-27 1993-08-02
+158 H-28 Barbara Marschall  -  
+159 H-28 Adolf Marschall  -  
+160 H-29 Franziska Zimmerman  - 1878 1951
+161 H-29 Kaspar Zimmerman  - 1871 1953
+162 H-29 Anna Zimmerman   - 1911 1974
+163 H-29 Franz Zimmerman  - 1908 1975
+164 H-29 Alfred Zimmerman  - 1921 1941
+165 H-29 Eduard Zimmerman  - 1913 1945
+166 H-30 Emma Kneip  - 1912-09-21 1974-12-31
+167 H-30 Adam Kneip  - 1913-05-24 1975-01-03
+168 H-30 Andreas Otter  -  
+169 H-30 Regina Otter  -  
+170 H-31 Georg Moser  - 1920 1944
+171 H-31 Rosa Moser  - 1919 1993
+172 H-31 Stephan Moser  - 1966 1975
+173 H-32 Michael Scheiner  - 1901 1977
+174 H-32 Justina Scheiner  - 1904 1987
+175 H-32 Dieter Scheiner  - 1941 1987
+176 H-33 Hermann Nöth  - 1895-12-23 1960-10-28
+177 H-33 Eugena Nöth  - 1896-06-23 1968-12-11
+178 H-33 Karl Nöth  - 1867-03-16 1916-09-06
+179 H-33 Josefa Nöth  - 1873-08-21 1960-09-24
+180 H-33 Agnes Nöth  - 1904-06-17 1961-08-15
+181 H-33 Tilli Nöth  - 1927-06-24 1934-10-01
+182 H-33 Karl Nöth  - 1923-12-18 1943
+183 H-33 Karl Nöth  - 1901-09-08 1977-05-20
+184 H-33 Anna Nöth  - 1901-11-17 1967-10-28
+185 H-35 M.E. Schuhmann  -  1969
+186 H-38 Gertraud Siegler  - 1869-09-03 1953-09-01
+187 H-38 Gertraud Ritter geb - 1869-09-03 1953-09-01
+188 H-38 Oskar Siegler  - 1899-12-18 1974-11-06
+189 H-38 Alois Siegler  - 1865-01-23 1955-11-26
+190 H-38 Katharina Siegler  - 1901-12-04 1987-10-25
+191 H-38 Katharina Marschall geb - 1901-12-04 1987-10-25
+192 H-38 Karl Siegler  - 1924-05-20 1944-04
+193 H-39 Otto Marschall  - 1905-12-27 1944-09-07
+194 H-39 Martin Marschall  -  
+195 H-39 Franziska Marschall  -  
+196 H-40 Johann Seufert  - 1887-09-16 1915-11-14
+197 H-40 August Scheiner  - 1886-02-21 1962-03-06
+198 H-40 Rita Scheiner  - 1925-07-23 1927-08-29
+199 H-40 Monika Scheiner  - 1886-01-06 1970-11-02
+200 H-40 Monika Vorndran  - 1886-01-06 1970-11-02
+201 H-40 Johann Vorndran  -  
+202 H-40 Barbara Vorndran  -  
+203 H-40 Bernhard Vorndran  -  
+204 H-41 Paul Balbach  - 1916-10-28 1978-10-13
+205 H-42 Eduard Loschert  - 1883-08-21 1963-09-24
+206 H-42 Rosa Loschert  - 1890-03-10 1971-08-01
+207 H-42 Rosa Keller geb - 1890-03-10 1971-08-01
+208 H-42 Alois Loschert  - 1921-05-17 1943-10-25
+209 H-42 Kaspar Loschert  -  
+210 H-42 Margarete Loschert  -  
+211 H-43 Eva-Maria Bethge  - 1915-07-03 1994-04-01
+212 H-43 Eva-Maria Schmidt geb - 1915-07-03 1994-04-01
+213 H-44 Georg Seufert  - 1869-11-07 1930-05-28
+214 H-44 Anna Seufert  - 1901-07-14 1951-10-05
+215 H-44 Adm. Seufert  -  1917
+216 H-44 Karl Seufert  -  1942
+217 H-46 Karl Scheiner  - 1903 1976
+218 H-47 Julius Siegler  - 1896-01-21 1951-08-31
+219 H-47 Hilaria Siegler  - 1890-05-11 1978-01-25
+220 H-48 Fanny Kromer  - 1906-09-25 1986-09-22
+221 H-49 Karl Riedmann  - 1904-02-21 1986-03-04
+222 H-49 Rosa Riedmann  - 1905-02-06 1994-02-16
+223 H-49 Maria Amend  -  
+224 H-49 Bernhard Amend  -  
+225 H-50 Brigitte Scheiner  - 1876-05-27 1944-12-05
+226 H-50 Brigitte Lieblein geb - 1876-05-27 1944-12-05
+227 H-50 Franz Scheiner  - 1874-11-17 1952-08-14
+228 H-50 Benedikt Scheiner  - 1904-12-01 1968-06-07
+229 H-51 Josef Väthbrückner  - 1869 1956
+230 H-51 Franziska Väthbrückner  - 1869 1955
+231 H-51 Amalie Väthbrückner  - 1903 1975
+232 H-51 Erich Väthbrückner  - 1927 1980
+233 H-51 Leo Väthbrückner  -  
+234 H-52 Theresia Wallrapp  - 1922-02-26 1986-03-25
+235 H-52 Theresia Väthbrückner geb - 1922-02-26 1986-03-25
+236 H-52 Max Väthbrückner  -  
+237 H-52 Amanda Väthbrückner  -  
+238 H-53 Paula Blum  - 1925-11-18 1992-06-10
+239 H-54 Helga Mäck  - 1949-05-16 1994-10-08
+240 H-55 Martin Hock  - 1974 1979
+241 H-56 Elisabeth Hartmann  - 1906-07-07 1986-04-02
+242 H-57 Josef Frank  - 1901-11-11 1981-08-01
+243 H-57 Ida Frank  - 1909-04-17 1990-08-17
+244 H-58 Michael Gerling  - 1898-11-22 1983-07-05
+245 H-58 Mechthilde Gerling  - 1898-10-18 1983-09-26
+246 H-58 Mechthilde Väthbrückner geb - 1898-10-18 1983-09-26
+247 H-59 Rudolf Marschall  - 1893-06-08 1951-08-18
+248 H-59 Lucia Marschall  - 1903-10-27 1978-06-23
+249 H-59 Lucia Stamm geb - 1903-10-27 1978-06-23
+250 H-59 Theophil Marschall  - 1856-05-01 1935-10-21
+251 H-59 Barbara Marschall  - 1862-12-04 1940-12-25
+252 H-59 Barbara Väthbrückner geb - 1862-12-04 1940-12-25
+253 H-59 Maria Marschall  - 1890-04-22 1946-06-09
+254 H-59 Josef Marschall  -  
+255 H-59 Anton Marschall  -  
+256 H-59 Willi Marschall  -  
+257 H-60 Josefa Gebauer  - 1886-05-10 1975-06-18
+258 H-60 Bernhard Gebauer  - 1913-09-17 1942-01-14
+259 H-60 Walter Hilpert  - 1929-07-26 1987-01-05
+260 H-61 Valentin Schuhmann  - 1883-09-06 1961-08-16
+261 H-61 Barbara Schuhmann  - 1883-10-15 1965-09-04
+262 H-62 Franz Hock  - 1891-11-07 1969-06-11
+263 H-62 Anna Hock  - 1895-03-25 1979-11-06
+264 H-62 Josef Hock  - 1923-06-09 1944-06-21
+265 H-62 Peter Hock  - 1958-11-02 1980-08-28
+266 H-64 Ferdinand Knopp  - 1888-09-12 1963-03-08
+267 H-64 Susanne Knopp  - 1895-10-08 1986-07-04
+268 H-65 Günther Weiner  - 1935-09-14 1988-11-23
+269 H-66 Eusebius  Roth  - 1867-12-15 1949-06-23
+270 H-66 Katharina Roth  - 1870-05-08 1938-10-06
+271 H-66 Katharina Ebert geb - 1870-05-08 1938-10-06
+272 H-66 Maria Roth  - 1894-06-30 1966-07-10
+273 H-66 Hedwig Roth  - 1908-04-30 1988-10-23
+274 H-66 Luzia Höfling  - 1912-04-06 1944-02-10
+275 H-66 Luzia Roth  - 1912-04-06 1944-02-10
+276 H-66 Josef Roth  - 1904-02-22 1944-06
+277 H-68 Konrad Marschall  - 1886 1953
+278 H-68 Johanna Marschall  - 1887 1973
+279 H-70 Maria  Weidner  - 1903-01-28 1949-12-10
+280 H-70 Maria  Schürger geb - 1903-01-28 1949-12-10
+281 H-70 Georg Schürger  -  
+282 H-70 Gertraud Schürger  -  
+283 H-71 Gertrud Frank  - 1878 1923
+284 H-71 Hildegard Frank  - 1895 1953
+285 H-71 Erhard Frank  - 1878 1964
+286 H-73 Karl Herrmann  - 1882 1940
+287 H-73 Margarete Herrmann  - 1889 1982
+288 H-74 Anna Maria Stamm  - 1857-10-17 1912-02-10
+289 H-74 Anna Maria Mehling geb - 1857-10-17 1912-02-10
+290 H-74 Josef Stamm  - 1859-04-23 1936-10-01
+291 H-74 Bruno Stamm  - 1888-08-30 1951-11-25
+292 H-74 Rosa Stamm  - 1892-01-20 1983-02-10
+293 H-74 Rudolf Stamm  - 1964-03-24 1965-07-05
+294 H-75 Angelina Wolf  - 1895-06-22 1963-03-25
+295 H-75 Angelina Hock geb - 1895-06-22 1963-03-25
+296 H-75 Josef Wolf  - 1924-08-24 1925-01-04
+297 H-75 Hedwig Haase  - 1921-02-15 1994-04-13
+298 H-75 Hedwig Wolf geb - 1921-02-15 1994-04-13
+299 H-75 Oskar Wolf  - 1894-09-17 1969-06-04
+300 H-76 Karl Amend  - 1915-09-19 1986-03-08
+301 H-76 Linus Amend  - 1879-11-25 1936-08-08
+302 H-76 Rosa Amend  - 1886-06-09 1978-01-25
+303 H-76 Kaspar Schäb  - 1877 1913
+304 H-77 Michael Gehrling  - 1863-03-11 1941-03-04
+305 H-77 Luisa Gehrling  - 1868-10-30 1942-01-04
+306 H-77 Luisa Vorndran geb - 1868-10-30 1942-01-04
+307 H-77 Rosa Gehrling  - 1888-09-13 1984-11-08
+308 H-77 Konrad Gehrling  - 1889-02-18 1951-09-20
+309 H-77 Heino Knab  - 1910-11-20 1986-02-11
+310 H-77 Alfred Knab  - 1908-03-01 1990-10-19
+311 H-78 Monika Marschall 2 - 1868-04-19 1952-05-29
+312 H-78 Monika Stamm geb - 1868-04-19 1952-05-29
+313 H-78 Monika Nöth 1 - 1868-04-19 1952-05-29
+314 H-78 Emilion Marschall  - 1880-09-09 1965-06-24
+315 H-78 Albin Marschall  - 1907-12-15 1955-02-04
+316 H-78 Joseph Nöth  - 1861-04-23 1905-05-23
+317 H-78 Gregor Nöth  - 1893-07-17 1918-10-14
+318 H-79 Elisabeth Marschall  - 1941-09-28 1966-12-17
+319 H-79 Elisabeth Marschall geb - 1941-09-28 1966-12-17
+320 H-79 Thomas Marschall  - 1915-02-07 1944-06
+321 H-80 Josef Gehrling  - 1920-03-04 1970-03-15
+322 H-81 Erika Seufert  - 1937-07-02 1955-07-01
+323 H-81 Richard Seufert  - 1913-01-20 1990-06-19
+324 H-81 Rosa Seufert  - 1913-02-02 1991-07-28
+325 H-81 Christian Peter  - 1866-01-08 1907-06-27
+326 H-81 Veronika Müller 2 - 1871-05-20 1923-09-18
+327 H-81 Veronika Stamm geb - 1871-05-20 1923-09-18
+328 H-81 Veronika Peter 1 - 1871-05-20 1923-09-18
+329 H-81 Johann Müller  - 1870-01-10 1958-02-26
+330 H-81 Hugo Peter  - 1906-02-03 1944-11-09
+331 H-84 Lydia Henkelmann  - 1916-01-05 1985-12-30
+332 H-85 Inge Ferkinghoff  - 1938-07-02 1973-05-02
+333 H-85 Inge Feix geb - 1938-07-02 1973-05-02
+334 H-86 Philomena Schuck  - 1860-11-18 1902-05-29
+335 H-86 Philomena Kullmann geb - 1860-11-18 1902-05-29
+336 H-86 Anton Schuck  - 1854-10-27 1924-11-21
+337 H-87 Karl Wolf  - 1898-01-27 1972-12-21
+338 H-87 Klementine Wolf  - 1896-12-09 1978-03-01
+339 H-87 Wilhelm Wolf  -  
+340 H-87 Angelina Wolf  -  
+341 H-88 Josef Biener  - 1922-03-13 1944-06-12
+342 H-88 Josef Biener  - 1895-09-03 1971-12-05
+343 H-88 Frieda Biener  - 1899-10-19 1988-10-10
+
+
+

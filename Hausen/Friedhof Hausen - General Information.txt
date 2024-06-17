@@ -1,0 +1,88 @@
+﻿
+
+Google Earth photo-
+Friedhof Hausen 2015.JPG
+Imagery 4/23/2015
+
+Location of center: 49.960838  9.655848
+
+google earth photo
+Friedhof Hausen - Aerial View.jpg
+4/23/2015  in image, south is at top.
+
+rectangle 
+wide side with chapel faces South (actually SSW)
+
+Divide into 2 sections, 
+1 is the left side, 2 is the right side.
+A path separates the two parts.
+Building is at top right hand corner.
+
+1 has 8 rows of 8 to 11 columns
+	top row, #8, are uniformly divided plots with stone outlines.
+2 has 5 rows of 8 to 11 columns
+	top row, #5, has only 3 rows.
+Stones in sec 2, row 1 are up against outside wall. Stone face building, south.
+All others face North.
+
+
+
+Order of photographs, from notes
+L-1-1	9698
+L-4-1	9681
+L-5-1	9662
+L-6-end	9655
+L-8-1	9647
+R-1-1	9591
+R-2-1	9616
+R-3-end	9627
+regina otter	9631
+
+
+
+These are Cemetery overview
+file://./Images_2018/IMG_9640.JPG
+file://./Images_2018/IMG_9641.JPG
+file://./Images_2018/IMG_9642.JPG
+file://./Images_2018/IMG_9643.JPG
+file://./Images_2018/IMG_9644.JPG
+file://./Images_2018/IMG_9645.JPG
+file://./Images_2018/IMG_9646.JPG
+=========================================================================DIV80==
+
+
+
+1995 doc
+should be merged in-
+
+
+Data transcribed from markers
+by Richard Otter in July 1995.
+
+Many grave markers were photographed, but the film was lost. One overview photos was not lost.
+
+Graveyard in the village (dorf) of Hausen, Germany.
+Hausen is currently in the same administration as Steinfeld, a larger neighboring village along with Waldzell.
+
+
+Front gate location- 
+(as determined by Google Earth software, 2010-06-05)
+49°57'39.29"N
+ 9°39'21.36"E
+Description
+Found 88 grave stones. 
+The area is roughly rectangular. The front gate is in the middle of the longer side and divides the area roughly in half. There is a small building, a chapel, on the far right corner opposite the front gate.
+
+
+|-----------------------------------------------------DIV60--
+------------------|
+|                        ||                       |===|building
+|     83 -◄ 88           ||                       |===|
+|     77 -◄ 82           ||                           |
+|     69 -◄ 76           ||         35    34          |
+|     62 -◄ 68           ||         33 ►- 27          |
+|     55 -◄ 61           ||         26 ►- 19          |
+|     45 -◄ 54           ||         18 ►-  9          |
+|     36 -◄ 45           ||         8  ►-  1          |
+|------------------------  ---------------------------|
+                   Front gate

@@ -1,0 +1,123 @@
+Obserschwarzach Friedhof
+
+Dated aerial views from Google Earth
+Friedhof Oberschwarzach - Aerial View ~2018.jpg
+Friedhof Oberschwarzach - Aerial Viel 2022-07-18.png
+
+Rectangular area
+North is at top.
+Large cross 2/3 way down from North wall.
+49.861551 10.408998
+
+Church is at bottom S wall
+Gate is at the east corner in south wall and north east corner.
+There is also a large gate at the north wall opening onto the central path.
+
+========================================
+Burial plot map - system based on row & column
+
+Overall the layout is 16 rows x 16 columns.
+There are a number of exceptions.
+1- There are grave sites along west, north and east walls.
+2- some rows are shorter due to central cross monument.
+3- cemetery narrows at the top, north end, so many rows are shorter
+4- some rows have urn burial sites which are smaller.
+
+Use the 16x16 grid as the base system. If a row has more sites, add -A, -B suffixes etc.
+If a row has fewer, create dummy plots and state that they are not real plots.
+
+Odd numbered rows have stones that face south. Photos of those stone face north.
+Even numbered rows have stones that face north. Photos of those stone face south.
+
+row
+16
+15
+
+14
+13
+
+12
+11
+
+10
+9
+
+8
+7
+
+6
+5
+
+4                      PID:2022-04-07
+3
+
+2
+1   
++   1  2  3  4  5  6  7  8     9 10 11 12 13 14 15 16  col
+========================================
+
+
+East Wall-
+S->N
+about 25 plots
+
+West Wall-
+S-> N
+about 30 plots
+
+North Wall-
+about 16 plots, same pattern as center area.
+
+Row 14 east side-
+some plots not aligned with row 13. Perhaps 2 half width plots in 14.
+
+Row 15 & 16-
+On east side, row 15 
+no site at either 1 or 2
+3 to 7 are set up as Urn burial plots about 1/3 the width
+The urn sites are half the length and are setup as double sided.
+So even though there is no real row 16 on east side, call them row 15A
+
+Rows 5 & 6-
+do not have plots in cols 8 & 9
+cross in center takes up space
+
+Rows 7 and above-
+ do not have plots in cols 1 & 16
+
+Row 10 east side-
+has smaller plots, pre-defined with concrete boarders.
+Use numbering
+10-09 to 10-11   normal plots
+for 10-12-10-15  use A and B
+
+
+
+1995 Photos
+in 1995, Richard Otter visited the Oberschwarzach cemetery in July 1995, accompanied by Doris Lehmann geb. Niewdermaier.
+This sampling of grave marker inscriptions was not done systematically. 
+Markers with names that were deemed familiar were photographed. 
+The photographs were transcribed into this list on June 2010. 
+
+2018 Photos
+in 2018, Row 1 and part of row 2 were photographed by Gloria Saito.
+start RC  1,1  1,2   1,16  2,16,  2,15,  at about 2,9 stopped.
+
+
+2022 Photos
+systematic survey of all plots.
+The east side grid plot photos were taken by Gloria Saito using her iPhone.
+File names are like "IMG-NNNN.JPG"
+The west side grid plot and perimeter plot photos were taken by Richard Otter using his Motorola phone..
+File names are like IMG_20221011_102713296.jpg  "IMG-YYYYMMDD-NNNNNNNNN.jpg"
+
+
+
+Overview
+Images 2018\IMG_9201.JPG	outside gate
+
+
+
+War memorial outside of cemetery, south of south wall.
+Only photographed the 2 Maiers- Oskar & Pankratz.
+

@@ -1,0 +1,367 @@
+
+
+
+=========================================================================DIV80==
+===PID: 606     Coord: [19.5159095,-155.9190774]          Stones: 1
+
+===Stone:	1
+===Date:	2024
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+南 無 阿 弥 陀 佛
+►Namu Amida Butsu◄
+
+IMAI
+
+►rear◄
+
+TAMEJIRO         FEB. 19, 1864 - OCT. 23, 1959
+KENJI            FEB, 3, 1895  - OCT. 13, 1951
+TSUYA            MAR. 17, 1902 - JUNE 11, 1987
+MISAO MILLIE     MAR. 5, 1922  - AUG. 22, 1948
+BETTY ITSUE      JUNE 2, 1933  - FEB. 2, 1937
+HERBERT MASAO    MAY 13, 1931  - FEB. 16, 2015
+
+►left side◄
+►blank◄
+
+►right side◄
+►blank◄
+-----------------------------------------------------DIV60--
+
+===Date:	2024
+===Photos:	2
+file://./Images_2024/IMG_20240607_123510715.jpg
+file://./Images_2024/IMG_20240607_123352610.jpg
+===Notes:
+Adds one name- Herbert Masao.
+
+===Date:	2003
+===Photos:	2
+file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-front.jpg
+file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-back.jpg
+===Notes:
+
+===Table:
+| FG        | FS       | RM    | FN            | LN   | b           | d           | T |
+|-----------|----------|-------|---------------|------|-------------|-------------|---|
+| 271440044 | KLW5-4PT |   517 |      Tamejiro | Imai | 19 Feb 1864 | 23 Oct 1959 |   |
+| 271441197 | KLW5-4PR |   447 |         Kenji | Imai | 03 Feb 1895 | 13 Oct 1951 |   |
+| 271441245 | LJ1T-YVZ |   448 |         Tsuya | Imai | 17 Mar 1902 | 11 Jun 1987 |   |
+| 271441296 | L2S7-SQJ |   579 |  Misao Millie | Imai | 05 Mar 1922 | 22 Aug 1948 |   |
+| 271441340 | L55F-7XZ |   621 |   Betty Itsue | Imai | 02 Jun 1933 | 02 Feb 1937 |   |
+| 271441366 | L2S7-SX1 |   620 | Herbert Masao | Imai | 13 May 1931 | 16 Feb 2015 |   |
+
+=========================================================================DIV80==
+===PID: 650     Coord: [19.5156689,-155.9183349]          Stones: 1
+
+===Stone:	1
+===Date:	2024
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+釋 禎 然 信 士
+►Shi Zhenran believer or Shaku Teizan believer◄
+
+GEORGE T. IMAI
+APR. 20, 1898  - Sep. 5, 1958
+
+►rear◄
+
+六十才
+►sixty years old◄
+
+ケ ア ラ ケ ク ア
+►Ke a la ke ku a◄
+
+今 井 禎 二
+►Imai Teiji◄
+
+ERECTED BY
+AMY S. OKUNO
+ALBERT H. IMAI
+
+►left side◄
+►blank◄
+
+►right side◄
+►blank◄
+-----------------------------------------------------DIV60--
+
+===Date:	2024
+===Photos:	2
+file://./Images_2024/IMG_20240607_124009414.jpg
+file://./Images_2024/IMG_20240607_124024043.jpg
+===Notes:
+no changes
+
+===Date:	2003
+===Photos:	2
+file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-front.jpg
+file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-rear.jpg
+===Notes:
+
+＝＝Interpretation：
+Japanese given name is "今 井 禎 二" = "Imai Teiji", from rear of stone.
+
+===Table:
+| FG        | FS       | RM   | FN        | LN    | b           | d           | T |
+|-----------|----------|--=---|-----------|-------|-------------|-------------|---|
+| 271447801 | LTJG-2TK |  589 | George T. |  Imai | 20 Apr 1889 | 05 Sep 1958 |   |
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2003
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+KUNIMASTSU YAMABE
+MAY 24, 1922
+MAR. 19, 1966
+
+►4 Japanese Kanji◄
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2003
+===Photos:	1
+file://./Images_2003/Yamabe,%20Kunimastsu%20-Grave%20marker%20-front.jpg
+===Notes:
+TODO    Transcribe & translate Kanji
+
+===Table:
+| FG        | FS       | RM    | FN            | LN          | b           | d           | T |
+|-----------|----------|-------|---------------|-------------|-------------|-------------|---|
+|           |          |       |    Kunimastsu |      Yamabe | 24 May 1922 | 19 Mar 1966 |   |
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2003
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+►5 Japanese Kanji◄
+
+KICHITARO YAMABE
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2003
+===Photos:	1
+file://./Images_2003/Yamabe,%20Kichitaro%20-Grave%20marker%20-front.jpg
+===Notes:
+TODO    Transcribe & translate Kanji
+
+===Table:
+| FG        | FS       | RM    | FN            | LN          | b           | d           | T |
+|-----------|----------|-------|---------------|-------------|-------------|-------------|---|
+|           |          |       |     Kichitaro |      Yamabe |             |             |   |
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2003
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+►2, 4 and 4 Japanese Kanji◄
+
+UME IKEDA
+UMEYO YAMABE
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2003
+===Photos:	2
+file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-front.jpg
+file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-overview.jpg
+===Notes:
+TODO    Transcribe & translate Kanji
+
+===Table:
+| FG        | FS       | RM    | FN            | LN     | b           | d           | T |
+|-----------|----------|-------|---------------|--------|-------------|-------------|---|
+|           |          |       |           Ume |  Ikeda |             |             |   |
+|           |          |       |         Umeyo | Yamabe |             |             |   |
+
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2010
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+FUJIKAWA
+
+►left◄
+MASAKO
+MAR. 29, 1907
+JAN. 16, 2005
+
+►center◄
+►3 Japanese Kanji◄
+
+►right◄
+YOSHIO
+DEC. 10, 1901
+JUNE 1, 1974
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2010
+===Photos:	1
+file://./Images_2010/Fujikawa,%20Yoshio%20b1901.jpg
+===Notes:
+
+
+===Table:
+| FG        | FS       | RM    | FN            | LN       | b           | d           | T |
+|-----------|----------|-------|---------------|----------|-------------|-------------|---|
+|           |          |       |        Yoshio | Fujikawa | 20 Dec 1901 | 01 Jun 1974 |   |
+|           |          |       |        Masako | Fujikawa | 29 Mar 1907 | 16 Jan 2005 |   |
+
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2024
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+► 2 Japanese Kanji◄
+
+IMAI
+
+MILDRED UMEYO
+JULY 7, 1928
+JULY 16, 2006
+
+AKINORI
+NOVEMBER 11, 1928
+APRIL 14, 1014
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2024
+===Photos:	2
+file://./Images_2024/IMG_20240607_124145860.jpg
+===Notes:
+
+
+===Table:
+| FG        | FS       | RM    | FN            | LN   | b           | d           | T |
+|-----------|----------|-------|---------------|------|-------------|-------------|---|
+|           |          |       | Mildred Umeyo | Imai | 07 Jul 1928 | 16 Jul 2006 |   |
+|           |          |       |       Akinori | Imai | 11 Nov 1928 | 14 Apr 2024 |   |
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2024
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+TERUO KAMIGAKI
+SEPT. 15, 1928 - MAY 25, 1996
+
+YURIKO KAMIGAKI
+MAR. 21, 1933 - APR. 8, 2007
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2024
+===Photos:	2
+file://./Images_2024/IMG_20240607_124350037_HDR.jpg
+===Notes:
+
+
+===Table:
+| FG        | FS       | RM    | FN            | LN       | b           | d           | T |
+|-----------|----------|-------|---------------|----------|-------------|-------------|---|
+|           |          |       |         Teruo | Kamigaki | 15 Sep 1928 | 25 May 1996 |   |
+|           |          |       |         Yuiko | Kamigaki | 21 Mar 1933 | 08 Apr 2007 |   |
+
+=========================================================================DIV80==
+===PID:      Coord: [,]          Stones: 1
+
+===Stone:	1
+===Date:	2024
+===Transcription:
+-----------------------------------------------------DIV60--
+►front◄
+
+►rear◄
+►?◄
+►left side◄
+►?◄
+►right side◄
+►?◄
+-----------------------------------------------------DIV60--
+
+===Date:	2024
+===Photos:	2
+file://./Images_2024/IMG_20240607_123352610.jpg
+===Notes:
+
+
+===Table:
+| FG        | FS       | RM    | FN            | LN   | b           | d           | T |
+|-----------|----------|-------|---------------|------|-------------|-------------|---|
+|           |          |       |               |      |             |             |   |
+
+
+
+
