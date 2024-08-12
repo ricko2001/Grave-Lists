@@ -1,8 +1,11 @@
 ﻿=========================================================================DIV80==
-===PID: 2018-3-8-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GLOS
@@ -11,8 +14,8 @@ MARTIN
 1952  - 2006
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9332.JPG
 ===Notes:
 
@@ -24,10 +27,13 @@ file://./Images_2018\IMG_9332.JPG
 |           |          |       | Martin   |  Glos       |        1952 |        2006 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HEINRICH
@@ -36,8 +42,8 @@ SCHWANITZ
 13.11.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9333.JPG
 ===Notes:
 
@@ -49,10 +55,13 @@ file://./Images_2018\IMG_9333.JPG
 |           |          |       | Heinrich | Schwanitz   | 13.003.1938 | 13.011.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GÜNTHER
@@ -61,8 +70,8 @@ BARTGEL
     2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9334.JPG
 ===Notes:
 
@@ -74,10 +83,13 @@ file://./Images_2018\IMG_9334.JPG
 |           |          |       | Günther  | Barthel     |        1952 |        2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HALICSKA
@@ -90,8 +102,8 @@ LOTTE
 ✝ 16.7.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9335.JPG
 ===Notes:
 Stone has photos of both Josef and Lotte.
@@ -105,10 +117,13 @@ Stone has photos of both Josef and Lotte.
 |           |          |       | Lotte    | Halicska    | 22.002.1938 | 16.007.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WILLI WEIGEL
@@ -119,8 +134,8 @@ MARIANNE WIEGEL
 ✝ 24.12.2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9336.JPG
 ===Notes:
 
@@ -133,10 +148,13 @@ file://./Images_2018\IMG_9336.JPG
 |           |          |       | Marianne | Wiegel      | 02.008.1930 | 24.012.2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HELENE
@@ -144,8 +162,8 @@ BRANDNER
 1909 - 1191
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9337.JPG
 ===Notes:
 
@@ -157,10 +175,13 @@ file://./Images_2018\IMG_9337.JPG
 |           |          |       | Helene   | Brandner    |        1909 |        1191 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 BAYER
@@ -173,8 +194,8 @@ LIDWINA
 ✝ 12.8.1990
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9338.JPG
 ===Notes:
 
@@ -187,10 +208,13 @@ file://./Images_2018\IMG_9338.JPG
 |           |          |       | Lidwina  | Bayer       | 20.010.1911 | 12.008.1990 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GÖTZ
@@ -203,8 +227,8 @@ MARIA
 ✝ 19.7.20►??◄
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9339.JPG
 ===Notes:
 TODO   get NEW PHOTO
@@ -218,10 +242,13 @@ TODO   get NEW PHOTO
 |           |          |       | Maria    | Götz        | 19.012.1919 | 19.007.0000 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 KLARA
@@ -234,13 +261,13 @@ GÖTZ
 ✝ 20.1.1998
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9340.JPG
 ===Notes:
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
@@ -248,10 +275,13 @@ file://./Images_2018\IMG_9340.JPG
 |           |          |       | Franz    | Götz        | 10.006.1957 | 20.001.1998 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 1911  GEORG   1985
@@ -259,8 +289,8 @@ DOLLINGER
 1922  KATHARINA  2007
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9341.JPG
 ===Notes:
 
@@ -273,33 +303,39 @@ file://./Images_2018\IMG_9341.JPG
 |           |          |       | Katharina | Dollinger   |        1922 |        2007 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 BORIS BETZ
 1982  -  1985
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9342.JPG
 ===Notes:
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Boris    | Betz        |        1982 |        1985 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-8-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-8-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 BETZ
@@ -310,13 +346,13 @@ RESI
 1921  -  1997
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9343.JPG
 ===Notes:
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
@@ -324,10 +360,13 @@ file://./Images_2018\IMG_9343.JPG
 |           |          |       | Resi     | Betz        |        1921 |        1997 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-7-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-7-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Gerberich
@@ -337,24 +376,27 @@ Karina
 ✝ 13.10.2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9344.JPG
 ===Notes:
 Stone has a photo of Karina
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
 |           |          |       | Gerberich | Karina      | 26.010.1962 | 13.010.2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Liebler
@@ -363,23 +405,26 @@ Erwin
 * 27.4.1936  ✝  24.8.2012
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9345.JPG
 ===Notes:
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Erwin    | Liebler     | 27.004.1936 | 24.008.2012 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 In Liebe eboren in Liebe gelebt in Liebe vorausgegangen
@@ -391,23 +436,26 @@ Niko
 ✝ 19.4.2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9346.JPG
 ===Notes:
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Niko     | Wallpe      | 19.001.1990 | 19.004.2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Rauch
@@ -417,8 +465,8 @@ Mario
 ✝ 19.4.2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9347.JPG
 ===Notes:
 
@@ -430,10 +478,13 @@ file://./Images_2018\IMG_9347.JPG
 |           |          |       | Mario    | Rauch       | 27.011.1991 | 19.004.2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GEORG
@@ -442,8 +493,8 @@ GEORG
 19.7.2005
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9348.JPG
 ===Notes:
 
@@ -455,10 +506,13 @@ file://./Images_2018\IMG_9348.JPG
 |           |          |       | Georg    | Öhring      | 14.004.1945 | 19.007.2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -468,8 +522,8 @@ EUGEN
 ✝ 1.5.2005
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9349.JPG
 ===Notes:
 
@@ -481,10 +535,13 @@ file://./Images_2018\IMG_9349.JPG
 |           |          |       | Eugen    | Vogel       | 28.002.1927 | 01.005.2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Krämer
@@ -493,8 +550,8 @@ Karin   * 23.3.1952
         ✝ 25.1.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9350.JPG
 ===Notes:
 
@@ -506,10 +563,13 @@ file://./Images_2018\IMG_9350.JPG
 |           |          |       | Karin    | Krämer      | 23.003.1952 | 25.001.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HORN
@@ -524,8 +584,8 @@ MATHILDE
 ULRIKE U. MARIA
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9351.JPG
 file://./Images_2018\IMG_9352.JPG
 ===Notes:
@@ -541,10 +601,13 @@ file://./Images_2018\IMG_9352.JPG
 |           |          |       | Maria    | Horn        |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -559,8 +622,8 @@ FINI SOMMERBAUER
 * 10.2.1940  ✝ 11.4.2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9353.JPG
 ===Notes:
 
@@ -575,10 +638,13 @@ file://./Images_2018\IMG_9353.JPG
 |           |          |       | Fini     | Sommerbauer | 10.002.1940 | 11.004.2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-7-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-7-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Dudek
@@ -590,8 +656,8 @@ Lydia
 * 1.3.1942   ✝ 11.2.2009
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9354.JPG
 ===Notes:
 
@@ -604,17 +670,20 @@ file://./Images_2018\IMG_9354.JPG
 |           |          |       | Lydia       | Dudek       | 01.003.1942 | 11.002.2009 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 heinz küssner
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9355.JPG
 ===Notes:
 only name listed
@@ -627,18 +696,21 @@ only name listed
 |           |          |       | Heinz    | Küssner     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ERNST TRENNER
 1937  -  1971
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9356.JPG
 ===Notes:
 
@@ -650,10 +722,13 @@ file://./Images_2018\IMG_9356.JPG
 |           |          |       | Ernst    | Trenner     |        1937 |        1971 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Fam. Kampf
@@ -662,8 +737,8 @@ Karl      * 1918   ✝ 1974
 Theresia  * 1923   ✝ 2010
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9357.JPG
 ===Notes:
 
@@ -676,10 +751,13 @@ file://./Images_2018\IMG_9357.JPG
 |           |          |       | Theresia | Kampf       |        1923 |        2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Else Pfenzinger
@@ -688,8 +766,8 @@ Albin Pfenzinger
 1925  -  1986
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9358.JPG
 ===Notes:
 
@@ -702,10 +780,13 @@ file://./Images_2018\IMG_9358.JPG
 |           |          |       | Albin    | Pfenzinger  |        1925 |        1986 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 DORIS MÜLLER     1962  -  1970
@@ -713,8 +794,8 @@ LUDWIG ÖHRING    1909  -  1985
 FRIEDA ÖHRING    1913  -  1995
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9359.JPG
 ===Notes:
 
@@ -728,10 +809,13 @@ file://./Images_2018\IMG_9359.JPG
 |           |          |       | Frieda   | Öhring      |        1913 |        1995 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Oswald Strohmenger
@@ -744,8 +828,8 @@ Erwin Strohmenger
 * 28.10.1927  ✝ 22.1.2018
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9360.JPG
 ===Notes:
 
@@ -760,10 +844,13 @@ file://./Images_2018\IMG_9360.JPG
 |           |          |       | Erwin    | Strohmenger | 28.010.1927 | 22.001.2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 NEUF
@@ -773,8 +860,8 @@ ARTHUR
 * 8.9.1927  ✝ 23.2.2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9361.JPG
 ===Notes:
 includes photos on stone.
@@ -788,10 +875,13 @@ includes photos on stone.
 |           |          |       | Arthur   | Neuf        | 08.009.1927 | 23.002.2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HEDWIG SCHÄD
@@ -804,8 +894,8 @@ ELKE GÖHLER
 19·8·1962 - 26·9·2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9362.JPG
 ===Notes:
 
@@ -820,10 +910,13 @@ file://./Images_2018\IMG_9362.JPG
 |           |          |       | Elke        | Göhler      | 19.008.1962 | 26.009.2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Rita Brückner
@@ -834,8 +927,8 @@ Margot Pinkenburg
 1925  -  2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9363.JPG
 ===Notes:
 
@@ -849,10 +942,13 @@ file://./Images_2018\IMG_9363.JPG
 |           |          |       | Margot   | Pinkenburg  |        1925 |        2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Emma Betz
@@ -861,8 +957,8 @@ Valentin Betz
 * 15.10.1908  ✝ 19.9.1999
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9364.JPG
 ===Notes:
 
@@ -875,10 +971,13 @@ file://./Images_2018\IMG_9364.JPG
 |           |          |       | Valentin | Betz        | 15.010.1908 | 19.009.1999 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WIESNER
@@ -886,8 +985,8 @@ LUDWIG      1909 - 1995
 LIESELOTTE  1920 - 2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9365.JPG
 ===Notes:
 
@@ -900,10 +999,13 @@ file://./Images_2018\IMG_9365.JPG
 |           |          |       | Lieselotte | Wiesner     |        1920 |        2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-6-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-6-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE HEPP
@@ -914,8 +1016,8 @@ LEONHARD    1937 - 2006
 AGNES U. JOSEF
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9366.JPG
 ===Notes:
 
@@ -931,10 +1033,13 @@ file://./Images_2018\IMG_9366.JPG
 |           |          |       | Josef      | Hepp        |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ALFONS GRESS
@@ -943,8 +1048,8 @@ LYDIA GRESS
 * 7·2·1910  ✝ 24·7·2001
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9368.JPG
 ===Notes:
 
@@ -957,10 +1062,13 @@ file://./Images_2018\IMG_9368.JPG
 |           |          |       | Lydia    | Gress       | 07.002.1910 | 24.007.2001 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 DIETER REINHARDT
@@ -974,8 +1082,8 @@ LEO REINHARDT
 ✝ 3.6.2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9369.JPG
 ===Notes:
 
@@ -989,10 +1097,13 @@ file://./Images_2018\IMG_9369.JPG
 |           |          |       | Leo      | Reinhardt   | 01.002.1925 | 03.006.2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Brigitte Albert
@@ -1001,8 +1112,8 @@ Siegfried Albert
 * 7.3.1894  ✝ 18.2.1975
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9370.JPG
 ===Notes:
 
@@ -1015,10 +1126,13 @@ file://./Images_2018\IMG_9370.JPG
 |           |          |       | Siegfried | Albert      | 07.003.1894 | 18.002.1975 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Albert
@@ -1029,8 +1143,8 @@ Roman     1946  -  2006
 Emma u. Robert
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9371.JPG
 ===Notes:
 
@@ -1046,10 +1160,13 @@ file://./Images_2018\IMG_9371.JPG
 |           |          |       | Robert   | Albert      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHIWAK
@@ -1061,8 +1178,8 @@ ALOIS
 ✝ 28·7·2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9372.JPG
 ===Notes:
 
@@ -1075,10 +1192,13 @@ file://./Images_2018\IMG_9372.JPG
 |           |          |       | Alois    | Schiwak     | 15.010.1927 | 28.007.2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE EHEHALT
@@ -1092,8 +1212,8 @@ MARIA  GEB. STEIGER
 1923  - 2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9373.JPG
 ===Notes:
 
@@ -1111,10 +1231,13 @@ file://./Images_2018\IMG_9373.JPG
 |           |          |       |  Maria     | Steiger     |        1923 |        2015 | b |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 OTTER
@@ -1124,8 +1247,8 @@ HERBERT
 HARTMANN
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9374.JPG
 ===Notes:
 
@@ -1137,10 +1260,13 @@ file://./Images_2018\IMG_9374.JPG
 |           |          |       | Herbert  | Otter       | 28.007.1931 | 22.010.2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Öhrlein
@@ -1149,8 +1275,8 @@ Hugo   1937 - 2008
 Maria u. Emil Müller
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9375.JPG
 ===Notes:
 
@@ -1164,10 +1290,13 @@ file://./Images_2018\IMG_9375.JPG
 |           |          |       |  Emil    | Müller      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 AUGUST HENIG
@@ -1179,8 +1308,8 @@ JOHANN U. MARIA WIESNER
 ✠  JOHANN BETZ  ✠
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9376.JPG
 ===Notes:
 
@@ -1196,10 +1325,13 @@ file://./Images_2018\IMG_9376.JPG
 |           |          |       | Johann   | Betz        |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HAHN
@@ -1215,8 +1347,8 @@ EMILIE
 1923 - 2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9377.JPG
 file://./Images_2018\IMG_9378.JPG
 ===Notes:
@@ -1232,10 +1364,13 @@ file://./Images_2018\IMG_9378.JPG
 |           |          |       | Emilie   | Heinrich    |        1923 |        2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-6-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-6-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -1257,8 +1392,8 @@ Der Glaube tröset.
 wo die Liebe weint.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9379.JPG
 ===Notes:
 
@@ -1272,10 +1407,13 @@ file://./Images_2018\IMG_9379.JPG
 |           |          |       | WALTER   | VOGEL       |        1921 |        1945 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 LYDIA SETZER
@@ -1287,8 +1425,8 @@ Dr. med. OSKAR SETZER
 ES WAR GOTTES WILLE!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9382.JPG
 ===Notes:
 
@@ -1302,10 +1440,13 @@ file://./Images_2018\IMG_9382.JPG
 |           |          |       | Oskar    | Setzer      | 25.005.1913 | 21.008.1963 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruht in Gott
@@ -1322,8 +1463,8 @@ Helene Pfrenzinger
 ✝ 10.8.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9383.JPG
 ===Notes:
 
@@ -1336,10 +1477,13 @@ file://./Images_2018\IMG_9383.JPG
 |           |          |       | Helene   | Pfrenzinger | 15.010.1925 | 10.008.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAM. WALLPE
@@ -1349,8 +1493,8 @@ Ludeig  * 1908  -  1986 ✝
 Heinz   * 1940  -  2002 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9384.JPG
 ===Notes:
 
@@ -1365,10 +1509,13 @@ file://./Images_2018\IMG_9384.JPG
 |           |          |       | Heinz    | Wallpe      |        1940 |        2002 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruht in Gott
@@ -1383,8 +1530,8 @@ Walter Fischer
 R.I.P.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9385.JPG
 ===Notes:
 
@@ -1399,10 +1546,13 @@ file://./Images_2018\IMG_9385.JPG
 |           |          |       | Walter   | Fischer     | 10.008.1938 | 14.012.2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 OBIDITSCH
@@ -1412,8 +1562,8 @@ MARG.   1919  -  1991
 HEINZ   1939  -  2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9386.JPG
 ===Notes:
 
@@ -1428,10 +1578,13 @@ file://./Images_2018\IMG_9386.JPG
 |           |          |       | Heinz     | Obiditsch   |        1939 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ROSA SCHEINER
@@ -1442,8 +1595,8 @@ PETER PAUL BEHR
 1938  -  2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9387.JPG
 ===Notes:
 
@@ -1457,10 +1610,13 @@ file://./Images_2018\IMG_9387.JPG
 |           |          |       | Peter Paul | Behr        |        1938 |        2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-5-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE EHEHALT
@@ -1469,8 +1625,8 @@ ROSA       1920  -  1986
 GOTTFRIED  1912  -  1995
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9388.JPG
 ===Notes:
 
@@ -1485,10 +1641,13 @@ I think that the inscription means that Rosa is geb. Schürger
 |           |          |       | Gottfried | Ehehalt     |        1912 |        1995 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VITUS AMEND
@@ -1504,8 +1663,8 @@ ADOLF WILH. AMEND
 ✝ 1926
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9389.JPG
 ===Notes:
 
@@ -1521,10 +1680,13 @@ file://./Images_2018\IMG_9389.JPG
 |           |          |       | Adolf Wilhelm | Amend       |             |        1926 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GRESS
@@ -1536,8 +1698,8 @@ WOLFGANG
 * 5.5.1951  ✝ 8.10.2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9390.JPG
 ===Notes:
 
@@ -1551,10 +1713,13 @@ file://./Images_2018\IMG_9390.JPG
 |           |          |       | Wolfgang | Gress       | 05.005.1951 | 08.010.2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Johann Sendelbach
@@ -1571,8 +1736,8 @@ Gerold Sendelbach
 * 8.5.1929  ✝ 30.6.1998
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9391.JPG
 ===Notes:
 
@@ -1589,10 +1754,13 @@ file://./Images_2018\IMG_9391.JPG
 |           |          |       | Gerold    | Sendelbach  | 08.005.1929 | 30.006.1998 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 CHRIST
@@ -1602,8 +1770,8 @@ ALFRED LUDWIG
 1924  -  2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9392.JPG
 ===Notes:
 
@@ -1616,10 +1784,13 @@ file://./Images_2018\IMG_9392.JPG
 |           |          |       | Alfred Ludwig | Christ      |        1924 |        2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -1629,8 +1800,8 @@ THERESIA    1927  -  2009
 KLEMENS     1926  -  2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9393.JPG
 ===Notes:
 
@@ -1645,10 +1816,13 @@ file://./Images_2018\IMG_9393.JPG
 |           |          |       | Klemens   | Ehehalt     |        1926 |        2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER RUHEN IN FRIEDEN
@@ -1667,8 +1841,8 @@ IRMGARD KASAMAS
 * 5.2.1929 - 27.2.2015 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9394.JPG
 ===Notes:
 
@@ -1685,10 +1859,13 @@ file://./Images_2018\IMG_9394.JPG
 |           |          |       | Irmgard    | Kasamas     | 05.002.1929 | 27.002.2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 RIEDMANN
@@ -1700,8 +1877,8 @@ LONI      * 3.6.1924
 FAMILIE KIRSCH
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9395.JPG
 ===Notes:
 
@@ -1715,10 +1892,13 @@ Do not known who FAMILIE KIRSCH refers to.
 |           |          |       | Loni     | Riedmann    | 03.006.1924 | 09.005.2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -1746,8 +1926,8 @@ Josef Götzendörfer
 * 1959  2018 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9396.JPG
 file://./Images_2018\IMG_9397.JPG
 ===Notes:
@@ -1768,10 +1948,13 @@ wooden cross has photo of Josef.
 |           |          |       | Josef  | Götzendörfer  |        1959 |        2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ROMAN ROTH
@@ -1787,8 +1970,8 @@ OSKAR SEUBERT
 1907  -  1993
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9398.JPG
 ===Notes:
 
@@ -1804,10 +1987,13 @@ file://./Images_2018\IMG_9398.JPG
 |           |          |       | Oskar    | Seubert     |        1907 |        1993 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Edmund
@@ -1815,8 +2001,8 @@ Albert
 1931 - 2012
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9399.JPG
 ===Notes:
 
@@ -1828,10 +2014,13 @@ file://./Images_2018\IMG_9399.JPG
 |           |          |       | Edmund   | Albert      |        1931 |        2012 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►wooden cross◄
@@ -1839,8 +2028,8 @@ Hans Greß
 * 8.3.1937  ✝ 15.11.2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9400.JPG
 ===Notes:
 cross has photo of Hans.
@@ -1853,10 +2042,13 @@ cross has photo of Hans.
 |           |          |       | Hans     | Greß        | 08.003.1937 | 15.011.2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SENDELBACH
@@ -1866,8 +2058,8 @@ LEO      * 8.9.1935
          ✝ 2.6.2005
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9401.JPG
 ===Notes:
 
@@ -1880,18 +2072,21 @@ file://./Images_2018\IMG_9401.JPG
 |           |          |       | Leo      | Sendelbach  | 08.009.1935 | 02.006.2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-5-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-5-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 MÜLLER
 HILMAR   * 1933  ✝ 2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9402.JPG
 ===Notes:
 
@@ -1903,10 +2098,13 @@ file://./Images_2018\IMG_9402.JPG
 |           |          |       | Hilmar   | Müller      |        1933 |        2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE BURK
@@ -1921,8 +2119,8 @@ Elisabeth
 1873  -  1942
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9403.JPG
 ===Notes:
 
@@ -1938,10 +2136,13 @@ file://./Images_2018\IMG_9403.JPG
 |           |          |       | Elisabeth | Müller      |        1873 |        1942 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WINTER
@@ -1953,8 +2154,8 @@ ANNI
 PETER u. MARIA HOLLENBERGER
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9404.JPG
 ===Notes:
 
@@ -1969,10 +2170,13 @@ file://./Images_2018\IMG_9404.JPG
 |           |          |       | Maria     | Hollenberger |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruhen in Frieden
@@ -1997,8 +2201,8 @@ HALMICH
 ✝ 15.2.2009
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9405.JPG
 file://./Images_2018\IMG_9406.JPG
 ===Notes:
@@ -2018,10 +2222,13 @@ Nadine's tile does not have a family name, assume it is Halmich.
 |           |          |       | Hildegard | Halmich     | 17.009.1929 | 15.002.2009 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 JOHANN
@@ -2035,8 +2242,8 @@ LAURENZ KASAMAS
 * 1892   1957 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9407.JPG
 ===Notes:
 
@@ -2050,10 +2257,13 @@ file://./Images_2018\IMG_9407.JPG
 |           |          |       | Laurenz  | Kasamas     |        1892 |        1957 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Josef Öchsner
@@ -2066,8 +2276,8 @@ Franz Kasamas
 1.5.1926  -  12.1.2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9408.JPG
 ===Notes:
 
@@ -2082,10 +2292,13 @@ file://./Images_2018\IMG_9408.JPG
 |           |          |       | Franz     | Kasamas     | 01.005.1926 | 12.001.2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 RÓDER
@@ -2095,8 +2308,8 @@ REINHOLD
 1940  -  2006
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9409.JPG
 ===Notes:
 Stone has photos of both.
@@ -2110,10 +2323,13 @@ Stone has photos of both.
 |           |          |       | Reinhold | Róder       |        1940 |        2006 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 KRUG
@@ -2127,8 +2343,8 @@ HEINRICH
 BARBARA u. JOSEF
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9410.JPG
 ===Notes:
 
@@ -2145,10 +2361,13 @@ Assume Barbara & Josef are both Krug.
 |           |          |       | Josef    | Krug        |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HUGO EHEHALT
@@ -2157,8 +2376,8 @@ HEDY EHEHALT
 1908  -  1996
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9411.JPG
 ===Notes:
 
@@ -2171,10 +2390,13 @@ file://./Images_2018\IMG_9411.JPG
 |           |          |       | Hedy     | Ehehalt     |        1908 |        1996 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Köhler
@@ -2184,8 +2406,8 @@ Karin   * 14.1.1944
 Karl u. Walli Sacher
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9412.JPG
 ===Notes:
 
@@ -2199,10 +2421,13 @@ file://./Images_2018\IMG_9412.JPG
 |           |          |       | Walli    | Sacher      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Sendelnach
@@ -2210,8 +2435,8 @@ Susanne   1969  -  2012
 Thea      1933  -  2006
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9413.JPG
 ===Notes:
 
@@ -2224,10 +2449,13 @@ file://./Images_2018\IMG_9413.JPG
 |           |          |       | Thea     | Sendelnach  |        1933 |        2006 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 IN FRIEDEN RUHEN
@@ -2256,8 +2484,8 @@ Edgar Scheiner
 * 1928   2016 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	3
+===Date: 2018
+===Photos: 3
 file://./Images_2018\IMG_9414.JPG
 file://./Images_2018\IMG_9415.JPG
 file://./Images_2018\IMG_9416.JPG
@@ -2265,7 +2493,7 @@ file://./Images_2018\IMG_9416.JPG
 Cross has photo of Edgar
 
 ===Interpretation:
-	
+ 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
@@ -2281,10 +2509,13 @@ Cross has photo of Edgar
 |           |          |       | Edgar    | Scheiner    |        1928 |        2016 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Dürrschmidt
@@ -2294,8 +2525,8 @@ Maria
 * 17.9.1918   ✝ 21.9.2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9417.JPG
 ===Notes:
 
@@ -2308,10 +2539,13 @@ file://./Images_2018\IMG_9417.JPG
 |           |          |       | Maria    | Dürrschmidt | 17.009.1918 | 21.009.2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 fischer
@@ -2320,8 +2554,8 @@ MARIA SCHRAMM
 1919  -  1979
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9418.JPG
 ===Notes:
 
@@ -2334,10 +2568,13 @@ not clear who fischer applies to.
 |           |          |       | Maria    | Schramm     |        1919 |        1979 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-14     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-14 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Marion
@@ -2346,8 +2583,8 @@ Rauer
 ✝ 16.02.2000
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9419.JPG
 ===Notes:
 
@@ -2359,10 +2596,13 @@ file://./Images_2018\IMG_9419.JPG
 |           |          |       | Marion   | Rauer       | 08.003.1966 | 16.002.2000 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-5-15     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-5-15 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hollenberger
@@ -2372,8 +2612,8 @@ Alfred   * 4.2.1956
          ✝ 11.12.2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9420.JPG
 ===Notes:
 Stone has photo of Alfred.
@@ -2388,10 +2628,13 @@ Stone has photo of Alfred.
 
 =========================================================================DIV80==
 ===PID: 2018-3-4-14
-     Coord: []     Ort: "Urspringen"     Stones: 1
+ 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Amalie Greß
@@ -2402,8 +2645,8 @@ Werner Greß
 * 11.1.1924  ✝ 28.10.2000
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9421.JPG
 ===Notes:
 
@@ -2417,10 +2660,13 @@ file://./Images_2018\IMG_9421.JPG
 |           |          |       | Werner    | Greß        | 11.001.1924 | 28.010.2000 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Gordzielik
@@ -2431,8 +2677,8 @@ Gerhard
 * 3.2.1929  ✝ 12.3.2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9422.JPG
 ===Notes:
 Stone has photos of both.
@@ -2447,10 +2693,13 @@ Stone has photos of both.
 |           |          |       | Gerhard   | Gordzielik  | 03.002.1929 | 12.003.2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hire ruhrn in Frieden
@@ -2465,8 +2714,8 @@ Berta Müller
 * 23.2.1933  ✝ 14.7.2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9423.JPG
 ===Notes:
 
@@ -2482,10 +2731,13 @@ file://./Images_2018\IMG_9423.JPG
 |           |          |       | Berta    | Müller      | 23.002.1933 | 14.007.2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Streitrmberger
@@ -2502,8 +2754,8 @@ Gerhard Soer
 * 1946  2017 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9424.JPG
 ===Notes:
 cross has photo of Gerhard.
@@ -2519,10 +2771,13 @@ cross has photo of Gerhard.
 |           |          |       | Gerhard  | Soer           |        1946 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 OTTO KLEIN
@@ -2531,8 +2786,8 @@ JOSEFINE KLEIN
 * 11.11.1897  ✝ 9.9.1973
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9425.JPG
 ===Notes:
 
@@ -2545,10 +2800,13 @@ file://./Images_2018\IMG_9425.JPG
 |           |          |       | Josefine | Klein       | 11.011.1897 | 09.009.1973 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Elisabeth Ehehalt
@@ -2567,8 +2825,8 @@ EHEHALT
 26.3.1965  -  29.3.1965
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	5
+===Date: 2018
+===Photos: 5
 file://./Images_2018\IMG_9426.JPG
 file://./Images_2018\IMG_9427.JPG
 file://./Images_2018\IMG_9428.JPG
@@ -2590,10 +2848,13 @@ TODO   get NEW PHOTO
 |           |          |       | Burkhard Vinzenz | Ehehalt     | 26.003.1965 | 29.003.1965 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Helmut
@@ -2605,8 +2866,8 @@ Gorzolla
 1930  -  2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9431.JPG
 ===Notes:
 
@@ -2619,10 +2880,13 @@ file://./Images_2018\IMG_9431.JPG
 |           |          |       | Theresia | Gorzolla    |        1930 |        2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -2631,8 +2895,8 @@ Leonhard Nätscher
 * 8.2.1927  ✝ 12.3.2010
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9432.JPG
 ===Notes:
 
@@ -2644,10 +2908,13 @@ file://./Images_2018\IMG_9432.JPG
 |           |          |       | Leonhard | Nätscher    | 08.002.1927 | 12.003.2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Ludwig Wiesner
@@ -2658,8 +2925,8 @@ Frieda Wiesner
 * 25.12.1914  ✝ 27.3.1993
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9433.JPG
 ===Notes:
 
@@ -2673,10 +2940,13 @@ file://./Images_2018\IMG_9433.JPG
 |           |          |       | Frieda   | Wiesner     | 25. 12.1914 | 27.003.1993 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FERDINAND
@@ -2697,8 +2967,8 @@ GEORG VOGEL
 HANS VOGEL
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	4
+===Date: 2018
+===Photos: 4
 file://./Images_2018\IMG_9434.JPG
 file://./Images_2018\IMG_9435.JPG
 file://./Images_2018\IMG_9436.JPG
@@ -2718,10 +2988,13 @@ file://./Images_2018\IMG_9437.JPG
 |           |          |       | Hans      | Vogel       |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Wiesner
@@ -2737,8 +3010,8 @@ Uwe
 1996  -  2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9438.JPG
 file://./Images_2018\IMG_9439.JPG
 ===Notes:
@@ -2753,17 +3026,20 @@ Assume Uwe is a Wiesner based on main stone top inscription.
 |           |          |       | Uwe      | Wiesner     |        1996 |        2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WESSNER
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9440.JPG
 ===Notes:
 Only the family name is on the stone. No other info.
@@ -2776,10 +3052,13 @@ Only the family name is on the stone. No other info.
 |           |          |       |          | Wessner     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Villani
@@ -2788,8 +3067,8 @@ Arcangela
 ✝ 15.10.2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9441.JPG
 ===Notes:
 Stone has a photo of Arcangela
@@ -2802,10 +3081,13 @@ Stone has a photo of Arcangela
 |           |          |       | Arcangela | Villani     | 28.006.1933 | 15.010.2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-4-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-4-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -2816,8 +3098,8 @@ KARL u. MARIA EHEHALT
 WENZEL u. KATHARINA SUCHANEK
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9442.JPG
 ===Notes:
 
@@ -2833,10 +3115,13 @@ file://./Images_2018\IMG_9442.JPG
 |           |          |       | Katharina | Suchanek   |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER RUHEN IN FRIEDEN
@@ -2854,8 +3139,8 @@ JOSEFA BECHTOLD GEB. SCHÄFER
 * 15.7.1893  ✝ 25.11.1945
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9443.JPG
 ===Notes:
 
@@ -2874,10 +3159,13 @@ file://./Images_2018\IMG_9443.JPG
 |           |          |       | Josefa   | Schäfer     | 15.007.1893 | 25.011.1945 | b |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Rudolf Albert
@@ -2899,8 +3187,8 @@ Gregor Albert
 * 1916  vermißt seit 1945
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9444.JPG
 ===Notes:
 
@@ -2920,10 +3208,13 @@ file://./Images_2018\IMG_9444.JPG
 |           |          |       | Gregor    | Albert      |        1916 |        1945 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER RUHEN UN FRIEDEN
@@ -2939,8 +3230,8 @@ ZUM GEDENKEN AN
 ►??????????◄
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9445.JPG
 ===Notes:
 TODO   get NEW PHOTO
@@ -2954,10 +3245,13 @@ TODO   get NEW PHOTO
 |           |          |       | Ignaz    | Wiesner     | 31.007.1877 | 14.007.1955 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Irmgard Horn  * 5.11.1923  ✝ 27.3.1941
@@ -2965,8 +3259,8 @@ Georg Horn    * 22.10.1894  ✝ 4.2.1966
 Anna Horn    * 30.7.1896   ✝ 7.1.1987
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9446.JPG
 ===Notes:
 
@@ -2980,10 +3274,13 @@ file://./Images_2018\IMG_9446.JPG
 |           |          |       | Anna     | Horn        | 30.007.1896 | 07.001.1987 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Leopold Roth
@@ -2994,8 +3291,8 @@ Anton Roth
 * 21.11.1936  ✝ 21.6.1981
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9447.JPG
 ===Notes:
 
@@ -3009,10 +3306,13 @@ file://./Images_2018\IMG_9447.JPG
 |           |          |       | Anton    | Roth        | 21.011.1936 | 21.006.1981 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruht
@@ -3023,8 +3323,8 @@ Oujezdsry
 * 7.7.1928  ✝ 8.7.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9448.JPG
 ===Notes:
 
@@ -3036,10 +3336,13 @@ file://./Images_2018\IMG_9448.JPG
 |           |          |       | Willibald | Oujezdsry   | 07.007.1928 | 08.007.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ✠  Valentin Schebler
@@ -3054,8 +3357,8 @@ Alma Ehehalt
 1908  -  1963
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9449.JPG
 ===Notes:
 
@@ -3071,10 +3374,13 @@ file://./Images_2018\IMG_9449.JPG
 |           |          |       | Alma     | Ehehalt     |        1908 |        1963 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ROTH EVA
@@ -3087,8 +3393,8 @@ ROTH HEINRICH
 * 15.12.1931  ✝ 2.4.1980
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9450.JPG
 ===Notes:
 
@@ -3103,10 +3409,13 @@ file://./Images_2018\IMG_9450.JPG
 |           |          |       | Heinrich | Roth        | 15.012.1931 | 02.004.1980 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Johann Greger
@@ -3117,8 +3426,8 @@ Franziska Greger
 ►???◄
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9451.JPG
 ===Notes:
 Last line of stone is unreadable
@@ -3133,18 +3442,21 @@ TODO   get NEW PHOTO
 |           |          |       | Franziska | Greger      | 17.006.1910 | 17.008.1982 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Familie
 Scheiner
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9452.JPG
 ===Notes:
 
@@ -3156,10 +3468,13 @@ file://./Images_2018\IMG_9452.JPG
 |           |          |       |          | Scheiner    |             |             |   |
 
 =========================================================================DIV80==
-U===PID: 2018-2-4-02     Coord: []     Ort: "Urspringen"     Stones: 1
+U===PID: 2018-2-4-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Rosa Müller
@@ -3173,8 +3488,8 @@ Alma Müller
 * 30.10.1938  ✝ 13.3.2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9453.JPG
 ===Notes:
 
@@ -3190,10 +3505,13 @@ file://./Images_2018\IMG_9453.JPG
 |           |          |       | Alma     | Müller      | 30.010.1938 | 13.003.2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-4-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-4-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -3205,8 +3523,8 @@ SCHEINER
 OTTO  1931  -  2013
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9454.JPG
 ===Notes:
 stone has a photo of Otto.
@@ -3222,10 +3540,13 @@ stone has a photo of Otto.
 |           |          |       | Otto     | Scheiner    |        1931 |        2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Franziska Amrehn
@@ -3233,8 +3554,8 @@ geb. Albert
 * 27.4.1948  ✝ 19.11.2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9455.JPG
 ===Notes:
 
@@ -3247,10 +3568,13 @@ file://./Images_2018\IMG_9455.JPG
 |           |          |       | Franziska  | Albert    | 27.004.1948 | 19.011.2004 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Lukas
@@ -3258,8 +3582,8 @@ Paul
 * 16.9.1949  ✝ 4.11.2016
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9456.JPG
 ===Notes:
 
@@ -3271,10 +3595,13 @@ file://./Images_2018\IMG_9456.JPG
 |           |          |       | Paul     | Lukas       | 16.009.1949 | 04.011.2016 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHEBlER
@@ -3284,8 +3611,8 @@ ELIDA
 * 20.2.1926  ✝ 14.11.2006
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9457.JPG
 ===Notes:
 
@@ -3298,10 +3625,13 @@ file://./Images_2018\IMG_9457.JPG
 |           |          |       |  Elida   | Schebler    | 20.002.1926 | 14.011.2006 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Wiesner
@@ -3313,8 +3643,8 @@ Waltraud geb. Albert
 * 6.6.1958  ✝ 11.12.1996
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9458.JPG
 ===Notes:
 
@@ -3330,10 +3660,13 @@ file://./Images_2018\IMG_9458.JPG
 |           |          |       | Waltraud | Albert      | 06.006.1958 | 11.012.1996 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GEORG WIESNER
@@ -3350,8 +3683,8 @@ GREGOR WIESNER
 MEI JESUS MARMHERZIGKEIT.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9459.JPG
 ===Notes:
 
@@ -3368,10 +3701,13 @@ file://./Images_2018\IMG_9459.JPG
 |           |          |       | Gregor   | Wiesner     | 19.011.1911 | 22.010.1999 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Ehehalt
@@ -3385,8 +3721,8 @@ Hermine
 1924  -  2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9460.JPG
 ===Notes:
 
@@ -3400,10 +3736,13 @@ file://./Images_2018\IMG_9460.JPG
 |           |          |       | Hermine  | Fischer     |        1924 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hessdörfer
@@ -3416,8 +3755,8 @@ Hessdörfer
 Familie Kraus
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9461.JPG
 ===Notes:
 
@@ -3433,10 +3772,13 @@ file://./Images_2018\IMG_9461.JPG
 |           |          |       | Hugo     | Kraus       |        1902 |        1982 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Christus ist Sieger
@@ -3452,8 +3794,8 @@ geb. Ehehalt
 * 23.10.1904  ✝ 1.4.1996
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9462.JPG
 ===Notes:
 
@@ -3470,10 +3812,13 @@ file://./Images_2018\IMG_9462.JPG
 |           |          |       | Elisabeth | Ehehalt     | 23.010.1904 | 01.004.1996 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ALFONS SCHNARR
@@ -3483,8 +3828,8 @@ GEB. ULLRICH
 19.11.1923  --  29.8.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9463.JPG
 ===Notes:
 
@@ -3498,10 +3843,13 @@ file://./Images_2018\IMG_9463.JPG
 |           |          |       | Elisabeth | Ullrich     | 19.011.1923 | 29.008.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-4-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-4-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruht in Gott
@@ -3513,8 +3861,8 @@ gest. 1825 zu Urspringen
 Sein Anderken Heiseimgen
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9464.JPG
 ===Notes:
 Very approximate transcription. Old script inscription difficult to read.
@@ -3528,10 +3876,13 @@ This monument appears at the end of a row.
 |           |          |       | Adam     | Tierhrilig  |        1756 |        1825 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHNARR
@@ -3540,8 +3891,8 @@ HERMANN   1921  -  1985
 AGNES     1930  -  2010
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9465.JPG
 ===Notes:
 
@@ -3555,10 +3906,13 @@ file://./Images_2018\IMG_9465.JPG
 |           |          |       | Agnes    | Schnarr     |        1930 |        2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Scheiner
@@ -3571,8 +3925,8 @@ Helmut Scheiner
 * 1929  2018 ✝ 
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9466.JPG
 ===Notes:
 cross has a photo of Helmut.
@@ -3586,10 +3940,13 @@ cross has a photo of Helmut.
 |           |          |       | Helmut   | Scheiner    |        1929 |        2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Albin Schürger
@@ -3600,8 +3957,8 @@ Rosa Schürger
 ✝ 23.10.2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9467.JPG
 ===Notes:
 
@@ -3614,10 +3971,13 @@ file://./Images_2018\IMG_9467.JPG
 |           |          |       | Rosa     | Schürger    | 15.007.1914 | 23.010.2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Man verliert immer das,
@@ -3631,8 +3991,8 @@ ERICH
 Alois u. Franziska Scheiner
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9468.JPG
 ===Notes:
 
@@ -3646,10 +4006,13 @@ file://./Images_2018\IMG_9468.JPG
 |           |          |       | Franziska | Scheiner    |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Valentin Hepp
@@ -3666,8 +4029,8 @@ Karl Hepp
 * 1930  ✝ 2012
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9469.JPG
 ===Notes:
 
@@ -3684,10 +4047,13 @@ file://./Images_2018\IMG_9469.JPG
 |           |          |       | Karl     | Hepp        |        1930 |        2012 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Christus ist Sieger
@@ -3699,8 +4065,8 @@ Josef Eyrich
 * 29.7.1898  ✝ 17.3.1984
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9470.JPG
 ===Notes:
 
@@ -3714,10 +4080,13 @@ file://./Images_2018\IMG_9470.JPG
 |           |          |       | Josef    | Eyrich      | 29.007.1898 | 17.003.1984 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -3725,8 +4094,8 @@ RUDI
 * 11.5.1931  ✝ 9.10.2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9471.JPG
 ===Notes:
 
@@ -3738,10 +4107,13 @@ file://./Images_2018\IMG_9471.JPG
 |           |          |       | Rudi     | Vogel       | 11.005.1931 | 09.010.2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►free standing engraved tile◄
@@ -3749,8 +4121,8 @@ Hiltrud Heyn-Schatz
 * 7.10.1921  ✝ 17.3.1999
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9472.JPG
 ===Notes:
 
@@ -3762,10 +4134,13 @@ file://./Images_2018\IMG_9472.JPG
 |           |          |       | Hiltrud  | Heyn-Schatz | 07.010.1921 | 17.003.1999 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hupp
@@ -3773,8 +4148,8 @@ Rosa
 * 14.2.1922  ✝ 1.9.2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9473.JPG
 ===Notes:
 
@@ -3786,10 +4161,13 @@ file://./Images_2018\IMG_9473.JPG
 |           |          |       | Rosa     | Hupp        | 14.002.1922 | 01.009.2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-3-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-3-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 UEHLEIN
@@ -3810,8 +4188,8 @@ Hugo Uehlein
 * 1923  ✝ 2018
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	5
+===Date: 2018
+===Photos: 5
 file://./Images_2018\IMG_9474.JPG
 file://./Images_2018\IMG_9475.JPG
 file://./Images_2018\IMG_9476.JPG
@@ -3833,10 +4211,13 @@ cross has photo of Hugo.
 |           |          |       | Hugo     | Uehlein     |        1923 |        2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ANTONE
@@ -3845,8 +4226,8 @@ SCHRECK
 ✝ 1987
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9479.JPG
 ===Notes:
 
@@ -3858,10 +4239,13 @@ file://./Images_2018\IMG_9479.JPG
 |           |          |       | Antone   | Schreck     |        1904 |        1987 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Strohmenger
@@ -3871,8 +4255,8 @@ Ernst    * 8.1.1928
 August u. Barbara Strohmenger
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9480.JPG
 ===Notes:
 
@@ -3886,10 +4270,13 @@ file://./Images_2018\IMG_9480.JPG
 |           |          |       | Barbara  | Strohmenger |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GEORG ÖHRING
@@ -3906,8 +4293,8 @@ MARKUS
 DANIEL
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9481.JPG
 ===Notes:
 
@@ -3926,10 +4313,13 @@ Assume Markus and Daniel are Öhrings.
 |           |          |       | Daniel   | Öhring      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Rapps
@@ -3941,8 +4331,8 @@ Elise Schäfer
 * 13.7.1907  ✝ 22.4.1981
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9482.JPG
 ===Notes:
 
@@ -3956,10 +4346,13 @@ file://./Images_2018\IMG_9482.JPG
 |           |          |       | Elise    | Schäfer     | 13.007.1907 | 22.004.1981 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -3996,8 +4389,8 @@ geb. Schäfer
 Auf Wiedersehen!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9483.JPG
 ===Notes:
 
@@ -4015,10 +4408,13 @@ file://./Images_2018\IMG_9483.JPG
 |           |          |       | Rosa     | Schäfer     | 18.010.1907 | 16.001.1989 | b |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FISCHER
@@ -4031,8 +4427,8 @@ GERHARD    1942  -  1997
 ROBERT MÜLLER  1920  -  2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9484.JPG
 ===Notes:
 
@@ -4047,10 +4443,13 @@ file://./Images_2018\IMG_9484.JPG
 |           |          |       | Robert   | Müller      |        1920 |        2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruhen in Gott
@@ -4071,8 +4470,8 @@ Nik. Hollenberger  ✝ 1943
 * 1892 Mina Hollenberger  ✝ 1973
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9485.JPG
 file://./Images_2018\IMG_9486.JPG
 ===Notes:
@@ -4094,10 +4493,13 @@ Assume Nik. is Niklaus
 |           |          |       | Mina     | Hollenberger |        1892 |        1973 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 AMALIE ALBERT      29·5·1885  -  5·1·1916
@@ -4109,8 +4511,8 @@ EDI ALBERT         15·6·1915  -  5·5·1989
 BERTA ALBERT        1·9·1917  -  24·8·2009
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9487.JPG
 ===Notes:
 
@@ -4128,10 +4530,13 @@ file://./Images_2018\IMG_9487.JPG
 |           |          |       | Berta      | Albert      | 01.009.1917 | 24.008.2009 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Droll
@@ -4144,8 +4549,8 @@ geb. Droll
 1929  -  2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9488.JPG
 ===Notes:
 
@@ -4159,10 +4564,13 @@ file://./Images_2018\IMG_9488.JPG
 |           |          |       | Luzie    | Droll       |        1929 |        2015 | b |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SEUBERT
@@ -4174,8 +4582,8 @@ DORN
 RUDOLF    1952  -  2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9489.JPG
 ===Notes:
 Photo on stone for Rudolf.
@@ -4191,10 +4599,13 @@ Photo on stone for Rudolf.
 |           |          |       | Rudolf   | Dorn        |        1952 |        2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GRESS
@@ -4208,8 +4619,8 @@ HANS JÜRGEN
 ✝ 2018
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9490.JPG
 file://./Images_2018\IMG_9491.JPG
 ===Notes:
@@ -4225,10 +4636,13 @@ Photo of Hans Jürgen on monument.
 |           |          |       | Hans Jürgen | Bouscher    |        1965 |        2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -4238,8 +4652,8 @@ MARIANNE  * 16.11.1925
           ✝ 24.12.2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9492.JPG
 ===Notes:
 
@@ -4252,10 +4666,13 @@ file://./Images_2018\IMG_9492.JPG
 |           |          |       | Marianne | Vogel       | 16.011.1925 | 24.012.2008 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Ullrich
@@ -4269,8 +4686,8 @@ Cornelia Ullrich
 * 1961  ✝ 1961
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9493.JPG
 ===Notes:
 
@@ -4285,10 +4702,13 @@ file://./Images_2018\IMG_9493.JPG
 |           |          |       | Cornelia | llrich      |        1961 |        1961 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-3-14     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-3-14 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruhen in Gottes Frieden
@@ -4307,8 +4727,8 @@ Katharina Steinhauer
 ✝ 18.2.1978
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9494.JPG
 ===Notes:
 
@@ -4323,10 +4743,13 @@ file://./Images_2018\IMG_9494.JPG
 |           |          |       | Katharina | Steinhauer  | 21.011.1900 | 18.002.1978 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Frieden
@@ -4352,8 +4775,8 @@ Anna Ehehalt
 1850  -  1939
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9495.JPG
 ===Notes:
 
@@ -4371,10 +4794,13 @@ file://./Images_2018\IMG_9495.JPG
 |           |          |       | Anna     | Ehehalt     |        1850 |        1939 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE OTTER
@@ -4384,8 +4810,8 @@ DORA  * 1898  ✝ 1974
 IM GEDENKEN FAM. HARTMANN
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9496.JPG
 ===Notes:
 
@@ -4399,10 +4825,13 @@ file://./Images_2018\IMG_9496.JPG
 |           |          |       |          | Hartmann    |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Leininger
@@ -4414,8 +4843,8 @@ Lissi  * 4.1.1929
 Josef und Christine
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9497.JPG
 ===Notes:
 
@@ -4431,10 +4860,13 @@ Assume Josef & Christine are Leininger
 |           |          |       | Christine | Leininger   |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER RUHEN IN GOTT
@@ -4466,8 +4898,8 @@ HART
 ✝ 5.12.1982
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9498.JPG
 ===Notes:
 
@@ -4485,10 +4917,13 @@ file://./Images_2018\IMG_9498.JPG
 |           |          |       | Thekla     | Hart        | 12.009.1906 | 05.012.1982 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WALTER PIETSCH
@@ -4502,8 +4937,8 @@ Hasso Pietsch
 * 1931  ✝ 2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9499.JPG
 ===Notes:
 Buchhalter = Accountant
@@ -4518,10 +4953,13 @@ photo of Hasso on the cross.
 |           |          |       | Hasso    | Pietsch     |        1931 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SENDELBACH
@@ -4538,8 +4976,8 @@ AUGUSTE VOGEL
 1875  -  1939
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9500.JPG
 ===Notes:
 
@@ -4555,10 +4993,13 @@ file://./Images_2018\IMG_9500.JPG
 |           |          |       | Auguste  | Vogel       |        1875 |        1939 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 RUHESTÄTE SIEGLER
@@ -4574,8 +5015,8 @@ EHRENBÜRGER
 1897  -  1992
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9501.JPG
 ===Notes:
 Ehrenbürger = Honorary Citizen, A distinguished honor given by a city.
@@ -4590,10 +5031,13 @@ Ehrenbürger = Honorary Citizen, A distinguished honor given by a city.
 |           |          |       | Max      | Siegler     |        1897 |        1992 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Lutz
@@ -4602,8 +5046,8 @@ Brigitte
 ✝ 03.02.2015
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9502.JPG
 ===Notes:
 
@@ -4615,10 +5059,13 @@ file://./Images_2018\IMG_9502.JPG
 |           |          |       | Brigitte | Lutz        | 17.008.1947 | 03.002.2015 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 heiligstes herz Jesu, erbarme Dich ihrer!
@@ -4641,8 +5088,8 @@ Leo Albert
 Ruheshätte familie Albert.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9503.JPG
 ===Notes:
 
@@ -4659,10 +5106,13 @@ file://./Images_2018\IMG_9503.JPG
 |           |          |       | Leo       | Albert      | 08.912.1917 | 16.010.1943 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HANNI
@@ -4670,8 +5120,8 @@ GRESS
 1937  -  1986
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9504.JPG
 ===Notes:
 
@@ -4683,10 +5133,13 @@ file://./Images_2018\IMG_9504.JPG
 |           |          |       | Hanni    | Gress       |        1937 |        1986 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 LEO WIESNER
@@ -4702,8 +5155,8 @@ FERDL WIESNER
 UNVERGESSEN!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9505.JPG
 ===Notes:
 
@@ -4718,10 +5171,13 @@ file://./Images_2018\IMG_9505.JPG
 |           |          |       | Ferdl    | Wiesner     | 10.002.1934 | 01.008.2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-3-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-3-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WEIMANN
@@ -4730,8 +5186,8 @@ ANNA       1902  -  1973
 ALFRED     1925  -  1990
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9506.JPG
 ===Notes:
 
@@ -4745,10 +5201,13 @@ file://./Images_2018\IMG_9506.JPG
 |           |          |       | Alfred    | Weimann     |        1925 |        1990 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-142018     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-142018 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SEUBERT
@@ -4758,8 +5217,8 @@ ELSA
 1924 - 2003
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9507.JPG
 ===Notes:
 
@@ -4772,10 +5231,13 @@ file://./Images_2018\IMG_9507.JPG
 |           |          |       | Elsa     | Seubert     |        1924 |        2003 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WIESNER
@@ -4784,8 +5246,8 @@ Frieda   1914  -  2010
 Dieter   1942  -  2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9508.JPG
 ===Notes:
 
@@ -4799,10 +5261,13 @@ file://./Images_2018\IMG_9508.JPG
 |           |          |       | Dieter   | Wiesner     |        1942 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE
@@ -4813,8 +5278,8 @@ DR. JOSEF
 * 1930  ✝ 2002
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9509.JPG
 ===Notes:
 
@@ -4827,10 +5292,13 @@ file://./Images_2018\IMG_9509.JPG
 |           |          |       | Josef    | Behringer   |        1930 |       2002  |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 JOSEF KRATZER
@@ -4842,8 +5310,8 @@ ERWIN KRATZER
 TÖDL. VERUGLÜCKT
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9510.JPG
 ===Notes:
 
@@ -4857,10 +5325,13 @@ file://./Images_2018\IMG_9510.JPG
 |           |          |       | Erwin    | Kratzer     | 09.007.1951 | 23.004.1969 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -4880,8 +5351,8 @@ MARGOT
 1940  -  2009
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9511.JPG
 ===Notes:
 
@@ -4899,10 +5370,13 @@ file://./Images_2018\IMG_9511.JPG
 
 =========================================================================DIV80==
 2018-3-2-09
-===PID: 2018     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Familie Albert
@@ -4920,8 +5394,8 @@ Martin Ehehalt
 * 1964  ✝ 1997 
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9512.JPG
 ===Notes:
 The top line of death dates does not indicate who died.
@@ -4944,10 +5418,13 @@ Attachment has a photo of Martin. (he looks young)
 |           |          |       | Martin   | Ehehalt     |        1964 |        1997 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -4967,8 +5444,8 @@ Agnes Vogel
 R.I.P.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9513.JPG
 ===Notes:
 
@@ -4985,10 +5462,13 @@ file://./Images_2018\IMG_9513.JPG
 |           |          |       | Agnes    | Vogel       | 05.012.1911 | 01.006.2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Lydia Hanft
@@ -5011,8 +5491,8 @@ Walter Krieg
 Jngenieur
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9514.JPG
 ===Notes:
 
@@ -5027,10 +5507,13 @@ file://./Images_2018\IMG_9514.JPG
 |           |          |       | Walter   | Krieg       | 16.007.1909 | 25.003.1945 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gottes Frieden
@@ -5056,8 +5539,8 @@ SENDELBACH
 IN KROAYIEN
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9515.JPG
 ===Notes:
 Assume A. Maria is Anna Maria.
@@ -5076,10 +5559,13 @@ Assume A. Maria is Anna Maria.
 |           |          |       | Ernst      | Sendelbach  | 20.010.1922 | 23.001.1945 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ÖCHSNER
@@ -5089,8 +5575,8 @@ WALTER      1934  -  2017
 JOSEF u. JUSTINE
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9516.JPG
 ===Notes:
 
@@ -5105,10 +5591,13 @@ file://./Images_2018\IMG_9516.JPG
 |           |          |       | Justine   | Öchsner     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HEINRICH OHRLEIN
@@ -5119,8 +5608,8 @@ REINHEOLD OHRLEIN
 1941  -  1976
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9517.JPG
 ===Notes:
 
@@ -5134,10 +5623,13 @@ file://./Images_2018\IMG_9517.JPG
 |           |          |       | Reinheold | Ohrlein     |        1941 |        1976 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-2-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-2-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -5149,8 +5641,8 @@ FRIEDA      * 14.7.1919  ✝ 14.2.2013
 ALFRED      * 21.7.1920  ✠ 17.12.1941
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9518.JPG
 ===Notes:
 
@@ -5167,10 +5659,13 @@ file://./Images_2018\IMG_9518.JPG
 
 =========================================================================DIV80==
 2018-3-2-02
-===PID: 2018     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Krug
@@ -5185,8 +5680,8 @@ Elisabeth     1893  - 1981
 Justine      1922  -  ►????◄
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9519.JPG
 ===Notes:
 Justine's date obscured by vegetation.
@@ -5206,10 +5701,13 @@ TODO   get NEW PHOTO
 
 =========================================================================DIV80==
 2018-3-2-01
-===PID: 2018     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -5221,8 +5719,8 @@ Lambert Ehehalt
 * 1939   ✝ 2018
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9520.JPG
 file://./Images_2018\IMG_9521.JPG
 ===Notes:
@@ -5237,10 +5735,13 @@ file://./Images_2018\IMG_9521.JPG
 |           |          |       | Lambert   | Ehehalt     |        1939 |        2018 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 KARL BARTHEL
@@ -5279,10 +5780,13 @@ file://./Images_2018\IMG_9522.JPG
 |           |          |       | Alfons   | Bathel      | 01.001.1921 | 21. 08.1944 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -5294,8 +5798,8 @@ CHRISTINE GEB. VOGEL
 MARIA u. EUGENIE MEHLER
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9523.JPG
 ===Notes:
 Stone has a photo of Christine
@@ -5312,10 +5816,13 @@ Stone has a photo of Christine
 |           |          |       | Eugenie   | Mehler      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHMITT
@@ -5325,8 +5832,8 @@ SCHMITT
 Max u. Lina
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9524.JPG
 ===Notes:
 
@@ -5341,10 +5848,13 @@ file://./Images_2018\IMG_9524.JPG
 |           |          |       | Lina     | Schmitt     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FRANZ GEIGER
@@ -5355,8 +5865,8 @@ JOHANNA GEIGER
 1921 - 2011
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9525.JPG
 ===Notes:
 
@@ -5370,10 +5880,13 @@ file://./Images_2018\IMG_9525.JPG
 |           |          |       | Johanna  | Geiger      |        1921 |        2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►center◄
@@ -5403,8 +5916,8 @@ Rudolf Eurich
 * 28.11.1931  ✝ 15,12,1993
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9526.JPG
 ===Notes:
 
@@ -5423,10 +5936,13 @@ file://./Images_2018\IMG_9526.JPG
 |           |          |       | Rudolf   | Eurich      | 28.011.1931 | 15.012.1993 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 STAMM
@@ -5438,8 +5954,8 @@ LUDWINA   1891 - 1962
 KLEMENS   1924 ✠ 1943
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9527.JPG
 ===Notes:
 
@@ -5455,10 +5971,13 @@ file://./Images_2018\IMG_9527.JPG
 |           |          |       | Klemens  | Stamm       |        1924 |        1943 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►left side◄
@@ -5484,8 +6003,8 @@ segne mich,
 dein kind
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9528.JPG
 file://./Images_2018\IMG_9529.JPG
 ===Notes:
@@ -5504,10 +6023,13 @@ TODO   get NEW PHOTO of tile etc
 |           |          |       | Paul     | Ehehalt     |        1932 |        2012 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SENDELBACH
@@ -5527,8 +6049,8 @@ Es bleibt die Liebe
 und Erinnerung.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9530.JPG
 file://./Images_2018\IMG_9531.JPG
 ===Notes:
@@ -5548,10 +6070,13 @@ Guess Georg & Maria are Sendelbach.
 |           |          |       | Maria    | Sendelbach  |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE GREß
@@ -5563,8 +6088,8 @@ FAMILIE BURK
 REINHOLD  1939   ✝ 1995
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9532.JPG
 ===Notes:
 
@@ -5579,10 +6104,13 @@ file://./Images_2018\IMG_9532.JPG
 |           |          |       | Reinhold | Burk        |        1939 |        1995 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SENDELBACH
@@ -5596,8 +6124,8 @@ LUDWIG
 * 1906  ✝ 1994
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9533.JPG
 ===Notes:
 
@@ -5610,10 +6138,13 @@ file://./Images_2018\IMG_9533.JPG
 |           |          |       | Rosa     | Ludwig      |       1906  |        1994 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►left side◄
@@ -5637,8 +6168,8 @@ ERIKA OTTER
 GIB UNS DEN FRIEDEN
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9534.JPG
 ===Notes:
 
@@ -5655,10 +6186,13 @@ file://./Images_2018\IMG_9534.JPG
 |           |          |       | Erika    | Otter       | 10.011.1928 | 08.003.2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gott
@@ -5682,8 +6216,8 @@ Edwin Reinhert
 * 2.8.1929  ✝ 22.7.2992
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9535.JPG
 ===Notes:
 
@@ -5701,10 +6235,13 @@ file://./Images_2018\IMG_9535.JPG
 |           |          |       | Edwin     | Reinhert    | 02.008.1929 | 22.007.2992 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-2-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-2-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VÄTH
@@ -5714,8 +6251,8 @@ FRANZ    1937  -  1979
 KORNEL u. RITA EHEHALT
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9536.JPG
 ===Notes:
 
@@ -5729,10 +6266,13 @@ file://./Images_2018\IMG_9536.JPG
 |           |          |       | Rita     | Ehehalt     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -5740,8 +6280,8 @@ NORBERT
 17.3.1928  -  28.8.1989
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9537.JPG
 ===Notes:
 
@@ -5753,10 +6293,13 @@ file://./Images_2018\IMG_9537.JPG
 |           |          |       | Norbert  | Ehehalt     | 17.003.1928 | 28.008.1989 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 JOSEF AMEND
@@ -5768,8 +6311,8 @@ HEDWIG ALBERT
 15.7.1934 - 28.6.2017
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9538.JPG
 ===Notes:
 
@@ -5783,10 +6326,13 @@ file://./Images_2018\IMG_9538.JPG
 |           |          |       | Hedwig   | Albert      | 15.007.1934 | 28.006.2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 OTMAR KRUG
@@ -5797,8 +6343,8 @@ GOTTFRIED KRUG
 * 4.11.1893  ✝ 17.4.1958
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9539.JPG
 ===Notes:
 
@@ -5812,10 +6358,13 @@ file://./Images_2018\IMG_9539.JPG
 |           |          |       | Gottfried | Krug        | 04.011.1893 | 17.004.1958 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 in Gottes Frieden ruhen
@@ -5843,8 +6392,8 @@ Fritz Hauf
 Unser Trost ist Wiedersehem.
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9540.JPG
 ===Notes:
 
@@ -5862,10 +6411,13 @@ file://./Images_2018\IMG_9540.JPG
 |           |          |       | Fritz    | Hauf        | 09.004.1941 | 30.008.2016 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 RIEDMANN
@@ -5874,8 +6426,8 @@ KARL       1917 - 1005
 WINFRIED   1950 - 1997
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9541.JPG
 ===Notes:
 
@@ -5889,10 +6441,13 @@ file://./Images_2018\IMG_9541.JPG
 |           |          |       | Winfried | Riedmann    |        1950 |        1997 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SUSANNA GORZOLLA
@@ -5905,8 +6460,8 @@ JOSEF
 1928 - 2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9542.JPG
 ===Notes:
 
@@ -5920,10 +6475,13 @@ file://./Images_2018\IMG_9542.JPG
 |           |          |       | Josef     | Kuzniar     |        1928 |        2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 KARL SCHMITT
@@ -5936,8 +6494,8 @@ Gerhart Biener
 * 1952    2017 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	3
+===Date: 2018
+===Photos: 3
 file://./Images_2018\IMG_9543.JPG
 file://./Images_2018\IMG_9544.JPG
 file://./Images_2018\IMG_9545.JPG
@@ -5953,10 +6511,13 @@ file://./Images_2018\IMG_9545.JPG
 |           |          |       | Gerhart  | Biener      |        1952 |        2017 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Christus ist Sieger
@@ -5970,8 +6531,8 @@ geb Rüb
 Unser Troust ist Wiedersehen
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9546.JPG
 ===Notes:
 
@@ -5985,10 +6546,13 @@ file://./Images_2018\IMG_9546.JPG
 |           |          |       | Anna     | Rüb         | 04.010.1909 | 02.001.1978 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-2-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-2-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Ehehalt
@@ -5997,8 +6561,8 @@ Werner        1931 - 2006
 Elisabeth     1952 - 2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9547.JPG
 ===Notes:
 
@@ -6012,10 +6576,13 @@ file://./Images_2018\IMG_9547.JPG
 |           |          |       | Elisabeth  | Ehehalt     |        1952 |        2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-1-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-1-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruhen in Frieden
@@ -6047,8 +6614,8 @@ RUDOLF OTTER
 AUF DER KRIM
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9548.JPG
 ===Notes:
 
@@ -6068,10 +6635,13 @@ file://./Images_2018\IMG_9548.JPG
 |           |          |       | Rudolf   | Otter       | 01.002.1911 | 24.009.1941 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-1-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-1-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 EHEHALT
@@ -6081,8 +6651,8 @@ THERESIA   1915  - 1006
 FRANZ U. ROSALIA
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9549.JPG
 ===Notes:
 
@@ -6097,10 +6667,13 @@ file://./Images_2018\IMG_9549.JPG
 |           |          |       | Rosalia  | Ehehalt     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-1-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-1-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE AMEND
@@ -6114,8 +6687,8 @@ IDA    1912
 BARBARA VÖLKER
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9550.JPG
 ===Notes:
 
@@ -6129,10 +6702,13 @@ file://./Images_2018\IMG_9550.JPG
 |           |          |       | Barbara  | Völker      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-1-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-1-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER HARREN DER AUFERSTEHUNG
@@ -6163,8 +6739,8 @@ GEB. ENDRES
 FRIEDE SEI EUCH IN GOTT!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9551.JPG
 ===Notes:
 
@@ -6183,10 +6759,13 @@ Assume HEDW. is Hedwig.
 |           |          |       | Emma      | Endres      | 11.008.1878 | 31.001.1926 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-1-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-1-1-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►center◄
@@ -6217,8 +6796,8 @@ WENZEL
 IN URSPRINGEN
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9552.JPG
 ===Notes:
 
@@ -6238,10 +6817,13 @@ file://./Images_2018\IMG_9552.JPG
 |           |          |       | Norbert-B. | Wenzel      |        1923 |        1982 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 AUGUST HORN
@@ -6256,8 +6838,8 @@ HELMUT SEUFERT
 1918 ROMAN HORN 1943
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	3
+===Date: 2018
+===Photos: 3
 file://./Images_2018\IMG_9554.JPG
 file://./Images_2018\IMG_9555.JPG
 file://./Images_2018\IMG_9556.JPG
@@ -6275,10 +6857,13 @@ file://./Images_2018\IMG_9556.JPG
 |           |          |       | Roman    | Horn        |        1918 |        1943 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Gottfried Ehehalt
@@ -6294,8 +6879,8 @@ Maria Öhrlein
 Gottfried u. Ottilie Ehehalt
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9557.JPG
 ===Notes:
 
@@ -6312,10 +6897,13 @@ file://./Images_2018\IMG_9557.JPG
 |           |          |       | Ottilie   | Ehehalt     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 GRESS
@@ -6326,8 +6914,8 @@ GRESS
 KARL  WIESNER  MATHILDE
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9558.JPG
 ===Notes:
 
@@ -6343,10 +6931,13 @@ Assume "KARL  WIESNER  MATHILDE" means KARL WIESNER & MATHILDE WIESNER.
 |           |          |       | Mathilde | Wiesner     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Eyrich
@@ -6357,8 +6948,8 @@ Gertud   1925  -  2016
 Roman  ✠  Erwin
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9559.JPG
 ===Notes:
 
@@ -6374,10 +6965,13 @@ file://./Images_2018\IMG_9559.JPG
 |           |          |       | Erwin    | Eyrich      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 VOGEL
@@ -6385,8 +6979,8 @@ IRMGARD
 * 18.3.1931   ✝ 10.1.2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9560.JPG
 ===Notes:
 
@@ -6398,10 +6992,13 @@ file://./Images_2018\IMG_9560.JPG
 |           |          |       | Irmgard  | Vogel       | 18.003.1931 | 10.001.2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HELMUT HART
@@ -6410,8 +7007,8 @@ HELMUT HART
 HEINRICH U. ALOISA ALBERT
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9561.JPG
 ===Notes:
 
@@ -6425,10 +7022,13 @@ file://./Images_2018\IMG_9561.JPG
 |           |          |       | Aloisa   | Albert      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 TEUBERT
@@ -6441,8 +7041,8 @@ EDUARD
 1933  -  2005
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9562.JPG
 ===Notes:
 
@@ -6456,10 +7056,13 @@ file://./Images_2018\IMG_9562.JPG
 |           |          |       | Eduard   | Teubert     |        1933 |        2005 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Ruppe
@@ -6467,8 +7070,8 @@ Ruppe
 Ludwig u. Frieda Otter
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9563.JPG
 ===Notes:
 
@@ -6483,10 +7086,13 @@ file://./Images_2018\IMG_9563.JPG
 |           |          |       | Frieda   | Otter |     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruhen in Gott
@@ -6509,8 +7115,8 @@ Maria Ehehalt
 * 18.6.1922  August Ehehalt  verm. 6.5.1943
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9564.JPG
 ===Notes:
 
@@ -6528,10 +7134,13 @@ Assume Ludwig Jos. Ehehalt is Ludwig Josef Ehehalt
 |           |          |       | August       | Ehehalt     | 18.006.1922 | 06.005.1943 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in Gottes Frieden
@@ -6548,8 +7157,8 @@ Emil Ehehalt
 Es ist oollbracht!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9565.JPG
 ===Notes:
 
@@ -6563,10 +7172,13 @@ file://./Images_2018\IMG_9565.JPG
 |           |          |       | Emil     | Ehehalt     | 20.001.1878 | 23.001.1938 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HIER RUHEN IN FRIEDEN
@@ -6597,8 +7209,8 @@ HILDE VOGEL
 * 11.5.1927  -  17.2.2013 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9566.JPG
 ===Notes:
 
@@ -6621,10 +7233,13 @@ file://./Images_2018\IMG_9566.JPG
 |           |          |       | Hilde    | Vogel       | 11.005.1927 | 17.002.2013 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 hier ruhen in frieden
@@ -6648,8 +7263,8 @@ Rudolf Wiesner
 * 17.1.1919  -  3.9.2011 ✝
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9567.JPG
 ===Notes:
 
@@ -6667,10 +7282,13 @@ file://./Images_2018\IMG_9567.JPG
 |           |          |       | Rudolf    | Wiesner     | 17.001.1919 | 03.009.2011 |   |
 
 =========================================================================DIV80==
-===PID: 2018-2-1-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-2-1-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ALBERT
@@ -6680,8 +7298,8 @@ ERHARD   1925 - 1971
 FRIDOLIN u. KLARA
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9568.JPG
 ===Notes:
 
@@ -6695,10 +7313,13 @@ file://./Images_2018\IMG_9568.JPG
 |           |          |       | Klara    | Albert      |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-01     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-01 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Franz Endres
@@ -6711,8 +7332,8 @@ Katharina Schäfer
 * 10.2.1886  ✝ 13.11.1968
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9569.JPG
 ===Notes:
 
@@ -6727,10 +7348,13 @@ file://./Images_2018\IMG_9569.JPG
 |           |          |       | Katharina | Schäfer     | 10.002.1886 | 13.011.1968 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-02     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-02 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAMILIE SENDELBACH
@@ -6741,8 +7365,8 @@ MARGARETE 1909
           1996
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9570.JPG
 ===Notes:
 
@@ -6755,10 +7379,13 @@ file://./Images_2018\IMG_9570.JPG
 |           |          |       | Margarete | Sendelbach  |        1909 |        1996 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-03     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-03 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ELISABETH KRATZER GEB. SCHELL
@@ -6771,8 +7398,8 @@ EUGENIE KRATZER     * 4.10.1927 ✝ 27.8.2016
 O'HERR GIB IHNEN DIE EWIGE RUHE!
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9571.JPG
 ===Notes:
 
@@ -6789,10 +7416,13 @@ file://./Images_2018\IMG_9571.JPG
 |           |          |       | Eugenie   | Kratzer     | 04.010.1927 | 27.008.2016 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-04     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-04 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 In Frieden ruhen
@@ -6823,8 +7453,8 @@ GEB. KLADSUKSAI
 * 2505         ✝ 2553
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9572.JPG
 file://./Images_2018\IMG_9573.JPG
 ===Notes:
@@ -6844,10 +7474,13 @@ file://./Images_2018\IMG_9573.JPG
 |           |          |       | Nisa Oy   | Kladsuksai  | 25.006.1962 | 26.002.2010 | b |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-05     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-05 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 WEIS
@@ -6858,8 +7491,8 @@ LINA   1924  -  2007
 CHRISTINE u. JOHANN FISCHER
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9574.JPG
 ===Notes:
 
@@ -6874,10 +7507,13 @@ file://./Images_2018\IMG_9574.JPG
 |           |          |       | Johann    | Fischer     |             |             |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-06     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-06 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SEUBERT
@@ -6886,8 +7522,8 @@ WEYERICH
 IDA    1916  -  2009
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9575.JPG
 ===Notes:
 
@@ -6899,10 +7535,13 @@ file://./Images_2018\IMG_9575.JPG
 |           |          |       | Ida      | Seubert Weyerich |        1916 |        2009 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-07     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-07 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 SEIM
@@ -6913,8 +7552,8 @@ EMILIR
 * 28.3.1924  ✝ 8.7.2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9576.JPG
 ===Notes:
 
@@ -6927,10 +7566,13 @@ file://./Images_2018\IMG_9576.JPG
 |           |          |       | Emilir   | Seim        | 28.003.1924 | 08.007.2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-08     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-08 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 BARTHEL
@@ -6941,8 +7583,8 @@ EMIL
 * 18.3.1925 ✝ 2.7.1990
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9577.JPG
 ===Notes:
 
@@ -6955,10 +7597,13 @@ file://./Images_2018\IMG_9577.JPG
 |           |          |       | Emil     | Barthel     | 18.003.1925 | 02.007.1990 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-09     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-09 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 HOFFMANN
@@ -6967,8 +7612,8 @@ WINFRIED
 * 19.4.1944  ✝ 1.12.1983
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9578.JPG
 ===Notes:
 
@@ -6980,10 +7625,13 @@ file://./Images_2018\IMG_9578.JPG
 |           |          |       | Winfried | Hoffmann    | 19.004.1944 | 01.012.1983 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-10     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-10 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 MÜLLER
@@ -6996,8 +7644,8 @@ ROSA
 ✝ 3.10.1998
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9579.JPG
 ===Notes:
 
@@ -7010,10 +7658,13 @@ file://./Images_2018\IMG_9579.JPG
 |           |          |       | Rosa     | Müller      | 25.002.1914 | 03.010.1998 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-11     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-11 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 OTTER
@@ -7026,8 +7677,8 @@ JOSEF
 ✝ 25.1.2004
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9580.JPG
 ===Notes:
 
@@ -7040,10 +7691,13 @@ file://./Images_2018\IMG_9580.JPG
 |           |          |       | Josef    | Otter       | 04.001.1910 | 25.001.2004 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-12     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-12 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 MODEL
@@ -7054,8 +7708,8 @@ ALOIS
 * 24.9.1916  ✝ 6.2.1988
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9581.JPG
 ===Notes:
 
@@ -7068,10 +7722,13 @@ file://./Images_2018\IMG_9581.JPG
 |           |          |       | Alois     | Model       | 24.009.1916 | 06.002.1988 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-13     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-13 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►left side◄
@@ -7093,8 +7750,8 @@ IRMGARD
 1936 - 2010
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9582.JPG
 ===Notes:
 
@@ -7110,10 +7767,13 @@ file://./Images_2018\IMG_9582.JPG
 |           |          |       | Irmgard  | Klein       |        1936 |        2010 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-14     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-14 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►left side◄
@@ -7137,8 +7797,8 @@ Rita Ehehalt
 * 17.1 1932   ✝ 12.10.2014
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	2
+===Date: 2018
+===Photos: 2
 file://./Images_2018\IMG_9583.JPG
 file://./Images_2018\IMG_9584.JPG
 ===Notes:
@@ -7156,10 +7816,13 @@ wooden cross has photo of Rita.
 |           |          |       | Rita     | Ehehalt     | 17.001 1932 | 12.010.2014 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-15     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-15 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Scheiner
@@ -7170,8 +7833,8 @@ LINA
 1911 - 1996
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9585.JPG
 ===Notes:
 
@@ -7184,10 +7847,13 @@ file://./Images_2018\IMG_9585.JPG
 |           |          |       | Lina     | Scheiner    |        1911 |        1996 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-16     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-16 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 Schmitt
@@ -7196,8 +7862,8 @@ Alfred        May    Philomena
 1910 ✠ 1944           1909 - 1980
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9586.JPG
 ===Notes:
 
@@ -7211,10 +7877,13 @@ file://./Images_2018\IMG_9586.JPG
 |           |          |       | Philomena | May         |        1909 |        1980 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-17     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-17 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►left side◄
@@ -7233,8 +7902,8 @@ Anna
 1898 - 1987          1902 - 1988
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9587.JPG
 ===Notes:
 
@@ -7249,10 +7918,13 @@ file://./Images_2018\IMG_9587.JPG
 |           |          |       | Lorenz   | Frank       |        1902 |        1988 |   |
 
 =========================================================================DIV80==
-===PID: 2018-3-1-18     Coord: []     Ort: "Urspringen"     Stones: 1
+===PID: 2018-3-1-18 
+===Coord: [] 
+===Place: Urspringen 
+===Stones: 1
 
-===Stone:	1
-===Date:	2018
+===Stone: 1
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
 BETZ
@@ -7263,8 +7935,8 @@ NATALIE
 1918  -  2008
 -----------------------------------------------------DIV60--
 
-===Date:	2018
-===Photos:	1
+===Date: 2018
+===Photos: 1
 file://./Images_2018\IMG_9588.JPG
 ===Notes:
 

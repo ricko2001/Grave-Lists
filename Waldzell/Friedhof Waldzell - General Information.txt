@@ -73,7 +73,7 @@ HEDGE    |        ===============|||================       |
          | 3W2   ║               |||          3E2-1 ║      |
          |       ║  321 322 323  |||  324 325 326   ║      |    stones face N
 HEDGE    | 3W1   ================|||================   3E1 |
-         |     311   312   313   +O+   314   315   316     |    stones face N
+         |     311   312   313   +O+ 314 315 316 317 318   |    stones face N
 HEDGE    |=======================+O+=======================|     +O+ crucifix statue
 
 
@@ -186,7 +186,16 @@ _Row: 2-E: from aerial view, looks like 3 plots can fit.
 ===Location: s5
 surety on scale of 1 to 5. % direct visual evidence of location.
 
+other notes:
+Sec 1
+Small walkway between rows 1 and 2
 
+South wall- no stones
+file://./Images_2024\IMG_20240703_100543832.jpg  
+file://./Images_2024\IMG_20240703_100531188.jpg  
+file://./Images_2024\IMG_20240703_100536357.jpg  
+file://./Images_2024\IMG_20240703_100539371.jpg  
+file://./Images_2024\IMG_20240703_100541738.jpg  
 
 =========================================================================
 =========================================================================

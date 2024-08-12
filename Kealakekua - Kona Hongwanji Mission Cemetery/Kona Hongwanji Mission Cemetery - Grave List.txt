@@ -2,10 +2,13 @@
 
 
 =========================================================================DIV80==
-===PID: 606     Coord: [19.5159095,-155.9190774]          Stones: 1
+===PID: 606 
+===Coord: [19.5159095,-155.9190774]
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2024
+===Stone: 1
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -31,15 +34,15 @@ HERBERT MASAO    MAY 13, 1931  - FEB. 16, 2015
 ►blank◄
 -----------------------------------------------------DIV60--
 
-===Date:	2024
-===Photos:	2
+===Date: 2024
+===Photos: 2
 file://./Images_2024/IMG_20240607_123510715.jpg
 file://./Images_2024/IMG_20240607_123352610.jpg
 ===Notes:
 Adds one name- Herbert Masao.
 
-===Date:	2003
-===Photos:	2
+===Date: 2003
+===Photos: 2
 file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-back.jpg
 ===Notes:
@@ -47,18 +50,21 @@ file://./Images_2003/Imai,%20Tamejiro%20%26%20family%20-Grave%20marker%20-back.j
 ===Table:
 | FG        | FS       | RM    | FN            | LN   | b           | d           | T |
 |-----------|----------|-------|---------------|------|-------------|-------------|---|
-| 271440044 | KLW5-4PT |   517 |      Tamejiro | Imai | 19 Feb 1864 | 23 Oct 1959 |   |
-| 271441197 | KLW5-4PR |   447 |         Kenji | Imai | 03 Feb 1895 | 13 Oct 1951 |   |
-| 271441245 | LJ1T-YVZ |   448 |         Tsuya | Imai | 17 Mar 1902 | 11 Jun 1987 |   |
-| 271441296 | L2S7-SQJ |   579 |  Misao Millie | Imai | 05 Mar 1922 | 22 Aug 1948 |   |
-| 271441340 | L55F-7XZ |   621 |   Betty Itsue | Imai | 02 Jun 1933 | 02 Feb 1937 |   |
-| 271441366 | L2S7-SX1 |   620 | Herbert Masao | Imai | 13 May 1931 | 16 Feb 2015 |   |
+| 271440044 | KLW5-4PT |   517 |      Tamejiro | Imai | 19.002.1864 | 23.010.1959 |   |
+| 271441197 | KLW5-4PR |   447 |         Kenji | Imai | 03.002.1895 | 13.010.1951 |   |
+| 271441245 | LJ1T-YVZ |   448 |         Tsuya | Imai | 17.003.1902 | 11.006.1987 |   |
+| 271441296 | L2S7-SQJ |   579 |  Misao Millie | Imai | 05.003.1922 | 22.008.1948 |   |
+| 271441340 | L55F-7XZ |   621 |   Betty Itsue | Imai | 02.006.1933 | 02.002.1937 |   |
+| 271441366 | L2S7-SX1 |   620 | Herbert Masao | Imai | 13.005.1931 | 16.002.2015 |   |
 
 =========================================================================DIV80==
-===PID: 650     Coord: [19.5156689,-155.9183349]          Stones: 1
+===PID: 650 
+===Coord: [19.5156689,-155.9183349]
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2024
+===Stone: 1
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -91,15 +97,15 @@ ALBERT H. IMAI
 ►blank◄
 -----------------------------------------------------DIV60--
 
-===Date:	2024
-===Photos:	2
+===Date: 2024
+===Photos: 2
 file://./Images_2024/IMG_20240607_124009414.jpg
 file://./Images_2024/IMG_20240607_124024043.jpg
 ===Notes:
 no changes
 
-===Date:	2003
-===Photos:	2
+===Date: 2003
+===Photos: 2
 file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Imai,%20George%20T%20-Grave%20marker%20-rear.jpg
 ===Notes:
@@ -110,13 +116,16 @@ Japanese given name is "今 井 禎 二" = "Imai Teiji", from rear of stone.
 ===Table:
 | FG        | FS       | RM   | FN        | LN    | b           | d           | T |
 |-----------|----------|--=---|-----------|-------|-------------|-------------|---|
-| 271447801 | LTJG-2TK |  589 | George T. |  Imai | 20 Apr 1889 | 05 Sep 1958 |   |
+| 271447801 | LTJG-2TK |  589 | George T. |  Imai | 20.004.1889 | 05.009.1958 |   |
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2003
+===Stone: 1
+===Date: 2003
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -135,8 +144,8 @@ MAR. 19, 1966
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2003
-===Photos:	1
+===Date: 2003
+===Photos: 1
 file://./Images_2003/Yamabe,%20Kunimastsu%20-Grave%20marker%20-front.jpg
 ===Notes:
 TODO    Transcribe & translate Kanji
@@ -144,13 +153,16 @@ TODO    Transcribe & translate Kanji
 ===Table:
 | FG        | FS       | RM    | FN            | LN          | b           | d           | T |
 |-----------|----------|-------|---------------|-------------|-------------|-------------|---|
-|           |          |       |    Kunimastsu |      Yamabe | 24 May 1922 | 19 Mar 1966 |   |
+|           |          |       |    Kunimastsu |      Yamabe | 24.005.1922 | 19.003.1966 |   |
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2003
+===Stone: 1
+===Date: 2003
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -167,8 +179,8 @@ KICHITARO YAMABE
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2003
-===Photos:	1
+===Date: 2003
+===Photos: 1
 file://./Images_2003/Yamabe,%20Kichitaro%20-Grave%20marker%20-front.jpg
 ===Notes:
 TODO    Transcribe & translate Kanji
@@ -179,10 +191,13 @@ TODO    Transcribe & translate Kanji
 |           |          |       |     Kichitaro |      Yamabe |             |             |   |
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2003
+===Stone: 1
+===Date: 2003
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -200,8 +215,8 @@ UMEYO YAMABE
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2003
-===Photos:	2
+===Date: 2003
+===Photos: 2
 file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-front.jpg
 file://./Images_2003/Ikeda%20%26%20Yamabe%20-Grave%20marker%20-overview.jpg
 ===Notes:
@@ -215,10 +230,13 @@ TODO    Transcribe & translate Kanji
 
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2010
+===Stone: 1
+===Date: 2010
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -246,8 +264,8 @@ JUNE 1, 1974
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2010
-===Photos:	1
+===Date: 2010
+===Photos: 1
 file://./Images_2010/Fujikawa,%20Yoshio%20b1901.jpg
 ===Notes:
 
@@ -255,15 +273,18 @@ file://./Images_2010/Fujikawa,%20Yoshio%20b1901.jpg
 ===Table:
 | FG        | FS       | RM    | FN            | LN       | b           | d           | T |
 |-----------|----------|-------|---------------|----------|-------------|-------------|---|
-|           |          |       |        Yoshio | Fujikawa | 20 Dec 1901 | 01 Jun 1974 |   |
-|           |          |       |        Masako | Fujikawa | 29 Mar 1907 | 16 Jan 2005 |   |
+|           |          |       |        Yoshio | Fujikawa | 20.012.1901 | 01.006.1974 |   |
+|           |          |       |        Masako | Fujikawa | 29.003.1907 | 16.001.2005 |   |
 
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2024
+===Stone: 1
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -287,8 +308,8 @@ APRIL 14, 1014
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2024
-===Photos:	2
+===Date: 2024
+===Photos: 2
 file://./Images_2024/IMG_20240607_124145860.jpg
 ===Notes:
 
@@ -296,14 +317,17 @@ file://./Images_2024/IMG_20240607_124145860.jpg
 ===Table:
 | FG        | FS       | RM    | FN            | LN   | b           | d           | T |
 |-----------|----------|-------|---------------|------|-------------|-------------|---|
-|           |          |       | Mildred Umeyo | Imai | 07 Jul 1928 | 16 Jul 2006 |   |
-|           |          |       |       Akinori | Imai | 11 Nov 1928 | 14 Apr 2024 |   |
+|           |          |       | Mildred Umeyo | Imai | 07.007.1928 | 16.007.2006 |   |
+|           |          |       |       Akinori | Imai | 11.011.1928 | 14.004.2024 |   |
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2024
+===Stone: 1
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -322,8 +346,8 @@ MAR. 21, 1933 - APR. 8, 2007
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2024
-===Photos:	2
+===Date: 2024
+===Photos: 2
 file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 ===Notes:
 
@@ -331,14 +355,17 @@ file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 ===Table:
 | FG        | FS       | RM    | FN            | LN       | b           | d           | T |
 |-----------|----------|-------|---------------|----------|-------------|-------------|---|
-|           |          |       |         Teruo | Kamigaki | 15 Sep 1928 | 25 May 1996 |   |
-|           |          |       |         Yuiko | Kamigaki | 21 Mar 1933 | 08 Apr 2007 |   |
+|           |          |       |         Teruo | Kamigaki | 15.009.1928 | 25.005.1996 |   |
+|           |          |       |         Yuiko | Kamigaki | 21.003.1933 | 08.004.2007 |   |
 
 =========================================================================DIV80==
-===PID:      Coord: [,]          Stones: 1
+===PID: 
+===Coord: []
+===Place: Kealakekua
+===Stones: 1
 
-===Stone:	1
-===Date:	2024
+===Stone: 1
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 ►front◄
@@ -351,8 +378,8 @@ file://./Images_2024/IMG_20240607_124350037_HDR.jpg
 ►?◄
 -----------------------------------------------------DIV60--
 
-===Date:	2024
-===Photos:	2
+===Date: 2024
+===Photos: 2
 file://./Images_2024/IMG_20240607_123352610.jpg
 ===Notes:
 
