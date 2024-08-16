@@ -1,5 +1,5 @@
 ﻿=========================================================================DIV80==
-===PID: 2018-1-1-01
+===PID: 2024-1-1-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -20,7 +20,7 @@ MARTIN U. REGINA STAMM
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2/IMG_20240707_110149155.jpg  center
+file://./Images_2024/IMG_20240707_110149155.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -45,14 +45,15 @@ Recorded as: "36 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-01
 ===Location:
 file://./Images_2018/IMG_9698.JPG
 Plot is at far end of row, col 1. 
 Visible behind, also in first column, Wunderling & Hock
 2024
-file://./Images_2024_2\IMG_20240707_110146337.jpg  left
-file://./Images_2024_2\IMG_20240707_110149155.jpg  center
-file://./Images_2024_2\IMG_20240707_110151283.jpg  right
+file://./Images_2024/IMG_20240707_110146337.jpg  left
+file://./Images_2024/IMG_20240707_110149155.jpg  center
+file://./Images_2024/IMG_20240707_110151283.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -81,27 +82,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-02
-===Coord: []
-===Place: Hausen
-===Stones: 2
-
-===Stone: VACANT
-===Date: 2018
-
-===Date: 2024
-===Photos: 1
-file://./Images_2024_2\IMG_20240707_110151283.jpg  
-===Notes:
-Vacant
-TODO looks too narrow to be a grave site.
-
-===Location:
-file://./Images_2024_2\IMG_20240707_110151283.jpg  left
-file://./Images_2024_2\IMG_20240707_110202833.jpg  right
-
-=========================================================================DIV80==
-===PID: 2018-1-1-03
+===PID: 2024-1-1-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -123,7 +104,7 @@ Scheiner u. Stamm
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110205830.jpg  center
+file://./Images_2024/IMG_20240707_110205830.jpg  center
 ===Notes:
 Added name: Elfreiede
 
@@ -165,15 +146,21 @@ Recorded as: "37 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-03
 ===Location:
 file://./Images_2018/IMG_9699.JPG
 Plot behind seems empty. =PID: 2018-1-2-02   
 file://./Images_2015/20150307_032731.jpg
 Can see the right side edge of same stone seen in 2018. Confirms location.
 2024
-file://./Images_2024_2\IMG_20240707_110202833.jpg  left
-file://./Images_2024_2\IMG_20240707_110205830.jpg  center
-file://./Images_2024_2\IMG_20240707_110208619.jpg  right
+file://./Images_2024/IMG_20240707_110202833.jpg  left
+file://./Images_2024/IMG_20240707_110205830.jpg  center
+file://./Images_2024/IMG_20240707_110208619.jpg  right
+
+had a vacant space that seems to have disappeared in 2024.
+removed it from 2024 numbering.
+file://./Images_2024/IMG_20240707_110151283.jpg  left
+file://./Images_2024/IMG_20240707_110202833.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
@@ -203,29 +190,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-04
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: VACANT
-===Date: 2018
-
-===Date: 2024
-===Photos: 2
-file://./Images_2024_2\IMG_20240707_110208619.jpg  left
-file://./Images_2024_2\IMG_20240707_110238566.jpg  right
-===Notes:
-Vacant
-TODO looks too narrow to be a grave site.
-
-===Location:
-2024
-file://./Images_2024_2\IMG_20240707_110208619.jpg  left
-file://./Images_2024_2\IMG_20240707_110238566.jpg  right
-
-=========================================================================DIV80==
-===PID: 2018-1-1-05
+===PID: 2024-1-1-03
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -256,7 +221,7 @@ R.I.P.
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110241598.jpg  center
+file://./Images_2024/IMG_20240707_110241598.jpg  center
 ===Notes:
 Added name: Alois
 
@@ -280,13 +245,14 @@ Recorded as: "47 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-05
 ===Location:
 file://./Images_2015/20150307_032731.jpg
 Confirms location.
 2024
-file://./Images_2024_2\IMG_20240707_110238566.jpg  left
-file://./Images_2024_2\IMG_20240707_110241598.jpg  center
-file://./Images_2024_2\IMG_20240707_110243993.jpg  right
+file://./Images_2024/IMG_20240707_110238566.jpg  left
+file://./Images_2024/IMG_20240707_110241598.jpg  center
+file://./Images_2024/IMG_20240707_110243993.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -313,28 +279,95 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-06
+===PID: 2024-1-1-04
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
 
 ===Stone: VACANT
 ====Date: 2018
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110243993.jpg  
+file://./Images_2024/IMG_20240707_110243993.jpg  
 ===Notes:
 Vacant
-TODO looks too narrow to be a grave site.
+Too narrow to be a grave site in 2024. 
+Perhaps adjoining graves were narrower in the past.
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Gertraud Siegler
+geb Ritter
+3.9.1869  1.9.1953
+
+Oskar Siegler
+Inh. Bundesverdienskreuzes
+(b) 18.12.1899
+(d) 6.11.1974
+
+Alois Siegler
+23.1.1865  26.11.1955
+
+Katharina Siegler
+geb. Marschall
+4.12.1901  25.10.1987
+
+Zum gedenken an unseren lieben Sohn
+✠ Karl Siegler
+20.5.1924 vermisst April 1944 a.d. Krimm.
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "38 Hausen"
+1995 numbering #38 fits here.
+But can't see a vacant site in 2024.
+Perhaps former graves were narrower.
+
+===Interpretation:
+Karl Siegler went missing in Crimea.
+
+===OLD_PID: 2018-1-1-06
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110243993.jpg  
-file://./Images_2024_2\IMG_20240707_110241598.jpg  
+file://./Images_2024/IMG_20240707_110243993.jpg  
+file://./Images_2024/IMG_20240707_110241598.jpg  
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Gertraud  | Siegler     | 03.009.1869 | 01.009.1953 |   |
+|           |          |       | Gertraud  | Ritter      | 03.009.1869 | 01.009.1953 | b |
+|           |          |       | Oskar     | Siegler     | 18.012.1899 | 06.011.1974 |   |
+|           |          |       | Alois     | Siegler     | 23.001.1865 | 26.011.1955 |   |
+|           |          |       | Katharina | Siegler     | 04.012.1901 | 25.010.1987 |   |
+|           |          |       | Katharina | Marschall   | 04.012.1901 | 25.010.1987 | b | 
+|           |          |       | Karl      | Siegler     | 20.005.1924 |   .004.1944 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-07
+===PID: 2024-1-1-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -357,7 +390,7 @@ MARTIN u. FRANZISKA
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110255762.jpg  center
+file://./Images_2024/IMG_20240707_110255762.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -383,11 +416,12 @@ Recorded as: "39 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-07
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110253107.jpg  left
-file://./Images_2024_2\IMG_20240707_110255762.jpg  center
-file://./Images_2024_2\IMG_20240707_110259723.jpg  right
+file://./Images_2024/IMG_20240707_110253107.jpg  left
+file://./Images_2024/IMG_20240707_110255762.jpg  center
+file://./Images_2024/IMG_20240707_110259723.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -416,16 +450,29 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-08
-TODO  new VACANT
+===PID: 2024-1-1-06
+===Coord: []
+===Place: Hausen
+===Stones: 2
 
+===Date: 2024
+===Stone: VACANT
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_110307307.jpg  center
+===Notes:
+Vacant
+
+===OLD_PID: 2018-1-1-07-A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110259723.jpg  left
-file://./Images_2024_2\IMG_20240707_110307307.jpg  center
-file://./Images_2024_2\IMG_20240707_110309635.jpg  right
+file://./Images_2024/IMG_20240707_110259723.jpg  left
+file://./Images_2024/IMG_20240707_110307307.jpg  center
+file://./Images_2024/IMG_20240707_110309635.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-1-08
+===PID: 2024-1-1-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -446,8 +493,8 @@ AUGUST U. MONIKA
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_110309635.jpg  center
-file://./Images_2024_2\IMG_20240707_110325633.jpg  detail
+file://./Images_2024/IMG_20240707_110309635.jpg  center
+file://./Images_2024/IMG_20240707_110325633.jpg  detail
 ===Notes:
 No changes since 2018.
 
@@ -492,11 +539,12 @@ Recorded as: "40 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-08
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110307307.jpg  left
-file://./Images_2024_2\IMG_20240707_110309635.jpg  center
-file://./Images_2024_2\IMG_20240707_110314720.jpg  right
+file://./Images_2024/IMG_20240707_110307307.jpg  left
+file://./Images_2024/IMG_20240707_110309635.jpg  center
+file://./Images_2024/IMG_20240707_110314720.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -530,7 +578,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-09
+===PID: 2024-1-1-08
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -565,7 +613,7 @@ verm. 25.10.1943
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110340469.jpg  center
+file://./Images_2024/IMG_20240707_110340469.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -628,11 +676,12 @@ Stone 1 in this entry is shown assuming the two 1995 readings are the same stone
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-1-09
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110337641.jpg  left
-file://./Images_2024_2\IMG_20240707_110340469.jpg  center
-file://./Images_2024_2\IMG_20240707_110342710.jpg  right
+file://./Images_2024/IMG_20240707_110337641.jpg  left
+file://./Images_2024/IMG_20240707_110340469.jpg  center
+file://./Images_2024/IMG_20240707_110342710.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN         | b           | d           | T |
@@ -664,31 +713,76 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-1-10
-TODO new Vacant
-
+===PID: 2024-1-1-09
+===Coord: []
+===Place: Hausen
+===Stones: 1-V
 
 ===Date: 2024
 ===Stone: VACANT
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110351677.jpg  center
+file://./Images_2024/IMG_20240707_110351677.jpg  center
 ===Notes:
 Vacant
-
-2024
-file://./Images_2024_2\IMG_20240707_110349560.jpg  left
-file://./Images_2024_2\IMG_20240707_110351677.jpg  center
-file://./Images_2024_2\IMG_20240707_110354044.jpg  right
-
-=========================================================================DIV80==
-===PID: 2018-1-1-10
-===Coord: []
-===Place: Hausen
-===Stones: 1
+Removed stone: Eva-Maria Bethge
+1995 numbering #43 fits here.
 
 ===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Eva-Maria Bethge
+geb. Schmidt
+3.7.1915  1.4.1994
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "43 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-1-09-A
+===Location:
+2024
+file://./Images_2024/IMG_20240707_110349560.jpg  left
+file://./Images_2024/IMG_20240707_110351677.jpg  center
+file://./Images_2024/IMG_20240707_110354044.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Eva-Maria | Bethge      | 03.007.1915 | 01.004.1994 |   |
+|           |          |       |Eva-Maria | Schmidt     | 03.007.1915 | 01.004.1994 | b |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+=========================================================================DIV80==
+===PID: 2024-1-1-10
+===Coord: []
+===Place: Hausen
+===Stones: 2
+
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -702,7 +796,7 @@ Johann u. Anna Seufert
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110405511.jpg  center
+file://./Images_2024/IMG_20240707_110405511.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -710,19 +804,51 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9705.JPG
 ===Notes:
-First reading.
+New stone.
+names in common: Anna Seufert
+Same family.
+1995 number 45 fits into this spot.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Georg Seufert
+7.11.1869  28.5.1930
+
+Anna Seufert
+14.7.1901  5.10.1951
+
+Zur Erinnerung
+Adm. Seufert     Karl Seufert
+✠ 1917         1942 ✠
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "44 Hausen"
 
 ===Interpretation:
+Adm. Seufert  = Adam Seufert
+dates for Adm. and Karl are death dates
 
+===OLD_PID: 2018-1-1-10
 ===Location:
 This plot abuts center path on the right. Indicates last in row.
 2024
-file://./Images_2024_2\IMG_20240707_110403181.jpg  left
-file://./Images_2024_2\IMG_20240707_110405511.jpg  center
-file://./Images_2024_2\IMG_20240707_110407473.jpg  right
+file://./Images_2024/IMG_20240707_110403181.jpg  left
+file://./Images_2024/IMG_20240707_110405511.jpg  center
+file://./Images_2024/IMG_20240707_110407473.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Georg    | Seufert     | 07.011.1869 | 28.005.1930 |   |
+|           |          |       | Anna     | Seufert     | 14.007.1901 | 05.010.1951 |   |
+|           |          |       | Adam     | Seufert     |             |        1917 |   |
+|           |          |       | Karl     | Seufert     |             |        1942 |   |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Martin   | Knöferl     | 13.001.1920 | 08.004.2000 |   |
 |           |          |       | Zenzi    | Knöferl     | 25.009.1923 | 09.007.2011 |   |
@@ -747,12 +873,12 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-01
+===PID: 2024-1-2-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -766,7 +892,7 @@ Hilde
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110439514.jpg  center
+file://./Images_2024/IMG_20240707_110439514.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -774,20 +900,42 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9697.JPG
 ===Notes:
-First reading.
+New stone.
+No names in common.
+1995 numbering #45 fits into this spot.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Stamm
+
+Philipp  1897 - 1970
+Josefa   1898 - 1985
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "45 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-01
 ===Location:
 file://./Images_2018/IMG_9697.JPG
 Seems to be at 01 column because of grass to the left.
 2024
-file://./Images_2024_2\IMG_20240707_110436833.jpg  left
-file://./Images_2024_2\IMG_20240707_110439514.jpg  center
-file://./Images_2024_2\IMG_20240707_110442593.jpg  right
+file://./Images_2024/IMG_20240707_110436833.jpg  left
+file://./Images_2024/IMG_20240707_110439514.jpg  center
+file://./Images_2024/IMG_20240707_110442593.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Philipp  | Stamm       |        1897 |        1970 |   |
+|           |          |       | Josefa   | Stamm       |        1898 |        1985 |   |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Ludwig   | Wunderling  | 18.010.1922 | 01.008.2007 |   |
 |           |          |       | Hilde    | Wunderling  | 30.011.1925 | 25.007.2015 |   |
@@ -810,28 +958,69 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-
-TODO new VACANT
+===PID: 2024-1-2-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
 
 ===Stone: VACANT
 ===Date: 2024
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110452882.jpg  center
+file://./Images_2024/IMG_20240707_110452882.jpg  center
 ===Notes:
 Vacant
+Removed stone: Karl Scheiner
+Not clear if Karl Scheiner was in this or plot to the left.
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Karl Scheiner
+1903 - 1976
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "46 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-2-01-A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110450245.jpg  left
-file://./Images_2024_2\IMG_20240707_110452882.jpg  center
-file://./Images_2024_2\IMG_20240707_110455483.jpg  right
+file://./Images_2024/IMG_20240707_110450245.jpg  left
+file://./Images_2024/IMG_20240707_110452882.jpg  center
+file://./Images_2024/IMG_20240707_110455483.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Karl     | Scheiner    |        1903 |        1976 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-02
+===PID: 2024-1-2-03
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -841,20 +1030,21 @@ file://./Images_2024_2\IMG_20240707_110455483.jpg  right
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110504430.jpg  center
+file://./Images_2024/IMG_20240707_110504430.jpg  center
 ===Notes:
 Vacant
 
+===OLD_PID: 2018-1-2-02
 ===Location:
 file://./Images_2015/20150307_032731.jpg
 Confirms location.
 2024
-file://./Images_2024_2\IMG_20240707_110501927.jpg  left
-file://./Images_2024_2\IMG_20240707_110504430.jpg  center
-file://./Images_2024_2\IMG_20240707_110507644.jpg  right
+file://./Images_2024/IMG_20240707_110501927.jpg  left
+file://./Images_2024/IMG_20240707_110504430.jpg  center
+file://./Images_2024/IMG_20240707_110507644.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-2-03
+===PID: 2024-1-2-04
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -872,7 +1062,7 @@ FANNY KROMER
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110516171.jpg  center
+file://./Images_2024/IMG_20240707_110516171.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -896,11 +1086,12 @@ Recorded as: "48 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-03
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110513483.jpg  left
-file://./Images_2024_2\IMG_20240707_110516171.jpg  center
-file://./Images_2024_2\IMG_20240707_110518754.jpg  right
+file://./Images_2024/IMG_20240707_110513483.jpg  left
+file://./Images_2024/IMG_20240707_110516171.jpg  center
+file://./Images_2024/IMG_20240707_110518754.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -925,7 +1116,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-04
+===PID: 2024-1-2-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -950,8 +1141,8 @@ MARIA u. BERNHARD AMEND
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_110619246.jpg  center
-file://./Images_2024_2\IMG_20240707_110628153.jpg  detail
+file://./Images_2024/IMG_20240707_110619246.jpg  center
+file://./Images_2024/IMG_20240707_110628153.jpg  detail
 ===Notes:
 Added name: Manfred
 
@@ -969,12 +1160,13 @@ Recorded as: "49 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-04
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110525785.jpg  left
-file://./Images_2024_2\IMG_20240707_110619246.jpg  center
-file://./Images_2024_2\IMG_20240707_110628153.jpg  detail
-file://./Images_2024_2\IMG_20240707_110641183.jpg  right
+file://./Images_2024/IMG_20240707_110525785.jpg  left
+file://./Images_2024/IMG_20240707_110619246.jpg  center
+file://./Images_2024/IMG_20240707_110628153.jpg  detail
+file://./Images_2024/IMG_20240707_110641183.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1004,25 +1196,25 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-05
+===PID: 2024-1-2-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHEINER
 
-BENEDIKT    1904  -  1986
+BENEDIKT    1904  -  1968
 ANNA        1908  -  1998
 FRANZ       1931  -  2022
 -----------------------------------------------------DIV60--
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110643310.jpg  center
+file://./Images_2024/IMG_20240707_110643310.jpg  center
 ===Notes:
 Added name: Franz
 
@@ -1030,22 +1222,49 @@ Added name: Franz
 ===Photos: 1
 file://./Images_2018/IMG_9694.JPG
 ===Notes:
-First reading.
+New stone.
+Names in common: Benedikt Scheiner
+Same family.
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Brigitte Scheiner
+geb. Lieblein
+27.5.1876  5.12.1944
+
+Franz Scheiner
+17.11.1874  14.8.1952
+
+Benedikt Scheiner
+1.12.1904  7.6.1968
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "50 Hausen"
+
+===OLD_PID: 2018-1-2-05
 ===Interpretation:
 
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110641183.jpg  left
-file://./Images_2024_2\IMG_20240707_110643310.jpg  center
-file://./Images_2024_2\IMG_20240707_110645582.jpg  right
+file://./Images_2024/IMG_20240707_110641183.jpg  left
+file://./Images_2024/IMG_20240707_110643310.jpg  center
+file://./Images_2024/IMG_20240707_110645582.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Benedikt | Scheiner    |        1904 |        1986 |   |
 |           |          |       | Anna     | Scheiner    |        1908 |        1998 |   |
 |           |          |       | Franz    | Scheiner    |        1931 |        2022 |   |
+|           |          |       | Brigitte | Scheiner    | 27.005.1876 | 05.012.1944 |   |
+|           |          |       | Brigitte | Lieblein    | 27.005.1876 | 05.012.1944 | b |
+|           |          |       | Franz    | Scheiner    | 17.011.1874 | 14.008.1952 |   |
+|           |          |       | Benedikt | Scheiner    | 01.012.1904 | 07.006.1968 |   |
 
 ===Status: TODO
 FG
@@ -1065,14 +1284,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-06
-TODO   NO Vacant plot
-
-===Stone: VACANT
-===Date: 2018
-
-=========================================================================DIV80==
-===PID: 2018-1-2-07
+===PID: 2024-1-2-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1093,7 +1305,7 @@ UNSER LB. KIND LEO
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110656043.jpg  center
+file://./Images_2024/IMG_20240707_110656043.jpg  center
 ===Notes:
 No changes since 2018
 
@@ -1111,11 +1323,12 @@ Recorded as: "51 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-06 NOT_IN_2024
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110653349.jpg  left
-file://./Images_2024_2\IMG_20240707_110656043.jpg  center
-file://./Images_2024_2\IMG_20240707_110658275.jpg  right
+file://./Images_2024/IMG_20240707_110653349.jpg  left
+file://./Images_2024/IMG_20240707_110656043.jpg  center
+file://./Images_2024/IMG_20240707_110658275.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN           | b           | d           | T |
@@ -1144,7 +1357,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-08
+===PID: 2024-1-2-08
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1163,7 +1376,7 @@ MAX U. AMANDA VÄTHBRÜCKNER
 
 ===Date: 2018
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110710707.jpg  center
+file://./Images_2024/IMG_20240707_110710707.jpg  center
 ===Notes:
 No change since 2018.
 
@@ -1181,11 +1394,12 @@ Recorded as: "52 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-08
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110706549.jpg  left
-file://./Images_2024_2\IMG_20240707_110710707.jpg  center
-file://./Images_2024_2\IMG_20240707_110713308.jpg  right
+file://./Images_2024/IMG_20240707_110706549.jpg  left
+file://./Images_2024/IMG_20240707_110710707.jpg  center
+file://./Images_2024/IMG_20240707_110713308.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN           | b           | d           | T |
@@ -1213,7 +1427,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-09
+===PID: 2024-1-2-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1230,7 +1444,7 @@ FRITZ   *  11.4.1925  ✝ 10.2.2012
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110722737.jpg  center
+file://./Images_2024/IMG_20240707_110722737.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -1248,11 +1462,12 @@ Recorded as: "53 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-09
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110719585.jpg  left
-file://./Images_2024_2\IMG_20240707_110722737.jpg  center
-file://./Images_2024_2\IMG_20240707_110725232.jpg  right
+file://./Images_2024/IMG_20240707_110719585.jpg  left
+file://./Images_2024/IMG_20240707_110722737.jpg  center
+file://./Images_2024/IMG_20240707_110725232.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1278,7 +1493,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-2-10
+===PID: 2024-1-2-10
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1296,7 +1511,7 @@ HELGA
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110735744.jpg  center
+file://./Images_2024/IMG_20240707_110735744.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -1314,11 +1529,12 @@ Recorded as: "54 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-2-10
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110733696.jpg  left
-file://./Images_2024_2\IMG_20240707_110735744.jpg  center
-file://./Images_2024_2\IMG_20240707_110738764.jpg  right
+file://./Images_2024/IMG_20240707_110733696.jpg  left
+file://./Images_2024/IMG_20240707_110735744.jpg  center
+file://./Images_2024/IMG_20240707_110738764.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1343,7 +1559,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-01
+===PID: 2024-1-3-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1359,7 +1575,7 @@ RUDOLF   1950 - 2020
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110819543.jpg  center
+file://./Images_2024/IMG_20240707_110819543.jpg  center
 ===Notes:
 Added name Rudolf
 
@@ -1377,6 +1593,7 @@ Recorded as: "55 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-01
 ===Location:
 file://./Images_2018/IMG_9682.JPG
 Plot is at far left end of row, col 1.
@@ -1386,9 +1603,9 @@ file://./Images_2018/IMG_9697.JPG
 Shows this plot behind PID: 2018-1-2-01 "Wunderling".
 Seems to be at 01 column because of grass to the left.
 2024
-file://./Images_2024_2\IMG_20240707_110816348.jpg  left
-file://./Images_2024_2\IMG_20240707_110819543.jpg  center
-file://./Images_2024_2\IMG_20240707_110821993.jpg  right
+file://./Images_2024/IMG_20240707_110816348.jpg  left
+file://./Images_2024/IMG_20240707_110819543.jpg  center
+file://./Images_2024/IMG_20240707_110821993.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1414,7 +1631,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-02
+===PID: 2024-1-3-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1433,8 +1650,8 @@ IRENE HOCK
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_110917957.jpg  center
-file://./Images_2024_2\IMG_20240707_110845071.jpg  detail
+file://./Images_2024/IMG_20240707_110917957.jpg  center
+file://./Images_2024/IMG_20240707_110845071.jpg  detail
 ===Notes:
 No changes since 2018.
 
@@ -1446,12 +1663,13 @@ First reading.
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-02
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110831286.jpg  left
-file://./Images_2024_2\IMG_20240707_110917957.jpg  center
-file://./Images_2024_2\IMG_20240707_110845071.jpg  detail
-file://./Images_2024_2\IMG_20240707_110921303.jpg  right
+file://./Images_2024/IMG_20240707_110831286.jpg  left
+file://./Images_2024/IMG_20240707_110917957.jpg  center
+file://./Images_2024/IMG_20240707_110845071.jpg  detail
+file://./Images_2024/IMG_20240707_110921303.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1477,22 +1695,29 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID:
-TODO new VACANT
+===PID: 2024-1-3-03
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2018
 
 ===Date: 2018
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_110954129.jpg  center
+file://./Images_2024/IMG_20240707_110954129.jpg  center
 ===Notes:
 Vacant
 
+===OLD_PID: 2018-1-3-02-A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_110951822.jpg  left
-file://./Images_2024_2\IMG_20240707_110954129.jpg  center
-file://./Images_2024_2\IMG_20240707_110956352.jpg  right
+file://./Images_2024/IMG_20240707_110951822.jpg  left
+file://./Images_2024/IMG_20240707_110954129.jpg  center
+file://./Images_2024/IMG_20240707_110956352.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-3-03
+===PID: 2024-1-3-04
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1511,7 +1736,7 @@ MARIA AULBACH
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111005395.jpg  center
+file://./Images_2024/IMG_20240707_111005395.jpg  center
 ===Notes:
 Add name: Rudolf
 Add name: Maria
@@ -1538,11 +1763,12 @@ Recorded as: "56 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-03
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111003152.jpg  left
-file://./Images_2024_2\IMG_20240707_111005395.jpg  center
-file://./Images_2024_2\IMG_20240707_111007794.jpg  right
+file://./Images_2024/IMG_20240707_111003152.jpg  left
+file://./Images_2024/IMG_20240707_111005395.jpg  center
+file://./Images_2024/IMG_20240707_111007794.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -1569,7 +1795,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-04
+===PID: 2024-1-3-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1586,7 +1812,7 @@ IDA     * 17.4.1909  ✝ 17.8.1990
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111017442.jpg  center
+file://./Images_2024/IMG_20240707_111017442.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -1604,11 +1830,12 @@ Recorded as: "57 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-04
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111014197.jpg  left
-file://./Images_2024_2\IMG_20240707_111017442.jpg  center
-file://./Images_2024_2\IMG_20240707_111020393.jpg  right
+file://./Images_2024/IMG_20240707_111014197.jpg  left
+file://./Images_2024/IMG_20240707_111017442.jpg  center
+file://./Images_2024/IMG_20240707_111020393.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1634,12 +1861,12 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-05
+===PID: 2034-1-3-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -1651,7 +1878,7 @@ Horst Reimann
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111030430.jpg  center
+file://./Images_2024/IMG_20240707_111030430.jpg  center
 ===Notes:
 Add name: Horst
 
@@ -1659,21 +1886,48 @@ Add name: Horst
 ===Photos: 1
 file://./Images_2018/IMG_9686.JPG
 ===Notes:
-First reading.
+New stone.
+No names n common.
+New family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Gehrling
+
+Michael
+22.11.1898  5.7.1983
+
+Mechthilde
+geb. Väthbrückner
+18.10.1898  26.9.1983
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "58 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-05
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111027771.jpg  left
-file://./Images_2024_2\IMG_20240707_111030430.jpg  center
-file://./Images_2024_2\IMG_20240707_111033336.jpg  right
+file://./Images_2024/IMG_20240707_111027771.jpg  left
+file://./Images_2024/IMG_20240707_111030430.jpg  center
+file://./Images_2024/IMG_20240707_111033336.jpg  right
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Gertrud  | Weiner      |        1912 |        2006 |   |
-|           |          |       | Horst    | Reimann     |        1948 |        2020 |   |
+| FG        | FS       | RM    | FN           | LN           | b           | d           | T |
+|-----------|----------|-------|-------------|---------------|-------------|-------------|---|
+|           |          |       | Michael     | Gehrling      | 22.011.1898 | 05.007.1983 |   |
+|           |          |       | Mechthilde  | Gehrling      | 18.010.1898 | 26.009.1983 |   |
+|           |          |       | Mechthilde  | Väthbrückner  | 18.010.1898 | 26.009.1983 | b |
+|-----------|----------|-------|-------------|---------------|-------------|-------------|---|
+|           |          |       | Gertrud     | Weiner        |        1912 |        2006 |   |
+|           |          |       | Horst       | Reiman        |        1948 |        2020 |   |
 
 ===Status: TODO
 FG
@@ -1693,7 +1947,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-06
+===PID: 2024-1-3-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1734,8 +1988,8 @@ unsere lieben kinder, Josef, Anton u. Willi.
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_111043415_HDR.jpg  center
-file://./Images_2024_2\IMG_20240707_111103664_HDR.jpg  detail
+file://./Images_2024/IMG_20240707_111043415_HDR.jpg  center
+file://./Images_2024/IMG_20240707_111103664_HDR.jpg  detail
 ===Notes:
 Added name: Richard
 
@@ -1751,14 +2005,15 @@ No changes since 1995.
 Direct reading from grave stone.
 Recorded as: "59 Hausen"
 
+===OLD_PID: 2018-1-3-06
 ===Interpretation:
 
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111041152_HDR.jpg  left
-file://./Images_2024_2\IMG_20240707_111043415_HDR.jpg  center
-file://./Images_2024_2\IMG_20240707_111103664_HDR.jpg  detail
-file://./Images_2024_2\IMG_20240707_111204563.jpg  right
+file://./Images_2024/IMG_20240707_111041152_HDR.jpg  left
+file://./Images_2024/IMG_20240707_111043415_HDR.jpg  center
+file://./Images_2024/IMG_20240707_111103664_HDR.jpg  detail
+file://./Images_2024/IMG_20240707_111204563.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN           | b           | d           | T |
@@ -1793,7 +2048,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-07
+===PID: 2024-1-3-08
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1816,7 +2071,7 @@ MARIA      20.9.1939  -  5.10.2023
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111217065.jpg  center
+file://./Images_2024/IMG_20240707_111217065.jpg  center
 ===Notes:
 Added name: Maria
 
@@ -1834,11 +2089,12 @@ Recorded as: "60 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-07
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111214485.jpg  left
-file://./Images_2024_2\IMG_20240707_111217065.jpg  center
-file://./Images_2024_2\IMG_20240707_111219362.jpg  right
+file://./Images_2024/IMG_20240707_111214485.jpg  left
+file://./Images_2024/IMG_20240707_111217065.jpg  center
+file://./Images_2024/IMG_20240707_111219362.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1866,7 +2122,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-3-08
+===PID: 2024-1-3-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1889,7 +2145,7 @@ emma schuhmann
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111231020.jpg  center
+file://./Images_2024/IMG_20240707_111231020.jpg  center
 ===Notes:
 Added name: Angelika
 Fixed transcription to "Schuhmann"
@@ -1898,16 +2154,24 @@ Fixed transcription to "Schuhmann"
 ===Photos: 1
 file://./Images_2018/IMG_9689.JPG
 ===Notes:
-First reading.
+Added name: emil schuhmann
+Added name: emma schuhmann
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "61 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-3-08
 ===Location:
 Abuts central path
 2024
-file://./Images_2024_2\IMG_20240707_111228080.jpg  left
-file://./Images_2024_2\IMG_20240707_111231020.jpg  center
-file://./Images_2024_2\IMG_20240707_111233182.jpg  right
+file://./Images_2024/IMG_20240707_111228080.jpg  left
+file://./Images_2024/IMG_20240707_111231020.jpg  center
+file://./Images_2024/IMG_20240707_111233182.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -1916,7 +2180,7 @@ file://./Images_2024_2\IMG_20240707_111233182.jpg  right
 |           |          |       | Barbara  | Schuhmann   | 15.010.1883 | 04.002.1965 |   |
 |           |          |       | Emil     | Schuhmann   | 03.004.1917 | 09.009.1999 |   |
 |           |          |       | Emma     | Schuhmann   | 09.003.1924 | 18.012.2004 |   |
-|  TODO     |          |       | Angelika | Schuhmann   | 26.008.1920 | 23.011.2021 |   |
+|           |          |       | Angelika | Schuhmann   | 26.008.1920 | 23.011.2021 |   |
 
 ===Status: TODO
 FG
@@ -1936,7 +2200,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-01
+===PID: 2024-1-4-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -1946,7 +2210,7 @@ FG citation
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111313319.jpg  center
+file://./Images_2024/IMG_20240707_111313319.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -1956,14 +2220,15 @@ file://./Images_2018/IMG_9682.JPG
 ===Notes:
 Vacant
 
+===OLD_PID: 2018-1-4-01
 ===Location:
 file://./Images_2018/IMG_9682.JPG
 2018-1-3-01 is at far left end of row, col 1.
 Behind this plot, 1-4-01 looks empty
 2024
-file://./Images_2024_2\IMG_20240707_111311127.jpg  left
-file://./Images_2024_2\IMG_20240707_111313319.jpg  center
-file://./Images_2024_2\IMG_20240707_111315333.jpg  right
+file://./Images_2024/IMG_20240707_111311127.jpg  left
+file://./Images_2024/IMG_20240707_111313319.jpg  center
+file://./Images_2024/IMG_20240707_111315333.jpg  right
 
 ===Status: TODO
 FG
@@ -1983,7 +2248,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-02
+===PID: 2024-1-4-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2006,7 +2271,7 @@ Unvergessen !
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111324286.jpg  center
+file://./Images_2024/IMG_20240707_111324286.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2025,10 +2290,11 @@ Recorded as: "62 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-02
 ===Location:
-file://./Images_2024_2\IMG_20240707_111321643.jpg  left
-file://./Images_2024_2\IMG_20240707_111324286.jpg  center
-file://./Images_2024_2\IMG_20240707_111326395.jpg  right
+file://./Images_2024/IMG_20240707_111321643.jpg  left
+file://./Images_2024/IMG_20240707_111324286.jpg  center
+file://./Images_2024/IMG_20240707_111326395.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN    | b           | d           | T |
@@ -2058,20 +2324,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-03
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-TODO  No vacant plot here
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-4-04
+===PID: 2024-1-4-03
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2103,7 +2356,7 @@ RIP
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111342405.jpg  center
+file://./Images_2024/IMG_20240707_111342405.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2127,13 +2380,15 @@ Recorded as: "63 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-04
+===OLD_PID: 2018-1-4-03  NOT_IN_2024
 ===Location:
 file://./Images_2015/20150307_032950.jpg
 Shows this plot in front of PID: 2018-1-5-04 "FRANK".
 2024
-file://./Images_2024_2\IMG_20240707_111338802.jpg  left
-file://./Images_2024_2\IMG_20240707_111342405.jpg  center
-file://./Images_2024_2\IMG_20240707_111345406.jpg  right
+file://./Images_2024/IMG_20240707_111338802.jpg  left
+file://./Images_2024/IMG_20240707_111342405.jpg  center
+file://./Images_2024/IMG_20240707_111345406.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -2164,7 +2419,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-05
+===PID: 2024-1-4-04
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2198,7 +2453,7 @@ RUHET IN FRIEDEN
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111357570.jpg  center
+file://./Images_2024/IMG_20240707_111357570.jpg  center
 ===Notes:
 Added name: Wilhelm
 Removed wooden cross. 
@@ -2229,11 +2484,12 @@ Recorded as: "64 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-05
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111355383.jpg  left
-file://./Images_2024_2\IMG_20240707_111357570.jpg  center
-file://./Images_2024_2\IMG_20240707_111401258.jpg  right
+file://./Images_2024/IMG_20240707_111355383.jpg  left
+file://./Images_2024/IMG_20240707_111357570.jpg  center
+file://./Images_2024/IMG_20240707_111401258.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -2261,20 +2517,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-06
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-TODO no vacant plot here
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-4-07
+===PID: 2024-1-4-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2289,7 +2532,7 @@ GÜNTHER WEINER
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111428566.jpg  center
+file://./Images_2024/IMG_20240707_111428566.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2307,11 +2550,13 @@ Recorded as: "65 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-07
+===OLD_PID: 2018-1-4-06  NOT_IN_2024
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111410950.jpg  left
-file://./Images_2024_2\IMG_20240707_111428566.jpg  center
-file://./Images_2024_2\IMG_20240707_111425566.jpg  right
+file://./Images_2024/IMG_20240707_111410950.jpg  left
+file://./Images_2024/IMG_20240707_111428566.jpg  center
+file://./Images_2024/IMG_20240707_111425566.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -2336,7 +2581,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-08
+===PID: 2024-1-4-06
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2375,7 +2620,7 @@ JOSEF ROTH
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111441466.jpg  center
+file://./Images_2024/IMG_20240707_111441466.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2393,11 +2638,12 @@ Recorded as: "66 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-08
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111439095.jpg  left
-file://./Images_2024_2\IMG_20240707_111441466.jpg  center
-file://./Images_2024_2\IMG_20240707_111444321.jpg  right
+file://./Images_2024/IMG_20240707_111439095.jpg  left
+file://./Images_2024/IMG_20240707_111441466.jpg  center
+file://./Images_2024/IMG_20240707_111444321.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -2430,7 +2676,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-09
+===PID: 2024-1-4-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2467,7 +2713,7 @@ RUHESTÄTTE DER FAMILIE STAMM
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111459759.jpg  center
+file://./Images_2024/IMG_20240707_111459759.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2492,15 +2738,16 @@ Recorded as: "67 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-09
 ===Location:
 file://./Images_2015/20150307_033037.jpg
 Shows plot in front of a wide grass path = indicates row 4.
 in row 5, see PID: 2018-1-5-08 "Anna Maria Stamm" to the left and
 PID: 2018-1-5-11 "Linus Amend" to the right.
 2024
-file://./Images_2024_2\IMG_20240707_111452021.jpg  left
-file://./Images_2024_2\IMG_20240707_111459759.jpg  center
-file://./Images_2024_2\IMG_20240707_111502164.jpg  right
+file://./Images_2024/IMG_20240707_111452021.jpg  left
+file://./Images_2024/IMG_20240707_111459759.jpg  center
+file://./Images_2024/IMG_20240707_111502164.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -2531,24 +2778,29 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-4-
-TODO new VACANT
+===PID: 2018-1-4-08
+===Coord: []
+===Place: Hausen
+===Stones: 0
 
+===Stone: VACANT
 ===Date: 2024
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111511880.jpg  center
+file://./Images_2024/IMG_20240707_111511880.jpg  center
 ===Notes:
 Vacant
 
+===OLD_PID: 2018-1-4-09-A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111509721.jpg  left
-file://./Images_2024_2\IMG_20240707_111511880.jpg  center
-file://./Images_2024_2\IMG_20240707_111513832.jpg  right
+file://./Images_2024/IMG_20240707_111509721.jpg  left
+file://./Images_2024/IMG_20240707_111511880.jpg  center
+file://./Images_2024/IMG_20240707_111513832.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-4-10
+===PID: 2024-1-4-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -2571,7 +2823,7 @@ KONRAD; JOHANNA u. RUDOLF
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111524287.jpg  center
+file://./Images_2024/IMG_20240707_111524287.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2606,11 +2858,12 @@ Recorded as: "68 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-4-10
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111520971.jpg  left
-file://./Images_2024_2\IMG_20240707_111524287.jpg  center
-file://./Images_2024_2\IMG_20240707_111526510.jpg  right
+file://./Images_2024/IMG_20240707_111520971.jpg  left
+file://./Images_2024/IMG_20240707_111524287.jpg  center
+file://./Images_2024/IMG_20240707_111526510.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -2639,24 +2892,29 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-01
+===PID: 2024-1-5-01
 ===Coord: []
+===Place: Hausen
+===Stones: 0
 
-TODO  new vacant
+===Stone: VACANT
+===Date: 2024
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111614310.jpg  center
+file://./Images_2024/IMG_20240707_111614310.jpg  center
 ===Notes:
 Vacant
 
+===OLD_PID: 2018-1-5-01--A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111611660.jpg  left
-file://./Images_2024_2\IMG_20240707_111614310.jpg  center
-file://./Images_2024_2\IMG_20240707_111616321.jpg  right
+file://./Images_2024/IMG_20240707_111611660.jpg  left
+file://./Images_2024/IMG_20240707_111614310.jpg  center
+file://./Images_2024/IMG_20240707_111616321.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-5-01
+===PID: 2024-1-5-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2691,7 +2949,7 @@ ROBERT STAMM
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111625147.jpg  center
+file://./Images_2024/IMG_20240707_111625147.jpg  center
 ===Notes:
 Added name: Robert
 
@@ -2710,15 +2968,16 @@ Recorded as: "69 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-01
 ===Location:
 file://./Images_2018/IMG_9682.JPG
 2018-1-3-01 is at far left end of row, col 1.
 Behind this plot, 1-4-01 looks empty
 behind that plot 1-5-01 "Andreas Müller"
 2024
-file://./Images_2024_2\IMG_20240707_111622697.jpg  left
-file://./Images_2024_2\IMG_20240707_111625147.jpg  center
-file://./Images_2024_2\IMG_20240707_111627351.jpg  right
+file://./Images_2024/IMG_20240707_111622697.jpg  left
+file://./Images_2024/IMG_20240707_111625147.jpg  center
+file://./Images_2024/IMG_20240707_111627351.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -2751,53 +3010,48 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-02
+===PID: 2024-1-5-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
-
-===Stone: VACANT
-===Date: 2018
-
-===Date: 2024
-===Photos: 1
-file://./Images_2024_2\IMG_20240707_111636773.jpg  center
-===Notes:
-Vacant
-
-===Location:
-2024
-file://./Images_2024_2\IMG_20240707_111634409.jpg  left
-file://./Images_2024_2\IMG_20240707_111636773.jpg  center
-file://./Images_2024_2\IMG_20240707_111638656.jpg  right
-
-=========================================================================DIV80==
-===PID: 2018-1-5-03
-===Coord: []
-===Place: Hausen
-===Stones: 1
+===Stones: 2-V
 
 TODO  This is probably the vacant site above
 in 2024 there is a vacant to the left of Frank and to the right of ANDREAS MÜLLER
 this stone no longer in cemetery
 
-===Stone: 1
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_111636773.jpg  center
+===Notes:
+Vacant
+Removed stone: Hermann Weidner
+
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►top◄
 CHRISTUS IST MEIN LEBEN
+►across◄
 Hier ruht in Frieden
 
+►left◄
 Hermann Weidner
 * 17.2.1913 - 19.5.1998 ✝
 Lydia Weidner
 * 16.3.1923 - 2.6.2001 ✝
+
+►right◄
 Anna Weidner
 geb. Schürger
 * 28.1.1903 - 10.12.1949 ✝
 Georg u. Gerhard
 Schürger
 
+►bottom◄
 Auf Wiedersehen!
 -----------------------------------------------------DIV60--
 
@@ -2805,10 +3059,39 @@ Auf Wiedersehen!
 ===Photos: 1
 file://./Images_2018/IMG_9663.JPG
 ===Notes:
+New stone.
+Names in common: Georg u. Gertraud Schürger
+Transcription in 1995 says Gertraud while 2018 photo says Gerhard.
+Probably an error in 1995.
+The 1995 number sequence puts it in this place.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Maria Weidner
+geb. Schürger
+28.1.1903  10.12.1949
+
+Georg u. Gertraud Schürger
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "70 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-03
+===OLD_PID: 2018-1-5-02  NOT_IN_2024
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_111634409.jpg  left
+file://./Images_2024/IMG_20240707_111636773.jpg  center
+file://./Images_2024/IMG_20240707_111638656.jpg  right
+
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -2819,6 +3102,9 @@ file://./Images_2018/IMG_9663.JPG
 |           |          |       | Anna     | Schürger    | 28.001.1903 | 10.012.1949 | b |
 |           |          |       | Georg    | Schürger    |             |             |   |
 |           |          |       | Gerhard  | Schürger    |             |             |   |
+|           |          |       | Maria    | Weidner     | 28.001.1903 | 10.012.1949 |   |
+|           |          |       | Maria    | Schürger    | 28.001.1903 | 10.012.1949 | b |
+|           |          |       | Gertraud | Schürger    |             |             |   |
 
 ===Status: TODO
 FG
@@ -2838,7 +3124,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-04
+===PID: 2024-1-5-04
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2864,9 +3150,9 @@ Ursula Frank  1957  -  2021
 
 ===Date: 2024
 ===Photos: 3
-file://./Images_2024_2\IMG_20240707_111653634.jpg  center
-file://./Images_2024_2\IMG_20240707_111710882.jpg  detail
-file://./Images_2024_2\IMG_20240707_111718725.jpg  detail
+file://./Images_2024/IMG_20240707_111653634.jpg  center
+file://./Images_2024/IMG_20240707_111710882.jpg  detail
+file://./Images_2024/IMG_20240707_111718725.jpg  detail
 ===Notes:
 Added name: Luise
 Added name: Maria
@@ -2886,15 +3172,16 @@ Recorded as: "71 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-04
 ===Location:
 file://./Images_2015/20150307_032950.jpg
 Shows PID: 2018-1-5-04 "FRANK" to the left of PID: 2018-1-5-05 "Franz Frank".
 2024
-file://./Images_2024_2\IMG_20240707_111645527.jpg  left
-file://./Images_2024_2\IMG_20240707_111653634.jpg  center
-file://./Images_2024_2\IMG_20240707_111710882.jpg  detail
-file://./Images_2024_2\IMG_20240707_111718725.jpg  detail
-file://./Images_2024_2\IMG_20240707_111728876.jpg  right
+file://./Images_2024/IMG_20240707_111645527.jpg  left
+file://./Images_2024/IMG_20240707_111653634.jpg  center
+file://./Images_2024/IMG_20240707_111710882.jpg  detail
+file://./Images_2024/IMG_20240707_111718725.jpg  detail
+file://./Images_2024/IMG_20240707_111728876.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -2926,7 +3213,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-05
+===PID: 2024-1-5-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -2953,7 +3240,7 @@ EIN HERZ STEHT STILL WENN GOTT ES WILL!
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111731039.jpg  center
+file://./Images_2024/IMG_20240707_111731039.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -2971,13 +3258,14 @@ Recorded as: "72 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-05
 ===Location:
 file://./Images_2015/20150307_032950.jpg
 Shows PID: 2018-1-5-04 "FRANK" to the left of PID: 2018-1-5-05 "Franz Frank".
 2024
-file://./Images_2024_2\IMG_20240707_111728876.jpg  left
-file://./Images_2024_2\IMG_20240707_111731039.jpg  center
-file://./Images_2024_2\IMG_20240707_111733563.jpg  right
+file://./Images_2024/IMG_20240707_111728876.jpg  left
+file://./Images_2024/IMG_20240707_111731039.jpg  center
+file://./Images_2024/IMG_20240707_111733563.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -3008,28 +3296,56 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-06
+===PID: 2024-1-5-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
 
 ===Stone: VACANT
 ===Date: 2018
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111742266.jpg  center
+file://./Images_2024/IMG_20240707_111742266.jpg  center
 ===Notes:
 Vacant
+Removed stone: Herrmann
+1995 numbering #73 fits this spot or the next.
+Not clear if Herrmann was in this plot or the one to the right (Theo Stamm)
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Herrmann
+
+Karl       1882 - 1940
+Margarete  1889 - 1982
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "73 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-5-06
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111740085.jpg  left
-file://./Images_2024_2\IMG_20240707_111742266.jpg  center
-file://./Images_2024_2\IMG_20240707_111745603.jpg  right
+file://./Images_2024/IMG_20240707_111740085.jpg  left
+file://./Images_2024/IMG_20240707_111742266.jpg  center
+file://./Images_2024/IMG_20240707_111745603.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Karl      | Herrmann    |        1882 |        1940 |   |
+|           |          |       | Margarete | Herrmann    |        1889 |        1982 |   |
 
 =========================================================================DIV80==
-===PID: 2018-1-5-07
+===PID: 2024-1-5-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3048,7 +3364,7 @@ GEB. STANGENBERGER
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111752775.jpg  center
+file://./Images_2024/IMG_20240707_111752775.jpg  center
 ===Notes:
 New stone. This stone is horizontal only.
 Name overlap: Theo Stamm.
@@ -3079,11 +3395,12 @@ TODO  get new photo since wooden cross.
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-07
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111750771.jpg  left
-file://./Images_2024_2\IMG_20240707_111752775.jpg  center
-file://./Images_2024_2\IMG_20240707_111755059.jpg  right
+file://./Images_2024/IMG_20240707_111750771.jpg  left
+file://./Images_2024/IMG_20240707_111752775.jpg  center
+file://./Images_2024/IMG_20240707_111755059.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN            | b           | d           | T |
@@ -3112,7 +3429,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-08
+===PID: 2024-1-5-08
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3149,8 +3466,8 @@ unser liebes kind  Rudolf
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_111804717.jpg  center
-file://./Images_2024_2\IMG_20240707_111814745.jpg  detail
+file://./Images_2024/IMG_20240707_111804717.jpg  center
+file://./Images_2024/IMG_20240707_111814745.jpg  detail
 ===Notes:
 Added name: Ernst
 
@@ -3170,12 +3487,13 @@ Recorded as: "74 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-08
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111802556.jpg  left
-file://./Images_2024_2\IMG_20240707_111804717.jpg  center
-file://./Images_2024_2\IMG_20240707_111814745.jpg  detail
-file://./Images_2024_2\IMG_20240707_111820114.jpg  right
+file://./Images_2024/IMG_20240707_111802556.jpg  left
+file://./Images_2024/IMG_20240707_111804717.jpg  center
+file://./Images_2024/IMG_20240707_111814745.jpg  detail
+file://./Images_2024/IMG_20240707_111820114.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
@@ -3206,7 +3524,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-09
+===PID: 2024-1-5-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3240,7 +3558,7 @@ ROBERT WOLF
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111835642.jpg  center
+file://./Images_2024/IMG_20240707_111835642.jpg  center
 ===Notes:
 Added name: Robert
 
@@ -3259,10 +3577,11 @@ Recorded as: "75 Hausen"
 
 ===Interpretation:
 2024
-file://./Images_2024_2\IMG_20240707_111827077.jpg  left
-file://./Images_2024_2\IMG_20240707_111835642.jpg  center
-file://./Images_2024_2\IMG_20240707_111840630.jpg  right
+file://./Images_2024/IMG_20240707_111827077.jpg  left
+file://./Images_2024/IMG_20240707_111835642.jpg  center
+file://./Images_2024/IMG_20240707_111840630.jpg  right
 
+===OLD_PID: 2018-1-5-09
 ===Location:
 
 ===Table:
@@ -3295,20 +3614,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-5-10
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-TODO no vacant here
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-5-11
+===PID: 2024-1-5-10
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3339,7 +3645,7 @@ Kaspar Schäb
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111850337.jpg  center
+file://./Images_2024/IMG_20240707_111850337.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -3357,14 +3663,15 @@ Recorded as: "76 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-5-11
 ===Location:
 file://./Images_2015/20150307_033037.jpg
 Shows this plot behind a wide grass path = indicates row 5.
 Plot abuts center path on the right= indicate this is last in row.
 2024
-file://./Images_2024_2\IMG_20240707_111847956.jpg  left
-file://./Images_2024_2\IMG_20240707_111850337.jpg  center
-file://./Images_2024_2\IMG_20240707_111852719.jpg  right
+file://./Images_2024/IMG_20240707_111847956.jpg  left
+file://./Images_2024/IMG_20240707_111850337.jpg  center
+file://./Images_2024/IMG_20240707_111852719.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -3393,7 +3700,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-01
+===PID: 2024-1-6-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 2
@@ -3421,8 +3728,8 @@ Luzia Knabe
 
 ===Date: 2024
 ===Photos: 2
-file://./Images_2024_2\IMG_20240707_111933446.jpg  center
-file://./Images_2024_2\IMG_20240707_111942198.jpg  detail
+file://./Images_2024/IMG_20240707_111933446.jpg  center
+file://./Images_2024/IMG_20240707_111942198.jpg  detail
 ===Notes:
 No changes since 2018.
 
@@ -3464,12 +3771,13 @@ Recorded as: "77 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-01
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111931119.jpg  left
-file://./Images_2024_2\IMG_20240707_111933446.jpg  center
-file://./Images_2024_2\IMG_20240707_111942198.jpg  detail
-file://./Images_2024_2\IMG_20240707_111947734.jpg  right
+file://./Images_2024/IMG_20240707_111931119.jpg  left
+file://./Images_2024/IMG_20240707_111933446.jpg  center
+file://./Images_2024/IMG_20240707_111942198.jpg  detail
+file://./Images_2024/IMG_20240707_111947734.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -3502,20 +3810,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-02
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-TODO  No vacant plot here
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-6-03
+===PID: 2024-1-6-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3554,7 +3849,7 @@ R.I.P.
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_111958242.jpg  center
+file://./Images_2024/IMG_20240707_111958242.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -3572,11 +3867,12 @@ Recorded as: "78 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-03
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_111956163.jpg  left
-file://./Images_2024_2\IMG_20240707_111958242.jpg  center
-file://./Images_2024_2\IMG_20240707_112001158.jpg  right
+file://./Images_2024/IMG_20240707_111956163.jpg  left
+file://./Images_2024/IMG_20240707_111958242.jpg  center
+file://./Images_2024/IMG_20240707_112001158.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -3608,20 +3904,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-04
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-TODO  no vacant plot here
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-6-05
+===PID: 2024-1-6-03
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3630,20 +3913,28 @@ TODO  no vacant plot here
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►top◄
 FAMILIE MARSCHALL
 
 ELISABETH GEB. MARSCHALL  28.9.1941  - 17.12.1966
 HEDWIG GEB. STAMM  31.5.1922  -  5.5.2016
 THOMAS  7.2.1915 ✠ VERM. JUNI 1944
 
+►bottom◄
 GELIEBT, BEWEINT UNVERGESSEN!
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024\IMG_20240707_112012894.jpg  center
+===Notes:
+No changes since 2018.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9659.JPG
 ===Notes:
-No changes since 1995.
+Added name: Hedwig
 
 ===Date: 1995
 ===Photos: 0
@@ -3653,7 +3944,12 @@ Recorded as: "79 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-05
 ===Location:
+2024
+file://./Images_2024\IMG_20240707_112010203.jpg  left
+file://./Images_2024\IMG_20240707_112012894.jpg  center
+file://./Images_2024\IMG_20240707_112015357.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
@@ -3682,7 +3978,7 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-06
+===PID: 2024-1-6-04
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3701,7 +3997,7 @@ Margot
 
 ===Date: 2034
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_112032434.jpg  center
+file://./Images_2024/IMG_20240707_112032434.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -3713,11 +4009,12 @@ First reading.
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-06
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112029041.jpg  left
-file://./Images_2024_2\IMG_20240707_112032434.jpg  center
-file://./Images_2024_2\IMG_20240707_112035079.jpg  right
+file://./Images_2024/IMG_20240707_112029041.jpg  left
+file://./Images_2024/IMG_20240707_112032434.jpg  center
+file://./Images_2024/IMG_20240707_112035079.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -3743,19 +4040,32 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-
+===PID: 2024-1-6-05
 
-TODO new VACANT
-file://./Images_2024_2\IMG_20240707_112043208.jpg  center
+===Coord: []
+===Place: Hausen
+===Stones: 1-V
 
+===Stone: VACANT
+===Date: 2018
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112043208.jpg  center
+===Notes:
+Vacant
+
+===Interpretation:
+
+===OLD_PID: 2018-1-6-06-A
+===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112041260.jpg  left
-file://./Images_2024_2\IMG_20240707_112043208.jpg  center
-file://./Images_2024_2\IMG_20240707_112045246.jpg  right
+file://./Images_2024/IMG_20240707_112041260.jpg  left
+file://./Images_2024/IMG_20240707_112043208.jpg  center
+file://./Images_2024/IMG_20240707_112045246.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-6-07
+===PID: 2024-1-6-06
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3790,11 +4100,12 @@ Recorded as: "80 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-07
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112052214.jpg  left
-file://./Images_2024_2\IMG_20240707_112056629.jpg  center
-file://./Images_2024_2\IMG_20240707_112059091.jpg  right
+file://./Images_2024/IMG_20240707_112052214.jpg  left
+file://./Images_2024/IMG_20240707_112056629.jpg  center
+file://./Images_2024/IMG_20240707_112059091.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -3802,21 +4113,25 @@ file://./Images_2024_2\IMG_20240707_112059091.jpg  right
 |           |          |       | Josef    | Gehrling    | 04.008.1920 | 15.003.1970 |   |
 |           |          |       | Rosa     | Gehrling    | 23.009.1919 | 23.010.2014 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
-===PID: 2018-1-6-08
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: VACANT
-===Date: 2018
-TODO  no vacant plot here
-
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-6-09
+===PID: 2024-1-6-07
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3855,7 +4170,7 @@ FRIEDE
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_112111244.jpg  center
+file://./Images_2024/IMG_20240707_112111244.jpg  center
 ===Notes:
 No changes since 2018.
 
@@ -3873,11 +4188,13 @@ Recorded as: "81 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-6-09
+===OLD_PID: 2018-1-6-08  NOT_IN_2024
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112106513.jpg  left
-file://./Images_2024_2\IMG_20240707_112111244.jpg  center
-file://./Images_2024_2\IMG_20240707_112114770.jpg  right
+file://./Images_2024/IMG_20240707_112106513.jpg  left
+file://./Images_2024/IMG_20240707_112111244.jpg  center
+file://./Images_2024/IMG_20240707_112114770.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN      | b           | d           | T |
@@ -3909,28 +4226,71 @@ Burial tag
 FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-6-10
+===PID: 2024-1-6-08
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
 
 ===Stone: VACANT
 ===Date: 2024
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_112123628.jpg  center
+file://./Images_2024/IMG_20240707_112123628.jpg  center
 ===Notes:
 Vacant
+Removed stone: Rüppel
+1995 numbering #82 fits here.
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Alois Rüppel
+28.2.1881  6.1.1924
+
+Mathilde Rüppel Geb. Matreux
+27.6.1880  15.8.1946
+
+✠ Hans Rüppel
+31.7.1911  verm. 13.8.1944
+
+✠ Otto Rüppel
+21.8.1907 verm. 10.1.1943
+
+Hildegard Rüppel
+Geb. Stamm
+27.2.1910  30.9.1966
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "82 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-6-10
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112121272.jpg  left
-file://./Images_2024_2\IMG_20240707_112123628.jpg  center
-file://./Images_2024_2\IMG_20240707_112125968.jpg  right
+file://./Images_2024/IMG_20240707_112121272.jpg  left
+file://./Images_2024/IMG_20240707_112123628.jpg  center
+file://./Images_2024/IMG_20240707_112125968.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          |       | Alois     | Rüppel      | 28.002.1881 | 06.001.1924 |   |
+|           |          |       | Mathilde  | Matreux     | 27.006.1880 | 15.008.1946 |   |
+|           |          |       | Mathilde  | Matreux     | 27.006.1880 | 15.008.1946 | b |
+|           |          |       | Hans      | Rüppel      | 31.007.1911 | 13.008.1944 |   |
+|           |          |       | Otto      | Rüppel      | 21.008.1907 | 10.001.1943 |   |
+|           |          |       | Hildegard | Rüppel      | 27.002.1910 | 30.009.1966 |   |
+|           |          |       | Hildegard | Stamm       | 27.002.1910 | 30.009.1966 | b |
 
 =========================================================================DIV80==
-===PID: 2018-1-6-11
+===PID: 2024-1-6-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -3954,7 +4314,7 @@ FAM. RÜPPEL
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_112151867.jpg  center
+file://./Images_2024/IMG_20240707_112151867.jpg  center
 ===Notes:
 Added name: Alfred
 Added name: Elisabeth
@@ -3965,26 +4325,63 @@ Removed wooden cross. All cross data now on stone.
 file://./Images_2018/IMG_9654.JPG
 file://./Images_2018/IMG_9655.JPG  wooden cross
 ===Notes:
-Has wooden cross for Alfred.
-First reading.
+Added wooden cross: Alfred.
+New stone
+No names in common.
+New Family.
 
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Helga Stamm
+17 Jan. 1942
+3 Okt. 1994
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "83 Hausen"
+
+===OLD_PID: 2018-1-6-11
 ===Interpretation:
 Who are FAM. RÜPPEL?
 
 ===Location:
-file://./Images_2024_2\IMG_20240707_112135029.jpg  left
-file://./Images_2024_2\IMG_20240707_112151867.jpg  center
-file://./Images_2024_2\IMG_20240707_112158890.jpg  right
+file://./Images_2024/IMG_20240707_112135029.jpg  left
+file://./Images_2024/IMG_20240707_112151867.jpg  center
+file://./Images_2024/IMG_20240707_112158890.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
+|-----------|----------|-------|------------|-------------|-------------|-------------|---|
+|           | G7D1-MCQ |  1665 | Helga      | Stamm       | 17.001.1942 | 03.010.1994 |   |
 |-----------|----------|-------|------------|-------------|-------------|-------------|---|
 |           |          |       | Karl-Heinz | Haas        | 29.003.1962 | 05.009.2012 |   |
 |           |          |       | Alfred     | Haas        | 06.001.1934 | 06.004.2018 |   |
 |           |          |       | Elisabeth  | Haas        | 15.009.1837 | 25.004.2019 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
-===PID: 2018-1-7-01
+===PID: 2023-1-7-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -4008,7 +4405,7 @@ Franz
 
 ===Date: 2024
 ===Photos: 1
-file://./Images_2024_2\IMG_20240707_112232547.jpg  center
+file://./Images_2024/IMG_20240707_112232547.jpg  center
 ===Notes:
 Added name: Elfriede
 
@@ -4020,11 +4417,12 @@ First reading.
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-01
 ===Location:
 2024
-file://./Images_2024_2\IMG_20240707_112230567.jpg  left
-file://./Images_2024_2\IMG_20240707_112232547.jpg  center
-file://./Images_2024_2\IMG_20240707_112234981.jpg  right
+file://./Images_2024/IMG_20240707_112230567.jpg  left
+file://./Images_2024/IMG_20240707_112232547.jpg  center
+file://./Images_2024/IMG_20240707_112234981.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4032,13 +4430,30 @@ file://./Images_2024_2\IMG_20240707_112234981.jpg  right
 |           |          |       | Franz    | Wolf        | 12.005.1927 | 14.009.2000 |   |
 |           |          |       | Elfriede | Wolf        | 12.001.1928 | 02.004.2020 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
-===PID: 2018-1-7-02
+===PID: 2024-1-7-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -4047,33 +4462,114 @@ Kohlhepp
 * 11.2.1963  ✝ 18.6.2011
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112243516.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9649.JPG
 ===Notes:
+New stone.
+Removed stone: Henkelmann
+1995 numbering #84 fits here.
+but could have been to the left of right.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Lydia Henkelmann
+5.1.1916  30.12.1985
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "84 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-02
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112240980.jpg  left
+file://./Images_2024/IMG_20240707_112243516.jpg  center
+file://./Images_2024/IMG_20240707_112246114.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN          | LN          | b           | d           | T |
 |-----------|----------|-------|-------------|-------------|-------------|-------------|---|
+|           |          |       | Lydia       | Henkelmann  | 05.001.1916 | 30.012.1985 |   |
+|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
 |           |          |       | Franz Josef | Kohlhepp    | 11.002.1963 | 18.006.2011 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
-===PID: 2018-1-7-03
+===PID: 2024-1-7-03
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
 
 ===Stone: VACANT
-===Date: 2018
+===Date: 2024
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112305957.jpg  center
+===Notes:
+Vacant
+
+===OLD_PID: 2018-1-7-03
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112257447.jpg  left
+file://./Images_2024/IMG_20240707_112305957.jpg  center
+file://./Images_2024/IMG_20240707_112307584.jpg  right
 
 =========================================================================DIV80==
-===PID: 2018-1-7-04
+===PID: 2024-1-7-04
+===Coord: []
+===Place: Hausen
+===Stones: 1
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112315181.jpg  center
+===Notes:
+Vacant
+
+===OLD_PID: 2018-1-7-03-A
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112313326.jpg  left
+file://./Images_2024/IMG_20240707_112315181.jpg  center
+file://./Images_2024/IMG_20240707_112317137.jpg  right
+
+=========================================================================DIV80==
+===PID: 2024-1-7-05
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -4093,7 +4589,12 @@ TODO   look for given names
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-04
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112323854.jpg  left
+file://./Images_2024/IMG_20240707_112325974.jpg  center
+file://./Images_2024/IMG_20240707_112328819.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4101,24 +4602,163 @@ TODO   look for given names
 |           |          |       | NULL     | Pschorr     |             |             |   |
 |           |          |       | NULL     | Stamm       |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 ========================================================================DIV80==
-===PID: 2018-1-7-05
+===PID: 2024-1-7-06
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
 
 ===Stone: VACANT
-===Date: 2018
+===Date: 2024
 
-===Location:
-
-========================================================================DIV80==
-===PID: 2018-1-7-06
-===Coord: []
-===Place: Hausen
-===Stones: 1
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112340766.jpg  center
+===Notes:
+Vacant
+Remmoved stone: Ferkinghoff
+1995 numbering # 85 fits here-- but it is plus minus several plots.
 
 ===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Inge Ferkinghoff
+geb. Feix
+2.7.1938  2.5.1973
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "85 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-7-05
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112338518.jpg  left
+file://./Images_2024/IMG_20240707_112340766.jpg  center
+file://./Images_2024/IMG_20240707_112343710.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Inge     | Ferkinghoff | 02.007.1938 | 02.005.1973 |   |
+|           |          |       | Inge     | Feix        | 02.007.1938 | 02.005.1973 | b |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+========================================================================DIV80==
+===PID: 2024-1-7-07
+===Coord: []
+===Place: Hausen
+===Stones: 1-V
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112351601.jpg  center
+===Notes:
+Vacant
+Removed stone: Philomena Schuck
+1995 numbering #86 fits here (or could also be in the one to the left)
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Philomena Schuck
+geb. Kullmann
+18.11.1860  29.5.1902
+
+Anton Schuck
+Mühlenbesitzer
+27.10.1854  21.11.1924
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "86 Hausen"
+
+===Interpretation:
+
+===OLD_PID: 2018-1-7-05-A
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112349404.jpg  left
+file://./Images_2024/IMG_20240707_112351601.jpg  center
+file://./Images_2024/IMG_20240707_112353459.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+|           |          | 16597 | Philomena | Schuck      | 18.011.1860 | 29.005.1902 |   |
+|           |          | 16597 | Philomena | Kullmann    | 18.011.1860 | 29.005.1902 | b |
+|           |          | 16596 | Anton     | Schuck      | 27.010.1854 | 21.011.1924 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+========================================================================DIV80==
+===PID: 2024-1-7-08
+===Coord: []
+===Place: Hausen
+===Stones: 2
+
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -4129,23 +4769,81 @@ Jöen Schmidt
 * 5.8.1976  ✝ 20.9.2016
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112400030.jpg  
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9651.JPG
 ===Notes:
+New stone
+Removed stone Akrl Wolf
+No names in common.
+New family.
+1995 numbering # 87 fits here
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Karl Wolf
+27.1.1898  21.12.1972
+
+Klementine Wolf
+9.12.1896  1.3.1978
+
+und deren Eltern
+Wilhelm u. Angelina Wolf
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "87 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-06
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112404409.jpg  
+file://./Images_2024/IMG_20240707_112400030.jpg  
+file://./Images_2024/IMG_20240707_112402333.jpg  
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | August   | Amend       | 30.004.1949 | 09.004.2005 |   |
-|           |          |       | Jöen     | Schmidt     | 05.008.1976 | 20.009.2016 |   |
+| FG        | FS       | RM    | FN          | LN          | b           | d           | T |
+|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
+|           |          |       | Karl        | Wolf        | 27.001.1898 | 21.012.1972 |   |
+|           |          |       | Klementine  | Wolf        | 09.012.1896 | 01.003.1978 |   | 
+|           |          |       | Wilhelm     | Wolf        |             |             |   |
+|           |          |       | Angelina    | Wolf        |             |             |   |
+|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
+|           |          |       | August      | Amend       | 30.004.1949 | 09.004.2005 |   |
+|           |          |       | Jöen        | Schmidt     | 05.008.1976 | 20.009.2016 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
-===PID: 2018-1-7-07
+===PID: 2024-1-7-09
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -4154,21 +4852,31 @@ file://./Images_2018/IMG_9651.JPG
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►left◄
 JOSEF BIENER
 * 13.3.1992  ✠  12.6.1944
 JOSEF BIENER
 * 3.9.1895   ✝ 5.12.1971
 FRIEDA BIENER
-* 19.10.1899   ✝ 10.10.1998
+* 19.10.1899   ✝ 10.10.1988
+
+►right◄
 GERHARD BIENER
 * 16.11.1940   ✝ 27.1.2017
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112412503.jpg  center
+===Notes:
+No changes since 2018.
+2018 photo much better.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9652.JPG
 ===Notes:
-Same stone since 1995. Added: GERHARD BIENER
+Added name: Gerhard
 
 ===Date: 1995
 ===Photos: 0
@@ -4178,29 +4886,40 @@ Recorded as: "88 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-07
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112410362.jpg  left
+file://./Images_2024/IMG_20240707_112412503.jpg  center
+file://./Images_2024/IMG_20240707_112414446.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Josef    | Biener      | 13.003.1992 | 12.006.1944 |   |
 |           |          |       | Josef    | Biener      | 03.009.1895 | 05.012.1971 |   |
-|           |          |       | Frieda   | Biener      | 19.010.1899 | 10.010.1998 |   |
+|           |          |       | Frieda   | Biener      | 19.010.1899 | 10.010.1988 |   |
 |           |          |       | Gerhard  | Biener      | 16.011.1940 | 27.001.2017 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
-===PID: 2018-1-7-08
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: VACANT
-===Date: 2018
-
-===Location:
-
-=========================================================================DIV80==
-===PID: 2018-1-7-09
+===PID: 2024-1-7-10
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -4209,6 +4928,7 @@ Recorded as: "88 Hausen"
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►left◄
 HILDEGARD MARSCHALL
 GEB. WERTHMANN
 * 5.6.1908   ✝ 15.8.1962
@@ -4216,6 +4936,8 @@ GEB. WERTHMANN
 * 11.12.1905  GEF. 27.4.1945
 FRANZ MARSCHALL
 * 15.2.1930   ✝ 8.9.2013
+
+►right◄
 MONIKA WERTHMANN
 GEB. LIEBLEIN
 * 22.8.1890   ✝ 25.8.1950
@@ -4224,14 +4946,21 @@ KARL WERTHMANN
 MARIA LIEBLEIN
 * 26.5.1894   ✝ 23.11.1978
 
+►bottom◄
 RUHET IN FRIEDEN!
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2018/IMG_9653.JPG
+===Notes:
+No changes since 2018
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9653.JPG
 ===Notes:
-Same stone since 1995. Added: FRANZ MARSCHALL
+Added name: Franz Marschall
 
 ===Date: 1995
 ===Photos: 0
@@ -4241,7 +4970,11 @@ Recorded as: "89 Hausen"
 
 ===Interpretation:
 
+===OLD_PID: 2018-1-7-09
 ===Location:
+file://./Images_2024/IMG_20240707_112421885.jpg  left
+file://./Images_2024/IMG_20240707_112423891.jpg  center
+file://./Images_2024/IMG_20240707_112426663.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -4255,6 +4988,208 @@ Recorded as: "89 Hausen"
 |           |          |       | Karl      | Werthmann   | 28.002.1892 | 01.009.1954 |   |
 |           |          |       | Maria     | Lieblein    | 26.005.1894 | 23.011.1978 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+=========================================================================DIV80==
+===PID: 2018-1-8-01
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-02
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-03
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-04
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-05
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-06
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-07
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112448061.jpg  
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112448061.jpg  
+
+=========================================================================DIV80==
+===PID: 2018-1-8-08
+===Coord: []
+===Place: Hausen
+===Stones: 1
+
+===Stone: 1
+===Date: 2024
+===Transcription:
+-----------------------------------------------------DIV60--
+Groß
+Edgar
+* 12.7.1940
+✝︎ 21.6.2023
+-----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112457339.jpg  center
+===Notes:
+First reading.
+
+===Interpretation:
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112455830.jpg  left
+file://./Images_2024/IMG_20240707_112457339.jpg  center
+file://./Images_2024/IMG_20240707_112458797.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Edgar    | Groß        | 12.007.1940 | 21.006.2023 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-1-8-09
 ===Coord: []
@@ -4265,30 +5200,129 @@ Recorded as: "89 Hausen"
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►photo◄
+
 Mauceri
+
 Alfio
 * 18.11.1946   ✝ 19.3.2017
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112504680.jpg  center
+===Notes:
+No changes since 2018.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9647.JPG
 ===Notes:
+First reading.
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_112502929.jpg  left
+file://./Images_2024/IMG_20240707_112504680.jpg  center
+file://./Images_2024/IMG_20240707_112506319.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Alfio    | Mauceri     | 18.011.1946 | 19.003.2017 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+=========================================================================DIV80==
+===PID: 2018-1-8-10
+===Coord: []
+===Place: Hausen
+===Stones: 1
+
+===Stone: 1
+===Date: 2024
+===Transcription:
+-----------------------------------------------------DIV60--
+Stamm
+
+Lydia
+1941  -  2020
+-----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112512063.jpg  center
+===Notes:
+First reading.
+
+===Date: 2018
+===Photos: 1
+file://./Images_2024/IMG_20240707_112512063.jpg  center
+===Notes:
+Vacant
+
+===Interpretation:
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_112510492.jpg  left
+file://./Images_2024/IMG_20240707_112512063.jpg  center
+file://./Images_2024/IMG_20240707_112513789.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Lydia    | Stamm       |        1941 |        2020 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-1-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112711072.jpg  center
+===Notes:
+Vacant
+Removed stone: Staub
 
 ===Stone: 1
 ===Date: 2018
@@ -4308,7 +5342,8 @@ ANTON VOGEL
 ===Photos: 1
 file://./Images_2018/IMG_9591.JPG
 ===Notes:
-Same stone since 1995. Added:  ALOIS BIENER & ANTON VOGEL
+Added name: Alois Biener 
+Added name: Anton Vogel
 
 ===Date: 1995
 ===Photos: 0
@@ -4320,6 +5355,10 @@ Recorded as: "08 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112708777.jpg  right
+file://./Images_2024/IMG_20240707_112711072.jpg  center
+file://./Images_2024/IMG_20240707_112713095.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4329,17 +5368,44 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Alois    | Biener      | 30.005.1925 | 27.008.2002 |   |
 |           |          |       | Anton    | Vogel       | 04.005.1883 | 15.005.1972 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-1-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 0
 
 ===Stone: VACANT
-===Date: 2018
+===Date: 2015
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112720906.jpg  center
+===Notes:
+Vacant
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112719280.jpg  right
+file://./Images_2024/IMG_20240707_112720906.jpg  center
+file://./Images_2024/IMG_20240707_112722542.jpg  left
 
 
 =========================================================================DIV80==
@@ -4352,30 +5418,40 @@ file://./Images_2015/20150307_033514.jpg
 ===Date: 2028
 ===Transcription:
 -----------------------------------------------------DIV60--
+►top◄
 Familie Andr. u. Joh. Stamm
+
+►center◄
 JOSEFA STAMM
-3.9.1864 - 10.6.1912
+3.9.1864   -   10.6.1912
 JOHANN STAMM
-22.4.1861 - 7.12.1931
+22.4.1861  -  7.12.1931
 JOSEF STAMM
-19.3.1895 - 27.11.1972
+19.3.1895  -  27.11.1972
 GERTRAUD STAMM
-8.4.1899 - 19.1.1985
+8.4.1899  -  19.1.1985
 FRIEDA STAMM
-9.12.1923 - 18.11.2008
+9.12.1923  -  18.11.2008
+JOSEF STAMM
+15.10.1936  -  21.03.2018
+
 MARIA
 4.9.1934 - 20.5.1946
 
-►tile◄
+►standalone-tile◄
 Reinhardt
+
 Erich
 * 22.5.1932
 ✝ 5.12.2015
-
-►wooden cross◄
-Josef Stamm
-15.10.1936 - 21.03.2018
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112739746.jpg  center
+===Notes:
+Added name: Josef Stamm
+Removed wooden cross: Josef Stamm. All cross data now on stone.
 
 ===Date: 2018
 ===Photos: 5
@@ -4385,9 +5461,7 @@ file://./Images_2018/IMG_9592.JPG
 file://./Images_2018/IMG_9595.JPG
 file://./Images_2018/IMG_9596.JPG
 ===Notes:
-Same stone since 2015. No changes.
-
-TODO  get new photo since wooden cross.
+Added wooden cross: Josef Stamm
 
 ===Date: 2015
 ===Photos: 3
@@ -4395,18 +5469,22 @@ file://./Images_2015/20150307_032351.jpg
 file://./Images_2015/20150307_032414.jpg
 file://./Images_2015/20150307_032428.jpg
 ===Notes:
-Same stone since 1995. Added:  FRIEDA STAMM
+Added name: Frieda
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
 Direct reading from grave stone.
-Recorded as: "7 Hausen"
+Recorded as: "07 Hausen"
 
 ===Interpretation:
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112735711.jpg  right
+file://./Images_2024/IMG_20240707_112739746.jpg  center
+file://./Images_2024/IMG_20240707_112744783.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -4421,6 +5499,23 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Maria     | Stamm       | 04.009.1934 | 20.005.1946 |   |
 |           |          |       | Josef     | Stamm       | 15.010.1936 | 21.003.2018 |   |
 |           |          |       | Reinhardt | Erich       | 22.005.1932 | 05.012.2015 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-1-04
@@ -4439,11 +5534,19 @@ ERNA    * 23.12.1921
         ✝ 31.5.2011
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112757447.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9597.JPG
 ===Notes:
-New stone since 1995. No names in common.: 
+New stone. 
+No names in common.
+New family.
 
 ===Stone: 1
 ===Date: 1995
@@ -4470,6 +5573,10 @@ Recorded as: "06 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112759394.jpg  left
+file://./Images_2024/IMG_20240707_112757447.jpg  center
+file://./Images_2024/IMG_20240707_112755727.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4480,6 +5587,23 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Walter   | Bienert     | 17.011.1924 | 08.008.1979 |   |
 |           |          |       | Walter   | Biener      | 17.011.1924 | 08.008.1979 |   |
 |           |          |       | Erna     | Biener      | 23.012.1921 | 31.005.2011 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-1-05
@@ -4500,6 +5624,12 @@ HERMANN
 1911 - 1989
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112808640.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9598.JPG
@@ -4507,7 +5637,9 @@ file://./Images_2018/IMG_9598.JPG
 Monument refurbished. Either new stone, or complete erasure.
 Similar to 1995 monument: Geometry and bas-relief on center are the same.
 Call it a new stone since info was removed.
-New stone since 1995. Names in common:  Monika & Hermann Stamm.
+New stone. 
+Names in common:  Monika & Hermann Stamm.
+Same family.
 
 ===Stone: 1
 ===Date: 1995
@@ -4575,6 +5707,10 @@ Sab. = Sabine
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112806595.jpg  right
+file://./Images_2024/IMG_20240707_112808640.jpg  center
+file://./Images_2024/IMG_20240707_112811399.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4592,6 +5728,23 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Sabine    | Geissler   | 12.007.1865 | 09.007.1943 | b |
 |           |          |       | Herrmann  | Stamm      | 12.011.1891 | 20.011.1915 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-1-06
 ===Coord: []
@@ -4599,29 +5752,36 @@ file://./Images_2015/20150307_033514.jpg
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 STAMM
 
-VINZENZ   1903 - 1961
-EMILIE    1908 - 1989
-ERIKA     1940 - 2012
+VINZENZ   1903  -  1961
+EMILIE    1908  -  1989
+ERIKA     1940  -  2012
+JOSEF     1937  -  2018
 
 CHRISTINE u. VINZENZ
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos:
+file://./Images_2024/IMG_20240707_112823441_HDR.jpg  center
+===Notes:
+Added name: Josef
 
 ===Date: 2018
 ===Photos:
 file://./Images_2018/IMG_9599.JPG
 ===Notes:
-Same stone since 2015. No changes.
+No changes since 2015.
 
 ===Date: 2015
 ===Photos:
 file://./Images_2015/20150307_032259.jpg
 ===Notes:
-Same stone since 1995. Added:  ERIKA
+Added name: Erika
 
 ===Date: 1995
 ===Photos: 0
@@ -4633,6 +5793,10 @@ Recorded as: "04 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112821399_HDR.jpg  right
+file://./Images_2024/IMG_20240707_112823441_HDR.jpg  center
+file://./Images_2024/IMG_20240707_112825405_HDR.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -4642,6 +5806,23 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Erika     | Stamm       |        1940 |        2012 |   |
 |           |          |       | Christine | Stamm       |             |             |   |
 |           |          |       | Vinzenz   | Stamm       |             |             |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-1-07
@@ -4662,11 +5843,18 @@ JOSEFINE u. LUDWIG
 MAX ✠ EMIL
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos:
+file://./Images_2024/IMG_20240707_112834721_HDR.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos:
 file://./Images_2018/IMG_9600.JPG
 ===Notes:
-Same stone since 1995. Added: LEO & ANN 
+Added name: Leo 
+Added name: Ann
 
 ===Date: 1995
 ===Photos: 0
@@ -4678,6 +5866,10 @@ Recorded as: "03 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112832419_HDR.jpg  right
+file://./Images_2024/IMG_20240707_112834721_HDR.jpg  center
+file://./Images_2024/IMG_20240707_112836863_HDR.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4689,6 +5881,23 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Max      | Vorndran    |             |             |   |
 |           |          |       | Emil     | Vorndran    |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-1-08
 ===Coord: []
@@ -4696,28 +5905,48 @@ file://./Images_2015/20150307_033514.jpg
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
+►top◄
 RUHESTÄTE FAMILIE FRANZ·SCHUCK
 
+►center◄
 Unvergessen ruht in Gott
+
 Frau Ann Schuck
 geb. Schaub
 * 15.6.1898 - 1.5.1946 ✝
+
 Herr Franz Schuck
 Müllermeister
 * 28.9.1895 - 23.4.1967 ✝
+
 Herr Kurt Schuck
 Müllermeister
  * 23.9.1931 - 21.9.2006 ✝
+
+ ►left◄
+Frau Hermine Schuck
+* 21.6.1933  ✝ 14.10.2018
+
+►wooden-cross◄
+Theo Schuck
+08.11.1963  -  13.09.2022
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112846633_HDR.jpg  center
+file://./Images_2024/IMG_20240707_112857273_HDR.jpg  wooden cross
+===Notes:
+Added wooden cross: Theo
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9601.JPG
 ===Notes:
-Same stone since 1995. Added: Herr kurt Schuck
+Added name: Herr kurt Schuck
 
 ===Date: 1995
 ===Photos: 0
@@ -4729,6 +5958,10 @@ Recorded as: "02 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112844506_HDR.jpg  right
+file://./Images_2024/IMG_20240707_112846633_HDR.jpg  center
+file://./Images_2024/IMG_20240707_112849121_HDR.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4737,6 +5970,25 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Ann      | Schaub      | 15.006.1898 | 01.005.1946 | b |
 |           |          |       | Franz    | Schuck      | 28.009.1895 | 23.004.1967 |   |
 |           |          |       | Kurt     | Schuck      | 23.009.1931 | 21.009.2006 |   |
+|           |          |       | Hermine  | Schuck      | 21.006.1933 | 14.010.2018 |   |
+|           |          |       | Theo     | Schuck      | 08.011.1963 | 13.009.2022 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-1-09
@@ -4745,20 +5997,35 @@ file://./Images_2015/20150307_033514.jpg
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
-HILDA NÖTH
+ ►left◄
+ HILDA NÖTH
 * 21.8.1905   ✝ 18.7.1980
 ALFONS NÖTH
 * 15.8.1901   ✝ 30.4.1982
+
+ ►right◄
 EGON NÖTH
 *  8.9.1958   ✝ 26.10.2008
 HEINZ NÖTH
 * 27.8.1955   ✝ 31.3.1956
+WILLI NÖTH
+* 7.10.1932   ✝ 24.10.2019
+BETTY NÖTH
+* 7.11.1932   ✝ 14.12.2019
 
+ ►bottom◄
 VALENTIN U. ELISABETH STAMM
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_112918051.jpg  center
+===Notes:
+Added name: Willi
+Added name: Betty
 
 ===Date: 2018
 ===Photos: 1
@@ -4776,6 +6043,10 @@ Recorded as: "01 Hausen"
 
 ===Location:
 file://./Images_2015/20150307_033514.jpg
+2024
+file://./Images_2024/IMG_20240707_112915973.jpg  right
+file://./Images_2024/IMG_20240707_112918051.jpg  center
+file://./Images_2024/IMG_20240707_112920232.jpg  left
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -4786,6 +6057,25 @@ file://./Images_2015/20150307_033514.jpg
 |           |          |       | Egon      | Nöth        | 08.009.1958 | 26.010.2008 |   |
 |           |          |       | Valentin  | Stamm       |             |             |   |
 |           |          |       | Elisabeth | Stamm       |             |             |   |
+|           |          |       | Willi     | Nöth        | 07.010.1932 | 24.010.2019 |   |
+|           |          |       | Betty     | Nöth        | 07.011.1932 | 14.012.2019 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-01
@@ -4794,7 +6084,7 @@ file://./Images_2015/20150307_033514.jpg
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
 FRANK
@@ -4805,12 +6095,18 @@ EMMA     * 1920  ✝ 1990
 MANFRED - AGNES - LUDWIG - MARTIN
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113043997.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 2
 file://./Images_2018/IMG_9615.JPG
 file://./Images_2018/IMG_9616.JPG
 ===Notes:
-Same stone since 1995. No changes.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -4821,6 +6117,10 @@ Recorded as: "17 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113041735.jpg  left
+file://./Images_2024/IMG_20240707_113043997.jpg  center
+file://./Images_2024/IMG_20240707_113045726.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -4832,13 +6132,30 @@ Recorded as: "17 Hausen"
 |           |          |       | Ludwig   | Frank       |             |             |   |
 |           |          |       | Martin   | Frank       |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-2-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -4846,19 +6163,69 @@ KONRAD MEHLING
 1942  -  1998
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113054066.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9614.JPG
 ===Notes:
+New stone.
+No names in common.
+New family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Johann Schüb
+1844  1924
+
+Katharina Schüb
+1845  1931
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "16 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113052077.jpg  left
+file://./Images_2024/IMG_20240707_113054066.jpg  center
+file://./Images_2024/IMG_20240707_113057665.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|------------|-------------|-------------|---|
+|           |          |       | Johann    | Schüb      |        1844 |        1924 |   |
+|           |          |       | Katharina | Schüb      |        1845 |        1931 |   |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Konrad   | Mehling     |        1942 |        1998 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-03
@@ -4870,47 +6237,90 @@ file://./Images_2018/IMG_9614.JPG
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►top◄
 Hier ruhen in Gott
 
-Burkhard Gopp
+►left◄
+Burkard Gopp
 * 15.8.1883
 ✝ 27.5.1966
 Priska Gopp
 * 7.5.1882
 ✝ 21.12.1970
+
+►right◄
 Karl Stolz
 * 10.3.1928
 ✝ 8.2.2007
+Irmgard Stolz
+* 30.4.1936
+✝ 5.4.2022
 
+►bottom◄
 ✠
 Martin Gopp
 1919  verm. 1942
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113105450.jpg  center
+===Notes:
+Added name: Irmgard
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9613.JPG
 ===Notes:
+Added name: Karl
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "15 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113103685.jpg  left
+file://./Images_2024/IMG_20240707_113105450.jpg  center
+file://./Images_2024/IMG_20240707_113107434.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Burkhard | Gopp        | 15.008.1883 | 27.005.1966 |   |
+|           |          |       | Burkard  | Gopp        | 15.008.1883 | 27.005.1966 |   |
 |           |          |       | Priska   | Gopp        | 07.005.1882 | 21.012.1970 |   |
 |           |          |       | Karl     | Stolz       | 10.003.1928 | 08.002.2007 |   |
 |           |          |       | Martin   | Gopp        |        1919 |        1942 |   |
+|           |          |       | Irmgard  | Stolz       | 30.004.1936 | 05.004.2022 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-04
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -4922,14 +6332,52 @@ ELISABETH   1937  -  2011
 HERRMANN    1937  -  2017
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113115703.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9612.JPG
 ===Notes:
+New stone.
+Names in common: Alois Frank, Hedwig Frank
+Same family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Katharina Guth
+geb. Frank
+23.9.1883  31.3.1926
+
+Johann Guth
+21.7.1878  1.11.1957
+
+Alois Frank
+25.9.1905  5.19.1973
+
+Hedwig Frank
+9.6.1911  5.9.1985
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "14 Hausen"
+
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113113813.jpg  left
+file://./Images_2024/IMG_20240707_113115703.jpg  center
+file://./Images_2024/IMG_20240707_113117699.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -4946,7 +6394,7 @@ file://./Images_2018/IMG_9612.JPG
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
 Hier ruht in Frieden
@@ -4969,12 +6417,31 @@ Kommt mir der Trost.
     Sie schläft ja nur.
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113126113.jpg  center
+file://./Images_2024/IMG_20240707_113149767.jpg  detail
+file://./Images_2024/IMG_20240707_113153762.jpg  detail
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9611.JPG
 ===Notes:
+No changes since 1995.
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "13A Hausen"
+Unknown source says Edmund Seufert is a nephew of  Josefine Seufert geb. Walz.
+
 
 ===Interpretation:
+Unknown source says Edmund Seufert is a nephew of  Josefine Seufert geb. Walz.
+
 Includes place info for Josefine Seufert geb. Walz, b Kassel d Hausen.
 
 inscription from-
@@ -5003,6 +6470,9 @@ Kommt mir der Trost.
 Sie schläft ja nur.
 
 ===Location:
+file://./Images_2024/IMG_20240707_113123850.jpg  left
+file://./Images_2024/IMG_20240707_113126113.jpg  center
+file://./Images_2024/IMG_20240707_113128372.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5011,35 +6481,121 @@ Sie schläft ja nur.
 |           |          |       | Josefine | Walz        | 22.006.1877 | 12.001.1927 | b |
 |           |          |       | Edmund   | Seufert     | 13.003.1930 | 26.009.1947 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-2-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
-===Date: 2018
+===Stone: 2
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 Vorndran
 
+Josef    1928  -  2019
+Rita     1932  -  2020
+
 Franz u. Regina
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 2
+file://./Images_2024/IMG_20240707_113207694.jpg  center
+file://./Images_2024/IMG_20240707_113229285.jpg  detail
+===Notes:
+Added name: Josef
+Added name: Rita
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9610.JPG
 ===Notes:
+New stone.
+Names in common: Franz u. Regina
+Same Family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Hier ruht in Gott
+uns. Lieb. Eltern und Grosseltern
+
+Adam Vorndran
+29.4.1848  18.4.1928
+
+Josefa Vorndran
+geb. Rüth
+3.9.1852  11.5.1930
+
+Franz Vorndran
+11.3.1879  30.6.1964
+
+Regina Vorndran
+geb. Ziegler
+25.8.1894  10.5.1981
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "13 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113205857.jpg  left
+file://./Images_2024/IMG_20240707_113207694.jpg  center
+file://./Images_2024/IMG_20240707_113244967.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Franz    | Vorndran    |             |             |   |
-|           |          |       | Regina   | Vorndran    |             |             |   |
+|           |          |       | Adam     | Vorndran    | 29.004.1848 | 18.004.1928 |   |
+|           |          |       | Josefa   | Vorndran    | 03.009.1852 | 11.005.1930 |   |
+|           |          |       | Josefa   | Rüth        | 03.009.1852 | 11.005.1930 | b |
+|           |          |       | Franz    | Vorndran    | 11.003.1879 | 30.006.1964 |   |
+|           |          |       | Regina   | Vorndran    | 25.008.1894 | 10.005.1981 |   |
+|           |          |       | Regina   | Ziegler     | 25.008.1894 | 10.005.1981 | b |
+|           |          |       | Josef    | Vorndran    |        1928 |        2019 |   |
+|           |          |       | Rita     | Vorndran    |        1932 |        2020 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-07
@@ -5048,24 +6604,32 @@ file://./Images_2018/IMG_9610.JPG
 ===Stones: 2
 
 ===Stone: 2
-===Date: 2018
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
+►across◄
 HIER RUHEN IN FRIEDEN
 
+►left◄
 BURKHARD STAMM
 1929  -  2006
 
+THERESIA STAMM
+1935  -  2017
+
+►right◄
 KLEMENS STAMM
 1927  -  2007
 
+►bottom◄
 GREGOR U. LUZIA
-
-►wooden cross◄
-Theresia Stamm
-geb. Frank
-06.03.1935  -  16.07.2017
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+===Notes:
+Added name: Theresia
+Removed wooden cross: Theresia. Cross data= Theresia Stamm geb. Frank 06.03.1935-16.07.2017
 
 ===Date: 2018
 ===Photos: 4
@@ -5074,10 +6638,10 @@ file://./Images_2018/IMG_9607.JPG
 file://./Images_2018/IMG_9608.JPG
 file://./Images_2018/IMG_9609.JPG
 ===Notes:
-New stone since 1995. Names in common: Gregor & Luzia.
-Less info on new stone.
-
-TODO  get new photo since wooden cross.
+New stone.
+Names in common: Gregor & Luzia.
+Same family.
+Less data on new stone.
 
 ===Stone: 1
 ===Date: 1995
@@ -5109,16 +6673,82 @@ Recorded as: "12 Hausen"
 |           |          |       | Theresia | Stamm       | 06.003.1935 | 16.007.2017 |   |
 |           |          |       | Theresia | Frank       | 06.003.1935 | 16.007.2017 | b |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-2-08
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
 
+===Stone: 1
+===Date: 2024
+===Transcription:
+-----------------------------------------------------DIV60--
+Otter
+
+Martin
+* 3.1.1940  ✝︎ 6.10.2021
+-----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113304075.jpg  center
+===Notes:
+First reading.
+
 ===Stone: VACANT
 ===Date: 2018
 
+===Date: 2018
+===Photos: 0
+===Notes:
+Vacant
+
+===Interpretation:
+
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113302272.jpg  left
+file://./Images_2024/IMG_20240707_113304075.jpg  center
+file://./Images_2024/IMG_20240707_113306037.jpg  right
+
+===Table:
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |Martin    | Otter       | 03.001.1940 | 06.010.2021 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-09
@@ -5127,20 +6757,28 @@ Recorded as: "12 Hausen"
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
 REIMER
 
 KLAUS     1940 - 1984
+
+
 MARLEEN   1991 - 1992
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113320520.jpg  center
+===Notes:
+No changes since 2018.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9605.JPG
 ===Notes:
-Same stone since 1995. No changes.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5149,8 +6787,13 @@ Direct reading from grave stone.
 Recorded as: "11 Hausen"
 
 ===Interpretation:
+Marleen's name is at the bottom. Significance?
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113313676.jpg  left
+file://./Images_2024/IMG_20240707_113320520.jpg  center
+file://./Images_2024/IMG_20240707_113327763.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5165,23 +6808,35 @@ Recorded as: "11 Hausen"
 ===Stones: 2
 
 ===Stone: 2
-===Date: 2018
+===Date: 2024
 ===Transcription:
 -----------------------------------------------------DIV60--
 MARSCHALL
 
 August  * 25.9.1895  ✝ 10.9.1968
 Rosa    * 28.3.1899  ✝ 10.9.1981
+
+►wooden-cross◄
+Hermine Herr
+geb. Marschall
+19.12.1937  -  10.09.2023
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 2
+file://./Images_2024/IMG_20240707_113337522.jpg  center
+file://./Images_2024/IMG_20240707_113344627.jpg  detail
+===Notes:
+Added wooden cross: Hermine
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9604.JPG
 ===Notes:
-New stone since 1995. Names in common August Marschall & Rosa Marschall.
-
-TODO  Does the current stone have "Edmund u. Franziska Marschall" at the bottom?
-if it does, then probably only one stone. If not, then the current entry in stone #2.
+New stone.
+The new stone does not have "Edmund u. Franziska Marschall" at the bottom.
+Names in common: August Marschall & Rosa Marschall
+Same family.
 
 ===Stone: 1
 ===Date: 1995
@@ -5205,6 +6860,11 @@ Recorded as: "10 Hausen"
 Maybe stone 2 was created to allow more room for family.
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113334522.jpg  left
+file://./Images_2024/IMG_20240707_113337522.jpg  center
+file://./Images_2024/IMG_20240707_113344627.jpg  detail
+file://./Images_2024/IMG_20240707_113401381.jpg  right
 
 ===Table:
 | FG        | RM    | FN        | LN          | b           | d           | T |
@@ -5213,6 +6873,25 @@ Maybe stone 2 was created to allow more room for family.
 |           |       | Rosa      | Marschall   | 28.003.1899 | 10.009.1981 |   |
 |           |       | Edmund    | Marschall   |             |             |   |
 |           |       | Franziska | Marschall   |             |             |   |
+|           |       | Hermine   | Herr        | 19.012.1937 | 10.009.2023 |   |
+|           |       | Hermine   | Marschall   | 19.012.1937 | 10.009.2023 | b |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-2-11
@@ -5221,29 +6900,40 @@ Maybe stone 2 was created to allow more room for family.
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
+►left◄
 KARL GEHRLING
 * 15.2.1892   ✝ 13.1.1937
 EUGENIE GEHRLING
 GEB. NÖTH
 * 24.11.1894  ✝ 15.11.1947
+
+►right◄
 ALOIS MARSCHALL
 * 13.8.1904  ✝ 11.7.1981
 EMMA MARSCHALL
 GEB GEHRLING
 * 11.9.1914  ✝ 13.10.1990
+
+►bottom◄
 ✠
 * 28.2.1918 WILLI GEHRLING GEF. 15.7.1943
 RUHET SANFT!
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113409879.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9603.JPG
 ===Notes:
-Same stone since 1995. No changes.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5254,6 +6944,9 @@ Recorded as: "09 Hausen"
 ===Interpretation:
 
 ===Location:
+file://./Images_2024/IMG_20240707_113407381.jpg  left
+file://./Images_2024/IMG_20240707_113409879.jpg  center
+file://./Images_2024/IMG_20240707_113412006.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5266,13 +6959,30 @@ Recorded as: "09 Hausen"
 |           |          |       | Emma     | Gehrling    | 11.009.1914 | 13.010.1990 | b |
 |           |          |       | Willi    | Gehrling    | 28.002.1918 | 15.007.1943 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-3-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
@@ -5284,20 +6994,73 @@ HILDA
 * 13.6.1913  ✝ 18.4.1998
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113451315.jpg  center
+===Notes:
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9617.JPG
 ===Notes:
+New stone.
+No names in common.
+New family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Berta Müller
+geb. Marschall
+2.5.1910  22.6.1950
+
+✠
+Zum gedenken an
+Gregor Müller
+4.8.1910 - 8.8.1941
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "25 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113449341.jpg  left
+file://./Images_2024/IMG_20240707_113451315.jpg  center
+file://./Images_2024/IMG_20240707_113453993.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Berta    | Müller      | 02.005.1910 | 22.006.1950 |   |
+|           |          |       | Berta    | Marschall   | 02.005.1910 | 22.006.1950 | b |
+|           |          |       | Gregor   | Müller      | 04.008.1910 | 08.008.1941 |   |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Josef    | Weidner     | 01.002.1914 | 30.007.1996 |   |
 |           |          |       | Hilda    | Weidner     | 13.006.1913 | 18.004.1998 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-02
@@ -5320,11 +7083,18 @@ Maria  * 1923  -  2011 ✝
 Nadine  * 1975 ✝
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113506131.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
-===Photos: 0
+===Photos: 1
 file://./Images_2018/IMG_9618.JPG
 ===Notes:
-Same stone since 1995. Added: Bruno & Maria.
+Added name: Bruno
+Added name: Maria
 
 ===Date: 1995
 ===Photos: 0
@@ -5333,9 +7103,13 @@ Direct reading from grave stone.
 Recorded as: "24 Hausen"
 
 ===Interpretation:
-Nadine b & d same year.
+Nadine b & d same year. Not clear which family name.
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113504068.jpg  left
+file://./Images_2024/IMG_20240707_113506131.jpg  center
+file://./Images_2024/IMG_20240707_113508434.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5345,6 +7119,23 @@ Nadine b & d same year.
 |           |          |       | Bruno    | Werthmann   |        1910 |        1997 |   |
 |           |          |       | Maria    | Werthmann   |        1923 |        2011 |   |
 |           |          |       | Nadine   | Werthmann   |        1975 |        1975 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-03
@@ -5363,11 +7154,19 @@ MARIA       1901  -  1979
 EMIL        1934  -  2001
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113519301.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9619.JPG
 ===Notes:
-New stone since 1995. Names in common: Michael Eich & Maria Eich.
+New stone. 
+Names in common: Michael Eich & Maria Eich.
+Same family.
 Less info on new stone.
 
 ===Stone: 1
@@ -5397,17 +7196,38 @@ Recorded as: "23 Hausen"
 FRL. Barbara = Barbara Eich
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113517468.jpg  left
+file://./Images_2024/IMG_20240707_113519301.jpg  center
+file://./Images_2024/IMG_20240707_113522886.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Michael  | Eich        | 05.005.1902 | 28.007.1964 |   |
-|           |          |       | Maria    | Eich        | 02.001.1901 | 01.005.1979 |   |
-|           |          |       | Emil     | Eich        |        1934 |        2001 |   |
 |           |          |       | Venanz   | Eich        | 17.005.1874 | 22.003.1922 |   |
 |           |          |       | Anna     | Eich        | 27.007.1874 | 28.002.1951 |   |
 |           |          |       | Anna     | Wüst        | 27.007.1874 | 28.002.1951 | b |
 |           |          |       | Barbara  | Eich        | 05.005.1913 | 18.008.1948 |   |
+|           |          |       | Michael  | Eich        | 05.005.1902 | 28.007.1964 |   |
+|           |          |       | Maria    | Eich        | 02.001.1901 | 01.005.1979 |   |
+|           |          |       | Emil     | Eich        |        1934 |        2001 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-04
@@ -5431,11 +7251,19 @@ Kurt
 Vinzenz u. Margarete
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113533333.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9620.JPG
 ===Notes:
-New stone since 1995. Names in common: Vinzenz & Margarete.
+New stone.
+Names in common: Vinzenz & Margarete.
+Same family.
 
 ===Stone: 1
 ===Date: 1995
@@ -5463,6 +7291,10 @@ Recorded as: "22 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113531422.jpg  left
+file://./Images_2024/IMG_20240707_113533333.jpg  center
+file://./Images_2024/IMG_20240707_113535282.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -5479,6 +7311,23 @@ Recorded as: "22 Hausen"
 |           |          |       | Barbara   | Röder       |             |             |   |
 |           |          |       | Michael   | Röder       |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-3-05
 ===Coord: []
@@ -5490,54 +7339,134 @@ Recorded as: "22 Hausen"
 ===Transcription:
 -----------------------------------------------------DIV60--
 Röder
+
 Ursula
 * 7.5.1939
 ✝ 22.7.2010
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113546780.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9621.JPG
 ===Notes:
+First reading.
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113544702.jpg  left
+file://./Images_2024/IMG_20240707_113546780.jpg  center
+file://./Images_2024/IMG_20240707_113548381.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Röder    | Ursula      | 07.005.1939 | 22.007.2010 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-3-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
 
-===Stone: 1
+===Stone: 2
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+►vertical◄
 RÖDER
+
 Paul
 * 26.3.1935
 ✝ 31.3.2013
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113559210.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9622.JPG
 ===Notes:
+New stone.
+No names in common. New family.
+
+===Stone: 1
+===Date: 1995
+===Transcription:
+-----------------------------------------------------DIV60--
+Martha Christ Riedmann
+29.5.61  Steinfeld - 5.12.20 Hausen
+
+Franz Riedmann
+25.11.1883  26.2.1955
+-----------------------------------------------------DIV60--
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "21 Hausen"
 
 ===Interpretation:
+29.5.61  Steinfeld - 5.12.20 Hausen = b 28 May 1861  Steinfeld  d 5 Dec 1920 Hausen
 
 ===Location:
+file://./Images_2024/IMG_20240707_113556113.jpg  left
+file://./Images_2024/IMG_20240707_113559210.jpg  center
+file://./Images_2024/IMG_20240707_113601135.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       |  Paul    | Röder       | 26.003.1935 | 31.003.2013 |   |
+|-----------|----------|-------|----------------|-------------|-------------|-------------|---|
+|           |          |       | Martha Christ  | Riedmann    | 29.005.1861 | 05.012.1920 |   |
+|           |          |       | Franz          | Riedmann    | 25.011.1883 | 26.002.1955 |   |
+|-----------|----------|-------|----------------|-------------|-------------|-------------|---|
+|           |          |       |  Paul          | Röder       | 26.003.1935 | 31.003.2013 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-07
@@ -5559,22 +7488,57 @@ ANTON   1913  -  1983
 LYDIA   1913  -  2007
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 2
+file://./Images_2024/IMG_20240707_113828036.jpg  center
+file://./Images_2024/IMG_20240707_113839247.jpg  detail
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 2
-file://./Images_2018/IMG_9623.JPG     overview
+file://./Images_2018/IMG_9623.JPG  overview
 file://./Images_2018/IMG_9624.JPG
 ===Notes:
+Added name: Lydia
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "20 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113825603.jpg  left
+file://./Images_2024/IMG_20240707_113828036.jpg  center
+file://./Images_2024/IMG_20240707_113830083.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Emil     | Stamm       |        1907 |        1944 |   |
+|           | LTVM-VTR | 1657  | Emil     | Stamm       |        1907 |        1944 |   |
 |           |          |       | Anton    | Uhleinbrock |        1913 |        1983 |   |
 |           |          |       | Lydia    | Uhleinbrock |        1913 |        2007 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-08
@@ -5589,16 +7553,34 @@ file://./Images_2018/IMG_9624.JPG
 THEOPHIL MARSCHALL  1880  -  1954
 AGNES MARSCHALL     1885  -  1961
 ANTON SCHERG        1915  -  2013
+RITA SCHERG         1921  -  2018
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113900851.jpg  center
+===Notes:
+Added name: Rita
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9625.JPG
 ===Notes:
+Added name: Anton
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "19 Hausen"
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113857833.jpg  left
+file://./Images_2024/IMG_20240707_113900851.jpg  center
+file://./Images_2024/IMG_20240707_113902917.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5606,6 +7588,24 @@ file://./Images_2018/IMG_9625.JPG
 |           |          |       | Theophil | Marschall   |        1880 |        1954 |   |
 |           |          |       | Agnes    | Marschall   |        1885 |        1961 |   |
 |           |          |       | Anton    | Scherg      |        1915 |        2013 |   |
+|           |          |       | Rita     | Scherg      |        1921 |        2018 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-09
@@ -5617,17 +7617,27 @@ file://./Images_2018/IMG_9625.JPG
 ===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
+Etwas von DIR bleibt
+
+►standalone-tile◄
 WEBER
 
 Rosina   1890  -  1975
 Hedwig   1928  -  2012
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113919456.jpg  center
+file://./Images_2024/IMG_20240707_113929823.jpg  detail
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9626.JPG
 ===Notes:
-Same stone since 1995. Added: Hedwig.
+Added name: Hedwig
 
 ===Date: 1995
 ===Photos: 0
@@ -5638,12 +7648,34 @@ Recorded as: "18 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113917399.jpg  left
+file://./Images_2024/IMG_20240707_113919456.jpg  center
+file://./Images_2024/IMG_20240707_113929823.jpg  detail
+file://./Images_2024/IMG_20240707_113921519.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Rosina   | Weber       |        1890 |        1975 |   |
 |           |          |       | Hedwig   | Weber       |        1928 |        2012 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-3-10
@@ -5656,28 +7688,87 @@ Recorded as: "18 Hausen"
 ===Transcription:
 -----------------------------------------------------DIV60--
 BÜDEL
+
 ALFRED    * 21.3.1951  ✝ 22.11.1995
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113941418.jpg  center
+===Notes:
+No changes since 2018.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9627.JPG
 ===Notes:
+First reading.
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_113939683.jpg  left
+file://./Images_2024/IMG_20240707_113941418.jpg  center
+file://./Images_2024/IMG_20240707_113943657.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Alfred   | Büdel       | 21.003.1951 | 22.011.1995 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+=========================================================================DIV80==
+===PID: 2018-2-3-11
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_113951864.jpg  center
+===Notes:
+Vacant
+
+===Location:
+file://./Images_2024/IMG_20240707_113950064.jpg  left
+file://./Images_2024/IMG_20240707_113951864.jpg  center
+file://./Images_2024/IMG_20240707_113953591.jpg  right
+
 =========================================================================DIV80==
 ===PID: 2018-2-4-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 2
+===Stones: 2-V
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114031086.jpg  center
+===Notes:
+Vacant
+Removed stone: Nöth
 
 ===Stone: 2
 ===Date: 2018
@@ -5749,6 +7840,10 @@ Recorded as: "33 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114029272.jpg  left
+file://./Images_2024/IMG_20240707_114031086.jpg  center
+file://./Images_2024/IMG_20240707_114033603.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5779,20 +7874,48 @@ ALFRED    * 15.5.1928  ✝ 14.11.2000
 LINA      * 25.7.1928  ✝ 14.12.2011
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114042296.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9635.JPG
 ===Notes:
+First reading.
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114040620.jpg  left
+file://./Images_2024/IMG_20240707_114042296.jpg  center
+file://./Images_2024/IMG_20240707_114045672.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
 |           |          |       | Alfred   | Schuck      | 15.005.1928 | 14.011.2000 |   |
 |           |          |       | Lina     | Schuck      | 25.007.1928 | 14.012.2011 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-4-03
@@ -5801,7 +7924,7 @@ file://./Images_2018/IMG_9635.JPG
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
 SCHEINER
@@ -5811,11 +7934,17 @@ JUSTINA    1904  ✝  1987
 DIETER     1941  ✝  1987
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114059384.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9634.JPG
 ===Notes:
-Same stone since 1995. No changes.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5826,6 +7955,10 @@ Recorded as: "32 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114053926.jpg  left
+file://./Images_2024/IMG_20240707_114059384.jpg  center
+file://./Images_2024/IMG_20240707_114101598.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5834,6 +7967,23 @@ Recorded as: "32 Hausen"
 |           |          |       | Justina  | Scheiner    |        1904 |        1987 |   |
 |           |          |       | Dieter   | Scheiner    |        1941 |        1987 |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-4-04
 ===Coord: []
@@ -5841,7 +7991,7 @@ Recorded as: "32 Hausen"
 ===Stones: 1
 
 ===Stone: 1
-===Date: 2018
+===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
 FAM. MOSER
@@ -5851,11 +8001,17 @@ ROSA     * 1919  -  1993 ✝
 STEPHAN  * 1966  -  1975 ✝
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114128946.jpg  center
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9633.JPG
 ===Notes:
-Same stone since 1995. No changes.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5866,6 +8022,10 @@ Recorded as: "31 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114125189.jpg  left
+file://./Images_2024/IMG_20240707_114128946.jpg  center
+file://./Images_2024/IMG_20240707_114131542.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5873,6 +8033,23 @@ Recorded as: "31 Hausen"
 |           |          |       | Georg    | Moser       |        1920 |        1944 |   |
 |           |          |       | Rosa     | Moser       |        1919 |        1993 |   |
 |           |          |       | Stephan  | Moser       |        1966 |        1975 |   |
+
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
 
 =========================================================================DIV80==
 ===PID: 2018-2-4-05
@@ -5890,17 +8067,23 @@ EMMA KNEIP
 ADAM KNEIP
 24.5.1913  -  3.1.1975
 
+►bottom◄
 ANDREAS  U.  REGINA OTTER
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 2
+file://./Images_2024/IMG_20240707_114142085.jpg  center
+file://./Images_2024/IMG_20240707_114204847.jpg  detail
+===Notes:
+No changes since 2018.
 
 ===Date: 2018
 ===Photos: 2
 file://./Images_2018/IMG_9631.JPG
 file://./Images_2018/IMG_9632.JPG
 ===Notes:
-Same stone since 1995. No changes.
-
-TODO  new photo    filled in missing info from 1995 reading, but get a good photo
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5911,6 +8094,9 @@ Recorded as: "30 Hausen"
 ===Interpretation:
 
 ===Location:
+file://./Images_2024/IMG_20240707_114137982.jpg  left
+file://./Images_2024/IMG_20240707_114142085.jpg  center
+file://./Images_2024/IMG_20240707_114144000.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -5920,11 +8106,38 @@ Recorded as: "30 Hausen"
 |           |          |       | Andreas  | Otter       |             |             |   |
 |           |          |       | Regina   | Otter       |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
 =========================================================================DIV80==
 ===PID: 2018-2-4-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114245059.jpg  center
+===Notes:
+Vacant.
+Removed stone: Zimmermann
 
 ===Stone: 1
 ===Date: 2018
@@ -5957,6 +8170,9 @@ Recorded as: "29 Hausen"
 ===Interpretation:
 
 ===Location:
+file://./Images_2024/IMG_20240707_114243029.jpg  left
+file://./Images_2024/IMG_20240707_114245059.jpg  center
+file://./Images_2024/IMG_20240707_114246991.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
@@ -5968,6 +8184,31 @@ Recorded as: "29 Hausen"
 |           |          |       | Rosa      | Zimmermann  |        1911 |        1999 |   |
 |           |          |       | Alfred    | Zimmermann  |        1921 |        1941 |   |
 |           |          |       | Eduard    | Zimmermann  |        1913 |        1945 |   |
+
+=========================================================================DIV80==
+===PID: 2018-2-4-
+===Coord: []
+===Place: Hausen
+===Stones: 0
+
+TODO New VACANT plot
+There seem to be 2 spaces between Kneip Emma and Marschall Franz
+Not clear which had  Zimmermann 
+
+===Stone: VACANT
+===Date: 2024
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114259396.jpg  center
+===Notes:
+Vacant
+
+===Location:
+2024
+file://./Images_2024/IMG_20240707_114256770.jpg  left
+file://./Images_2024/IMG_20240707_114259396.jpg  center
+file://./Images_2024/IMG_20240707_114301538.jpg  right
 
 =========================================================================DIV80==
 ===PID: 2018-2-4-07
@@ -5987,11 +8228,18 @@ RITA   * 23.1.1922   ✝ 15.1.2005
 BARBARA u. ADOLF
 -----------------------------------------------------DIV60--
 
+===Date: 2024
+===Photos: 2
+file://./Images_2024/IMG_20240707_114315936.jpg  center
+file://./Images_2024/IMG_20240707_114323776.jpg  detail
+===Notes:
+No changes since 2018.
+
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9629.JPG
 ===Notes:
-Same stone since 1995. Added: RITA.
+Added name: RITA.
 
 ===Date: 1995
 ===Photos: 0
@@ -6002,6 +8250,11 @@ Recorded as: "28 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114308380.jpg  left
+file://./Images_2024/IMG_20240707_114315936.jpg  center
+file://./Images_2024/IMG_20240707_114323776.jpg  detail
+file://./Images_2024/IMG_20240707_114330296.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -6011,464 +8264,38 @@ Recorded as: "28 Hausen"
 |           |          |       | Barbara  | Marschall   |             |             |   |
 |           |          |       | Adolf    | Marschall   |             |             |   |
 
+===Status: TODO
+FG
+transcription
+photo
+
+FS
+FSFG-citation pending-
+FS-memory 
+
+DB
+entry
+FSFT-tag
+FG-tag
+Death tag
+Burial tag
+FG citation
+
+
 =========================================================================DIV80==
-===PID: 2018-2-4-08
+===PID: 2018-2-4-
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 0
 
-===Stone: 1
-===Date: 2018
-===Transcription:
------------------------------------------------------DIV60--
-Alfred Klein
-* 17.12.1934   ✝ 16.5.2017
+TODO new VACANT
 
-Anna u. Albin Otter
------------------------------------------------------DIV60--
+===Stone: VACANT
+===Date: 2024
 
-===Date: 2018
-===Photos: 1
-file://./Images_2018/IMG_9628.JPG
+===Date: 2024
+===Photos:
 ===Notes:
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Alfred   | Klein       | 17.012.1934 | 16.005.2017 |   |
-|           |          |       | Anna     | Otter       |             |             |   |
-|           |          |       | Albin    | Otter       |             |             |   |
-
-=========================================================================DIV80==
-===PID: 2018-2-5-01
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 2018
-===Transcription:
------------------------------------------------------DIV60--
-SCHEINER
-LEO   * 17.9.1923   ✝ 29.9.1997
------------------------------------------------------DIV60--
-
-===Date: 2018
-===Photos: 1
-file://./Images_2018/IMG_9637.JPG
-===Notes:
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Leo      | Scheiner    | 17.009.1923 | 29.009.1997 |   |
-
-=========================================================================DIV80==
-===PID: 2018-2-5-02
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 2018
-===Transcription:
------------------------------------------------------DIV60--
-M. E. 
-SCHUMANN
-1969
------------------------------------------------------DIV60--
-
-===Date: 2018
-===Photos: 1
-file://./Images_2018/IMG_9638.JPG
-===Notes:
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | M. E.    | Schumann    |             |        1969 |   |
-
-=========================================================================DIV80==
-===PID: 2018-2-5-03
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 2018
-===Transcription:
------------------------------------------------------DIV60--
-►white cross, no name◄
------------------------------------------------------DIV60--
-
-===Date: 2018
-===Photos: 1
-file://./Images_2018/IMG_9639.JPG
-===Notes:
-no text on the cross
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       |          |  ►NULL◄     |             |             |   |
-
-=========================================================================DIV80==
-===PID: ??? 13
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Hier ruht in Gott
-uns. Lieb. Eltern und Grosseltern
-
-Adam Vorndran
-29.4.1848  18.4.1928
-
-Josefa Vorndran
-geb. Rüth
-3.9.1852  11.5.1930
-
-Franz Vorndran
-11.3.1879  30.6.1964
-
-Regina Vorndran
-geb. Ziegler
-25.8.1894  10.5.1981
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "13 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Adam     | Vorndran    | 29.004.1848 | 18.004.1928 |   |
-|           |          |       | Josefa   | Vorndran    | 03.009.1852 | 11.005.1930 |   |
-|           |          |       | Josefa   | Rüth        | 03.009.1852 | 11.005.1930 | b |
-|           |          |       | Franz    | Vorndran    | 11.003.1879 | 30.006.1964 |   |
-|           |          |       | Regina   | Vorndran    | 25.008.1894 | 10.005.1981 |   |
-|           |          |       | Regina   | Ziegler     | 25.008.1894 | 10.005.1981 | b |
-
-=========================================================================DIV80==
-===PID: ??? 13A
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Josefine Seufert
-geb. Walz
-22.6.1877 Kassel
-(d) 12.1.1927 dahier
-
-Edmund Seufert
-13.3.1930  26.9.1947
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "13A Hausen"
-Unknown source says Edmund Seufert is a nephew of  Josefine Seufert geb. Walz.
-
-===Interpretation:
-Unknown source says Edmund Seufert is a nephew of  Josefine Seufert geb. Walz.
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Josefine | Seufert     | 22.006.1877 | 12.001.1927 |   |
-|           |          |       | Josefine | Walz        | 22.006.1877 | 12.001.1927 | b |
-|           |          |       | Edmund   | Seufert     | 13.003.1930 | 26.009.1947 |   |
-
-=========================================================================DIV80==
-===PID: ??? 14
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Katharina Guth
-geb. Frank
-23.9.1883  31.3.1926
-
-Johann Guth
-21.7.1878  1.11.1957
-
-Alois Frank
-25.9.1905  5.19.1973
-
-Hedwig Frank
-9.6.1911  5.9.1985
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "14 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Katharina | Guth        | 23.009.1883 | 31.003.1926 |   |
-|           |          |       | Katharina | Frank       | 23.009.1883 | 31.003.1926 | b |
-|           |          |       | Johann    | Guth        | 21.007.1878 | 01.011.1957 |   |
-|           |          |       | Alois     | Frank       | 25.009.1905 | 05.019.1973 |   |
-|           |          |       | Hedwig    | Frank       | 09.006.1911 | 05.009.1985 |   |
-
-=========================================================================DIV80==
-===PID: ??? 15
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Burkard Gopp
-(b) 15.8.1883
-(d) 27.5.1966
-
-Priska Gopp
-7.5.1882
-21.12.1970
-
-Martin Gopp
-1919 verm. 1942
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "15 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Burkard  | Gopp        | 15.008.1883 | 27.005.1966 |   |
-|           |          |       | Priska   | Gopp        | 07.005.1882 | 21.012.1970 |   |
-|           |          |       | Martin   | Gopp        |        1919 |        1942 |   |
-
-=========================================================================DIV80==
-===PID: ??? 16
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Johann Schüb
-1844  1924
-
-Katharina Schüb
-1845  1931
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "16 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Johann    | Schüb       |        1844 |        1924 |   |
-|           |          |       | Katharina | Schüb       |        1845 |        1931 |   |
-
-=========================================================================DIV80==
-===PID: ??? 19
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Theophil Marschall  1880 - 1954
-
-Agnes Marschall     1885 - 1961
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "19 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Theophil | Marschall   |        1880 |        1954 |   |
-|           |          |       | Agnes    | Marschall   |        1885 |        1961 |   |
-
-=========================================================================DIV80==
-===PID: ??? 20
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Stamm
-Emil  1907 ✠ 1944
-
-Uhlenbrock
-Anton  1913 - 1983
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "20 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM          | FN       | LN          | b           | d           | T |
-|-----------|----------|-------------|----------|-------------|-------------|-------------|---|
-|           | LTVM-VTR |        1657 | Emil     | Stamm       |        1907 |        1944 |   |
-|           |          |             | Anton    | Uhlenbrock  |        1913 |        1983 |   |
-
-=========================================================================DIV80==
-===PID: ??? 21
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Martha Christ Riedmann
-29.5.61  Steinfeld - 5.12.20 Hausen
-
-Franz Riedmann
-25.11.1883  26.2.1955
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "21 Hausen"
-
-===Interpretation:
-29.5.61  Steinfeld - 5.12.20 Hausen = b 28 May 1861  Steinfeld  d 5 Dec 1920 Hausen
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN             | LN          | b           | d           | T |
-|-----------|----------|-------|----------------|-------------|-------------|-------------|---|
-|           |          |       | Martha Christ  | Riedmann    | 29.005.1861 | 05.012.1920 |   |
-|           |          |       | Franz          | Riedmann    | 25.011.1883 | 26.002.1955 |   |
-
-=========================================================================DIV80==
-===PID: ??? 25
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Berta Müller
-geb. Marschall
-2.5.1910  22.6.1950
-
-✠
-Zum gedenken an
-Gregor Müller
-4.8.1910 - 8.8.1941
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "25 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Berta    | Müller      | 02.005.1910 | 22.006.1950 |   |
-|           |          |       | Berta    | Marschall   | 02.005.1910 | 22.006.1950 | b |
-|           |          |       | Gregor   | Müller      | 04.008.1910 | 08.008.1941 |   |
-
-=========================================================================DIV80==
-===PID: ??? 26
-===Coord: []
-===Place: Hausen
-===Stones: 1
 
 ===Stone: 1
 ===Date: 1995
@@ -6494,6 +8321,10 @@ Recorded as: "26 Hausen"
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114337076.jpg  left
+file://./Images_2024/IMG_20240707_114338748.jpg  center
+file://./Images_2024/IMG_20240707_114340433.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
@@ -6501,11 +8332,36 @@ Recorded as: "26 Hausen"
 |           |          |       | Dorothea | Seufert     |        1839 |        1918 |   |
 |           |          |       | Johann   | Seufert     |        1898 |        1945 |   |
 
+
 =========================================================================DIV80==
-===PID: ??? 27
+===PID: 2018-2-4-08
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 2
+
+===Stone: 2
+===Date: 2018
+===Transcription:
+-----------------------------------------------------DIV60--
+Alfred Klein
+* 17.12.1934   ✝ 16.5.2017
+
+Anna u. Albin Otter
+-----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114352033_HDR.jpg  center
+===Notes:
+No changes since 2018.
+
+===Date: 2018
+===Photos: 1
+file://./Images_2018/IMG_9628.JPG
+===Notes:
+New stone.
+Names in common: Anna u. Albin Otter
+Same family.
 
 ===Stone: 1
 ===Date: 1995
@@ -6529,45 +8385,61 @@ Recorded as: "27 Hausen"
 Georg u. Ottilie = Georg u. Ottilie Otter
 
 ===Location:
-
+2024
+file://./Images_2024/IMG_20240707_114349729.jpg  left
+file://./Images_2024/IMG_20240707_114352033_HDR.jpg  center
+file://./Images_2024/IMG_20240707_114354123.jpg  right
+  
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       | Alfred   | Klein       | 17.012.1934 | 16.005.2017 |   |
 |           |          |       | Anna     | Otter       |        1912 |        1981 |   |
 |           |          |       | Albin    | Otter       |        1906 |        1993 |   |
 |           |          |       | Georg    | Otter       |             |             |   |
 |           |          |       | Ottilie  | Otter       |             |             |   |
 
 =========================================================================DIV80==
-===PID: ??? 34
+===PID: 2018-2-5-01
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
 
 ===Stone: 1
-===Date: 1995
+===Date: 2018
 ===Transcription:
 -----------------------------------------------------DIV60--
-►Marble cross with no names◄
+SCHEINER
+LEO   * 17.9.1923   ✝ 29.9.1997
 -----------------------------------------------------DIV60--
 
-===Date: 1995
-===Photos: 0
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114438261.jpg  center
 ===Notes:
-Direct reading from grave stone.
-Recorded as: "34 Hausen"
+No changes since 2018.
+
+===Date: 2018
+===Photos: 1
+file://./Images_2018/IMG_9637.JPG
+===Notes:
+First reading.
 
 ===Interpretation:
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114436217.jpg  left
+file://./Images_2024/IMG_20240707_114438261.jpg  center
+file://./Images_2024/IMG_20240707_114440309.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       |          | NULL        |             |             |   |
+|           |          |       | Leo      | Scheiner    | 17.009.1923 | 29.009.1997 |   |
 
 =========================================================================DIV80==
-===PID: ??? 35
+===PID: 2018-2-5-02
 ===Coord: []
 ===Place: Hausen
 ===Stones: 1
@@ -6576,8 +8448,22 @@ Recorded as: "34 Hausen"
 ===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
-M.E. Schuhmann  1969
+M. E. 
+SCHUHMANN
+1969
 -----------------------------------------------------DIV60--
+
+===Date: 2024
+===Photos: 1
+file://./Images_2024/IMG_20240707_114451126.jpg  center
+===Notes:
+No changes since 2018.
+
+===Date: 2018
+===Photos: 1
+file://./Images_2018/IMG_9638.JPG
+===Notes:
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -6589,688 +8475,63 @@ Recorded as: "35 Hausen"
 M.E. Schuhmann  1969 = M.E. Schuhmann  died in 1969
 
 ===Location:
+2024
+file://./Images_2024/IMG_20240707_114447669.jpg  left
+file://./Images_2024/IMG_20240707_114451126.jpg  center
+file://./Images_2024/IMG_20240707_114454190.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | M.E.     | Schuhmann   |             |        1969 |   |
+|           |          |       | M. E.    | Schuhmann   |             |        1969 |   |
 
 =========================================================================DIV80==
-===PID: ??? 38
+===PID: 2018-2-5-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 1
+===Stones: 1-V
 
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Gertraud Siegler
-geb Ritter
-3.9.1869  1.9.1953
+===Stone: VACANT
+===Date: 2024
 
-Oskar Siegler
-Inh. Bundesverdienskreuzes
-(b) 18.12.1899
-(d) 6.11.1974
-
-Alois Siegler
-23.1.1865  26.11.1955
-
-Katharina Siegler
-geb. Marschall
-4.12.1901  25.10.1987
-
-Zum gedenken an unseren lieben Sohn
-✠ Karl Siegler
-20.5.1924 vermisst April 1944 a.d. Krimm.
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "38 Hausen"
-
-===Interpretation:
-Karl Siegler went missing in Crimea.
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Gertraud  | Siegler     | 03.009.1869 | 01.009.1953 |   |
-|           |          |       | Gertraud  | Ritter      | 03.009.1869 | 01.009.1953 | b |
-|           |          |       | Oskar     | Siegler     | 18.012.1899 | 06.011.1974 |   |
-|           |          |       | Alois     | Siegler     | 23.001.1865 | 26.011.1955 |   |
-|           |          |       | Katharina | Siegler     | 04.012.1901 | 25.010.1987 |   |
-|           |          |       | Katharina | Marschall   | 04.012.1901 | 25.010.1987 | b | 
-|           |          |       | Karl      | Siegler     | 20.005.1924 |   .004.1944 |   |
-
-=========================================================================DIV80==
-===PID: ??? 43
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Eva-Maria Bethge
-geb. Schmidt
-3.7.1915  1.4.1994
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "43 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       |Eva-Maria | Bethge      | 03.007.1915 | 01.004.1994 |   |
-|           |          |       |Eva-Maria | Schmidt     | 03.007.1915 | 01.004.1994 | b |
-
-=========================================================================DIV80==
-===PID: ??? 44
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Georg Seufert
-7.11.1869  28.5.1930
-
-Anna Seufert
-14.7.1901  5.10.1951
-
-Zur Erinnerung
-Adm. Seufert     Karl Seufert
-✠ 1917         1942 ✠
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "44 Hausen"
-
-===Interpretation:
-Adm. Seufert  = Adam Seufert
-dates for Adm. and Karl are death dates
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Georg    | Seufert     | 07.011.1869 | 28.005.1930 |   |
-|           |          |       | Anna     | Seufert     | 14.007.1901 | 05.010.1951 |   |
-|           |          |       | Adam     | Seufert     |             |        1917 |   |
-|           |          |       | Karl     | Seufert     |             |        1942 |   |
-
-=========================================================================DIV80==
-===PID: ??? 45
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Philipp  1897 - 1970
-Josefa   1898 - 1985
-Stamm
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "45 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Philipp  | Stamm       |        1897 |        1970 |   |
-|           |          |       | Josefa   | Stamm       |        1898 |        1985 |   |
-
-=========================================================================DIV80==
-===PID: ??? 46
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Karl Scheiner
-1903 - 1976
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "46 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Karl     | Scheiner    |        1903 |        1976 |   |
-
-=========================================================================DIV80==
-===PID: ??? 50
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Brigitte Scheiner
-geb. Lieblein
-27.5.1876  5.12.1944
-
-Franz Scheiner
-17.11.1874  14.8.1952
-
-Benedikt Scheiner
-1.12.1904  7.6.1968
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "50 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Brigitte | Scheiner    | 27.005.1876 | 05.012.1944 |   |
-|           |          |       | Brigitte | Lieblein    | 27.005.1876 | 05.012.1944 | b |
-|           |          |       | Franz    | Scheiner    | 17.011.1874 | 14.008.1952 |   |
-|           |          |       | Benedikt | Scheiner    | 01.012.1904 | 07.006.1968 |   |
-
-=========================================================================DIV80==
-===PID: ??? 58
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Gehrling
-
-Michael
-22.11.1898  5.7.1983
-
-Mechthilde
-geb. Väthbrückner
-18.10.1898  26.9.1983
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "58 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN          | LN           | b           | d           | T |
-|-----------|----------|-------|-------------|--------------|-------------|-------------|---|
-|           |          |       | Michael     | Gehrling      | 22.011.1898 | 05.007.1983 |   |
-|           |          |       | Mechthilde  | Gehrling      | 18.010.1898 | 26.009.1983 |   |
-|           |          |       | Mechthilde  | Väthbrückner | 18.010.1898 | 26.009.1983 | b |
-
-=========================================================================DIV80==
-===PID: ??? 61
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Valentin Schuhmann
-6.9.1883  16.8.1961
-
-Barbara Schuhmann
-15.10.1883  4.9.1965
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "61 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS        | RM    | FN       | LN          | b           | d           | T |
-|-----------|-----------|-------|----------|-------------|-------------|-------------|---|
-|           |           |       | Valentin | Schuhmann   | 06.009.1883 | 16.008.1961 |   |
-|           |           |       | Barbara  | Schuhmann   | 15.010.1883 | 04.009.1965 |   |
-
-=========================================================================DIV80==
-===PID: ??? 70
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Maria Weidner
-geb. Schürger
-28.1.1903  10.12.1949
-
-Georg u. Gertraud Schürger
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "70 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Maria    | Weidner     | 28.001.1903 | 10.012.1949 |   |
-|           |          |       | Maria    | Schürger    | 28.001.1903 | 10.012.1949 | b |
-|           |          |       | Georg    | Schürger    |             |             |   |
-|           |          |       | Gertraud | Schürger    |             |             |   |
-
-=========================================================================DIV80==
-===PID: ??? 73
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Herrmann
-
-Karl       1882 - 1940
-Margarete  1889 - 1982
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "73 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Karl      | Herrmann    |        1882 |        1940 |   |
-|           |          |       | Margarete | Herrmann    |        1889 |        1982 |   |
-
-=========================================================================DIV80==
-===PID: ??? 82
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Alois Rüppel
-28.2.1881  6.1.1924
-
-Mathilde Rüppel Geb. Matreux
-27.6.1880  15.8.1946
-
-✠ Hans Rüppel
-31.7.1911  verm. 13.8.1944
-
-✠ Otto Rüppel
-21.8.1907 verm. 10.1.1943
-
-Hildegard Rüppel
-Geb. Stamm
-27.2.1910  30.9.1966
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "82 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Alois     | Rüppel      | 28.002.1881 | 06.001.1924 |   |
-|           |          |       | Mathilde  | Matreux     | 27.006.1880 | 15.008.1946 |   |
-|           |          |       | Mathilde  | Matreux     | 27.006.1880 | 15.008.1946 | b |
-|           |          |       | Hans      | Rüppel      | 31.007.1911 | 13.008.1944 |   |
-|           |          |       | Otto      | Rüppel      | 21.008.1907 | 10.001.1943 |   |
-|           |          |       | Hildegard | Rüppel      | 27.002.1910 | 30.009.1966 |   |
-|           |          |       | Hildegard | Stamm       | 27.002.1910 | 30.009.1966 | b |
-
-=========================================================================DIV80==
-===PID: ??? 83
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Helga Stamm
-17 Jan. 1942
-3 Okt. 1994
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "83 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           | G7D1-MCQ |  1665 | Helga    | Stamm       | 17.001.1942 | 03.010.1994 |   |
-
-=========================================================================DIV80==
-===PID: ??? 84
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Lydia Henkelmann
-5.1.1916  30.12.1985
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "84 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Lydia    | Henkelmann  | 05.001.1916 | 30.012.1985 |   |
-
-=========================================================================DIV80==
-===PID: ??? 85
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Inge Ferkinghoff
-geb. Feix
-2.7.1938  2.5.1973
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "85 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Inge     | Ferkinghoff | 02.007.1938 | 02.005.1973 |   |
-|           |          |       | Inge     | Feix        | 02.007.1938 | 02.005.1973 | b |
-
-=========================================================================DIV80==
-===PID: ??? 86
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Philomena Schuck
-geb. Kullmann
-18.11.1860  29.5.1902
-
-Anton Schuck
-Mühlenbesitzer
-27.10.1854  21.11.1924
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "86 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
-|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          | 16597 | Philomena | Schuck      | 18.011.1860 | 29.005.1902 |   |
-|           |          | 16597 | Philomena | Kullmann    | 18.011.1860 | 29.005.1902 | b |
-|           |          | 16596 | Anton     | Schuck      | 27.010.1854 | 21.011.1924 |   |
-
-=========================================================================DIV80==
-===PID: ??? 87
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Karl Wolf
-27.1.1898  21.12.1972
-
-Klementine Wolf
-9.12.1896  1.3.1978
-
-und deren Eltern
-Wilhelm u. Angelina Wolf
------------------------------------------------------DIV60--
-
-===Date: 1995
-===Photos: 0
-===Notes:
-Direct reading from grave stone.
-Recorded as: "87 Hausen"
-
-===Interpretation:
-
-===Location:
-
-===Table:
-| FG        | FS       | RM    | FN          | LN          | b           | d           | T |
-|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
-|           |          |       | Karl        | Wolf        | 27.001.1898 | 21.012.1972 |   |
-|           |          |       | Klementine  | Wolf        | 09.012.1896 | 01.003.1978 |   | 
-|           |          |       | Wilhelm     | Wolf        |             |             |   |
-|           |          |       | Angelina    | Wolf        |             |             |   |
-
-=========================================================================DIV80==
-===PID: ??? 1001
-===Coord: []
-===Place: Hausen
-===Stones: 1
-
-===Stone: 1
-===Date: 1995
-===Transcription:
------------------------------------------------------DIV60--
-Franz Stamm
-* 13.9.1913   ✝︎ 22.7.1984
-
-Maria Stamm
-* 26.9.1920   ✝︎ 29.10.1998
------------------------------------------------------DIV60--
-
-===Date: 2015
+===Date: 2024
 ===Photos: 1
-file://./Images_2015/20150307_045217.jpg
+file://./Images_2024/IMG_20240707_114502220.jpg  center
 ===Notes:
-
-===Interpretation:
-
-===Location:
-How could this have been missed in 2018 photos? Is it really in Hausen?
-Could it be in sec 1 row 9?
-
-===Table:
-| FG        | FS       | RM    | FN          | LN          | b           | d           | T |
-|-----------|----------|-------|-------------|-------------|-------------|-------------|---|
-            |          |       | Franz       | Stamm       | 13.009.1913 | 22.007.1984 |   |
-            |          |       | Maria       | Stamm       | 26.009.1920 | 29.010.1998 |   |
-
-=========================================================================DIV80==
-===PID: ??? 1002
-===Coord: []
-===Place: Hausen
-===Stones: 1
+Vacant
+Removed: white cross
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
 -----------------------------------------------------DIV60--
-HIER RUHEN IN GOTT
-
-►left◄
-
-CRESCENZIA
-STAMM
-GEB. HANDEL
-15.7.1880  19.2.1940
-
-ELISABETH
-FABER
-GEB. STAMM
-20.4.1911 3.2.2000
-
-►right◄
-
-FRANZ BENED.
-STAMM
-22.3.1876 24.6.1934
-
-JULIUS
-FABER
-15.6.1904  30.3.1996
-
-►bottom◄
-✠
-ZUM STILLEN GEDENKEN
-
-JOSEF
-STAMM
-27.2.1913  27.8.1942
-
-VIKTOR
-SCHEINER
-►?.?◄ 1910 ✠ 15.4.1944
+ ►white marble cross, no names◄
 -----------------------------------------------------DIV60--
 
-===Date: 2015
+===Date: 2018
 ===Photos: 1
-file://./Images_2015/20150307_045257.jpg
+file://./Images_2018/IMG_9639.JPG
 ===Notes:
+No changes since 1995.
+
+===Date: 1995
+===Photos: 0
+===Notes:
+Direct reading from grave stone.
+Recorded as: "34 Hausen"
 
 ===Interpretation:
-Bend. = Benedikt
 
 ===Location:
-How could this have been missed in 2018 photos? Is it really in Hausen?
-Could it be in sec 1 row 9?
+file://./Images_2024/IMG_20240707_114500532.jpg  left
+file://./Images_2024/IMG_20240707_114502220.jpg  center
+file://./Images_2024/IMG_20240707_114503935.jpg  right
+file://./Images_2024/IMG_20240707_114505514.jpg  further to the right
 
 ===Table:
-| FG        | FS       | RM    | FN             | LN          | b           | d           | T |
-|-----------|----------|-------|----------------|-------------|-------------|-------------|---|
-|           |          |       | Crescenzia     | Stamm       | 15.007.1880 | 19.002.1940 |   |
-|           |          |       | Crescenzia     | Handel      | 15.007.1880 | 19.002.1940 | b |
-|           |          |       | Elisabeth      | Faber       | 20.004.1911 | 03.002.2000 |   |
-|           |          |       | Elisabeth      | Stamm       | 20.004.1911 | 03.002.2000 | b |
-|           |          |       | Franz Benedikt | Stamm       | 22.003.1876 | 24.006.1934 |   |
-|           |          |       | Julius         | Faber       | 15.006.1904 | 30.003.1996 |   |
-|           |          |       | Josef          | Stamm       | 27.002.1913 | 27.008.1942 |   |
-|           |          |       | Viktor         | Scheiner    |        1910 | 15.004.1944 |   |
+| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
+|-----------|----------|-------|----------|-------------|-------------|-------------|---|
+|           |          |       |          |  ►NULL◄     |             |             |   |
 
 =========================================================================DIV80==
+END OF FILE
