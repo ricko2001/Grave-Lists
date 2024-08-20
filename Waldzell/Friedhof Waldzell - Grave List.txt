@@ -35,14 +35,14 @@ file://./Images_2024/IMG_20240703_095051395.jpg
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 MICHAEL OTTER      1911 - 1984
 ADELINDE OTTER     1912 - 1993
 
 KOHLHEPP
 FRANZISKA          1874 - 1941
 JOHANN             1865 - 1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -73,7 +73,7 @@ Assume same stone because transcription from photo same as 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -94,6 +94,7 @@ is overview. Can see 1-1-2 to 1-1-9
 | 210327476 | LTVC-XTJ |  2128 | Johann    | Kohlhepp | 1865 | 1944 |   |
 | 210326701 | LTV3-5H6 |  2122 | Michael   | Otter    | 1911 | 1984 |   |
 | 210327178 | LTV3-GVN |  2123 | Adelinde  | Otter    | 1912 | 1993 |   |
+|           |          |       |           |          |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-03
@@ -104,13 +105,13 @@ is overview. Can see 1-1-2 to 1-1-9
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 FÜRCHTET EUCH NICHT-
 ER IST AUFERSTANDEN!
 
 JOSEF MÖHLER     1932 - 2017
 STEFAN MÖHLER    1964 - 1983
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -129,23 +130,21 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8970.JPG
 ===Notes:
-New stone in 2018.
+New stone. Same family.
+Names in common:  STEFAN MÖHLER 
 But same inscription and imagery and shape and size. Could have been refurbished.
-Dropped name: Engelbert 
-Dropped name: Maria
-Added name: Josef
 
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 FÜRCHRET EUCH NICHT-
 ER IST AUFERSTANDEN
 
 ENGELBERT MÖHLER    1889 - 1965
 MARIA GEB. RÜB      1896 - 1971
 STEFAN MÖHLER       1964 - 1983
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2011
 ===Photos: 2
@@ -158,7 +157,7 @@ Assume same stone because transcription from photo same as 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -176,11 +175,12 @@ is overview. Can see 1-1-2 to 1-1-9
 ===Table:
 | FG        | FS       | RM    | FN        | LN     | b    | d    | T |
 |-----------|----------|-------|-----------|--------|------|------|---|
-| 210328201 | L1ML-P8N |  1044 | Josef     | Möhler | 1932 | 2017 |   |
-| 210328790 | LTVM-NCW |  1048 | Stefan    | Möhler | 1964 | 1983 |   |
 | 210327951 | LTVM-NPX |  1024 | Engelbert | Möhler | 1889 | 1965 |   |
 | 210328087 | LTVM-FX6 |  1026 | Maria     | Möhler | 1896 | 1971 |   |
 | 210328087 | LTVM-FX6 |  1026 | Maria     | Rüb    | 1896 | 1971 | b |
+| 210328201 | L1ML-P8N |  1044 | Josef     | Möhler | 1932 | 2017 |   |
+| 210328790 | LTVM-NCW |  1048 | Stefan    | Möhler | 1964 | 1983 |   |
+|           |          |       |           |        |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-04
@@ -191,16 +191,17 @@ is overview. Can see 1-1-2 to 1-1-9
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ALFONS RÜB    1902 ✠ 1945
 HEDWIG RÜB    1937 - 1961
 IDA RÜB       1899 - 1987
 
+►bottom◄
 1871  ANTON  1960
 
 JUSTINA       U   MARGARETA RÜB
 1877 - 1917       1880 - 1960
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -230,7 +231,7 @@ Assume same stone because transcription from photo same as 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -255,6 +256,7 @@ is overview. Can see 1-1-2 to 1-1-9
 | 210329257 | LTVM-FC9 |  1038 | Alfons    | Rüb | 1902 | 1945 |   |
 | 210329599 | LTVM-XCF |  1037 | Ida       | Rüb | 1899 | 1987 |   |
 | 210332817 | LTVM-FC8 |  1041 | Hedwig    | Rüb | 1937 | 1961 |   |
+|           |          |       |           |     |        |    |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-05
@@ -265,11 +267,11 @@ is overview. Can see 1-1-2 to 1-1-9
 ===Stone: 2
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 WINFRIED          1934 - 1994
 HELMUT            1928 - 1995
 GERTRAUD MÖHLER   1888 - 1973
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -286,20 +288,22 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8968.JPG
 ===Notes:
-Same stone as in 2011.
+No changes since 2011.
 
 ===Date: 2011
 ===Photos: 1
 file://./Images_2011/K800_Gräber_Waldzell_048.JPG
 ===Notes:
-Assume new stone based on position of Gertraud's name on 2011 stone.
-Added name: HELMUT
-Added name: WINFRIED
+New stone. Same family.
+Names in common: Gertraud Möhler
+Removed wooden cross: Helmut
+Removed wooden cross: Winfried
+All cross data now on stone.
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Gertraud Möhler    1888 - 1973
 
 ►wooden-cross◄
@@ -307,12 +311,12 @@ Helmut Möhler      1928 - 1995
 
 ►wooden-cross◄
 Winfried Möhler    1934 - 1994
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 Helmut & Winfried on separate wooden crosses.
 
 ===Interpretation:
@@ -336,6 +340,7 @@ is overview. Can see 1-1-2 to 1-1-9
 | 210333183 | LTVM-NHV |  1924 | Gertraud | Möhler | 1888 | 1973 |   |
 | 210333206 | LTVM-NPK |  1046 | Winfried | Möhler | 1934 | 1994 |   |
 | 210333214 | LTVM-FXF |  1043 | Helmut   | Möhler | 1928 | 1995 |   |
+|           |          |       |          |        |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-06
@@ -346,15 +351,16 @@ is overview. Can see 1-1-2 to 1-1-9
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 GERTRAUD HARTMANN    * 2.8.1887   ✝ 22.7.1962
 MARTIN HARTMANN      * 21.9.1889  ✝ 8.12.1973
 
 ROMAN SCHUBERT       * 27.8.1924  ✝ 9.2.2007
 HEDWIG SCHUBERT      * 12.9.1922  ✝ 8.11.2008
 
+►bottom◄
 1919 RICHARD 1941   ✠   1916 JOSEF 1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -379,15 +385,14 @@ No changes since 2011.
 ===Photos: 1
 file://./Images_2011/K800_Gräber_Waldzell_047.JPG
 ===Notes:
-Added name: Hedwig
 Added name: Roman
-or could be a new stone.  Assume same stone.
+Added name: Hedwig
 Bottom row of text obscured by vegetation.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -403,14 +408,15 @@ file://./Images_2022/IMG_20221004_163222938_HDR.jpg
 is overview. Can see 1-1-2 to 1-1-9
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN       | b           | d           | T |
-|-----------|----------|-------|----------|----------|-------------|-------------|---|
-| 210341442 | G3L2-C6T |   297 | Gertraud | Hartmann | 02.008.1887 | 22.007.1962 |   |
-| 210341551 | LTJG-6BB |   298 | Martin   | Hartmann | 21.009.1889 | 08.012.1973 |   |
-| 210341764 | LTJG-N25 |   296 | Roman    | Schubert | 27.008.1924 | 09.002.2007 |   |
-| 210341853 | LTJG-JP1 |   299 | Hedwig   | Schubert | 12.009.1922 | 08.011.2008 |   |
-| 210341932 | LTVH-HB6 |  2130 | Richard  | Hartmann |        1919 |        1941 |   |
-| 210341968 | LTV7-W1X |  2131 | Josef    | Hartmann |        1916 |        1944 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210341442 | G3L2-C6T |   297 | Gertraud  | Hartmann    | 02.008.1887 | 22.007.1962 |   |
+| 210341551 | LTJG-6BB |   298 | Martin    | Hartmann    | 21.009.1889 | 08.012.1973 |   |
+| 210341764 | LTJG-N25 |   296 | Roman     | Schubert    | 27.008.1924 | 09.002.2007 |   |
+| 210341853 | LTJG-JP1 |   299 | Hedwig    | Schubert    | 12.009.1922 | 08.011.2008 |   |
+| 210341932 | LTVH-HB6 |  2130 | Richard   | Hartmann    |        1919 |        1941 |   |
+| 210341968 | LTV7-W1X |  2131 | Josef     | Hartmann    |        1916 |        1944 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-07
@@ -450,17 +456,18 @@ file://./Images_2024/IMG_20240703_095144857.jpg
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 MISTLER
 
 AUGUST   * 31.12.1913  ✝ 24.7.1988
 ANNA     * 26.3.1920  ✝ 12.6.1999
 
+►bottom◄
 SCHUBERT    EMMA            MARTIN        JOSEF
           1887 - 1928    1882 - 1949   1922 - 1945
 
 ANNA WATZ   1897 - 1979
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -478,12 +485,11 @@ Cannot read text, but stone is present.
 file://./Images_2018/IMG_8964.JPG
 ===Notes:
 Added name: Anna
-All other text the same. Assume it's the same stone as in 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -498,14 +504,15 @@ is overview. Can see 1-1-2 to 1-1-9
 Based on general shape of stone. 
 
 ===Table:
-| FG        | FS       | RM    | FN     | LN       |  b          | d           | T |
-|-----------|----------|-------|--------|----------|-------------|-------------|---|
-| 210342417 | LTJG-3CY |   337 | Emma   | Schubert |        1887 |        1928 |   |
-| 210343599 | LTJG-ZVW |   289 | Martin | Schubert |        1882 |        1949 |   |
-| 210343679 | LTVM-6TN |   348 | August | Mistler  | 31.012.1913 | 24.007.1988 |   |
-| 210343755 | L1MG-CB1 |   339 | Anna   | Mistler  | 26.003.1920 | 12.006.1999 |   |
-| 210343833 | L1MP-HBJ |   341 | Josef  | Schubert |        1922 |        1945 |   |
-| 210343933 | LTKN-VMH |  2176 | Anna   | Watz     |        1897 |        1979 |   |
+| FG        | FS       | RM    | FN        | LN          |  b          | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210342417 | LTJG-3CY |   337 | Emma      | Schubert    |        1887 |        1928 |   |
+| 210343599 | LTJG-ZVW |   289 | Martin    | Schubert    |        1882 |        1949 |   |
+| 210343679 | LTVM-6TN |   348 | August    | Mistler     | 31.012.1913 | 24.007.1988 |   |
+| 210343755 | L1MG-CB1 |   339 | Anna      | Mistler     | 26.003.1920 | 12.006.1999 |   |
+| 210343833 | L1MP-HBJ |   341 | Josef     | Schubert    |        1922 |        1945 |   |
+| 210343933 | LTKN-VMH |  2176 | Anna      | Watz        |        1897 |        1979 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-1-09
@@ -544,15 +551,16 @@ file://./Images_2024/IMG_20240703_095204131.jpg
 ===Stone: 2
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 SCHUBERT
 
 ALFRED    * 16 11 1912   ✝ 21 8 1985
 ERNA      * 14 2 1920   ✝ 2 2 2019
 
+►bottom◄
 MARIA  1878 - 1948
 GEORG  1878 - 1956
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -571,35 +579,36 @@ Photo was intended as an overview, but found new name.
 ===Photos: 1
 file://./Images_2018/IMG_8983.JPG
 ===Notes:
-Assume new stone in 2018 based on differences in transcriptions.
-New stone has less info, same names !
+New stone. Same family.
+Names in common:  Maria, Georg & Alfred
+New stone has less date data, same names.
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Ruhestätte - Schubert
 Hier ruht in Frieden
 
 Maria Schubert
 geb. Schubert
-* 2.11.1878 - 27.1.1948 ✝︎
+* 2.11.1878 - 27.1.1948 🕇
 Georg Schubert
 Tünchnermeister
-* 18.2.1878 - 7.1.1956 ✝︎
+* 18.2.1878 - 7.1.1956 🕇
 Alfred Schubert
-* 16.11.1912 - 21.8.1985 ✝︎
------------------------------------------------------DIV60--
+* 16.11.1912 - 21.8.1985 🕇
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 2 stones, one family
 MATCHES_TO_RM
-Maria Schubert  geb  Schubert from grave marker
+Maria Schubert geb Schubert from grave marker
 
 According to Alban Otter, these Schuberts not directly related to himself.
 Same family as stone # 1995-49, 1995-80.
@@ -612,13 +621,14 @@ file://./Images_2022/IMG_20221004_163217025.jpg
 is overview. Can see 1-2-1 to 1-2-9
 
 ===Table:
-| FG        | FS       | RM    | FN     | LN       | b           | d           | T |
-|-----------|----------|-------|--------|----------|-------------|-------------|---|
-| 210344160 | L1MX-L9R | 12818 | Maria  | Schubert | 02.011.1878 | 27.001.1948 |   |
-| 210344160 | L1MX-L9R | 12818 | Maria  | Schubert | 02.011.1878 | 27.001.1948 | b |
-| 210345685 | L1MF-74H | 12819 | Georg  | Schubert | 18.002.1878 | 07.001.1956 |   |
-| 210345778 | LTVQ-P9V |   863 | Alfred | Schubert | 16.011.1912 | 21.008.1985 |   |
-| 269372847 | LTV3-L6G |   864 | Erna   | Schubert | 14.002.1920 | 02.002.2019 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210344160 | L1MX-L9R | 12818 | Maria     | Schubert    | 02.011.1878 | 27.001.1948 |   |
+| 210344160 | L1MX-L9R | 12818 | Maria     | Schubert    | 02.011.1878 | 27.001.1948 | b |
+| 210345685 | L1MF-74H | 12819 | Georg     | Schubert    | 18.002.1878 | 07.001.1956 |   |
+| 210345778 | LTVQ-P9V |   863 | Alfred    | Schubert    | 16.011.1912 | 21.008.1985 |   |
+| 269372847 | LTV3-L6G |   864 | Erna      | Schubert    | 14.002.1920 | 02.002.2019 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-2-02
@@ -629,12 +639,12 @@ is overview. Can see 1-2-1 to 1-2-9
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►photo◄
 
 BERTHOLD   OEHRING
 1939 - 1985
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -652,12 +662,12 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_8984.JPG
 ===Notes:
-Transcription from photo same as 1995. Assume same stone.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 Grave stone has a photo attached near top.
 
 ===Interpretation:
@@ -672,6 +682,7 @@ shows row from 1-2-1 to 1-2-4
 | FG        | FS       | RM    | FN       | LN      | b    | d    | T |
 |-----------|----------|-------|----------|---------|------|------|---|
 | 210348225 | LTVM-F4X |   265 | Berthold | Oehring | 1939 | 1985 |   |
+|           |          |       |           |        |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-2-03
@@ -682,12 +693,15 @@ shows row from 1-2-1 to 1-2-4
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
+►left◄
+ES IST VOLL BRACHT
+
 RIEDMANN
 
 VALENTIN   1908 ✠ 1944
 ROSA       1914 - 1974
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -711,16 +725,16 @@ No changes since 2011.
 ===Photos: 1
 file://./Images_2011/K800_Gräber_Waldzell_059.JPG
 ===Notes:
-Assume same stone because transcription from photo same as 1995. 
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Rosa Riedmann  geb  Rüb  from Waldzeller Häuserbuch
+Rosa Riedmann geb Rüb from Waldzeller Häuserbuch
 
 ===OLD_PID: 1995-09, 2018-1-2-03
 ===Location: s5
@@ -732,6 +746,7 @@ shows row from 1-2-1 to 1-2-4
 |-----------|----------|-------|----------|----------|------|------|---|
 | 210348296 | LTVM-FZK |   325 | Valentin | Riedmann | 1908 | 1944 |   |
 | 210348362 | LTVC-VNT |   324 | Rosa     | Riedmann | 1914 | 1974 |   |
+|           |          |       |          |          |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-2-04
@@ -742,7 +757,7 @@ shows row from 1-2-1 to 1-2-4
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►across◄
 HIER RUHEN IN GOTT
 
@@ -767,7 +782,7 @@ GEB. MÖHLER
 AN UNSEREN LB. SOHN U. BRUDER
 ALBAN RÜB  SOLDAT 1. E1 JNF. REGT.
 * 6.2.1921  GEF. 22.6.1942 I. RUSSLAND
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -785,17 +800,17 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8986.JPG
 ===Notes:
-Transcription from photo same as 1995. Assume same stone.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Justina    Möhler  geb  Mehling  from grave stone
-Kreszentia Rüb  geb  Möhler  from grave stone
+Justina    Möhler geb Mehling  from grave stone
+Kreszentia Rüb geb Möhler  from grave stone
 
 ===OLD_PID: 1995-10, 2018-1-2-04
 ===Location: s5
@@ -812,6 +827,7 @@ shows row from 1-2-1 to 1-2-4
 | 210348857 | LTV3-GFB |   371 | Kreszentia | Rüb     | 07.012.1889 | 10.007.1968 |   |
 | 210348857 | LTV3-GFB |   371 | Kreszentia | Möhler  | 07.012.1889 | 10.007.1968 | b |
 | 210349130 | LTV3-L1Q |   373 | Alban      | Rüb     | 06.002.1921 | 22.006.1942 |   |
+|           |          |       |            |         |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-2-05
@@ -822,14 +838,14 @@ shows row from 1-2-1 to 1-2-4
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Robert Röder
 * 22.6.1916  ✝ 24.10.2002
 
 Rosemarie Röder
 geb. Stumpf
 * 1.5.1927  ✝ 10.1.2019
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -847,38 +863,37 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8987.JPG
 ===Notes:
-Assume new stone in 2018 based on differences in transcriptions.
-No name overlap. Assume new family.
-this seems to be in the plot occupied by Ühlein in 1995.
-Current markers on both sides match 1995. Merge plot info.
+New stone. New family. No names in common.
 TODO Anton died in 1986, so marker was there only 9 years? doesn't seem plausible. 
 Maybe it was there for a long time, only 9 yrs left on lease and no one to renew.
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Anna Ühlein     1900 - 1981
 Anton Ühlein    1903 - 1986
 
 Familie Ühlein und Michler
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
 1995 marker- Guess that Anna is a geb Michler, given the inscription on marker.
-Anna Ühlein  geb  Michler  based on "Familie Ühlein und Michler". 
+Anna Ühlein geb Michler  based on "Familie Ühlein und Michler". 
 
 ===Interpretation: 2
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
 
 ===OLD_PID: 1995-11, 2018-1-2-05
 ===Location: s4
+this seems to be in the plot occupied by Ühlein in 1995.
+Current markers on both sides match 1995.
 file://./Images_2022/IMG_20221004_163217025.jpg
 is overview. Can see 1-2-1 to 1-2-9
 
@@ -887,14 +902,15 @@ is overview. Can see 1-2-1 to 1-2-9
 |-----------|----------|-------|-----------|--------|-------------|-------------|---|
 | 210350129 | G7KG-7LZ | U 279 | Anna      | Ühlein |        1900 |        1981 |   |
 | 210350253 | G92W-BKR | U 137 | Anton     | Ühlein |        1903 |        1986 |   |
+|           |          |       |           |        |             |             |   |
 | 210349306 | G35T-KW7 | U 163 | Robert    | Röder  | 22.006.1916 | 24.010.2002 |   |
 | 273456715 | GY3T-G4H |   470 | Rosemarie | Stumpf | 01.005.1927 | 10.001.2019 | b |
 | 273456715 | GY3T-G4H |   470 | Rosemarie | Röder  | 01.005.1927 | 10.001.2019 |   |
+|           |          |       |           |        |             |             |   |
 
 ===Status:
+FS FGcitation pending- Rosemarie
 FG OK
-FSFGcitation pending- Rosemarie
-FSmemory OK
 DB OK
 
 =========================================================================DIV80==
@@ -956,12 +972,12 @@ is overview. Can see 1-2-1 to 1-2-9
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 CHRISTINE MARSCHALL      13.7.1898 - 4.9.1970
 HEINRICH MARSCHALL       19.8.1894 - 22.6.1983
 ERWIN MARSCHALL          26.02.1931 - 19.11.2017
 HEDWIG MARSCHALL         25.4.1934 - 13.4.2021
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -969,7 +985,8 @@ file://./Images_2024/IMG_20240703_095334018.jpg
 ===Notes:
 Added name: Erwin
 Added name: Hedwig
-Removed wooden cross: All data now on stone.
+Removed wooden cross: Erwin
+All cross data now on stone.
 
 ===Date: 2022
 ===Photos: 0
@@ -981,17 +998,16 @@ Cannot read text, but stone is present.
 file://./Images_2018/IMG_8988.JPG
 file://./Images_2018/IMG_8989.JPG
 ===Notes:
-Assume same stone because transcription from photo same as 1995.
-Added the wooden cross. 
+Added the wooden cross: Erwin
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Christine Marschall  geb  Möhler
+Christine Marschall geb Möhler
 
 ===OLD_PID: 1995-12, 2018-1-2-08
 ===Location: s3
@@ -1008,9 +1024,8 @@ Based on shape and color of stone.
 | 273457919 | G3L1-8Z1 |   270 | Hedwig    | Marschall | 25.004.1934 | 13.004.2021 |   |
 
 ===Status:
+FS FGcitation pending -Hedwig
 FG OK
-FSFGcitation OK   Hedwig pending
-FSmemory OK
 DB OK
 =========================================================================DIV80==
 ===PID: 2022-1-2-09
@@ -1021,13 +1036,14 @@ DB OK
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 STEFAN HEIDENFELDER      1900 - 1969
 HEDWIG HEIDENFELDER      1906 - 1999
 BLANDINA HEIDENFELDER    1933 - 1996
 
+►bottom◄
 BARBARA - JOHANN HEIDENFELDER
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1042,19 +1058,18 @@ file://./Images_2018/IMG_8991.JPG
 ===Notes:
 Added name: Hedwig
 Added name: Blandina
-Assume that this is the same stone as in 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 Guess Hedwig Heidenfelder was wife of Stefan.
 Birth dates are consistent.
-Barbara Heidenfelder   geb  Eirich
-Hedwig Heidenfelder   geb  Eirich
+Barbara Heidenfelder geb Eirich
+Hedwig Heidenfelder geb Eirich
 
 ===OLD_PID: 1995-13, 2018-1-2-09
 ===Location: s2
@@ -1164,11 +1179,12 @@ is overview. Can see 1-3-1 to 1-3-9
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Geier
 
 Thomas   * 7.2.1978  ✝ 8.6.2005
 
+►bottom◄
 Kreser
 
 Priska    1928 - 2006
@@ -1176,7 +1192,7 @@ Waltraud  1959 - 2005
 
 Winfried   1930 - 1978
 Hans       1957 - 1988
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1195,28 +1211,28 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8995.JPG
 ===Notes:
-Assume new stone based on differences in transcriptions.
-Name overlap is Winfried & Hans Kresser.
+New stone. Same family.
+Names in common: Winfried & Hans Kresser
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Winfried Kreser     1930 - 1978
 Hans Kreser         1957 - 1988
 
 Herrmann - Marg. u. Irma
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
 No family structure discerned.
-Priska Kreser  geb  Möhler  from funeral card
+Priska Kreser geb Möhler  from funeral card
 
 ===Interpretation: 2
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -1278,7 +1294,7 @@ is overview. Can see 1-3-1 to 1-3-9
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Riedmann
 
 Karl      * 27.1.1915  ✝ 12.11.2005
@@ -1287,7 +1303,7 @@ Christel  * 5.6.1924  ✝ 13.1.2017
 Müller
 
 Anita     * 16.4.1961  ✝15.12.2022
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1304,45 +1320,44 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8994.JPG
 ===Notes:
-Same stone as in 2011.
 Added name: Christel. 
 
 ===Date: 2011
 ===Photos: 1
 file://./Images_2011/K800_Gräber_Waldzell_042.JPG
 ===Notes:
-Assume new stone in 2011 based on differences in transcriptions
-No name overlap since 1995 except surname Riedmann.
+New stone. Same family.
+Names in common: surname Riedmann
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Gottes Frieden
 unser lb. Vater
 
 Vinzenz Riedmann
 * 17.7.1870
-✝︎ 23.8.1935
+🕇 23.8.1935
 
 Unsere lb. Mütter
 
 Theresa Riedmann
 geb. Ehehalt
 * 3.4.1883
-✝︎ 19.2.1950
------------------------------------------------------DIV60--
+🕇 19.2.1950
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 2 stones, one family
-Theresa  Riedmann  geb  Ehehalt  from grave stone
-Christel Riedmann  geb  Kulosa  other sources
+Theresa  Riedmann geb Ehehalt  from grave stone
+Christel Riedmann geb Kulosa  other sources
 
 ===OLD_PID: 1995-15, 2018-1-3-06
 ===Location: s4
@@ -1361,9 +1376,8 @@ Location based on shape and engraved image.
 | 273459367 | GY3Y-TB6 | U 471 | Anita    | Müller   | 16.004.1961 | 15.012.2022 |   |
 
 ===Status:
+FS FGcitation  pending- Anita
 FG OK
-FSFGcitation   pending- Anita
-FSmemory OK
 DB OK
 
 =========================================================================DIV80==
@@ -1375,12 +1389,12 @@ DB OK
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 DIE HOFFUNG LEBT RUHLOS IRREND
 
 FRIEDRICH BAUER     1916 - 1993
 ELISABETH BAUER     1914 - 2002
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1398,12 +1412,11 @@ Cannot read text, but stone is present.
 file://./Images_2018/IMG_8993.JPG
 ===Notes:
 Added name: ELISABETH
-Assume this is the same stone as 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -1465,15 +1478,15 @@ Vacant
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Franz Schindler    22.12.1901 - 2.1.1971
 Luzia Schindler    2.11.1907 - 3.9.1980
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -1500,12 +1513,13 @@ Stones on ether side are recognizable. Don't see a stone between them.
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
+►left◄
 Schubert
 
 Engelbert   * 17.8.1923   ✝ 29.8.2012
 Hiltrud     * 2.1.1931    ✝ 1.1.2016
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1522,33 +1536,32 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8992.JPG
 ===Notes:
-Assume new stone based on differences in transcription.
-No names overlap with 1995 transcription, new family.
+New stone. New family. No names in common.
 TODO confirm info here. evidence that this is same grave site 1995 & 2018 ?
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Ludwig Mich. Joha
-* 21.8.1864  ✝︎ 27.5.1956
+* 21.8.1864  🕇 27.5.1956
 
 Elisabeth Joha
 geb. Dürmich
-* 14.11.1873  ✝︎ 7.9.1959
------------------------------------------------------DIV60--
+* 14.11.1873  🕇 7.9.1959
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 stone very worn. transcription not complete. 2 more names, data not certain
 
 ===Interpretation: 2
 MATCHES_TO_RM
 2 stones, one family
-Hiltrud   Schubert geb  Schneider  from funeral card
-Elisabeth Joha  geb  Dürmich   from grave stone
+Hiltrud   Schubert geb Schneider  from funeral card
+Elisabeth Joha geb Dürmich   from grave stone
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -1565,8 +1578,10 @@ Adjacent to east path.
 | 210360094 | G7KR-89P | U 287 | Ludwig Michael | Joha     | 21.008.1864 | 27.005.1956 |   |s_n 
 | 210360117 | G7KR-ZXY | U 288 | Elisabeth      | Joha     | 14.011.1873 | 07.009.1959 |   |s_n 
 | 210360117 | G7KR-ZXY | U 288 | Elisabeth      | Dürmich  | 14.011.1873 | 07.009.1959 | b |s_n 
+|           |          |       |                |          |             |             |   |
 | 210360318 | L19Z-5P6 |   340 | Engelbert      | Schubert | 17.008.1923 | 29.008.2012 |   |
 | 210360366 | L19Z-P7B |   353 | Hiltrud        | Schubert | 02.001.1931 | 01.001.2016 |   |
+|           |          |       |                |          |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-E-01
@@ -1614,7 +1629,7 @@ file://./Images_2024/IMG_20240703_100531188.jpg
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 HEIDENFELDER
 
 KILIAN  1935 - 1988
@@ -1623,7 +1638,7 @@ HÖFLING
 
 GEORG  1910 ✠ 1945
 BETTY  1911 - 1996
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1657,7 +1672,7 @@ file://./Images_1995/Waldzell_1995-07-Marker23.jpg
 
 ===Interpretation:
 MATCHES_TO_RM
-Betty Höfling  geb  Schelbert  from funeral card
+Betty Höfling geb Schelbert  from funeral card
 
 Not clear that the relationships are correct.
 This shows Kilian Heidenfelder's wife had 2 sibs- Georg and Betty.
@@ -1669,11 +1684,12 @@ file://./Images_2022/IMG_20221004_163222938_HDR.jpg
 Overview photo shows E wall from long distance.
 
 ===Table:
-| FG        | FS       | RM    | FN     | LN           | b    | d    | T |
-|-----------|----------|-------|--------|--------------|------|------|---|
-| 186594046 | LTVM-VF2 |  2182 | Kilian | Heidenfelder | 1935 | 1988 |   |s_a
-| 186594047 | LTVC-JM3 |  2200 | Georg  | Höfling      | 1910 | 1945 |   |s_a
-| 210379006 | LT29-ZP8 |  4487 | Betty  | Höfling      | 1911 | 1996 |   |
+| FG        | FS       | RM    | FN        | LN           | b    | d    | T |
+|-----------|----------|-------|-----------|--------------|------|------|---|
+| 186594046 | LTVM-VF2 |  2182 | Kilian    | Heidenfelder | 1935 | 1988 |   |s_a
+| 186594047 | LTVC-JM3 |  2200 | Georg     | Höfling      | 1910 | 1945 |   |s_a
+| 210379006 | LT29-ZP8 |  4487 | Betty     | Höfling      | 1911 | 1996 |   |
+|           |          |       |           |              |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-E-03
@@ -1684,12 +1700,12 @@ Overview photo shows E wall from long distance.
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 EUGEN MÖHLER       25·7·1893 - 1·10·1968
 MAGDALENA MÖHLER   11·5·1902 - 10·11·1976
 JOHANN HÖSL        26·4·1929 - 18·11·2020
 HELLA HÖSL          6·1·1931 - 21·11·2022
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1719,8 +1735,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Magdalena Möhler  geb  Rüb
-
+Magdalena Möhler geb Rüb
 Alban Otter calls them “Schmied Möhler”, like stone # 1995-22, 1995-82.
 
 ===OLD_PID: 1995-22, 2018-1-R-03
@@ -1736,11 +1751,11 @@ Overview photo shows E wall from long distance.
 | 210407905 | G723-D7J | 12837 | Magdalena | Möhler | 05.011.1902 | 11.010.1976 |   |
 | 273461359 | GY31-13Y | U 473 | Johann    | Hösl   | 26.004.1929 | 18.011.2020 |   |
 | 273461423 | GYQM-Q9R | U 472 | Hella     | Hösl   | 06.001.1931 | 21.011.2022 |   |
+|           |          |       |           |        |             |             |   |
 
 ===Status:
+FS FSFGcitation pending-Johann, Hella
 FG OK
-FSFGcitation pending-Johann, Hella
-FSmemory OK
 DB OK
 
 =========================================================================DIV80==
@@ -1782,7 +1797,7 @@ file://./Images_2024/IMG_20240703_100500338.jpg
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Gott
 
 Johann Oehring
@@ -1802,7 +1817,7 @@ Auguste Oehring
 Engelbert Öhring
 ehemaliger Bürgermeister
 * 2.4.1876 - 27.12.1954 ✝
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1824,7 +1839,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Auguste Oehring  geb  Herrmann  Richard L Otter letter.
+Auguste Oehring geb Herrmann  Richard L Otter letter.
 
 ===OLD_PID: 1995-44, 2018-2-4-04
 ===Location: s5
@@ -1835,13 +1850,14 @@ file://./Images_2024/IMG_20240703_094833492.jpg
 Appears to be the first burial plot past the corner.
 
 ===Table:
-| FG        | FS        | RM    | FN        | LN      | b           | d           | T |
-|-----------|-----------|-------|-----------|---------|-------------|-------------|---|
-| 186594138 | LTJF-LQB  |   906 | Johann    | Oehring | 21.010.1827 | 30.007.1903 |   |s_a
-| 186594139 | LTKN-1GL  |  4255 | Martha    | Oehring | 29.007.1841 | 18.011.1914 |   |s_a
-| 186594140 | LTVW-YFF  |  4256 | Genovefa  | Oehring | 24.008.1837 | 27.012.1911 |   |s_a
-| 186594141 | LTJF-83S  |  1618 | Auguste   | Oehring | 24.008.1881 | 08.002.1935 |   |s_a
-| 210494099 | LTJF-VXR  |  1617 | Engelbert | Öhring  | 02.004.1876 | 27.012.1954 |   |
+| FG        | FS       | RM    | FN        | LN      | b           | d           | T |
+|-----------|----------|-------|-----------|---------|-------------|-------------|---|
+| 186594138 | LTJF-LQB |   906 | Johann    | Oehring | 21.010.1827 | 30.007.1903 |   |s_a
+| 186594139 | LTKN-1GL |  4255 | Martha    | Oehring | 29.007.1841 | 18.011.1914 |   |s_a
+| 186594140 | LTVW-YFF |  4256 | Genovefa  | Oehring | 24.008.1837 | 27.012.1911 |   |s_a
+| 186594141 | LTJF-83S |  1618 | Auguste   | Oehring | 24.008.1881 | 08.002.1935 |   |s_a
+| 210494099 | LTJF-VXR |  1617 | Engelbert | Öhring  | 02.004.1876 | 27.012.1954 |   |
+|           |          |       |           |         |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-02
@@ -1852,14 +1868,14 @@ Appears to be the first burial plot past the corner.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ZUM GEDENKEN
 
 TH LOSCHERT
 STIFTER
 DER HIESIGEN
 KAPLANEI
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -1876,17 +1892,17 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_8974.JPG
 ===Notes:
-Assume same stone because transcription from photo same as 1995. 
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 No dates or other info.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
-TH LOSCHERT changed to  Thomas Loschert
+Assume TH LOSCHERT = Thomas Loschert
 This may not be a grave.
 Founder of the local chaplaincy.
 
@@ -1901,6 +1917,7 @@ file://./Images_2024/IMG_20240703_094833492.jpg
 | FG        | FS       | RM    | FN     | LN       | b    | d    | T |
 |-----------|----------|-------|--------|----------|------|------|---|
 | 210360422 | G7GS-NR3 | U 289 | Thomas | Loschert |      |      |   |
+|           |          |       |        |          |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-03
@@ -1923,23 +1940,23 @@ file://./Images_2022/IMG_20221004_163042776.jpg
 file://./Images_2022/IMG_20221004_163156164.jpg
 ===Notes:
 Vacant
-Removed: Rüb stone 
+Removed stone: Rüb
 
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Apollonia Rüb   1879 - 1918
 Roman Rüb       1911 - 1919
 Lydia Rüb       1916 - 1999
 Agnes Rüb       1914 - 2003
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_8975.JPG
 ===Notes:
-No changes from 2011. Photo shows the same stone as in 2011.
+No changes from 2011.
 
 ===Date: 2011
 ===Photos: 1
@@ -1951,7 +1968,7 @@ Added name: Agnes
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -1975,6 +1992,7 @@ file://./Images_2024/IMG_20240703_094840455.jpg
 | 210375313 | LTVH-J4Z |  4507 | Roman     | Rüb | 1911 | 1919 |   |
 | 210375372 | LTV3-PK6 |   311 | Lydia     | Rüb | 1916 | 1999 |   |
 | 210375413 | LTJF-K9D |   312 | Agnes     | Rüb | 1914 | 2003 |   |
+|           |          |       |           |     |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-04
@@ -1990,11 +2008,11 @@ file://./Images_2024/IMG_20240703_094840455.jpg
 file://./Images_2024/IMG_20240703_094838002.jpg
 ===Notes:
 Vacant
-Removed: SCHNELL stone
+Removed stone: SCHNELL
 
 ===Stone: 1
 ===Date: 2018
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 SCHNELL
 
 BERNHARD         1894 - 1969
@@ -2002,7 +2020,7 @@ ANNI             1916 - 2002
 
 ►bottom◄
 JOSEFINE MÜLLER  1900 - 1982
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2022
 ===Photos: 2
@@ -2039,6 +2057,7 @@ file://./Images_2024/IMG_20240703_094909923.jpg
 | 210375552 | G72M-LW1 | U 291 | Bernhard | Schnell | 1894 | 1969 |   |
 | 210375591 | G72M-VJT | U 292 | Anni     | Schnell | 1916 | 2002 |   |
 | 210574554 | G7GH-RKP | U 293 | Josefine | Müller  | 1900 | 1982 |   |
+|           |          |       |          |         |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-05
@@ -2061,24 +2080,24 @@ file://./Images_2022/IMG_20221004_163156164.jpg
 file://./Images_2022/IMG_20221004_163042776.jpg
 ===Notes:
 Vacant
-Removed: SCHWAB stone
+Removed stone: SCHWAB
 
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 SCHWAB
 
 JOHANN    1909 - 1996
 MARIA     1919 - 2008
 FREDI     1953 - 2004
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_8977.JPG
 ===Notes:
-New stone.
+First reading.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -2099,6 +2118,7 @@ TODO What is evidence that Swab stone was in this plot?
 | 210396658 | G723-HTD | U 222 | Johann | Schwab | 1909 | 1996 |   |
 | 210396691 | G723-RSQ | U 178 | Maria  | Schwab | 1919 | 2008 |   |
 | 210396727 | G723-2H6 | U 160 | Fredi  | Schwab | 1953 | 2004 |   |
+|           |          |       |        |        |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-05A
@@ -2132,7 +2152,7 @@ file://./Images_2024/IMG_20240703_094909923.jpg
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 RÜB
 
 ENGELBERT   * 27.11.1909  ✝ 23.8.1995
@@ -2146,14 +2166,13 @@ EVA       1876 - 1944
 ✠
 ALBIN      1909 - 1942
 FERDINAND  1915 - 1943
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 2
 file://./Images_2024/IMG_20240703_094926274.jpg
 ===Notes:
 Added name: Maria
-FSFT & FG updated.
 
 ===Date: 2022
 ===Photos: 2
@@ -2178,12 +2197,12 @@ Added name: Gertraud
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Eva      Otter  geb  Öhring  marriage record
-Gertraud Rüb    geb  Otter  from funeral card
+Eva      Otter geb Öhring  marriage record
+Gertraud Rüb geb Otter  from funeral card
 
 ===OLD_PID: 1995-21, 2018-1-L-05
 ===Location: s5
@@ -2208,6 +2227,10 @@ file://./Images_2024/IMG_20240703_094909923.jpg
 | 210396930 | LTVM-NXG |  2110 | Albin     | Otter |        1909 |        1942 |   |
 | 210396952 | LTVM-VMT |  2111 | Ferdinand | Otter |        1915 |        1943 |   |
 | 269208819 | G5GS-NMB |       | Maria     | Dülk  | 14.004.1951 | 26.001.2023 |   |
+|           |          |       |           |       |             |             |   |
+
+===Status:
+FSFT & FG updated. for maria
 
 =========================================================================DIV80==
 ===PID: 2022-1-W-07
@@ -2280,7 +2303,7 @@ file://./Images_2024/IMG_20240703_094909923.jpg
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 OEHRING
 
 1906  AGNES   1971
@@ -2294,7 +2317,7 @@ Richard Otter
 Maria Otter
 geb. Oehring
 25.09.1931 - 06.02.2022
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 2
@@ -2308,7 +2331,6 @@ No changes since 2022.
 file://./Images_2022/IMG_2789.JPEG
 file://./Images_2022/IMG_20221004_163104706.jpg
 ===Notes:
-Same stone as in 1995
 Added wooden cross: Richard Otter
 Added wooden cross: Maria Otter
 
@@ -2326,7 +2348,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Agnes Oehring  geb  Ludwig  from funeral card
+Agnes Oehring geb Ludwig from funeral card
 
 ===OLD_PID: 1995-24, 2018-2-1-01
 ===Location: s5
@@ -2341,7 +2363,8 @@ Shows stone in context. -2-1-01 adjacent to W path.
 | 269387482 | LTVD-Z6S |    20 | Richard | Otter   | 15.012.1929 | 22.004.2022 |   |
 | 269387537 | LTVD-899 |    37 | Maria   | Otter   | 25.009.1931 | 06.002.2022 |   |
 | 269387537 | LTVD-899 |    37 | Maria   | Oehring | 25.009.1931 | 06.002.2022 | b |
-
+|           |          |       |         |         |             |             |   |
+ 
 =========================================================================DIV80==
 ===PID: 2022-2-1-02
 ===Coord: []
@@ -2356,7 +2379,7 @@ Shows stone in context. -2-1-01 adjacent to W path.
 file://./Images_2024/IMG_20240703_095531971.jpg
 ===Notes:
 No changes since 2022.
-Appears to be 4 adjacent vacnt plot.
+Appears to be 4 adjacent vacant plots.
 
 ===Date: 2022
 ===Photos: 1
@@ -2386,7 +2409,7 @@ Shows lots of empty space.
 file://./Images_2024/IMG_20240703_095531971.jpg
 ===Notes:
 No changes since 2022.
-Appears to be 4 adjacent vacant plot.
+Appears to be 4 adjacent vacant plots.
 
 ===Date: 2022
 ===Photos: 1
@@ -2416,7 +2439,7 @@ Shows lots of empty space.
 file://./Images_2024/IMG_20240703_095531971.jpg
 ===Notes:
 No changes since 2022.
-Appear to be 4 adjacent vacant plots.
+Appears to be 4 adjacent vacant plots.
 
 ===Date: 2018
 ===Photos: 1
@@ -2443,7 +2466,7 @@ Shows lots of empty space.
 file://./Images_2024/IMG_20240703_095531971.jpg
 ===Notes:
 Vacant
-Appears to be 4 adjacent vacnt plot.
+Appears to be 4 adjacent vacant plots.
 
 ===OLD_PID: 2018-2-1-05
 ===Location: s3
@@ -2461,7 +2484,7 @@ Shows lots of empty space.
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►wooden-cross◄
 Werner Otter
 08.05.1939 - 06.03.2024
@@ -2471,53 +2494,54 @@ Du bleibst immer in uneren Herzen
 Alexander
 Tobias
 Vanessa
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 2
 file://./Images_2024/IMG_20240703_095616763.jpg  cross
 file://./Images_2024/IMG_20240703_095608483.jpg  tile
 ===Notes:
-New wooden cross. No stone. New family.
+Added wooden cross: Werner Otter
+No stone. New family.
 
 ===Date: 2018
 ===Photos: 0
 ===Notes:
 Vacant
-Removed: Riedmann stone
+Removed stone: Riedmann
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Frieden
 
 Johann Riedmann
 Gastwirt
-* 17.1.1877  ✝︎ 15.5.1927
+* 17.1.1877  🕇 15.5.1927
 
 Maria Riedmann
 geb. Herrmann
-* 4.2.1883  ✝︎ 7.4.1966
+* 4.2.1883  🕇 7.4.1966
 
 Berta Riedmann
-* 20.10.1915  ✝︎ 20.10.1941
+* 20.10.1915  🕇 20.10.1941
 
 Franz Riedmann
-* 22.6.1880  ✝︎ 9.4.1966
------------------------------------------------------DIV60--
+* 22.6.1880  🕇 9.4.1966
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 Johann and Maria were married.
 Franz was Johann's brother.
 Berta was Franz' daughter.
-Maria Riedmann  geb  Herrmann  from grave stone
+Maria Riedmann geb Herrmann  from grave stone
 TODO what evidence that the Riedmann stone was in this plot?
 Alexander RMID:2000 is grandson of Werner.
 
@@ -2538,11 +2562,13 @@ shows row -2-2-03 to -2-2-09.
 | 210410678 | G728-RH1 | 13035 | Franz  | Riedmann | 22.006.1880 | 09.004.1966 |   |s_n 
 |           |          |       |        |          |             |             |   |
 | 273462019 | G3NX-3FW |  1971 | Werner | Otter    | 08.005.1939 | 06.003.2024 |   |
+|           |          |       |        |          |             |             |   |
 
 ===Status:
-FG OK
+for werner only
 FSFGcitation pending-Werner
 FSmemory OK
+FG OK
 DB OK
 
 =========================================================================DIV80==
@@ -2554,15 +2580,16 @@ DB OK
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 OTTO RÜB         * 27.9.1893  ✝ 14.12.1960
 LUDWINA RÜB      * 6.8.1895  ✝ 9.1.1978
 WINFRIED RÜB     * 27.8.1961  ✝ 14.11.2003
 HILDEGARD RÜB    * 14.3.1928  ✝ 2.4.2015
 
+►bottom◄
 MICHAEL JOS.    u.    APOLLONIA
 1853 - 1931    RÜB    1860 - 1937
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -2593,8 +2620,8 @@ First reading.
 ===Interpretation:
 MATCHES_TO_RM
 Jos. changed to  Josef
-Apollonia Rüb  geb  Oehring  from marriage record
-Ludwina   Rüb  geb  Möhler  from W Häuserbuch
+Apollonia Rüb geb Oehring  from marriage record
+Ludwina   Rüb geb Möhler  from W Häuserbuch
 
 ===OLD_PID: 1995-26, 2018-2-1-07
 ===Location: s4
@@ -2612,6 +2639,7 @@ shows row -2-2-03 to -2-2-09.
 | 186596291 | LTVM-FXB |  1027 | Ludwina       | Rüb | 06.008.1895 | 09.001.1978 |   |s_a
 | 210411081 | L19V-MR6 |  1029 | Hildegard     | Rüb | 14.003.1928 | 02.004.2015 |   |
 | 210411360 | LTVW-5CH |  1032 | Winfried      | Rüb | 27.008.1961 | 14.011.2003 |   |
+|           |          |       |               |     |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-1-08
@@ -2627,12 +2655,12 @@ shows row -2-2-03 to -2-2-09.
 file://./Images_2024/IMG_20240703_095725317.jpg
 ===Notes:
 Vacant
-Removed: HARTUNG stone
+Removed stone: HARTUNG
 
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 EMIL HARTUNG   GASTWIRT  * 16.10.1890 ✝ 3.10.1956
 ANNA HARTUNG        * 6.1.1893   ✝ 21.1.1983
 DIETER HARTUNG      * 2.8.1946   ✝ 10.7.1999
@@ -2641,7 +2669,7 @@ GEORG HARTUNG       * 20.6.1918  ✝ 3.1.1983
 LEOPOLDINE HARTUNG  * 3.7.1921  ✝ 4.6.2005
 
 RUHET IN FRIEDEN!
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2018
 ===Photos: 1
@@ -2649,20 +2677,19 @@ file://./Images_2018/IMG_8999.JPG
 ===Notes:
 Added name: DIETER
 Added name: LEOPOLDINE
-Assume it is the same stone as in 1995, but no 1995 to prove it.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
 Emil Hartung & Anna Hermes married.
 Georg and Leopoldine children of Emil & Anna Hartung
 
-Anna       Hartung  geb  Hermes  from funeral card
-Leopoldine Hartung  geb  Aringer  from funeral card
+Anna Hartung geb Hermes  from funeral card
+Leopoldine Hartung geb Aringer from funeral card
 Dieter Hartung = ?
 
 ===OLD_PID: 1995-27, 2018-2-1-08
@@ -2690,7 +2717,7 @@ Directly in front of Ludwig Herrmann stone in 2022-2-2-08
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 JOHANN RAUCH       * 18.1.1888  ✝ 23.8.1932
 KAROLINA RAUCH  GEB. MEHLING  * 21.8.1891  ✝ 20.4.1964
@@ -2704,7 +2731,7 @@ BERTA RAUCH        * 17.6.1922  ✝ 10.12.2004
 ►bottom◄
 JULIANE RAUCH
 MICHAEL KATHARINA U. ANTON MEHLING
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -2718,20 +2745,17 @@ file://./Images_2018/IMG_9000.JPG
 ===Notes:
 Added name: MARTINA RAUCH
 Added name: BERTA RAUCH
-Based on style of grave stone and name placement seen in 2018 photo, 
-assume this is the same stone as in 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Karolina Rauch       geb  Mehling  from grave stone
+Karolina Rauch geb Mehling  from grave stone
 
-Is G72X-CYT Juliane Rauch the same as 
-LD88-T9V Juliana Mehling
+Is G72X-CYT Juliane Rauch the same as LD88-T9V Juliana Mehling
 20 September 1917 – 19 November 1999  ?  
 Sent message to tmgolfer, possible potential collaborator for Waldzell.
 
@@ -2751,10 +2775,11 @@ Apparently, the hedge between sections 1 and 2 does not extend to col 9
 | 210417075 | G72X-7FT | U 294 | Berta     | Mehling | 21.005.1893 | 10.004.1970 |   |
 | 210417156 | G35Y-5XW | U 164 | Martina   | Rauch   | 28.009.1927 | 28.003.1996 |   |
 | 210417201 | G3P1-789 | U 233 | Berta     | Rauch   | 17.006.1922 | 10.012.2004 |   |
-| 210417231 | G72X-CYT | U 295 | Juliane   | Rauch   |    bef 1932 |    bef 1932 |   |
-| 210417295 | G72X-WS9 | U 296 | Michael   | Mehling |    bef 1932 |    bef 1932 |   |
-| 210417339 | G72F-VDR | U 297 | Katharina | Mehling |    bef 1932 |    bef 1932 |   |
-| 210417406 | G72F-5XP | U 298 | Anton     | Mehling |    bef 1932 |    bef 1932 |   |
+| 210417231 | G72X-CYT | U 295 | Juliane   | Rauch   |             |             |   |
+| 210417295 | G72X-WS9 | U 296 | Michael   | Mehling |             |             |   |
+| 210417339 | G72F-VDR | U 297 | Katharina | Mehling |             |             |   |
+| 210417406 | G72F-5XP | U 298 | Anton     | Mehling |             |             |   |
+|           |          |       |           |         |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-01
@@ -2777,12 +2802,12 @@ No changes since 2022.
 file://./Images_2022/IMG_20221004_163104706.jpg
 ===Notes: 
 Vacant 
-Removed: GEHRLING stone
+Removed stone: GEHRLING
 
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ANNA GEHRLING
  1887 - 1967
 * 17.12 ✝ 12.6
@@ -2801,7 +2826,7 @@ JOSEF GEHRLING
 
 BERNARD  1912 ✠ 1944
         * 26.5   ✝ 15.4
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2018
 ===Photos: 1
@@ -2809,13 +2834,11 @@ file://./Images_2018/IMG_9014.JPG
 ===Notes:
 Added name: LUDWIG GEHRLING
 Added name: JOSEF GEHRLING
-Assume that the stone is the same as the one seen in 1995. 
-No 1995 photo to prove it.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -2834,6 +2857,7 @@ Only a tiny stone could hide behind the Oehring stone in -2-1-1
 | 210421414 | G35S-2G3 | U 098 | Ludwig  | Gehrling | 17.003.1914 | 19.008.1996 |   |
 | 210421493 | G7TR-PLX | U 258 | Josef   | Gehrling | 16.002.1917 | 11.003.2003 |   |
 | 210421596 | G727-59H | U 273 | Bernard | Gehrling | 26.005.1912 | 15.004.1944 |   |
+|           |          |       |         |          |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-02
@@ -2844,7 +2868,7 @@ Only a tiny stone could hide behind the Oehring stone in -2-1-1
 ===Stone: 1
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 HILDA ÖHRING       * 7.6.1913   ✝ 11.7.1966
 MAGDALENA ÖHRING   * 6.2.1883   ✝ 10.2.1970
 HEINRICH ÖHRING    * 14.7.1882  ✝ 18.2.1975
@@ -2852,7 +2876,7 @@ RICHARD ÖHRING     * 4.2.1912   ✝ 22.1.1997
 EMMA ÖHRING        * 15.12.1922  ✝ 5.12.2018
 
 STEFAN ÖHRING      * 5.2.1879  ✠ 19.9.1916
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -2871,7 +2895,7 @@ Added name: EMMA ÖHRING
 file://./Images_2018/IMG_9012.JPG
 file://./Images_2018/IMG_9013.JPG
 ===Notes:
-No changes.
+No changes since 2011.
 
 ===Date: 2011
 ===Photos: 1
@@ -2879,7 +2903,6 @@ file://./Images_2011/K800_Gräber_Waldzell_039.JPG
 ===Notes:
 Added name: Richard Öhring
 Stefan's name was obscured: STEFAN ÖH----  * 5.2.1879  ✠ -------- 
-The stone is the same as in 1995.
 
 ===Date: 1995
 ===Photos: 1
@@ -2889,7 +2912,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Magdalena Öhring  geb  Otter  from marriage record
+Magdalena Öhring geb Otter  from marriage record
 
 ===OLD_PID: 1995-30, 2018-2-2-02
 ===Location: s5
@@ -2905,6 +2928,7 @@ shows stone in context. See that it is one row behind and one column to the righ
 | 186598013 | LTVM-XZS |  1621 | Richard   | Öhring  | 04.002.1912 | 22.001.1997 |   |
 | 186593962 | LTVM-XCT |  1619 | Stefan    | Öhring  | 05.002.1879 | 19.009.1916 |   |s_a
 | 269381346 | LB5K-35V |   317 | Emma      | Öhring  | 15.002.1922 | 05.012.2018 |   |
+|           |          |       |           |         |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-03
@@ -2915,11 +2939,11 @@ shows stone in context. See that it is one row behind and one column to the righ
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 LUDWIG RIEDMANN    1906 - 1972
 BERTA RIEDMANN     1910 - 1994
 ERICH RIEDMANN     1935 - 2016
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -2938,12 +2962,11 @@ No changes since 2018.
 file://./Images_2018/IMG_9011.JPG
 ===Notes:
 Added name: ERICH RIEDMANN
-Assume that this is the same stone as in 1995.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -2959,6 +2982,7 @@ shows row -2-2-03 to -2-2-09.
 | 210422320 | G3R8-W66 | U 148 | Ludwig | Riedmann | 1906 | 1972 |   |
 | 210422484 | G72J-R8R | U 158 | Berta  | Riedmann | 1910 | 1994 |   |
 | 210422540 | G35K-NQ6 | U 156 | Erich  | Riedmann | 1935 | 2016 |   |
+|           |          |       |        |          |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-04
@@ -2969,17 +2993,17 @@ shows row -2-2-03 to -2-2-09.
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Siegl
 Werner     1925 - 2009
 Elfriede   1925 - 2023
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
 file://./Images_2024/IMG_20240703_095834916.jpg  
 ===Notes:
-Added name: Elfriede.
+Added name: Elfriede
 
 ===Date: 2022
 ===Photos: 1
@@ -2991,7 +3015,7 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9010.JPG
 ===Notes:
-New stone.
+First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -3006,12 +3030,13 @@ shows row -2-2-03 to -2-2-09.
 | FG        | FS       | RM    | FN       | LN    | b    | d    | T |
 |-----------|----------|-------|----------|-------|------|------|---|
 | 210422695 | LTJG-8W6 |   292 | Werner   | Siegl | 1925 | 2009 |   |
-| 273462743 | G3WC-JB9 |       | Elfriede | Siegl | 1925 | 2023 |   |
+| 273462743 | G3WC-JB9 |   291 | Elfriede | Siegl | 1925 | 2023 |   |
+|           |          |       |          |       |      |      |   |
 
 ===Status:
+FS
+FGcitation pending- Elfriede
 FG OK
-FSFGcitation pending- Elfriede
-FSmemory OK
 DB OK
 
 =========================================================================DIV80==
@@ -3023,11 +3048,11 @@ DB OK
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 STENGER
 
 BJORN    * 20.6.1982  ✝ 14.12.2003
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3045,7 +3070,7 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9009.JPG
 ===Notes:
-New stone.
+First reading.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -3056,9 +3081,10 @@ file://./Images_2022/IMG_20221004_163136731.jpg
 shows row -2-2-03 to -2-2-09.
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN          | b           | d           | T |
-|-----------|----------|-------|----------|-------------|-------------|-------------|---|
-| 210439715 | G3RF-RZY | U 184 | Bjorn    | Stenger     | 20.006.1982 | 14.012.2003 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210439715 | G3RF-RZY | U 184 | Bjorn     | Stenger     | 20.006.1982 | 14.012.2003 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-06
@@ -3069,7 +3095,7 @@ shows row -2-2-03 to -2-2-09.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 STENGER
 JOSEF     * 22.12.1906  ✝ 17.3.1996
 IDA       * 21.11.1921  ✝ 28.2.2011
@@ -3078,7 +3104,7 @@ STENGER ANGELUS   1905 - 1931
         VALENTIN  1861 - 1932
         LEO       1867 - 1943
         ANGELA    1877 - 1953
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3103,18 +3129,18 @@ file://./Images_2018/IMG_9008.JPG
 ===Notes:
 Added name: JOSEF
 Added name: IDA
-No 1995 photo, but assume this is the same stone as in 1995.
-However, the 1995 stone was old.(??)
+Is this a new stone? not clear
+Seems 1995 stone had just the names currently at the bottom of 2018 stone.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Angela Stenger  geb  Eirich   from marriage record
-Ida    Stenger  geb  Schürger  from funeral card
+Angela Stenger geb Eirich   from marriage record
+Ida    Stenger geb Schürger  from funeral card
 
 ===OLD_PID: 1995-32, 2018-2-2-06
 ===Location: s5
@@ -3122,14 +3148,15 @@ file://./Images_2022/IMG_20221004_163136731.jpg
 shows row -2-2-03 to -2-2-09.
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN      | b           | d           | T |
-|-----------|----------|-------|----------|---------|-------------|-------------|---|
-| 210440793 | LTVH-8LZ |  4252 | Angelus  | Stenger |        1905 |        1931 |   |
-| 210440827 | LTVC-R8Y |  4251 | Valentin | Stenger |        1861 |        1932 |   |
-| 210440925 | LTJF-F8L |   232 | Leo      | Stenger |        1867 |        1943 |   |
-| 210440978 | LTJF-2S8 |   233 | Angela   | Stenger |        1877 |        1953 |   |
-| 210441034 | LTJF-CYR |   227 | Josef    | Stenger | 22.012.1906 | 17.003.1996 |   |
-| 210441094 | L195-XGS |   220 | Ida      | Stenger | 21.011.1921 | 28.002.2011 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210440793 | LTVH-8LZ |  4252 | Angelus   | Stenger     |        1905 |        1931 |   |
+| 210440827 | LTVC-R8Y |  4251 | Valentin  | Stenger     |        1861 |        1932 |   |
+| 210440925 | LTJF-F8L |   232 | Leo       | Stenger     |        1867 |        1943 |   |
+| 210440978 | LTJF-2S8 |   233 | Angela    | Stenger     |        1877 |        1953 |   |
+| 210441034 | LTJF-CYR |   227 | Josef     | Stenger     | 22.012.1906 | 17.003.1996 |   |
+| 210441094 | L195-XGS |   220 | Ida       | Stenger     | 21.011.1921 | 28.002.2011 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-07
@@ -3145,12 +3172,12 @@ shows row -2-2-03 to -2-2-09.
 file://./Images_2024/IMG_20240703_095926662.jpg  
 ===Notes:
 Vacant
-Removed: Mehling stone
+Removed stone: Mehling
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 JOSEF MEHLING        14.7.1877 - 6.10.1924
 KATH MEHLING         1.10.1883 - 19.11.1949
 VALENTIN MEHLING    20.11.1915 - 16.6.1978
@@ -3158,7 +3185,7 @@ AGATHE MEHLING        9.7.1913 - 22.4.1985
 FRANZISKA MEHLING    23.8.1914 - 3.7.1988
 
 FRANZISKA RAUCH      3.10.1885 - 12.5.1941
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2022
 ===Photos: 0
@@ -3189,14 +3216,15 @@ file://./Images_2024/IMG_20240703_095928932.jpg
 shows vacant plot next to Herrman stone.
 
 ===Table:
-| FG        | FS       | RM    | FN        | LN      | b           | d           | T |
-|-----------|----------|-------|-----------|---------|-------------|-------------|---|
-| 210443389 | G72R-53M | U 299 | Josef     | Mehling | 14.007.1877 | 06.010.1924 |   |
-| 210443566 | G72T-929 | U 300 | Katharina | Mehling | 01.010.1883 | 19.011.1949 |   |
-| 210443674 | G72R-XD2 | U 301 | Valentin  | Mehling | 20.011.1915 | 16.006.1978 |   |
-| 210443857 | G3P2-G2G | U 040 | Agathe    | Mehling | 09.007.1913 | 22.004.1985 |   |
-| 210443994 | G3PR-C49 | U 245 | Franziska | Mehling | 23.008.1914 | 03.007.1988 |   |
-| 210444076 | G72T-4P2 | U 302 | Franziska | Rauch   | 03.010.1885 | 12.005.1941 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210443389 | G72R-53M | U 299 | Josef     | Mehling     | 14.007.1877 | 06.010.1924 |   |
+| 210443566 | G72T-929 | U 300 | Katharina | Mehling     | 01.010.1883 | 19.011.1949 |   |
+| 210443674 | G72R-XD2 | U 301 | Valentin  | Mehling     | 20.011.1915 | 16.006.1978 |   |
+| 210443857 | G3P2-G2G | U 040 | Agathe    | Mehling     | 09.007.1913 | 22.004.1985 |   |
+| 210443994 | G3PR-C49 | U 245 | Franziska | Mehling     | 23.008.1914 | 03.007.1988 |   |
+| 210444076 | G72T-4P2 | U 302 | Franziska | Rauch       | 03.010.1885 | 12.005.1941 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-08
@@ -3207,13 +3235,13 @@ shows vacant plot next to Herrman stone.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 HERRMANN
 
 LUDWIG   1879 - 1969
 MARIA    1899 - 1969
 RUDOLF   1969 - 2008
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 
@@ -3231,7 +3259,6 @@ Cannot read text, but stone is present.
 file://./Images_2018/IMG_9002.JPG
 ===Notes:
 Added name: RUDOLF
-Stone is the same as in 1995.
 
 ===Date: 1995
 ===Photos: 1
@@ -3241,7 +3268,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Maria Herrmann  geb Rüb  Waldz HäuserBuch
+Maria Herrmann geb Rüb  Waldz HäuserBuch
 Rudolf Herrmann  = ?
 
 ===OLD_PID: 1995-34, 2018-2-2-08
@@ -3252,11 +3279,12 @@ file://./Images_2018/IMG_8992.JPG
 Can see the Ludwig Herrmann stone two rows behind  and one left of Schubert in 2022-2-3-09
 
 ===Table:
-| FG        | FS       | RM    | FN     | LN       | b    | d    | T |
-|-----------|----------|-------|--------|----------|------|------|---|
-| 186594070 | LTJF-XHR |   364 | Ludwig | Herrmann | 1879 | 1969 |   |s_a
-| 186594071 | LTL7-689 |  4267 | Maria  | Herrmann | 1899 | 1969 |   |s_a
-| 210444320 | G72T-F3W | U 303 | Rudolf | Herrmann | 1969 | 2008 |   |
+| FG        | FS       | RM    | FN        | LN          | b    | d    | T |
+|-----------|----------|-------|-----------|-------------|------|------|---|
+| 186594070 | LTJF-XHR |   364 | Ludwig    | Herrmann    | 1879 | 1969 |   |s_a
+| 186594071 | LTL7-689 |  4267 | Maria     | Herrmann    | 1899 | 1969 |   |s_a
+| 210444320 | G72T-F3W | U 303 | Rudolf    | Herrmann    | 1969 | 2008 |   |
+|           |          |       |           |             |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-2-09
@@ -3267,7 +3295,7 @@ Can see the Ludwig Herrmann stone two rows behind  and one left of Schubert in 2
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 HERRMANN
 
 MICH. JOS.   1878 - 1956
@@ -3279,7 +3307,7 @@ BERTA        1907 - 1927
 ZITA         1925 - 2016
 
 LUDWIG       1909 - 1991
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3298,18 +3326,18 @@ file://./Images_2018/IMG_9001.JPG
 ===Notes:
 Added name: EUGEN
 Added name: ZITA
-Same stone as in 1995.
 
 ===Date: 1995
 ===Photos: 1
 file://./Images_1995/Waldzell_1995-07-Marker35.jpg
 ===Notes:
+First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Jos. changed to  Josef
-Gertraud Herrmann  geb  Otter   from marriage record
-Zita     Herrmann  geb  Schubert  from funeral card
+Assume Jos. = Josef
+Gertraud Herrmann geb Otter   from marriage record
+Zita     Herrmann geb Schubert  from funeral card
 
 ===OLD_PID: 1995-35, 2018-2-2-09
 ===Location: s5
@@ -3326,6 +3354,7 @@ Can see the Mich Jos Herrmann stone two rows behind Schubert in 2022-2-3-09
 | 186598233 | LTKN-RBY |  4253 | Berta         | Herrmann | 1907 | 1927 |   |s_a
 | 210444901 | L19B-WX9 |   363 | Eugen         | Herrmann | 1922 | 2003 |   |
 | 210445018 | L19B-KSW |   342 | Zita          | Herrmann | 1925 | 2016 |   |
+|           |          |       |               |          |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-3-01
@@ -3378,12 +3407,12 @@ No changes since 2018.
 ===Photos: 0
 ===Notes:
 Vacant
-Removed: Weber stone
+Removed stone: Weber
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Josef Weber
 1902 - 1988
 Margarete Weber
@@ -3391,16 +3420,16 @@ Geb. Jäger
 1904 - 1978
 Johann Jäger
 1875 - 1949
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
-Margarete Weber       geb Jäger  ??
+Margarete Weber geb Jäger  ??
 
 ===OLD_PID: 1995-36, 2018-2-3-02
 ===Location: s5
@@ -3415,6 +3444,7 @@ shows vacant space.
 | 210446292 | G72T-LT1 | U 154 | Margarete | Weber  | 1904 | 1978 |   |s_n 
 | 210446292 | G72T-LT1 | U 154 | Margarete | Jäger  | 1904 | 1978 |   |s_n 
 | 210446334 | G72T-LCX | U 304 | Johann    | Jäger  | 1875 | 1949 |   |s_n 
+|           |          |       |           |        |      |      |   |
 
 =========================================================================DIV80==
 ===PID: 2022-2-3-03
@@ -3425,7 +3455,7 @@ shows vacant space.
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 GERTRUD KRAFT     10.5.1937 - 18.11.1946
 JOSEFINE KRAFT    18.12.1904 - 24.6.1964
@@ -3440,7 +3470,7 @@ ERNST MÖHLER      22.2.1929 - 29.11.2010
 ►bottom◄
         JOHANN       UND      BARBARA KRAFT
 8.9.1875 - 15.2.1944      27.2.1877 - 12.10.1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3475,9 +3505,9 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Barbara  Kraft  geb  Dittmeier  HäuserBuch
-Josefine Kraft  geb  Anderlohr  HäuserBuch
-Erika    Möhler  geb  Kraft   funeral card
+Barbara  Kraft geb Dittmeier  HäuserBuch
+Josefine Kraft geb Anderlohr  HäuserBuch
+Erika    Möhler geb Kraft   funeral card
 
 ===OLD_PID: 1995-37, 2018-2-3-03
 ===Location: s5
@@ -3509,7 +3539,7 @@ In 2011 was on wooden cross.
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►across◄
 UNVERGESSEN RUHEN IN GOTT
 
@@ -3527,7 +3557,7 @@ AGNES RÜB     * 28.12.1923  ✝ 8.11.1997
 
 ►bottom◄
 RUHESTÄTTE FAM. JOSEF RÜB
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3555,7 +3585,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Aloisia Rüb         geb  Mehling   no source recorded
+Aloisia Rüb geb Mehling   no source recorded
 
 TODO maybe Maria Herrmann ID_RM 301 is the Maria Rüb on stone.
 Why would she be listed as Maria Rüb if she married Edmund Herrmann
@@ -3636,7 +3666,7 @@ no photos
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 SCHÜRGER
 
 WILLI    * 29.10.1925  ✝ 1.7.1995
@@ -3645,7 +3675,7 @@ ELSE     * 13.9.1925  ✝ 14.2.2016
 ►bottom◄
 VITUS      1885 - 1965
 ANNA       1890 - 1979
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3663,14 +3693,15 @@ Added name: ELSE
 ===Photos: 1
 file://./Images_2011/K800_Gräber_Waldzell_032.JPG
 ===Notes:
-New stone in 2011.
-Added name: Willi
-Willi's name moved from wooden cross in 1995 to new stone in 2011.
+New stone. Same family.
+Names in common:  Vitus & Anna Schürger 
+Removed wooden cross: Willi
+All cross data now on stone.
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Vitus Schürger    * 1.7.1885  ✝ 19.8.1965
 Anna Schürger     * 21.7.1890  ✝ 1.10.1979
 
@@ -3681,7 +3712,7 @@ Richard Schürger   24.3.1923 ✠ 3.5.1945
 
 ►wooden-cross◄
 Willi Schürger
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -3693,9 +3724,9 @@ Direct reading of the stone provided additional data.
 ===Interpretation:
 2 stones, one family
 MATCHES_TO_RM
-Anna Maria Schürger      geb   Möhler
-Anna       Schürger      geb   Hain
-Else       Schürger      geb   Mehling
+Anna Maria Schürger geb  Möhler
+Anna       Schürger geb  Hain
+Else       Schürger geb  Mehling
 
 1995: This is the only photo of Johann u. Anna Maria Schürger grave stone.
 It is likely that the birth year for Anna Maria Schürger was miss-read.
@@ -3728,13 +3759,13 @@ Can see Herrmann and Schneider stones in row 4 behind.
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Karl Bauer    30.9.1914 - 8.8.1990
 Maria Bauer   19.6.1919 - 21.7.1992
 
 In Gedenken an
 Gertraud und Bernhard Gehrling
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3747,12 +3778,13 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9018.JPG
 ===Notes:
-Assume that this is a new stone in 2018 based on the fact that names have been removed.
+New stone. Same family.
+Names in common:  Karl & Maria Bauer
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Frieden
 
 Karl Bauer
@@ -3762,17 +3794,17 @@ Maria Bauer
 Robert Gehrling
 * 4.10.1912 Verm. Juli 1944
 Bernhard Gehrling
-* 21.2.1891  ✝︎ 29.7.1971
+* 21.2.1891  🕇 29.7.1971
 Gertraud Gehrling
-* 30.1.1893  ✝︎ 1.2.1981
+* 30.1.1893  🕇 1.2.1981
 
 Familie Gehrling u. Schickel
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 2 stones, one family
@@ -3805,13 +3837,14 @@ Luwig Schubert & Otter-Edward stones behind it.
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 RÜB
 
-MARGA    * 8.5.1934  ✝︎ 12.12.2020
+MARGA    * 8.5.1934  🕇 12.12.2020
 
+►bottom◄
 EDMUND u. GERTRAUD
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3828,13 +3861,14 @@ Cannot read text, but stone is present.
 ===Photos: 1
 file://./Images_2018/IMG_9019.JPG
 ===Notes:
-New stone in 2018.
-Minimal inscriptions and data. No other info on marker as of 2018-05
+New stone. Same family.
+Names in common:  surname Rüb
+Minimal inscriptions and data. Just Rüb, EDMUND u. GERTRAUD
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 Familie Rüb - Mehling
 
@@ -3853,7 +3887,7 @@ Josef Mehling        * 11.10.1867 - 24.2.1940 ✝
 Anna Maria Mehling   * 25.1.1867 - 19.6.1922 ✝
 
 Stifter des Schwesternhauses
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -3864,7 +3898,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Gertraud Rüb  geb  Schubert  from grave stone
+Gertraud Rüb geb Schubert  from grave stone
 
 How are Josef and Anna Maria Mehling related to Edmund and Gertraud?
 
@@ -3922,7 +3956,7 @@ file://./Images_2024/IMG_20240703_100224306.jpg
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 BRIGITTE   1947 - 2006
 
 STAUDINGER
@@ -3935,7 +3969,7 @@ OLGA      1913 - 2000
 FRANZ OTTER
 2.6.1923
 26.3.1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -3962,7 +3996,7 @@ No 1995 photo, so just assume it is the same stone.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -3997,7 +4031,7 @@ file://./Images_2024/IMG_20240703_100224306.jpg
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►across◄
 IM FRIEDEN DES HERRN
 
@@ -4010,7 +4044,7 @@ MARIA LUDWIG  GEB. OTTER   * 20.8.1920  ✝ 6.3.1999
 ►bottom◄
 JULIAN LUDWIG  * 25.3.1867  ✝ 26.6.1940
 THERESIA LUDWIG  GEB. GERLING  - VERW. RÜB  * 15.10.1868  ✝ 22.1.1943
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4034,7 +4068,7 @@ Assume same stone.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -4042,8 +4076,8 @@ not known how Maria Otter is related to the Ludwig's.
 note that Theresia is entered twice since a previous married name was listed on the marker
 Most likely, 1995 reading was wrong for Theresia's family name. Read as Gerling, probably Gehrling. 
 Assume funeral card has correct spelling.
-Maria    Ludwig  geb  Otter   from grave stone
-Theresia Ludwig  geb  Gehrling  1st married name- Rüb  from grave stone
+Maria    Ludwig geb Otter   from grave stone
+Theresia Ludwig geb Gehrling  1st married name- Rüb  from grave stone
 
 ===OLD_PID: 1995-43, 2018-2-4-02
 ===Location: s5
@@ -4099,7 +4133,7 @@ shows row -2-4-1 to -2-4-4.
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 MEINE ZEIT STEHT IN DEINER HAND
 
 OTTER
@@ -4113,7 +4147,7 @@ JOSEF SCHÜRGER   1891 - 1967
 ANNA FISCHER
 GEB. OTTER
 1933 - 2022
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 2
@@ -4145,13 +4179,13 @@ No changes since 1995.
 ===Photos: 1
 file://./Images_1995/Waldzell_1995-07-Marker45.jpg
 ===Notes:
-New stone as seen in 1995 photo. This assumes that the Johann Ch. Mehling stone was here nefore.
-Perhaps this stone was installed soon after Agnes died in 1971.
+New stone. Same family.
+Names in common:  surname Otter
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruht in Gott
 
 Johann Ch. Mehling
@@ -4167,7 +4201,7 @@ geb. Stamm
 * 5.1.1863,  ✝ 6.3.1939
 
 Herr, gib ihnen die ewige Ruhe!
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 2
@@ -4185,9 +4219,9 @@ photo credit: Grabstein Otter.jpg taken by Monika Otter & Bernd Oehring on 2018-
 
 ===Interpretation:
 MATCHES_TO_RM
-Agnes         Otter  geb  Schürger other sources
-Maria Barbara Mehling geb  Stamm  
-Maria         Otter  geb  Stamm  from grave stone
+Agnes         Otter geb Schürger other sources
+Maria Barbara Mehling geb Stamm  
+Maria         Otter geb Stamm  from grave stone
 
 Johann Ch. Mehling changed to  Johann Christof Mehling
 
@@ -4199,6 +4233,7 @@ file://./Images_2024/IMG_20240703_100231706.jpg
 Photo shows row -2-4-3 to -2-4-5. 
 Just W of the central path.
 Due to mis-alignment of row 4, this is behind -2-3-03
+
 ===Table:
 |FaG        |  FS      | RM    | FN              | LN       | b           | d           | T |
 |-----------|----------|-------|-----------------|----------|-------------|-------------|---|
@@ -4220,7 +4255,7 @@ Due to mis-alignment of row 4, this is behind -2-3-03
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left side◄
 JOHANN HERRMANN            * 24.7.1887 - 7.9.1950 ✝
 MONIKA HERRMANN  GEB. RÜB  * 2.9.1898 - 11.11.1982 ✝
@@ -4245,7 +4280,7 @@ OTTO HERRMANN                * 1.1.1925 �
 
 ►bottom◄
 RUHET IN FRIEDEN
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4293,9 +4328,9 @@ Anton Herrmann -
 Franz Herrmann
 Edmund Herrmann 
 
-Monika     | Herrmann  geb  Rüb    from grave stone
-Margaretha | Rüb   geb  Mehling   from grave stone
-Margaretha | Rüb   geb  Heidenfelder from marriage records- but uncertain
+Monika     | Herrmann geb Rüb    from grave stone
+Margaretha | Rüb geb Mehling   from grave stone
+Margaretha | Rüb geb Heidenfelder from marriage records- but uncertain
 
 ===OLD_PID: 1995-46, 2018-2-4-06
 ===Location: s5
@@ -4332,11 +4367,11 @@ Just E of the central path.
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 LUDWIG SCHUBERT    1885 - 1965
 BRIGITTE SCHUBERT  1901 - 1970
 EDGAR SCHUBERT     1928 - 2010
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4367,7 +4402,7 @@ First reading.
 ===Interpretation:
 MATCHES_TO_RM
 Edgar is the son of Ludwig Schubert & Brigitte Otter
-Brigitte Schubert  geb  Otter  from Alban Otter
+Brigitte Schubert geb Otter  from Alban Otter
 
 ===OLD_PID: 1995-47, 2018-2-4-07
 ===Location: s5
@@ -4395,7 +4430,7 @@ shows row -2-4-06 to -2-4-09.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 OTTER
 
 EDUARD      1867 - 1943
@@ -4404,7 +4439,7 @@ ENGELBERT   1892 - 1960
 ANNA        1903 - 1978
 ERNST       1927 - 1979
 ALFRED      1931 - 1986
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4435,8 +4470,8 @@ First reading.
 MATCHES_TO_RM
 Anna Otter is the daughter of Eduard Otter & Auguste Riedmann
 Ernst and Alfred Otter are the sons of Anna Otter and Engelbert Otter
-Auguste Otter       geb  Riedmann  marriage record
-Anna    Otter  geb  Otter   funeral card
+Auguste Otter geb Riedmann  marriage record
+Anna    Otter geb Otter   funeral card
 
 ===OLD_PID: 1995-48, 2018-2-4-08
 ===Location: s5
@@ -4462,7 +4497,7 @@ Shows row -2-4-06 to -2-4-09.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 SCHUBERT
 OTTO     1885 - 1952
 KLARA    1895 - 1971
@@ -4470,7 +4505,7 @@ OTTMAR   1927 - 1995
 
 NEDER
 AMANDA   1920 - 1990
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4495,14 +4530,14 @@ No changes since 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
 According to Alban Otter, this Schubert family not directly related.
 Same family as stone #1995-07, 1995-49, 1995-80.
 
-Amada Neder  geb  Schubert  from funeral card.
+Amada Neder geb Schubert  from funeral card.
 
 ===OLD_PID: 1995-49, 2018-2-4-09
 ===Location: s5
@@ -4531,17 +4566,17 @@ Shows row -2-4-06 to -2-4-09.
 file://./Images_2024/IMG_20240703_100403887.jpg  
 ===Notes:
 Vacant
-Removed: Otter stone
+Removed stone: Otter
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 VERONIKA OTTER        2.2.1884 - 1.10.1935
 GOTTFRIED OTTER       6.3.1873 - 15.5.1941
 MECHTHILDIS OTTER     8.10.1908 - 10.2.1969
 JOSEF OTTER           15.3.1909 - 28.1.1983
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2018
 ===Photos: 4
@@ -4567,8 +4602,8 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Veronika Otter   geb  Rüb  marriage record
-Mechthildis Otter   geb  Joha funeral card
+Veronika Otter geb Rüb  marriage record
+Mechthildis Otter geb Joha funeral card
 
 ===OLD_PID: 1995-50, 2018-2-4-10
 ===Location: s5
@@ -4593,7 +4628,7 @@ Based on stone shape/color.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 VON GOTT ZU GOTT
 
@@ -4607,7 +4642,7 @@ HELMUT KOHLHEPP    * 6.2.1932  ✝ 19.11.2011
 
 ►bottom◄
 ALOIS, FRANZISKA u. BRUNO MEHLING
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 
@@ -4636,7 +4671,7 @@ Added name: JULIA KOHLHEPP
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 TODO Should be able to figure out how the Mehling family is connected
@@ -4648,7 +4683,7 @@ and she married Linus Kohlhepp
 Helmut Kohlhepp prob son of Linus & Walburga.
 Maybe Julia was a daughter of Linus & Walburga or she married Helmut.
 
-Walburga  | Kohlhepp  geb  Mehling  funeral card
+Walburga  | Kohlhepp geb Mehling  funeral card
 
 ===OLD_PID: 1995-55, 2018-2-R-01
 ===Location: s5
@@ -4691,17 +4726,17 @@ Vacant
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Rauch
 
 Adolf
 15.2.1924 - 8.5.1973
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -4758,7 +4793,7 @@ file://./Images_2024/IMG_20240703_100420886.jpg
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 HIER RUHEN IN FRIEDEN
 
@@ -4774,7 +4809,7 @@ EDMUND MÖHLER     * 2.2.1897  ✝ 29.8.1982
 
 ►bottom◄
 WILLHELM u. SOPHIA   MÖHLER
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4814,8 +4849,8 @@ Luise birth name is also Möhler. -from funeral card.
 Richard Möhler and Beno are sons of Edmund and Luise
 Gertraud is Richard's wife
 
-Gertraud Möhler  geb  Rüb   funeral card
-Luise    Möhler  geb  Möhler  funeral card
+Gertraud Möhler geb Rüb   funeral card
+Luise    Möhler geb Möhler  funeral card
 
 Estimate d date for Wilhelm and Sophia are "Before 1965"
 
@@ -4896,7 +4931,7 @@ file://./Images_2024/IMG_20240703_094906666.jpg
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 BRUNO OTTER
 6·1·1880 - 14·3·1962
 JOSEFA OTTER GEB. WATZ
@@ -4907,7 +4942,7 @@ MARTHA WERTHMANN
 14·7·1914 - 30·6·2009
 BRUNO WERTHMANN
 11·10·1941 - 3·5·2013
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -4945,15 +4980,15 @@ Assume this is the same stone as in 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 Martha is daughter of Bruno and Josefa
 August is husband of Martha
 
-Josefa Otter  geb  Watz  from grave stone
-Martha Werthmann geb  Otter  from funeral card
+Josefa Otter geb Watz  from grave stone
+Martha Werthmann geb Otter  from funeral card
 
 ===OLD_PID: 1995-51, 2018-2-L-01
 ===Location: s5
@@ -4983,7 +5018,7 @@ file://./Images_2024/IMG_20240703_094906666.jpg
 ===Stone: 2
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►vertical◄
 Wendenkampf
 
@@ -5001,7 +5036,7 @@ geb. Neuburger?
 
 ►bottom◄
 Anton u. Emille
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5022,24 +5057,22 @@ Cannot read the full dates.
 ===Photos: 1
 file://./Images_2018/IMG_8982.JPG
 ===Notes:
-New stone.
-Assume new stone from 1995. Based on placement of names on 2018 stone.
-Added name: Dieter
-Added name: Emille
+New stone. Same family.
+Names in common:  Anton
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Wendenkampf
 Anton
 1904 - 1979
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 2 stones, one family
@@ -5110,7 +5143,7 @@ file://./Images_2024/IMG_20240703_094909923.jpg
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►across◄
 Hier ruhen in Frieden
 
@@ -5125,7 +5158,7 @@ Juliana Weis    * 20.9.1919  ✝ 19.11.1999
 Zum Gedenken an
 Karl Weis    u.   Sohn Franz
 1875 - 1915      1915 - 1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5149,7 +5182,7 @@ Transcription from photo same as 1995. Assume same stone.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -5181,7 +5214,7 @@ file://./Images_2024/IMG_20240703_101154223.jpg  r1-e corner
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Ühlein
 
 Albert     * 9.4.1927  ✝ 28.6.2009
@@ -5189,7 +5222,7 @@ Luzia      * 24.2.1930  ✝ 28.1.2013
 
 ►bottom◄
 Gregor, Elisabeth u. Emil Möhler
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5213,19 +5246,19 @@ No changes from 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9136.JPG
 ===Notes:
-New stone in 2018.
-Names overlap from 1995, so same family.
+New stone. Same family.
+Names in common: Gregor, Elisabeth u. Emil Möhler
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ELISABETH MÖHLER GEB ALBERT    * 15.3.1892  ✝ 10.10.1960
 GREGOR MÖHLER                  * 24.2.1884  ✝ 26.12.1968
 EMIL MÖHLER                    * 5.4.1931  ✝ 30.6.1946
 
 Herr dein Wille geschehe !
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -5266,7 +5299,7 @@ TODO Prob col 3   see above
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 HIER RUHEN IN GOTTES FRIEDEN
 
@@ -5278,7 +5311,7 @@ KOLETTA MÖHLER  GEB. RÜB  * 31.12.1911  ✝ 10.4.1989
 ►bottom◄
 RUHE SANFT IN KÜHLER GRUFT
 BIS DICH DEIN ERLÖSER RUFT.
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5311,7 +5344,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Koletta Möhler  geb  Rüb  from grave stone
+Koletta Möhler geb Rüb  from grave stone
 
 ===OLD_PID: 1995-83, 2018-3-1-03
 ===Location: s5
@@ -5336,14 +5369,14 @@ W side of path
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 AUGUST SCHUBERT     1883 - 1961
 GERTRAUD SCHUBERT   1889 - 1972
 JOHANN RIEDMANN     1906 - 1993
 MARGARETA RIEDMANN  1914 - 2006
 
 OTTO SCHUBERT 1920 ✠ 1942
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5382,8 +5415,8 @@ August and Gertraud were married
 Otto was their son, died in WWII
 Margareta was their daughter, she married Johann 
 
-Gertraud  Schubert  geb  Rüb    from Alban Otter
-Margareta Riedmann  geb  Schubert  from funeral card
+Gertraud  Schubert geb Rüb    from Alban Otter
+Margareta Riedmann geb Schubert  from funeral card
 
 ===OLD_PID: 1995-84, 2018-3-1-04
 ===Location: s5
@@ -5461,7 +5494,7 @@ Shows the vacant plot between KÜHNEL and Schubert.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 HIER RUHEN IN GOTT
 
 MARIA KÜHNEL  GEB. DITTRICH    1874 - 1961
@@ -5469,7 +5502,7 @@ EMIL FRIEDRICH                 1898 - 19
 ANNA FRIEDRICH  GEB. KÜHNEL    1900 - 1990
 GERTRAUD RÜB  GEB. FRIEDRICH   1923 - 2003
 OTMAR RÜB                      1922 - 2004
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5492,7 +5525,7 @@ Fix name "Dittrich"
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -5502,8 +5535,8 @@ Maria was mother of Anna
 Anna married Emil
 Gertraud was daughter of Emil & Anna.
 
-Maria Kühnel  geb   Dittrich  from grave stone
-Anna  Friedrich geb   Kühnel   from funeral card
+Maria Kühnel geb  Dittrich  from grave stone
+Anna  Friedrich geb  Kühnel   from funeral card
 
 ===OLD_PID: 1995-85, 2018-3-1-05
 ===Location: s5
@@ -5565,14 +5598,14 @@ but not clear if there is only space for 3 sites or more.
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 OEHRING
 
 ROSALIE    1893 - 1963
 ENGELBERT  1895 - 1964
 LONGIN     1925 - 1986
 PAULA      1927 - 2007
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5609,7 +5642,7 @@ First reading.
 MATCHES_TO_RM
 Longin is the son of Engelbert & Rosalie.
 Paula is the daughter of Engelbert & Rosalie.
-Rosalie Oehring   geb  Sendelbach  from funeral card
+Rosalie Oehring geb Sendelbach  from funeral card
 
 ===OLD_PID: 1995-73, 2018-3-2-01
 ===Location: s5
@@ -5652,17 +5685,17 @@ No changes since 2018.
 ===Photos: 0
 ===Notes
 Vacant
-Removed: Watz stone
+Removed stone: Watz
 
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Maria Watz   1891 - 1971
 Johann Watz  1890 - 1973
 
 1911  Balbina Gehrling  1967
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2011
 ===Photos: 1
@@ -5673,13 +5706,13 @@ Transcription from photo same as 1995. Assume same stone.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 Johann & Maria were married.
 Could Balbina be their daughter?
-Maria Watz geb  Oehring  Waldzeller Häuserbuch
+Maria Watz geb Oehring  Waldzeller Häuserbuch
 
 ===OLD_PID: 1995-74
 ===Location: S5
@@ -5705,14 +5738,14 @@ file://./Images_2024/IMG_20240703_102023547.jpg
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 MARIA FRIEDL      1887 - 1965
 FRANZISKA RITTER  1889 - 1967
 ANNA FRIEDL       1909 - 1982
 WALTER RITTER     1928 - 2013
 MARGARETA RITTER  1921 - 2019
 JOHANN FRIEDL     1913 ✠ 1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5746,7 +5779,7 @@ Added name: WALTER RITTER
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -5822,24 +5855,24 @@ No changes since 2018.
 file://./Images_2022\IMG_20221004_162911732.jpg
 ===Notes:
 Vacant
-Removed: Hoffmann stone
+Removed stone: Hoffmann
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Albert
 Hoffmann
-* 24.7.1934  ✝︎ 18.3.1966
+* 24.7.1934  🕇 18.3.1966
 Rosa
 Kilian
-* 19.6.1901  ✝︎ 28.1.1981
------------------------------------------------------DIV60--
+* 19.6.1901  🕇 28.1.1981
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -5894,7 +5927,7 @@ file://./Images_2024/IMG_20240703_101451939_HDR.jpg
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 RIEDMANN
 INGE         1939 - 1995
 EWALD        1938 - 2015
@@ -5902,7 +5935,7 @@ EWALD        1938 - 2015
 EBERLE
 HILDEGARD    1919 - 1988
 RUDOLF       1918 ✠ 1942
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5920,13 +5953,13 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9142.JPG
 ===Notes:
-New stone.
-Names overlap- Hildegard and Rudolf Eberle only.
+New stone. Same family.
+Names in common: Hildegard and Rudolf Eberle
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Theresia Siegl     1891 - 1972
 Hildegard Eberle   1919 - 1988
 
@@ -5934,12 +5967,12 @@ Zum gedenken
 
 Josef Siegl u. sohn Ernst
 Rudolf Eberle
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 2 stones, one family
@@ -5975,10 +6008,10 @@ file://./Images_2024/IMG_20240703_100919544.jpg
 ===Stone: 2
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Anton Möhler
 28.10.1947 - 30.01.2018
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -5990,26 +6023,27 @@ No changes since 2022.
 ===Photos: 1
 file://./Images_2022/IMG_20221004_162850720.jpg
 ===Notes
-New stone.
-Removed Wooden cross.(all data moved to stone)
+New stone. New family. No names in common.
+Removed Wooden cross: Anton Möhler
+All cross data now on stone.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9141.JPG
 ===Notes:
-Added wooden cross.  Anton Möhler 28.10.1947 - 30.01.2018
-Removed: SCHUBERT stone
+Added wooden cross:  Anton Möhler
+Removed stone: SCHUBERT
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 BERNHARD SCHUBERT              24.2.1876 - 15.2.1968
 MONIKA SCHUBERT  GEB. MERGLER  4.10.1882 - 6.6.1965
 ERWIN MÜNCH                    22.6.1917 - 3.5.1993
 
 UNVERGESSEN !
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -6034,13 +6068,15 @@ Shows row 3-4-1 to 3-4-3
 file://./Images_2024/IMG_20240703_100918379.jpg  
 
 ===Table:
-| FG        | FS       | RM    | FN       | LN       | b           | d           | T |
-|-----------|----------|-------|----------|----------|-------------|-------------|---|
-| 210778661 | G7PR-37Y | U 365 | Bernhard | Schubert | 24.002.1876 | 15.002.1968 |   |
-| 210778764 | G7PR-HVT | U 366 | Monika   | Schubert | 04.010.1882 | 06.006.1965 |   |
-| 210778764 | G7PR-HVT | U 366 | Monika   | Mergler  | 04.010.1882 | 06.006.1965 |   |
-| 210778906 | G355-143 | U 367 | Erwin    | Münch    | 22.006.1917 | 03.005.1993 |   |
-| 210704932 | L1GN-R5Z |  1036 | Anton    | Möhler   | 28.010.1947 | 30.001.2018 |   |
+| FG        | FS       | RM    | FN        | LN          | b           | d           | T |
+|-----------|----------|-------|-----------|-------------|-------------|-------------|---|
+| 210778661 | G7PR-37Y | U 365 | Bernhard  | Schubert    | 24.002.1876 | 15.002.1968 |   |
+| 210778764 | G7PR-HVT | U 366 | Monika    | Schubert    | 04.010.1882 | 06.006.1965 |   |
+| 210778764 | G7PR-HVT | U 366 | Monika    | Mergler     | 04.010.1882 | 06.006.1965 |   |
+| 210778906 | G355-143 | U 367 | Erwin     | Münch       | 22.006.1917 | 03.005.1993 |   |
+|           |          |       |           |             |             |             |   |
+| 210704932 | L1GN-R5Z |  1036 | Anton     | Möhler      | 28.010.1947 | 30.001.2018 |   |
+|           |          |       |           |             |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-3-3-03
@@ -6051,7 +6087,7 @@ file://./Images_2024/IMG_20240703_100918379.jpg
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Frieden
 
 Maria Schubert
@@ -6079,7 +6115,7 @@ geb. Müller
 * 4.1.1916 - 14.3.2015 ✝
 
 Ich bin die Auferstehung und das Leben!
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6103,7 +6139,7 @@ the one added, and that new name placed at end of list.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6187,20 +6223,20 @@ No changes since 2018.
 ===Photos: 0
 ===Notes:
 Vacant
-Removed: Glaser stone
+Removed stone: Glaser
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Anna Gläser   1895 - 1971
 Karl Gläser   1920 ✠ 1941
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6243,23 +6279,23 @@ No changes since 2018.
 ===Photos: 0
 ===Notes:
 Vacant
-Removed: Lachner stone
+Removed stone: Lachner
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Lachner
 
 Elisabeth    1877 - 1961
 Ida          1907 - 1962
 Anna         1909 - 1991
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6289,14 +6325,14 @@ Shows 3-4-1 to 3-4-6
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 DÖRR
 
 JOSEF      1912 - 2003
 RITA       1914 - 2006
 EDGAR      1947 - 2005
 WERNER     1956 - 2016
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6314,14 +6350,13 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9118.JPG
 ===Motes:
-Removed: SCHUBERT stone
-New stone.
-New family.
+Removed stone: SCHUBERT
+New stone. New family. No names in common.
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 HIER RUHEN IN GOTT
 
@@ -6332,7 +6367,7 @@ SEBALD SCHUBERT    * 27.4.1933  ✝ 20.7.1977
 
 ►bottom◄
 CHRISTUS ERBARME DICH
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -6344,7 +6379,7 @@ MATCHES_TO_RM
 Josef and Rita were married, They had Brigitte & Renate.
 TODO Edgar and Werner are unknown.
 Seem to be too old to be offspring of Josef & Rita. Rita was 42 when Werner born?
-Rita Dörr  geb  Stenger  
+Rita Dörr geb Stenger  
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6360,14 +6395,16 @@ Show entire section 3 E wall.
 ===Table:
 | FG        | FS       | RM    | FN       | LN       | b           | d           | T |
 |-----------|----------|-------|----------|----------|-------------| ------------|---|
-| 210774869 | GM3K-BF9 |   246 | Josef    | Dörr     |        1912 |        2003 |   |
-| 210775390 | GM3K-PG5 |   235 | Rita     | Dörr     |        1914 |        2006 |   |
-| 210775518 | G3PR-7D3 | U 241 | Edgar    | Dörr     |        1947 |        2005 |   |
-| 269202969 | G3PF-HB8 | U 010 | Werner   | Dörr     |        1956 |        2016 |   |
 | 210874577 | G727-YVD | U 382 | Theodor  | Schubert | 28.002.1889 | 27.011.1959 |   |s_n 
 | 210874613 | G35N-ZK9 | U 134 | Mathilde | Schubert | 10.003.1895 | 26.005.1972 |   |s_n 
 | 210874714 | G727-14C | U 383 | Helmut   | Schubert | 28.011.1931 | 08.001.1955 |   |s_n 
 | 210874804 | G3PR-W9V | U 223 | Sebald   | Schubert | 27.004.1933 | 20.007.1977 |   |s_n fc_y
+|           |          |       |          |          |             |             |   |
+| 210774869 | GM3K-BF9 |   246 | Josef    | Dörr     |        1912 |        2003 |   |
+| 210775390 | GM3K-PG5 |   235 | Rita     | Dörr     |        1914 |        2006 |   |
+| 210775518 | G3PR-7D3 | U 241 | Edgar    | Dörr     |        1947 |        2005 |   |
+| 269202969 | G3PF-HB8 | U 010 | Werner   | Dörr     |        1956 |        2016 |   |
+|           |          |       |          |          |             |             |   |
 
 =========================================================================DIV80==
 ===PID: 2022-3-E-02
@@ -6378,7 +6415,7 @@ Show entire section 3 E wall.
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Heidenfelder
 
 Josef    1911 - 1980
@@ -6386,7 +6423,7 @@ Eufreda  1912 - 1997
 
 ►bottom◄
 Alfons   1903 - 1955
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6404,13 +6441,14 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9119.JPG
 ===Notes:
-New stone. 
-No changes to list of names, but dates changed to year only.
+New stone. Same family.
+Names in common:  Josef, Eufreda & Alfons
+Less date data on new stone.
 
 ===Stone: 1
 ===Date: 2011
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►top◄
 GOTT ALEIN WEISS WARUM
 
@@ -6420,7 +6458,7 @@ Eufreda Heidenfelder  *  2.6.1912  ✝  17.9.1997
 
 ►right◄
 Alfons Heidenfelder   * 2.6.1903  ✝ 4.5.1955
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2011
 ===Photos: 1
@@ -6439,7 +6477,7 @@ MATCHES_TO_RM
 Josef and Eufreda were married.
 Alfons was Josef's brother
 Josef's son was Otto Heidenfelder- GMWH-GML, above
-Eufreda Heidenfelder  geb  Rüb  funeral card
+Eufreda Heidenfelder geb Rüb  funeral card
 
 ===OLD_PID: 1995-79, 2018-3-R-02
 ===Location: s5
@@ -6462,7 +6500,7 @@ Show entire section 3 E wall.
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Heidenfelder
 
 Otto    * 15.8.1952   ✝ 25.10.2006
@@ -6470,7 +6508,7 @@ Otto    * 15.8.1952   ✝ 25.10.2006
 ►bottom◄
 1908  Albin  1990
 1920  Hedwig  2001
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6488,24 +6526,22 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9120.JPG
 ===Notes:
-Seems to be a new stone based on placement of names. 
-No picture from 1995, but assume Albin's name was in center. Now it's at bottom.
-2022 Combine PID: 1995-78 into PID: 2019-3-R-03.
-Map says they are same plot, same first name and b & d date years the same. All says 1995 transcription was in error.
+New stone. Same family.
+Names in common:  Albin
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Heidenfelder
 Albin * 21.8.1908
-      ✝︎ 5.6.1990
------------------------------------------------------DIV60--
+      🕇 5.6.1990
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 2022 Further work shows family name is actually Heidenfelder.
 Change Herrmann to Heidenfelder in 1995 transcription.
 
@@ -6517,6 +6553,8 @@ The family name gotten from a direct read of the gravestone in 1995 seems to be 
 ===Location: s5
 file://./Images_2019/IMG_20190928_102908487_HDR.jpg
 Show entire section 3 E wall.
+2022 Combine PID: 1995-78 into PID: 2019-3-R-03.
+Map says they are same plot, same first name and b & d date years the same. All says 1995 transcription was in error.
 
 ===Table:
 | FG        | FS       | RM    | FN     | LN           | b           | d           | T |
@@ -6534,7 +6572,7 @@ Show entire section 3 E wall.
 ===Stone: 2
 ===Date: 2019
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 Deine Spur führt in uns
 
@@ -6544,7 +6582,7 @@ Staab
 Helmut 
 * 18.6.1944
 ✝ 15.9.2017
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6563,30 +6601,31 @@ No changes since 2019.
 ===Photos: 1
 file://./Images_2019/IMG_20191001_141720936_HDR.jpg
 ===Notes:
-New stone. 
-Removed wooden cross. All data moved to stone.
+New stone. New family. No names in common.
+Removed wooden cross: Helmut Staab
+All cross data now on stone.
 
 ===Date: 2018
 ===Photos: 1
 file://./Images_2018/IMG_9138.JPG
 ===Notes:
-Removed: Prexler stone
+Removed stone: Prexler
 Added wooden cross: Helmut Staab 18.06.1944 - 15.09.2017
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Prexler
 
 Maria        1913 - 1989
 Heinrich     1909  ✠  1945
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6615,12 +6654,12 @@ Plot is right next to hedge separating section 3 from 2.
 ===Stone: 2
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 OTTER
 
 Alban            * 22.4.1927  ✝ 10.6.2006
 Rosa geb. Maier  * 16.7.1929  ✝ 23.8.2019
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6632,28 +6671,28 @@ No changes since 2022.
 ===Photos: 1
 file://./Images_2022/IMG_20221004_162656545.jpg
 ===Notes:
-New stone.
+New stone. New family. No names in common.
 
 ===Date: 2019
 ===Photo: 1
 file://./Images_2019/IMG_20191001_141720936_HDR.jpg
 ===Notes:
 Vacant
-Removed: Anderlohr stone
+Removed stone: Anderlohr
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Maria
 Anderlohr
 1901 - 1986
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation: 1
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6678,6 +6717,7 @@ TODO No 2018 photo matched to this plot
 | 269052755 | LDLD-RDD |     3 | Alban | Otter     | 22.004.1927 | 10.006.2006 |   | 
 | 269052816 | LJXS-LT8 |     4 | Rosa  | Otter     | 16.007.1929 | 23.008.2019 |   | 
 | 269052816 | LJXS-LT8 |     4 | Rosa  | Maier     | 16.007.1929 | 23.008.2019 | b | 
+|           |          |       |       |           |             |             |   | 
 
 =========================================================================DIV80==
 ===PID: 2022-3-E2-03
@@ -6705,21 +6745,21 @@ No changes since 2019.
 file://./Images_2019/IMG_20191001_141720936_HDR.jpg
 ===Notes:
 Vacant
-Removed: Schwierz stone
+Removed stone: Schwierz
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Erich
 Schwierz
 1914 - 1979
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6747,12 +6787,12 @@ TODO No 2018 photo matched to this plot
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hildegard
 Hellwig
 * 21.4.1924
 ✝ 6.4.2008
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6776,16 +6816,16 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9139.JPG
 ===Notes:
-New stone.
-Removed: Möhler stone
+New stone. New family. No names in common.
+Removed stone: Möhler 
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Agnes Möhler
 1901 - 1976
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -6810,7 +6850,9 @@ TODO No 2018 photo matched to this plot
 | FG        | FS       | RM    | FN        | LN      | b           | d           | T |
 |-----------|----------|-------|-----------|---------|-------------|-------------|---|
 | 210793216 | G7PT-R4D | U 372 | Agnes     | Möhler  |        1901 |        1976 |   |
+|           |          |       |           |         |             |             |   | 
 | 210700052 | G35S-1S4 | U 099 | Hildegard | Hellwig | 21.004.1924 | 06.004.2008 |   |
+|           |          |       |           |         |             |             |   | 
 
 =========================================================================DIV80==
 ===PID: 2022-3-E2-05
@@ -6863,20 +6905,21 @@ Vacant
 file://./Images_2019/IMG_20191001_141720936_HDR.jpg
 ===Notes:
 But doesn't show left enough.
-Removed: Eberle stone   TODO confirm
+Removed stone: Eberle
+TODO confirm
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Ida Eberle
 1901 - 1984
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -6900,7 +6943,7 @@ Shows the six plots in section 3 next to chapel.
 ===Stone: 1
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►across◄
 ES WAR GOTTES WILLE
 
@@ -6925,7 +6968,7 @@ HEINRICH LOSCHERT
 MARIA LOSCHERT 
 GEB. GRÜN
 * 23.11.1891  ✝ 29.10.1975
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -6949,15 +6992,15 @@ No changes since 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
 Heinrich and Maria are probably the parents of
 Ernst, Rudolf and Elisabeth.
 
-Elisabeth Hartung  geb  Loschert  from grave stone
-Maria Loschert geb  Grün   from grave ston
+Elisabeth Hartung geb Loschert  from grave stone
+Maria Loschert geb Grün   from grave ston
 ===OLD_PID: 1995-56, 2018-3-4-01
 ===Locations: s5
 file://./Images_2022/IMG_20221004_162736605.jpg
@@ -6984,7 +7027,7 @@ Shows all 7 stones on N wall.
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left side◄
 VON GUTEN MÄCHTEN WUNDERBAR GEBORGEN
 
@@ -6994,7 +7037,7 @@ OLGA HERRMANN    14.3.1926 - 13.5.2009
 
 ►bottom◄
 Willhelmine u. Konrad Rüb
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7015,13 +7058,13 @@ Cannot read bottom of stone, so not sure no changes.
 file://./Images_2018/IMG_9126.JPG
 file://./Images_2018/IMG_9127.JPG
 ===Notes:
-New stone
-Name overlap= Willhelmine u. Konrad Rüb. Same family.
+New stone. Same family.
+Names in common: Willhelmine u. Konrad Rüb
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 Hier ruht
 
@@ -7037,7 +7080,7 @@ JOSEF HERRMANN   * 22.7.1929 - 14.11.1957 ✝
 
 ►bottom◄
 Gottes Wille ist geschehen. unser Trost ist Wiedersehen!
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -7048,8 +7091,8 @@ file://./Images_1995/Waldzell_1995-07-Marker57.jpg
 MATCHES_TO_RM
 Maybe Olga is daughter of Konrad and Wilhelmine 
 and she married Josef Herrmann
-Wilhelmine Rüb   geb  Grün  from funeral card
-Olga Herrmann  geb  Rüb   
+Wilhelmine Rüb geb Grün  from funeral card
+Olga Herrmann geb Rüb   
 
 ===OLD_PID: 1995-57, 2018-3-4-02
 ===Locations: s5
@@ -7074,7 +7117,7 @@ Shows all 7 stones on N wall.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 1914 - 1918
 
 EDMUND RÜB         * 24.5.1892  ✠ 30.8.1914
@@ -7089,7 +7132,7 @@ LUDWIG MEHLING     * 10.1.1897  ✠ 7.6.1917
 ANTON MEHLING      * 24.11.1896  ✠ 2.9.1917
 VINZENZ RÖDER      * 21.12.1881  ✠ 27.10.1917
 ALBAN WEHNER       * 20.1.1899  ✠ 21.8.1918
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7122,7 +7165,7 @@ file://./Images_2018/IMG_9125.JPG
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -7159,7 +7202,7 @@ file://./Images_2024/IMG_20240703_101411871.jpg
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 1939 - 1945
 
 RUDOLF LOSCHERT      * 20.9.1921  ✠ 1.9.1941
@@ -7174,7 +7217,7 @@ FERDINAND OTTER      * 13.4.1915  ✠ 1.11.1943
 FRANZ OTTER          * 2.6.1923   ✠ 26.3.1944
 BERNHARD GEHRLING    * 26.5.1912  ✠ 14.4.1944
 OSKAR RAUCH          * 10.3.1926  ✠ 17.12.1944
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7209,7 +7252,7 @@ Albin Otter: 0 in 1909 uncertain in photo but confirmed from another stone at 20
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -7244,7 +7287,7 @@ Shows all 7 stones on N wall.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 1939 - 1945
 
 AUGUST RÖDER         * 4.1.1915  ✠ 17.3.1945
@@ -7252,7 +7295,7 @@ ALFONS RÜB           * 10.4.1902  ✠ 25.3.1945
 LUDWIG JOHA          * 13.1.1907  ✠ 25.4.1945
 RICHARD SCHÜRGER     * 24.3.1923   ✠ 3.5.1945
 GEORG HÖFFLING       * 13.2.1910  ✠ APRIL 1945
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7285,7 +7328,7 @@ No changes since 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -7313,7 +7356,7 @@ Shows all 7 stones on N wall.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 1939 - 1945
 
 ALOIS LANGHANS      * 2.11.1909  ✠ 19.7.1941
@@ -7329,7 +7372,7 @@ HEINRICH PREXLER    * 2.7.1909  ✠ 31.1.1945
 DIE GEMEINDE WALDZELL
 DEN GEFALLENEN KAMERADEN
 DER HEIMATVERTRIEBENEN
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7361,7 +7404,7 @@ No changes since 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -7393,7 +7436,7 @@ Shows all 7 stones on N wall.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 1939-1945
 VERMISSTE
 
@@ -7407,7 +7450,7 @@ AUGUST WERTHMANN   * 14.5.1906  ✝ 1944
 OTTO HERMANN       * 1.1.1925  ✝ 1945
 ERNST SIEGEL       * 16.7.1922  ✝ 1945
 JOSEF SCHUBERT     * 30.1.1922  ✝ 1945
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7441,7 +7484,7 @@ No changes since 1995.
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
@@ -7474,14 +7517,14 @@ Shows all 7 stones on N wall.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Mehling
 
 Engelbert  * 1·12·1891  ✝ 1· 9·1972
 Rosa       * 23·4·1910  ✝ 11·12·1993
 Richard    * 23·1·1934  ✝  7·3·1990
 Maria      * 24·4·1937  ✝ 16·1·2014
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7519,8 +7562,8 @@ Engelbert and Rosa were married
 Richard was their son
 Guess that Maria was Richard's wife? age is right.
 
-Rosa  Mehling  geb  Otter  from funeral card
-Maria Mehling  geb  Weber  from funeral card  
+Rosa  Mehling geb Otter  from funeral card
+Maria Mehling geb Weber  from funeral card  
 
 ===OLD_PID: 1995-77, 2018-3-L-01
 ===Location: s5
@@ -7548,7 +7591,7 @@ file://./Images_2024/IMG_20240703_101206326.jpg
 ===Stone: 1
 ===Date: 2024
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 KLARA MÖHLER GEB. LOSCHERT
 * 26.10.1907   ✝ 31.5.1968
@@ -7562,7 +7605,7 @@ FRANZ JOS. MÖHLER
 
 KONRAD MÖHLER
 * 20.12.1931  ✝ 15.11.2018
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7597,7 +7640,7 @@ First reading.
 
 ===Interpretation:
 MATCHES_TO_RM
-Klara Möhler  geb  Loschert  from grave stone
+Klara Möhler geb Loschert  from grave stone
 
 ===OLD_PID: 1995-72, 2018-3-L-02
 ===Location: s5
@@ -7630,13 +7673,13 @@ DB ok
 ===Stone: 2
 ===Date: 2022
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Franz Weis   * 6.8.1935  ✝ 9.3.2013
 Hiltrud Weis * 15.12.1935  ✝ 3.3.2022
 
 Zum Gedenken
 ?aria Mus????? ?? ?? 1924  ?? ?? 6 2000
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7650,18 +7693,18 @@ TODO NEW Photo need close photo for Weis bottom
 ===Photos: 1
 file://./Images_2022/IMG_20221004_162826393.jpg
 ===Notes:
-New Stone.
+New stone. New family. No names in common.
 
 ===Date: 2018
 ===Photos: 0
 ===Notes:
 Vacant
-Removed: Fetzer stone
+Removed stone: Fetzer
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhet in Frieden
 
 meine lb. Gattin
@@ -7669,17 +7712,17 @@ unsere gute Mutter
 
 Kath. Fetzer
 geb Rüba
-* 9.2.1892 - 4.11.1953 ✝︎
+* 9.2.1892 - 4.11.1953 🕇
 
 unser lieber Vater
 Georg Fetzer
-* 20.11.1890 - 17.8.1967 ✝︎
------------------------------------------------------DIV60--
+* 20.11.1890 - 17.8.1967 🕇
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 NO KNOWN CONNECTION TO FERDINAND OTTER FAMILY
@@ -7745,7 +7788,7 @@ Shows large space to right of 3-W-03. Vacant spot between Weis & Joha.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 JOHA
 
 EUGENE   * 31.7.1916   ✝ 23.5.2002
@@ -7753,7 +7796,7 @@ JOSEF    * 18.6.1922   ✝ 5.7.2009
 
 ►bottom◄
 ALOIS, KATHARINA u. LUDWIG
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024 
 ===Photos: 1
@@ -7777,7 +7820,7 @@ Added name: JOSEF
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 No dates on stone, only family name and names at bottom.
 
 ===Interpretation:
@@ -7786,8 +7829,8 @@ Ludwig and Josef are sons of Alois & Katharina
 Eugene is the wife of Josef
 Ludwig died in WWII
 
-Eugene Joha  geb  Stenger  from funeral card
-Katharina Joha  geb  Wolf  from funeral card
+Eugene Joha geb Stenger  from funeral card
+Katharina Joha geb Wolf  from funeral card
 
 ===OLD_PID: 1995-58, 2018-3-L-04
 ===Location: s5
@@ -7814,14 +7857,14 @@ file://./Images_2024/IMG_20240703_101257452.jpg
 ===Stone: 2
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 Michael Otter   * 19.11.1923   ✝ 14.10.1989
 Anna Otter        * 5.6.1924   ✝ 23.3.2012
 
 ►bottom◄
 Horst Otter       1955 - 1975
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7839,13 +7882,13 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9130.JPG
 ===Notes:
-New stone 
-Names Georg & Ann are gone.
+New stone. Same family.
+Names in common: Horst & Michael Otter
 
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 ►left◄
 GEORG HÖPFL    1891 - 1949
 ANNA HÖPFL     1884 - 1965
@@ -7856,7 +7899,8 @@ MICHAEL OTTER   1923 - 1989
 ►bottom◄
 UNSER LB. SOHN
 HORST OTTER     1955 - 1975
------------------------------------------------------DIV60--
+►photo◄
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -7872,8 +7916,8 @@ Anna is the daughter of Georg & Anna
 Michael is the husband of Anna
 Horst is the son of Michael and Anna
 
-Georg Höpfl  geb  ???
-Anna Otter  geb  Höpfl  funeral card
+Georg Höpfl geb ???
+Anna Otter geb Höpfl  funeral card
 
 ===OLD_PID: 1995-59, 2018-3-L-05
 ===Location: s5
@@ -7899,14 +7943,14 @@ Shows Michael Otter stone to left of Kogler.
 ===Stone: 1
 ===Date: 2018
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 KOGLER
 JOHANN  * 30.6.1904   ✝ 23.8.1988
 SOPHIE  * 22.6.1915   ✝ 15.10.2004
 
 OTTER
 WALTER   * 17.9.1931  ✝ 29.01.2018
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 2024
 ===Photos: 1
@@ -7933,8 +7977,8 @@ file://./Images_2018/Kogler-Otter.jpg
 ===Notes:
 Added name: SOPHIE
 Added name: WALTER
-Removed: Wooden cross.
-Assume this is the same stone as in 1995. Based on name placement in 2018.
+Removed wooden cross: WALTER
+All cross data now on stone.
 Kogler-Otter.jpg was sent to RO by Doris Weyer on 2018-10-27
 
 ===Date: 2018-05-24
@@ -7943,16 +7987,16 @@ file://./Images_2018/IMG_9129.JPG
 ===Notes:
 Added wooden cross: WALTER OTTER   * 17.9.1931   ✝ 29.01.2018
 Dates partially obscured in photo.
-Grave stone temporarily removed for update and only wooden cross was present.
+Stone temporarily removed for update and only wooden cross was present.
 
 ===Date: 1995
 ===Photos: 0
 ===Notes:
-Direct reading from grave stone.
+Direct reading and transcription from grave stone.
 
 ===Interpretation:
 MATCHES_TO_RM
-Sophie Kogler  geb  Schubert  from funeral card
+Sophie Kogler geb Schubert  from funeral card
 
 ===OLD_PID: 1995-60, 2018-3-L-06, 2018-3-L-07, 2018-3-L-07
 ===Location: s5
@@ -7976,7 +8020,7 @@ Shows Kogler-Otter stone is at top corner. No more room at the right.
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruhen in Frieden
 
 Johann Möhler
@@ -7986,7 +8030,7 @@ langjhr. Kirchenpfleger
 Ottilie Möhler
 geb. Öhring
 * 13.12.1858  ✝ 20.11.1938
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1
@@ -8014,7 +8058,7 @@ MATCHES_TO_RM
 ===Stone: 1
 ===Date: 1995
 ===Transcription:
------------------------------------------------------DIV60--
+---------------------------------------------begin---DIV60--
 Hier ruht in Gott
 der wohledle Jüngling
 
@@ -8023,7 +8067,7 @@ geb. 15. März 1884
 gest. 30. Dez. 1913.
 
 R.I.P
------------------------------------------------------DIV60--
+---------------------------------------------end-----DIV60--
 
 ===Date: 1995
 ===Photos: 1

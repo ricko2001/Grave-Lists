@@ -158,9 +158,9 @@ file://./Images_2024/IMG_20240707_110202833.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
 |-----------|----------|-------|------------|-------------|-------------|-------------|---|
-| 273683740 | GYZF-JC3 | U 483 | Albin      | Scheiner    | 28.012.1895 | 12.002.1963 |   |
 | 273683896 | GYZX-R6L | U 484 | Georg Adam | Stamm       | 03.003.1872 | 23.007.1929 |   |
 | 273683942 | GYZF-W1Y | U 485 | Emilie     | Stamm       | 26.007.1873 | 15.002.1953 |   |
+| 273683740 | GYZF-JC3 | U 483 | Albin      | Scheiner    | 28.012.1895 | 12.002.1963 |   |
 | 273683984 | GYZF-VFC | U 486 | Helene     | Scheiner    | 17.008.1901 | 29.012.1968 |   |
 | 273661769 | GYZM-FHZ | U 481 | August     | Handel      | 19.002.1926 | 18.012.2012 |   |
 | 273661797 | GYZM-R3S | U 482 | Elfreiede  | Handel      | 16.008.1928 | 27.001.2022 |   |
@@ -419,7 +419,7 @@ FG citation (only in main database)
 ===PID: 2024-1-1-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Date: 2024
 ===Stone: VACANT
@@ -908,31 +908,18 @@ file://./Images_2024/IMG_20240707_110442593.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Philipp  | Stamm       |        1897 |        1970 |   |
-|           |          |       | Josefa   | Stamm       |        1898 |        1985 |   |
+| 273729755 | GY8J-3SR | U 514 | Philipp  | Stamm       |        1897 |        1970 |   |
+| 273729761 | GY8N-NKQ | U 515 | Josefa   | Stamm       |        1898 |        1985 |   |
 |           |          |       |          |             |             |             |   |
 |           |          |       | Ludwig   | Wunderling  | 18.010.1922 | 01.008.2007 |   |
 |           |          |       | Hilde    | Wunderling  | 30.011.1925 | 25.007.2015 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+no photo for Stamm
+FS FSFG-citation pending-all
+FG ok
+DB ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-2-02
@@ -1003,7 +990,7 @@ FG citation (only in main database)
 ===PID: 2024-1-2-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2018
@@ -1705,7 +1692,7 @@ FG citation (only in main database)
 ===PID: 2024-1-3-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2018
@@ -2033,8 +2020,8 @@ file://./Images_2024/IMG_20240707_111204563.jpg  right
 | FG        | FS       | RM    | FN       | LN           | b           | d           | T |
 |-----------|----------|-------|----------|--------------|-------------|-------------|---|
 |           |          |       | Rudolf   | Marschall    | 08.006.1893 | 18.008.1951 |   |
-|           |          |       | Lucia    | Marschall    | 27.010.1903 | 23.006.1978 |   |
-|           |          |       | Lucia    | Stamm        | 27.010.1903 | 23.006.1978 | b |
+| 273729869 | GY8N-G79 | U 516 | Lucia    | Marschall    | 27.010.1903 | 23.006.1978 |   |
+| 273729869 | GY8N-G79 | U 516 | Lucia    | Stamm        | 27.010.1903 | 23.006.1978 | b |
 |           |          |       | Theophil | Marschall    | 01.005.1856 | 21.010.1935 |   |
 |           |          |       | Barbara  | Marschall    | 04.012.1862 | 25.012.1940 |   |
 |           |          |       | Barbara  | Väthbrückner | 04.012.1862 | 25.012.1940 | b |
@@ -2226,7 +2213,7 @@ FG citation (only in main database)
 ===PID: 2024-1-4-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2018
@@ -2430,7 +2417,7 @@ file://./Images_2024/IMG_20240707_111345406.jpg  right
 |           |          |       | Elsie     | Stamm       | 12.004.1925 | 13.002.1993 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 2
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -2801,7 +2788,7 @@ file://./Images_2024/IMG_20240707_111502164.jpg  right
 |           |          |       | Winfried | Stamm       | 22.011.1941 | 22.006.2017 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 7
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -2824,7 +2811,7 @@ FG citation (only in main database)
 ===PID: 2018-1-4-08
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -2940,7 +2927,7 @@ FG citation (only in main database)
 ===PID: 2024-1-5-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -3038,7 +3025,7 @@ file://./Images_2024/IMG_20240707_111627351.jpg  right
 |           |          |       | Robert   | Stamm       | 18.003.1943 | 01.002.2021 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 4
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -3455,7 +3442,7 @@ file://./Images_2024/IMG_20240707_111755059.jpg  right
 |           |          |       | Beppie   | Stangenberger | 01.007.1927 | 14.008.2021 | b |
 |           |          |       |          |               |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 2
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -3553,7 +3540,7 @@ file://./Images_2024/IMG_20240707_111820114.jpg  right
 |           |          |       | Ernst      | Stamm       | 15.007.1934 | 09.004.2018 |   |
 |           |          |       |            |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 6
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -3946,7 +3933,7 @@ file://./Images_2024/IMG_20240707_112001158.jpg  right
 |           |          |       | Gregor    | Nöth        | 17.007.1893 | 14.010.1918 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 1
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -4024,7 +4011,7 @@ file://./Images_2024\IMG_20240707_112015357.jpg  right
 |           |          |       | Thomas    | Marschall   | 07.002.1915 | 00.006.1944 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 1
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -4113,7 +4100,7 @@ FG citation (only in main database)
 
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2018
@@ -4287,6 +4274,7 @@ file://./Images_2024/IMG_20240707_112114770.jpg  right
 |           |          |       | Hugo      | Peter       | 03.002.1906 | 09.011.1944 |   |
 |           |          |       |           |             |             |             |   |
 
+===Status: TODO-Stamm 1
 FG
 transcription
 photo
@@ -4307,7 +4295,7 @@ FG citation
 ===PID: 2024-1-6-08
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -4418,7 +4406,7 @@ file://./Images_2024/IMG_20240707_112158890.jpg  right
 |           |          |       | Elisabeth  | Haas        | 15.009.1837 | 25.004.2019 |   |
 |           |          |       |            |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 1
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -4594,7 +4582,7 @@ FG citation (only in main database)
 ===PID: 2024-1-7-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -4616,7 +4604,7 @@ file://./Images_2024/IMG_20240707_112307584.jpg  right
 ===PID: 2024-1-7-04
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5084,7 +5072,7 @@ FG citation (only in main database)
 ===PID: 2024-1-8-01
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5104,7 +5092,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5124,7 +5112,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-03
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5144,7 +5132,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-04
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5164,7 +5152,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-05
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5184,7 +5172,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-06
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5204,7 +5192,7 @@ file://./Images_2024/IMG_20240707_112448061.jpg
 ===PID: 2024-1-8-07
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5234,7 +5222,7 @@ Groß
 
 Edgar
 * 12.7.1940
-✝︎ 21.6.2023
+🕇 21.6.2023
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -5384,7 +5372,7 @@ file://./Images_2024/IMG_20240707_112513789.jpg  right
 |           |          |       | Lydia    | Stamm       |        1941 |        2020 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 1
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -5488,7 +5476,7 @@ FG citation (only in main database)
 ===PID: 2024-2-1-02
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -5686,7 +5674,7 @@ file://./Images_2024/IMG_20240707_112755727.jpg  right
 |           |          |       | Erna      | Biener      | 23.012.1921 | 31.005.2011 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 1
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -5824,7 +5812,7 @@ file://./Images_2024/IMG_20240707_112811399.jpg  left
 |           |          |       | Herrmann  | Stamm       | 12.011.1891 | 20.011.1915 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 10
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -5903,11 +5891,12 @@ file://./Images_2024/IMG_20240707_112825405_HDR.jpg  left
 |           |          |       | Vinzenz   | Stamm       |        1903 |        1961 |   |
 |           |          |       | Emilie    | Stamm       |        1908 |        1989 |   |
 |           |          |       | Erika     | Stamm       |        1940 |        2012 |   |
+|           |          |       | Josef     | Stamm       |        1937 |        2018 |   |
 |           |          |       | Christine | Stamm       |             |             |   |
 |           |          |       | Vinzenz   | Stamm       |             |             |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 6
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -6172,7 +6161,7 @@ file://./Images_2024/IMG_20240707_112920232.jpg  left
 |           |          |       | Betty     | Nöth        | 07.011.1932 | 14.012.2019 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 2
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -6805,7 +6794,7 @@ Recorded as: "12 Hausen"
 |           |          |       | Theresia  | Frank       | 06.003.1935 | 16.007.2017 | b |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
+===Status: TODO-Stamm 5
 FS
 FSFG-citation pending-
 FS-memory fully tagged
@@ -6837,7 +6826,7 @@ FG citation (only in main database)
 Otter
 
 Martin
-* 3.1.1940  ✝︎ 6.10.2021
+* 3.1.1940  🕇 6.10.2021
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -6861,24 +6850,10 @@ file://./Images_2024/IMG_20240707_113306037.jpg  right
 | 273717276 | GY87-HPF | U 504 | Martin    | Otter       | 03.001.1940 | 06.010.2021 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+FS FSFG-citation pending-all
+FG ok
+DB ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-2-09
@@ -7898,7 +7873,7 @@ FG citation (only in main database)
 ===PID: 2024-2-3-11
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
@@ -8266,6 +8241,9 @@ Direct reading and transcription from grave stone.
 Recorded as: "30 Hausen"
 
 ===Interpretation:
+Guess Andreas and Regina were married.
+Entered as such in DB, FG & FS
+Perhaps Emma was Emma Otter at birth.
 
 ===OLD_PID: 2018-2-4-05
 ===Location:
@@ -8276,30 +8254,16 @@ file://./Images_2024/IMG_20240707_114144000.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Emma      | Kneip       | 00.009.1912 | 31.012.1974 |   |
-|           |          |       | Adam      | Kneip       | 24.005.1913 | 03.001.1975 |   |
-|           |          |       | Andreas   | Otter       |             |             |   |
-|           |          |       | Regina    | Otter       |             |             |   |
+| 273729539 | GY8N-DSM | U 512 | Emma      | Kneip       | 21.009.1912 | 31.012.1974 |   |
+| 273729568 | GY8N-1KS | U 513 | Adam      | Kneip       | 24.005.1913 | 03.001.1975 |   |
+| 273729217 | GY8F-TSB | U 510 | Andreas   | Otter       |             |             |   |
+| 273729249 | GY8F-YL7 | U 511 | Regina    | Otter       |             |             |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+FS FSFG-citation pending-all
+FG OK
+DB ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-4-06
@@ -8371,7 +8335,7 @@ Not clear which had Zimmermann stone
 ===PID: 2024-2-4-07
 ===Coord: []
 ===Place: Hausen
-===Stones: 0
+===Stones: 0-V
 
 ===Stone: VACANT
 ===Date: 2024
