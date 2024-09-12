@@ -70,9 +70,9 @@ file://./Images_2024/IMG_20240707_110151283.jpg  right
 |           |          |       |          |             |             |             |   |
 
 ===Status:
-FG ok
 DB ok
-FS  FSFG-citation pending- all
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-02
@@ -87,10 +87,10 @@ FS  FSFG-citation pending- all
 Handel
 
 August
-* 19.2.1926  🕇 18.12.2012
+* 19.2.1926  ✝︎ 18.12.2012
 
 Elfreiede
-* 16.8.1928  🕇 27.1.2022
+* 16.8.1928  ✝︎ 27.1.2022
 
 Scheiner u. Stamm
 ---------------------------------------------end-----DIV60--
@@ -167,10 +167,9 @@ file://./Images_2024/IMG_20240707_110202833.jpg  right
 |           |          |       |            |             |             |             |   |
 
 ===Status:
-no photo for 1995 stone
-FS  FSFG-citation pending- all
-FG ok
 DB ok
+FG ok
+FS  noGSimg  FG-src pending 
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-03
@@ -189,15 +188,15 @@ HIER RUHEN IN GOTT
 ►left◄
 JULIUS SIEGLER
 * 21.1.1896
-🕇 31.8.1951
+✝︎ 31.8.1951
 HILARIA SIEGLER
 * 11.5.1890
-🕇 25.1.1978
+✝︎ 25.1.1978
 
 ►right◄
 ALOIS SIEGLER
 * 31.10.1927
-🕇 24.4.2023
+✝︎ 24.4.2023
 
 R.I.P.
 ---------------------------------------------end-----DIV60--
@@ -251,7 +250,7 @@ file://./Images_2024/IMG_20240707_110243993.jpg  right
 ===Status:
 DB ok
 FG ok
-FS FSFG-citation pending-all
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-04
@@ -328,8 +327,7 @@ file://./Images_2024/IMG_20240707_110241598.jpg
 ===Status:
 DB ok
 FG ok
-no photo
-FS FSFG-citation pending-all
+FS  noGSimg  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-05
@@ -548,20 +546,20 @@ Balbach
 
 Paul
 * 28.10.1916
-🕇 13.10.1978
+✝︎ 13.10.1978
 Meta
 * 6.1.1918
-🕇 16.12.2010
+✝︎ 16.12.2010
 
 ►right◄
 Loschert
 
 Eduard
 * 21.8.1883
-🕇 24.9.1963
+✝︎ 24.9.1963
 Rosa
 * 10.3.1890
-🕇 1.8.1971
+✝︎ 1.8.1971
 Alois
 * 17.5.1921
 verm. 25.10.1943
@@ -749,8 +747,8 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 Knöferl
 
-Martin   * 13.1.1920  🕇 8.4.2000
-Zenzi    * 25.9.1923  🕇 9.7.2011
+Martin   * 13.1.1920  ✝︎ 8.4.2000
+Zenzi    * 25.9.1923  ✝︎ 9.7.2011
 
 Johann u. Anna Seufert
 ---------------------------------------------end-----DIV60--
@@ -848,9 +846,9 @@ FG citation (only in main database)
 Wunderling
 
 Ludwig
-* 18.10.1922  🕇 1.8.2007
+* 18.10.1922  ✝︎ 1.8.2007
 Hilde
-* 30.11.1925  🕇 25.7.2015
+* 30.11.1925  ✝︎ 25.7.2015
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -904,10 +902,10 @@ file://./Images_2024/IMG_20240707_110442593.jpg  right
 |           |          |       |          |             |             |             |   |
 
 ===Status:
-no photo for Stamm
-FS FSFG-citation pending-all
-FG ok
+Stamm: no photo
 DB ok
+FG ok
+FS  noGSimg  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-2-02
@@ -1012,7 +1010,7 @@ UNSERE MUTTER
 
 FANNY KROMER
 * 25.9.1906
-🕇 22.9.1986
+✝︎ 22.9.1986
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1086,13 +1084,13 @@ FG citation (only in main database)
 HIER RUHEN IN FRIEDEN
 
 KARL RIEDMANN
-* 21.2.1904  🕇 4.3.1986
+* 21.2.1904  ✝︎ 4.3.1986
 ROSA RIEDMANN
-* 6.2.1905  🕇 16.2.1994
+* 6.2.1905  ✝︎ 16.2.1994
 AGNES URLAUB
-* 7.7.1936  🕇 29.12.2013
+* 7.7.1936  ✝︎ 29.12.2013
 MANFRED URLAUB
-* 13.5.1932  🕇 4.5.2019
+* 13.5.1932  ✝︎ 4.5.2019
 
 MARIA u. BERNHARD AMEND
 ---------------------------------------------end-----DIV60--
@@ -1258,10 +1256,10 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 VÄTHBRÜCKNER
 
-JOSEF       * 1869  -  1956 🕇
-FRANZISKA   * 1869  -  1955 🕇
-AMALIE      * 1903  -  1975 🕇
-ERICH       * 1927  -  1980 🕇
+JOSEF       * 1869  -  1956 ✝︎
+FRANZISKA   * 1869  -  1955 ✝︎
+AMALIE      * 1903  -  1975 ✝︎
+ERICH       * 1927  -  1980 ✝︎
 
 UNSER LB. KIND LEO
 ---------------------------------------------end-----DIV60--
@@ -1335,7 +1333,7 @@ FG citation (only in main database)
 WALLRAPP
 
 THERESIA GEB. VÄTHBRÜCKNER
-* 26.2.1922  🕇 25.3.1986
+* 26.2.1922  ✝︎ 25.3.1986
 
 MAX U. AMANDA VÄTHBRÜCKNER
 ---------------------------------------------end-----DIV60--
@@ -1408,8 +1406,8 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 BLUM
 
-PAULA   * 18.11.1925  🕇 10.6.1992
-FRITZ   *  11.4.1925  🕇 10.2.2012
+PAULA   * 18.11.1925  ✝︎ 10.6.1992
+FRITZ   *  11.4.1925  ✝︎ 10.2.2012
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1479,7 +1477,7 @@ MÄCK
 
 HELGA
 * 16.5.1949
-🕇 8.10.1994
+✝︎ 8.10.1994
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1621,10 +1619,10 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 HERMANN HOCK
 REISE U. OMNIBUSUNTERNEHMER
-* 27.9.1921  🕇 21.8.2004
+* 27.9.1921  ✝︎ 21.8.2004
 
 IRENE HOCK
-* 3.5.1925  🕇 10.10.2012
+* 3.5.1925  ✝︎ 10.10.2012
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1709,11 +1707,11 @@ file://./Images_2024/IMG_20240707_110956352.jpg  right
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 ELISABETH HARTMANN
-* 7.7.1906  🕇 2.4.1986
+* 7.7.1906  ✝︎ 2.4.1986
 RUDOLF AULBACH
-* 30.4.1935  🕇 7.8.2013
+* 30.4.1935  ✝︎ 7.8.2013
 MARIA AULBACH
-* 22.1.1936  🕇 25.12.2016
+* 22.1.1936  ✝︎ 25.12.2016
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1791,8 +1789,8 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 FRANK
 
-JOSEF   * 11.11.1901  🕇 1.8.1981
-IDA     * 17.4.1909  🕇 17.8.1990
+JOSEF   * 11.11.1901  ✝︎ 1.8.1981
+IDA     * 17.4.1909  ✝︎ 17.8.1990
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -1951,25 +1949,25 @@ Unvegessen ruhen in Gott
 
 ►left◄
 Rudolf Marschall
-* 8.6.1893  -  18.8.1951 🕇
+* 8.6.1893  -  18.8.1951 ✝︎
 
 Lucia Marschall
 geb. Stamm
-* 27.10.1903  -  23.6.1978 🕇
+* 27.10.1903  -  23.6.1978 ✝︎
 
 Richard Marschall
-* 23.9.1934  -  1.4.2023 🕇
+* 23.9.1934  -  1.4.2023 ✝︎
 
 ►right◄
 Theophil Marschall
-* 1.5.1856  -  21.10.1935 🕇
+* 1.5.1856  -  21.10.1935 ✝︎
 
 Barbara Marschall
 geb. Väthbrückner
-* 4.12.1862  -  25.12.1940 🕇
+* 4.12.1862  -  25.12.1940 ✝︎
 
 Frl. Maria Marschall
-* 22.4.1890  -  9.6.1916 🕇
+* 22.4.1890  -  9.6.1916 ✝︎
 
 ►bottom◄
 unsere lieben kinder, Josef, Anton u. Willi.
@@ -2127,15 +2125,15 @@ FG citation (only in main database)
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 valentin schuhmann
-* 6.9.1883  🕇 16.8.1961
+* 6.9.1883  ✝︎ 16.8.1961
 barbara schuhmann
-* 15.10.1883  🕇 4.2.1965
+* 15.10.1883  ✝︎ 4.2.1965
 emil schuhmann
-* 3.4.1917  🕇 9.9.1999
+* 3.4.1917  ✝︎ 9.9.1999
 angelika schuhmann
-* 26.8.1920  🕇 23.11.2021
+* 26.8.1920  ✝︎ 23.11.2021
 emma schuhmann
-* 9.3.1924   🕇 18.12.2004
+* 9.3.1924   ✝︎ 18.12.2004
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -2338,21 +2336,21 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 ►left◄
 RUDI WERTHMANN
-* 26.4.1924  🕇 18.11.1965
+* 26.4.1924  ✝︎ 18.11.1965
 GITTI WERTHMANN
-* 3.7.1928  🕇 20.9.1999
+* 3.7.1928  ✝︎ 20.9.1999
 
 ►right◄
 FRIEDRICH GOLD
 GASTWIRT
-* 17.7.1896  🕇 16.3.1965
+* 17.7.1896  ✝︎ 16.3.1965
 FRANZISKA GOLD
 GEB. KOHLMANN
-* 2.8.1899  🕇 28.1.1976
+* 2.8.1899  ✝︎ 28.1.1976
 RICHARD STAMM
-* 15.10.1918  🕇 19.12.1983
+* 15.10.1918  ✝︎ 19.12.1983
 ELSIE STAMM
-* 12.4.1925  🕇 13.2.1993
+* 12.4.1925  ✝︎ 13.2.1993
 
 RIP
 ---------------------------------------------end-----DIV60--
@@ -2409,10 +2407,10 @@ file://./Images_2024/IMG_20240707_111345406.jpg  right
 | 274393903 | GYTZ-2CX | U 528 | Elsie     | Stamm       | 12.004.1925 | 13.002.1993 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 2
-FS ok    all only mGS   pending sFG
-FG ok
+===Status:
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-4-04
@@ -2430,18 +2428,18 @@ HIER RUHEN IN GOTT
 ►left◄
 FERDINAND KNOPP
 * 12.9.1888
-🕇 8.3.1963
+✝︎ 8.3.1963
 SUSANNE KNOPP
 * 8.10.1895
-🕇 4.7.1986
+✝︎ 4.7.1986
 
 ►right◄
 ERIKA WOLF
 * 1.3.1924
-🕇 8.5.2009
+✝︎ 8.5.2009
 WILHELM WOLF
 * 26.12.1922
-🕇 15.9.2019
+✝︎ 15.9.2019
 
 ►bottom◄
 RUHET IN FRIEDEN
@@ -2453,7 +2451,7 @@ file://./Images_2024/IMG_20240707_111357570.jpg  center
 ===Notes:
 Added name: Wilhelm
 Removed wooden cross: Erika
-Cross data= Erika Wolf geb Knopp * 1. März 1924 🕇 8. Mai 2009
+Cross data= Erika Wolf geb Knopp * 1. März 1924 ✝︎ 8. Mai 2009
 
 ===Date: 2018
 ===Photos: 2
@@ -2526,7 +2524,7 @@ FG citation (only in main database)
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 GÜNTHER WEINER
-* 14.9.1935  🕇 23.11.1988
+* 14.9.1935  ✝︎ 23.11.1988
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -2597,21 +2595,21 @@ IN FRIEDEN RUHEN
 
 ►left◄
 EUSEBIUS ROTH
-* 15.12.1867  -  23.6.1949 🕇
+* 15.12.1867  -  23.6.1949 ✝︎
 KATHARINA ROTH
 GEB. EBERT
-* 8.5.1870  -  6.10.1938 🕇
+* 8.5.1870  -  6.10.1938 ✝︎
 MARIA ROTH
-* 30 .6.1894  -  10.7.1966 🕇
+* 30 .6.1894  -  10.7.1966 ✝︎
 HEDWIG ROTH
-* 30.4.1908  -  23.10.1988 🕇
+* 30.4.1908  -  23.10.1988 ✝︎
 
 ►right◄
 LUIZA HÖFLING
 GEB. ROTH
-* 6.4.1912  -  10.2.1994 🕇
+* 6.4.1912  -  10.2.1994 ✝︎
 KONRAD HÖFLING
-* 15.11.1913  -  17.5.1995 🕇
+* 15.11.1913  -  17.5.1995 ✝︎
 
 ►bottom◄
 ✠
@@ -2695,22 +2693,22 @@ Hier ruhen in Gott
 
 ►left◄
 Walburga Stamm
-* 26.1.1914  🕇 19.1.1966
+* 26.1.1914  ✝︎ 19.1.1966
 Karl Stamm
 Altbürgermeister
-* 28.11.1907  🕇 7.9.1992
+* 28.11.1907  ✝︎ 7.9.1992
 Emma Stamm
-* 9.4.1910  🕇 28.2.2000
+* 9.4.1910  ✝︎ 28.2.2000
 
 ►right◄
 Rosalia Stamm
-* 4.9.1878  🕇 22.3.1948
+* 4.9.1878  ✝︎ 22.3.1948
 Eusebius Stamm
-* 23.12.1872  🕇 21.1.1958
+* 23.12.1872  ✝︎ 21.1.1958
 Ottilie Stamm
-* 19.12.1943  🕇 6.12.2006
+* 19.12.1943  ✝︎ 6.12.2006
 Winfried Stamm
-* 22.11.1941  🕇 22.6.2017
+* 22.11.1941  ✝︎ 22.6.2017
 
 ►bottom◄
 RUHESTÄTTE DER FAMILIE STAMM
@@ -2742,6 +2740,7 @@ Direct reading and transcription from grave stone.
 Recorded as: "67 Hausen"
 
 ===Interpretation:
+Cannot make any partner guesses.
 
 ===OLD_PID: 2018-1-4-09
 ===Location:
@@ -2757,33 +2756,19 @@ file://./Images_2024/IMG_20240707_111502164.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Walburga | Stamm       | 26.001.1914 | 19.001.1966 |   |
-|           |          |       | Karl     | Stamm       | 28.011.1907 | 07.009.1992 |   |
-|           |          |       | Emma     | Stamm       | 09.004.1910 | 28.002.2000 |   |
-|           |          |       | Rosalia  | Stamm       | 04.009.1878 | 22.003.1948 |   |
-|           |          |       | Eusebius | Stamm       | 23.012.1872 | 21.001.1958 |   |
-|           |          |       | Ottilie  | Stamm       | 19.012.1943 | 06.012.2006 |   |
-|           |          |       | Winfried | Stamm       | 22.011.1941 | 22.006.2017 |   |
+| 274414934 | GYT2-Y9Q | U 529 | Walburga | Stamm       | 26.001.1914 | 19.001.1966 |   |
+| 274415008 | GYT2-2N9 | U 530 | Karl     | Stamm       | 28.011.1907 | 07.009.1992 |   |
+| 274415083 | GYTL-ZLP | U 531 | Emma     | Stamm       | 09.004.1910 | 28.002.2000 |   |
+| 274415161 | GYTL-HNC | U 532 | Rosalia  | Stamm       | 04.009.1878 | 22.003.1948 |   |
+| 274415210 | GYT2-PTK | U 533 | Eusebius | Stamm       | 23.012.1872 | 21.001.1958 |   |
+| 274415261 | GYT2-TJ5 | U 534 | Ottilie  | Stamm       | 19.012.1943 | 06.012.2006 |   |
+| 274415307 | GYTL-XVG | U 535 | Winfried | Stamm       | 22.011.1941 | 22.006.2017 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO-Stamm 7
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2018-1-4-08
@@ -2821,10 +2806,10 @@ MARSCHALL
 
 ANNELIESE  
 * 28.2.1926
-🕇 14.9.2002
+✝︎ 14.9.2002
 ROMAN
 * 2.6.1925
-🕇 27.12.2013
+✝︎ 27.12.2013
 
 KONRAD; JOHANNA u. RUDOLF
 ---------------------------------------------end-----DIV60--
@@ -2977,6 +2962,7 @@ Direct reading and transcription from grave stone.
 Recorded as: "69 Hausen"
 
 ===Interpretation:
+Cannot make any partnership guesses.
 
 ===OLD_PID: 2018-1-5-01
 ===Location:
@@ -2992,35 +2978,21 @@ file://./Images_2024/IMG_20240707_111627351.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Andreas  | Müller      | 15.010.1870 | 22.003.1920 |   |
-|           |          |       | Ida      | Müller      | 21.012.1882 | 02.008.1970 |   |
-|           |          |       | Josef    | Müller      | 30.010.1914 | 01.007.1943 |   |
-|           |          |       | Angelus  | Müller      | 12.005.1917 | 17.011.1941 |   |
-|           |          |       | Theresia | Müller      | 14.010.1919 | 01.003.2015 |   |
-|           |          |       | Josef    | Stamm       | 03.004.1905 | 02.012.1970 |   |
-|           |          |       | Angelina | Stamm       | 29.009.1912 | 01.001.2002 |   |
-|           |          |       | Kilian   | Stamm       | 16.008.1894 | 03.002.1956 |   |
-|           |          |       | Robert   | Stamm       | 18.003.1943 | 01.002.2021 |   |
+| 274423354 | GYTY-3D6 | U 536 | Andreas  | Müller      | 15.010.1870 | 22.003.1920 |   |
+| 274423437 | GYTT-VG6 | U 537 | Ida      | Müller      | 21.012.1882 | 02.008.1970 |   |
+| 274423515 | GTY-4YT5 | U 538 | Josef    | Müller      | 30.010.1914 | 01.007.1943 |   |
+| 274423562 | GYTY-FVQ | U 539 | Angelus  | Müller      | 12.005.1917 | 17.011.1941 |   |
+| 274423607 | GYTY-847 | U 540 | Theresia | Müller      | 14.010.1919 | 01.003.2015 |   |
+| 274423649 | GYTT-VRH | U 541 | Josef    | Stamm       | 03.004.1905 | 02.012.1970 |   |
+| 274423700 | GYTT-G3S | U 542 | Angelina | Stamm       | 29.009.1912 | 01.001.2002 |   |
+| 274423733 | GYTY-66J | U 543 | Kilian   | Stamm       | 16.008.1894 | 03.002.1956 |   |
+| 274423763 | GYTT-1W6 | U 544 | Robert   | Stamm       | 18.003.1943 | 01.002.2021 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO-Stamm 4
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-03
@@ -3049,14 +3021,14 @@ Hier ruht in Frieden
 
 ►left◄
 Hermann Weidner
-* 17.2.1913  -  19.5.1998 🕇
+* 17.2.1913  -  19.5.1998 ✝︎
 Lydia Weidner
-* 16.3.1923  -  2.6.2001 🕇
+* 16.3.1923  -  2.6.2001 ✝︎
 
 ►right◄
 Anna Weidner
 geb. Schürger
-* 28.1.1903  -  10.12.1949 🕇
+* 28.1.1903  -  10.12.1949 ✝︎
 
 Georg u. Gerhard
 Schürger
@@ -3239,17 +3211,17 @@ FG citation (only in main database)
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 FRANZ FRANK
-* 15.6.1871  🕇 11.2.1962
+* 15.6.1871  ✝︎ 11.2.1962
 CHRISTINE FRANK
 GEB. SIEGLER
-* 24.7.1873  🕇 29.1.1953
+* 24.7.1873  ✝︎ 29.1.1953
 ✠ HERMANN FRANK
 * 10.4.1910 VERM, JAN 1943
 VALENTIN FRANK
-* 24.9.1903  🕇13.5.1970
+* 24.9.1903  ✝︎13.5.1970
 ROSALIE FRANK
 GEB. OTTER
-* 1.2.1911  🕇 5.11.1975
+* 1.2.1911  ✝︎ 5.11.1975
 
 EIN HERZ STEHT STILL WENN GOTT ES WILL!
 ---------------------------------------------end-----DIV60--
@@ -3299,9 +3271,9 @@ file://./Images_2024/IMG_20240707_111733563.jpg  right
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-all
-FG OK
-DB OK
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-06
@@ -3394,13 +3366,16 @@ Theo Stamm
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2018
-===Photos: 2
+===Photos: 1
+file://./Images_2018/IMG_9676.JPG  Stone is in the rear.
 file://./Images_2018/IMG_9666.JPG
-file://./Images_2018/IMG_9676.JPG
 ===Notes:
 Plot has a stone grave marker and a wooden cross.
 
 ===Interpretation:
+Guess Theo and Beppie were married.
+Guess Josef and Rosa were married.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-1-5-07
 ===Location:
@@ -3413,31 +3388,17 @@ file://./Images_2024/IMG_20240707_111755059.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN            | b           | d           | T |
 |-----------|----------|-------|----------|---------------|-------------|-------------|---|
-|           |          |       | Josef    | Gehrling      | 04.008.1920 | 15.003.1970 |   |
-|           |          |       | Rosa     | Gehrling      | 23.009.1919 | 23.010.2014 |   |
-|           |          |       | Theo     | Stamm         | 06.003.1922 | 24.002.2017 |   |
-|           |          |       | Beppie   | Stamm         | 01.007.1927 | 14.008.2021 |   |
-|           |          |       | Beppie   | Stangenberger | 01.007.1927 | 14.008.2021 | b |
+| 274427013 | GYTB-C7C | U 545 | Josef    | Gehrling      | 04.008.1920 | 15.003.1970 |   |
+| 274427086 | GYTY-TK7 | U 546 | Rosa     | Gehrling      | 23.009.1919 | 23.010.2014 |   |
+| 274426900 | GYTB-ZTS | U 547 | Theo     | Stamm         | 06.003.1922 | 24.002.2017 |   |
+| 274426941 | GYTB-J61 | U 548 | Beppie   | Stamm         | 01.007.1927 | 14.008.2021 |   |
+| 274426941 | GYTB-J61 | U 548 | Beppie   | Stangenberger | 01.007.1927 | 14.008.2021 | b |
 |           |          |       |          |               |             |             |   |
 
-===Status: TODO-Stamm 2
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-08
@@ -3455,24 +3416,24 @@ Hier ruhen in Gottes Frieden
 ►left◄
 Anna Maria Stamm
 geb. Mehling
-* 17.10.1857  🕇 10.2.1912
+* 17.10.1857  ✝︎ 10.2.1912
 
 Josef Stamm
-* 23.4.1859  🕇 1.10.1936
+* 23.4.1859  ✝︎ 1.10.1936
 
 ►right◄
 Bruno Stamm
-*30.8.1888  🕇 25.11.1951
+*30.8.1888  ✝︎ 25.11.1951
 
 Rosa Stamm
-* 20.1.1892  🕇 10.2.1983
+* 20.1.1892  ✝︎ 10.2.1983
 
 Ernst Stamm
-* 15.7.1934  🕇 9.4.2018
+* 15.7.1934  ✝︎ 9.4.2018
 
 ►bottom◄
 unser liebes kind  Rudolf
-* 24.3.1964  🕇 5.7.1965
+* 24.3.1964  ✝︎ 5.7.1965
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -3497,6 +3458,11 @@ Direct reading and transcription from grave stone.
 Recorded as: "74 Hausen"
 
 ===Interpretation:
+Guess Josef & Anna Maria were married.
+Guess Bruno & Rosa were married.
+Guess Ernst was son of Bruno & Rosa
+Guess Rudolf was son of Ernst.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-1-5-08
 ===Location:
@@ -3509,33 +3475,19 @@ file://./Images_2024/IMG_20240707_111820114.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN         | LN          | b           | d           | T |
 |-----------|----------|-------|------------|-------------|-------------|-------------|---|
-|           |          |       | Anna Maria | Stamm       | 17.010.1857 | 10.002.1912 |   |
-|           |          |       | Anna Maria | Mehling     | 17.010.1857 | 10.002.1912 | b |
-|           |          |       | Josef      | Stamm       | 23.004.1859 | 01.010.1936 |   |
-|           |          |       | Bruno      | Stamm       | 30.008.1888 | 25.011.1951 |   |
-|           |          |       | Rosa       | Stamm       | 20.001.1892 | 10.002.1983 |   |
-|           |          |       | Rudolf     | Stamm       | 24.003.1964 | 05.007.1965 |   |
-|           |          |       | Ernst      | Stamm       | 15.007.1934 | 09.004.2018 |   |
+| 274644223 | GB99-L2H | U 549 | Anna Maria | Stamm       | 17.010.1857 | 10.002.1912 |   |
+| 274644223 | GB99-L2H | U 549 | Anna Maria | Mehling     | 17.010.1857 | 10.002.1912 | b |
+| 274644281 | GB99-SL4 | U 550 | Josef      | Stamm       | 23.004.1859 | 01.010.1936 |   |
+| 274644434 | GB93-8D6 | U 551 | Bruno      | Stamm       | 30.008.1888 | 25.011.1951 |   |
+| 274644477 | GB93-VNY | U 552 | Rosa       | Stamm       | 20.001.1892 | 10.002.1983 |   |
+| 274644641 | GB9Q-9HC | U 553 | Ernst      | Stamm       | 15.007.1934 | 09.004.2018 |   |
+| 274644701 | GB93-52L | U 554 | Rudolf     | Stamm       | 24.003.1964 | 05.007.1965 |   |
 |           |          |       |            |             |             |             |   |
 
-===Status: TODO-Stamm 6
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-09
@@ -3553,21 +3505,21 @@ HIER RUHEN IN FRIEDEN
 ►left◄
 ANGELINA WOLF
 GEB. HOCK
-* 22.6.1895  🕇 25.3.1963
+* 22.6.1895  ✝︎ 25.3.1963
 
 JOSEF WOLF
-* 24.8.1924  🕇 4.1.1925
+* 24.8.1924  ✝︎ 4.1.1925
 HEDWIG HAASE
 GEB WOLF
-* 15.2.1921  🕇 13.4.1994
+* 15.2.1921  ✝︎ 13.4.1994
 WALTER HAASE
-* 6.9.1919  🕇 5.8.1995
+* 6.9.1919  ✝︎ 5.8.1995
 
 ►right◄
 OSKAR WOLF
-* 17.9.1894  🕇 4.6.1969
+* 17.9.1894  ✝︎ 4.6.1969
 ROBERT WOLF
-* 17.9.1894  🕇 11.8.2020
+* 17.9.1894  ✝︎ 11.8.2020
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -3645,19 +3597,19 @@ Hier ruhen in Gott
 
 ►left◄
 Karl Amend
-* 19.9.1915  🕇 8.3.1986
+* 19.9.1915  ✝︎ 8.3.1986
 Klara Amend
-* 4.1.1921  🕇 17.5.2008
+* 4.1.1921  ✝︎ 17.5.2008
 
 ►right◄
 Linus Amend
-* 25.11.1879  🕇 8.8.1936
+* 25.11.1879  ✝︎ 8.8.1936
 Rosa Amend
-* 9.6.1886  🕇 25.1.1978
+* 9.6.1886  ✝︎ 25.1.1978
 
 ►bottom◄
 Kaspar Schäb
-* 1877  🕇 1913
+* 1877  ✝︎ 1913
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -3732,19 +3684,19 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 ►left◄
 Konrad Gehrling
-* 18.2.1889   🕇 20.9.1951
+* 18.2.1889   ✝︎ 20.9.1951
 Rosa Gehrling
-* 13.9.1888   🕇 8.11.1984
+* 13.9.1888   ✝︎ 8.11.1984
 Alfred Knabe
-*  1.3.1908   🕇 19.10.1990
+*  1.3.1908   ✝︎ 19.10.1990
 
 ►right◄
 Heino Knabe
-* 20.11.1910   🕇 11.2.1986
+* 20.11.1910   ✝︎ 11.2.1986
 Joseph Huber
-* 10.6.1915   🕇 21.8.2008
+* 10.6.1915   ✝︎ 21.8.2008
 Luzia Knabe
-* 27.2.1919   🕇 14.9.2013
+* 27.2.1919   ✝︎ 14.9.2013
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -3851,17 +3803,17 @@ Unvergessen ruhen in Gott
 ►left◄
 Monika Marschall
 geb. Stamm verw. Nöth
-* 19.4.1868 -  29.5.1952 🕇
+* 19.4.1868 -  29.5.1952 ✝︎
 Emilian Marschall
-* 9.9.1880  -  24.6.1965 🕇
+* 9.9.1880  -  24.6.1965 ✝︎
 Albin Marschall
-* 15.12.1907  -  4.2.1955 🕇
+* 15.12.1907  -  4.2.1955 ✝︎
 Elisabeth Marschall
-* 22.4.1913  -  7.1.2014 🕇
+* 22.4.1913  -  7.1.2014 ✝︎
 
 ►right◄
 Joseph Nöth
-* 23.4.1861  -  23.5.1905 🕇
+* 23.4.1861  -  23.5.1905 ✝︎
 ✠
 Gregor Nöth
 *17.7.1893  -  14.10.1918 ✠
@@ -4187,20 +4139,20 @@ HIER RUHEN
 
 ►left◄
 ERIKA SEUFERT
-* 2.7.1937  -  1.7.1955 🕇
+* 2.7.1937  -  1.7.1955 ✝︎
 RICHARD SEUFERT
-* 20.1.1913  -  19.6.1990 🕇
+* 20.1.1913  -  19.6.1990 ✝︎
 ROSA SEUFERT
-* 2.2.1913  -  28.7.1991 🕇
+* 2.2.1913  -  28.7.1991 ✝︎
 
 ►right◄
 CHRISTIAN PETER
-* 8.1.1866  -  27.6.1907 🕇
+* 8.1.1866  -  27.6.1907 ✝︎
 VERONIKA MÜLLER
 GEB. STAMM VERW. PETER
-* 20.5.1871  -  18.9.1923 🕇
+* 20.5.1871  -  18.9.1923 ✝︎
 JOHANN MÜLLER
-* 10.1.1870  -  26.2.1958 🕇
+* 10.1.1870  -  26.2.1958 ✝︎
 
 ✠ ZUM GEDENKEN ✠
 HUGO PETER
@@ -4417,13 +4369,13 @@ FG citation (only in main database)
 Wolf
 Elfriede
 * 12.1.1928
-🕇 2.4.2020
+✝︎ 2.4.2020
 
 ►right◄
 Wolf
 Franz
 * 12.5.1927
-🕇 14.9.2000
+✝︎ 14.9.2000
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -4473,9 +4425,9 @@ file://./Images_2024/IMG_20240707_112234981.jpg  right
 |           |          |       |          |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-all
-FG ok
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-7-02
@@ -4489,7 +4441,7 @@ DB ok
 ---------------------------------------------begin---DIV60--
 Franz Josef
 Kohlhepp
-* 11.2.1963  🕇 18.6.2011
+* 11.2.1963  ✝︎ 18.6.2011
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -4783,9 +4735,9 @@ file://./Images_2024/IMG_20240707_112353459.jpg  right
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-all
-FG ok
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 ========================================================================DIV80==
 ===PID: 2024-1-7-08
@@ -4798,10 +4750,10 @@ DB ok
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 August Amend
-* 30.4.1949  🕇 9.4.2005
+* 30.4.1949  ✝︎ 9.4.2005
 
 Jöen Schmidt
-* 5.8.1976  🕇 20.9.2016
+* 5.8.1976  ✝︎ 20.9.2016
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -4892,13 +4844,13 @@ FG citation (only in main database)
 JOSEF BIENER
 * 13.3.1992  ✠  12.6.1944
 JOSEF BIENER
-* 3.9.1895   🕇 5.12.1971
+* 3.9.1895   ✝︎ 5.12.1971
 FRIEDA BIENER
-* 19.10.1899   🕇 10.10.1988
+* 19.10.1899   ✝︎ 10.10.1988
 
 ►right◄
 GERHARD BIENER
-* 16.11.1940   🕇 27.1.2017
+* 16.11.1940   ✝︎ 27.1.2017
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -4971,20 +4923,20 @@ FG citation (only in main database)
 ►left◄
 HILDEGARD MARSCHALL
 GEB. WERTHMANN
-* 5.6.1908   🕇 15.8.1962
+* 5.6.1908   ✝︎ 15.8.1962
 ✠ LEO MARSCHALL
 * 11.12.1905  GEF. 27.4.1945
 FRANZ MARSCHALL
-* 15.2.1930   🕇 8.9.2013
+* 15.2.1930   ✝︎ 8.9.2013
 
 ►right◄
 MONIKA WERTHMANN
 GEB. LIEBLEIN
-* 22.8.1890   🕇 25.8.1950
+* 22.8.1890   ✝︎ 25.8.1950
 KARL WERTHMANN
-* 28.2.1892   🕇 1.9.1954
+* 28.2.1892   ✝︎ 1.9.1954
 MARIA LIEBLEIN
-* 26.5.1894   🕇 23.11.1978
+* 26.5.1894   ✝︎ 23.11.1978
 
 ►bottom◄
 RUHET IN FRIEDEN!
@@ -5202,7 +5154,7 @@ Groß
 
 Edgar
 * 12.7.1940
-🕇 21.6.2023
+✝︎ 21.6.2023
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -5260,7 +5212,7 @@ FG citation (only in main database)
 Mauceri
 
 Alfio
-* 18.11.1946   🕇 19.3.2017
+* 18.11.1946   ✝︎ 19.3.2017
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -5349,27 +5301,13 @@ file://./Images_2024/IMG_20240707_112513789.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Lydia    | Stamm       |        1941 |        2020 |   |
+| 274646530 | GB97-3H1 | U 555 | Lydia    | Stamm       |        1941 |        2020 |   |
 |           |          |       |          |             |             |             |   |
 
-===Status: TODO-Stamm 1
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-01
@@ -5394,11 +5332,11 @@ Removed stone: Staub
 ADOLF STAUB
 28.2.1899 ✠ 9.12.1945
 ELISE STAUB
-5.8.1900 🕇 15.7.1990
+5.8.1900 ✝︎ 15.7.1990
 ALOIS BIENER
-30.5.1925 🕇 27.8.2002
+30.5.1925 ✝︎ 27.8.2002
 ANTON VOGEL
-4.5.1883 🕇 15.5.1972
+4.5.1883 ✝︎ 15.5.1972
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2018
@@ -5516,7 +5454,7 @@ Reinhardt
 
 Erich
 * 22.5.1932
-🕇 5.12.2015
+✝︎ 5.12.2015
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -5578,9 +5516,9 @@ file://./Images_2024/IMG_20240707_112744783.jpg  left
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-ALL
-FG OK
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-04
@@ -5592,11 +5530,11 @@ DB ok
 ===Date: 2018
 ===Transcription:
 ---------------------------------------------begin---DIV60--
-BIENER
+BIENERT
 WALTER  * 17.11.1924
-        🕇 8.8.1979
+        ✝︎ 8.8.1979
 ERNA    * 23.12.1921
-        🕇 31.5.2011
+        ✝︎ 31.5.2011
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -5609,7 +5547,8 @@ No changes since 2018.
 ===Photos: 1
 file://./Images_2018/IMG_9597.JPG
 ===Notes:
-New stone. New family. No names in common.
+New stone. Same family.
+Names in common:  Walter Beinert
 
 ===Stone: 1
 ===Date: 1995
@@ -5633,6 +5572,8 @@ Direct reading and transcription from grave stone.
 Recorded as: "06 Hausen"
 
 ===Interpretation:
+Guess Walter & Erna were married.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-2-1-04
 ===Location:
@@ -5645,34 +5586,17 @@ file://./Images_2024/IMG_20240707_112755727.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Bernhard  | Amend       | 18.002.1892 | 28.010.1941 |   |
-|           |          |       | Emma      | Amend       | 06.001.1890 | 11.003.1957 |   |
-|           |          |       | Emma      | Stamm       | 06.001.1890 | 11.003.1957 | b | 
-|           |          |       | Emma      | Stamm       | 06.001.1890 | 11.003.1957 | b | 
-|           |          |       |           |             |             |             |   |
-|           |          |       | Walter    | Bienert     | 17.011.1924 | 08.008.1979 |   |
-|           |          |       | Walter    | Biener      | 17.011.1924 | 08.008.1979 |   |
-|           |          |       | Erna      | Biener      | 23.012.1921 | 31.005.2011 |   |
+| 274647310 | GB9W-SV6 | U 556 | Bernhard  | Amend       | 18.002.1892 | 28.010.1941 |   |
+| 274647269 | GB9W-ZRX | U 557 | Emma      | Amend       | 06.001.1890 | 11.003.1957 |   |
+| 274647269 | GB9W-ZRX | U 557 | Emma      | Stamm       | 06.001.1890 | 11.003.1957 | b | 
+| 274648354 | G3PF-D5W | U  13 | Walter    | Bienert     | 17.011.1924 | 08.008.1979 |   |
+| 274648415 | GB94-FVC | U 558 | Erna      | Bienert     | 23.012.1921 | 31.005.2011 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 1
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS mGS mFC       FG-src pending    mFC for Walter Biernet only
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-05
@@ -5992,19 +5916,19 @@ Unvergessen ruht in Gott
 
 Frau Ann Schuck
 geb. Schaub
-* 15.6.1898  -  1.5.1946 🕇
+* 15.6.1898  -  1.5.1946 ✝︎
 
 Herr Franz Schuck
 Müllermeister
-* 28.9.1895  -  23.4.1967 🕇
+* 28.9.1895  -  23.4.1967 ✝︎
 
 Herr Kurt Schuck
 Müllermeister
- * 23.9.1931  -  21.9.2006 🕇
+ * 23.9.1931  -  21.9.2006 ✝︎
 
  ►left◄
 Frau Hermine Schuck
-* 21.6.1933  🕇 14.10.2018
+* 21.6.1933  ✝︎ 14.10.2018
 
 ►wooden-cross◄
 Theo Schuck
@@ -6082,19 +6006,19 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
  ►left◄
  HILDA NÖTH
-* 21.8.1905   🕇 18.7.1980
+* 21.8.1905   ✝︎ 18.7.1980
 ALFONS NÖTH
-* 15.8.1901   🕇 30.4.1982
+* 15.8.1901   ✝︎ 30.4.1982
 
  ►right◄
 EGON NÖTH
-*  8.9.1958   🕇 26.10.2008
+*  8.9.1958   ✝︎ 26.10.2008
 HEINZ NÖTH
-* 27.8.1955   🕇 31.3.1956
+* 27.8.1955   ✝︎ 31.3.1956
 WILLI NÖTH
-* 7.10.1932   🕇 24.10.2019
+* 7.10.1932   ✝︎ 24.10.2019
 BETTY NÖTH
-* 7.11.1932   🕇 14.12.2019
+* 7.11.1932   ✝︎ 14.12.2019
 
  ►bottom◄
 VALENTIN U. ELISABETH STAMM
@@ -6173,8 +6097,8 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 FRANK
 
-ERNST    * 1911  🕇 1988
-EMMA     * 1920  🕇 1990
+ERNST    * 1911  ✝︎ 1988
+EMMA     * 1920  ✝︎ 1990
 
 MANFRED  -  AGNES  -  LUDWIG  -  MARTIN
 ---------------------------------------------end-----DIV60--
@@ -6333,18 +6257,18 @@ Hier ruhen in Gott
 ►left◄
 Burkard Gopp
 * 15.8.1883
-🕇 27.5.1966
+✝︎ 27.5.1966
 Priska Gopp
 * 7.5.1882
-🕇 21.12.1970
+✝︎ 21.12.1970
 
 ►right◄
 Karl Stolz
 * 10.3.1928
-🕇 8.2.2007
+✝︎ 8.2.2007
 Irmgard Stolz
 * 30.4.1936
-🕇 5.4.2022
+✝︎ 5.4.2022
 
 ►bottom◄
 ✠
@@ -6807,7 +6731,7 @@ FG citation (only in main database)
 Otter
 
 Martin
-* 3.1.1940  🕇 6.10.2021
+* 3.1.1940  ✝︎ 6.10.2021
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -6832,9 +6756,9 @@ file://./Images_2024/IMG_20240707_113306037.jpg  right
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-all
-FG ok
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-2-09
@@ -6900,8 +6824,8 @@ file://./Images_2024/IMG_20240707_113327763.jpg  right
 ---------------------------------------------begin---DIV60--
 MARSCHALL
 
-August  * 25.9.1895  🕇 10.9.1968
-Rosa    * 28.3.1899  🕇 10.9.1981
+August  * 25.9.1895  ✝︎ 10.9.1968
+Rosa    * 28.3.1899  ✝︎ 10.9.1981
 
 ►wooden-cross◄
 Hermine Herr geb. Marschall
@@ -6994,17 +6918,17 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 ►left◄
 KARL GEHRLING
-* 15.2.1892   🕇 13.1.1937
+* 15.2.1892   ✝︎ 13.1.1937
 EUGENIE GEHRLING
 GEB. NÖTH
-* 24.11.1894  🕇 15.11.1947
+* 24.11.1894  ✝︎ 15.11.1947
 
 ►right◄
 ALOIS MARSCHALL
-* 13.8.1904  🕇 11.7.1981
+* 13.8.1904  ✝︎ 11.7.1981
 EMMA MARSCHALL
 GEB GEHRLING
-* 11.9.1914  🕇 13.10.1990
+* 11.9.1914  ✝︎ 13.10.1990
 
 ►bottom◄
 ✠
@@ -7082,9 +7006,9 @@ FG citation (only in main database)
 WEIDNER
 
 JOSEF
-* 1.2.1914   🕇 30.7.1996
+* 1.2.1914   ✝︎ 30.7.1996
 HILDA
-* 13.6.1913  🕇 18.4.1998
+* 13.6.1913  ✝︎ 18.4.1998
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -7169,14 +7093,14 @@ FG citation (only in main database)
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 FAMILIE WEBER
-Karl   * 1882  -  1939 🕇
-Monika * 1895  -  1974 🕇
+Karl   * 1882  -  1939 ✝︎
+Monika * 1895  -  1974 ✝︎
 
 WERTHMANN
-Bruno  * 1910  -  1997 🕇
-Maria  * 1923  -  2011 🕇
+Bruno  * 1910  -  1997 ✝︎
+Maria  * 1923  -  2011 ✝︎
 
-Nadine  * 1975 🕇
+Nadine  * 1975 ✝︎
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -7345,11 +7269,11 @@ FG citation (only in main database)
 Röder
 
 Rita
-* 12.3.1934  🕇 8.6.2006
+* 12.3.1934  ✝︎ 8.6.2006
 Vinzenz
-* 15.8.1926  🕇 19.2.2015
+* 15.8.1926  ✝︎ 19.2.2015
 Kurt
-* 15.2.1956  🕇 26.9.2016
+* 15.2.1956  ✝︎ 26.9.2016
 
 Vinzenz u. Margarete
 ---------------------------------------------end-----DIV60--
@@ -7448,7 +7372,7 @@ Röder
 
 Ursula
 * 7.5.1939
-🕇 22.7.2010
+✝︎ 22.7.2010
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -7512,7 +7436,7 @@ RÖDER
 
 Paul
 * 26.3.1935
-🕇 31.3.2013
+✝︎ 31.3.2013
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -7642,9 +7566,10 @@ file://./Images_2024/IMG_20240707_113830083.jpg  right
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending- all
-FG ok
 DB ok
+FG ok
+FS  mGS  FG-src pending
+
 =========================================================================DIV80==
 ===PID: 2024-2-3-08
 ===Coord: []
@@ -7802,7 +7727,7 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 BÜDEL
 
-ALFRED    * 21.3.1951  🕇 22.11.1995
+ALFRED    * 21.3.1951  ✝︎ 22.11.1995
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -7895,19 +7820,19 @@ Removed stone: Nöth
 HIER RUHEN IN FRIEDEN
 
 HERMANN NÖTH
-* 23.12.1895   🕇 28.10.1960
+* 23.12.1895   ✝︎ 28.10.1960
 EUGENIA NÖTH
-* 23.6.1896   🕇 11.12.1968
+* 23.6.1896   ✝︎ 11.12.1968
 
 TILLI NÖTH
-* 24.6.1927   🕇 1.10.1934
+* 24.6.1927   ✝︎ 1.10.1934
 
 KARL NÖTH
-* 16.3.1867   🕇 6.9.1916
+* 16.3.1867   ✝︎ 6.9.1916
 JOSEFA NÖTH
-* 21.8.1873   🕇 24.9.1960
+* 21.8.1873   ✝︎ 24.9.1960
 AGNES NÖTH
-* 17.6.1904   🕇 15.8.1961
+* 17.6.1904   ✝︎ 15.8.1961
 
 ZUM GEDENKEN
 KARL NÖTH
@@ -7989,8 +7914,8 @@ file://./Images_2024/IMG_20240707_114033603.jpg  right
 ---------------------------------------------begin---DIV60--
 SCHUCK
 
-ALFRED    * 15.5.1928  🕇 14.11.2000
-LINA      * 25.7.1928  🕇 14.12.2011
+ALFRED    * 15.5.1928  ✝︎ 14.11.2000
+LINA      * 25.7.1928  ✝︎ 14.12.2011
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -8052,9 +7977,9 @@ FG citation (only in main database)
 ---------------------------------------------begin---DIV60--
 SCHEINER
 
-MICHAEL    1901  🕇  1977
-JUSTINA    1904  🕇  1987
-DIETER     1941  🕇  1987
+MICHAEL    1901  ✝︎  1977
+JUSTINA    1904  ✝︎  1987
+DIETER     1941  ✝︎  1987
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -8124,8 +8049,8 @@ FG citation (only in main database)
 FAM. MOSER
 
 GEORG      1920  ✠  1944
-ROSA     * 1919  -  1993 🕇
-STEPHAN  * 1966  -  1975 🕇
+ROSA     * 1919  -  1993 ✝︎
+STEPHAN  * 1966  -  1975 ✝︎
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
@@ -8243,9 +8168,9 @@ file://./Images_2024/IMG_20240707_114144000.jpg  right
 |           |          |       |           |             |             |             |   |
 
 ===Status:
-FS FSFG-citation pending-all
-FG OK
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-4-06
@@ -8347,8 +8272,8 @@ file://./Images_2024/IMG_20240707_114301538.jpg  right
 ---------------------------------------------begin---DIV60--
 MARSCHALL
 
-FRANZ  * 27.11.1911   🕇 2.8.1993
-RITA   * 23.1.1922   🕇 15.1.2005
+FRANZ  * 27.11.1911   ✝︎ 2.8.1993
+RITA   * 23.1.1922   ✝︎ 15.1.2005
 
 BARBARA u. ADOLF
 ---------------------------------------------end-----DIV60--
@@ -8493,7 +8418,7 @@ FG citation (only in main database)
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 Alfred Klein
-* 17.12.1934   🕇 16.5.2017
+* 17.12.1934   ✝︎ 16.5.2017
 
 Anna u. Albin Otter
 ---------------------------------------------end-----DIV60--
@@ -8553,9 +8478,9 @@ file://./Images_2024/IMG_20240707_114354123.jpg  right
 |           |          |       |           |             |             |             |   |
 
 Status:
-FS FSFG-pending-all
-FG ok
 DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-5-01
@@ -8568,7 +8493,7 @@ DB ok
 ===Transcription:
 ---------------------------------------------begin---DIV60--
 SCHEINER
-LEO   * 17.9.1923   🕇 29.9.1997
+LEO   * 17.9.1923   ✝︎ 29.9.1997
 ---------------------------------------------end-----DIV60--
 
 ===Date: 2024
