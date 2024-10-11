@@ -3841,6 +3841,9 @@ Direct reading and transcription from grave stone.
 Recorded as: "78 Hausen"
 
 ===Interpretation:
+Guess Emilian & Monika were married.
+Guess Albin & Elisabeth were married,
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-1-6-02  NOT_IN_2024
 ===OLD_PID: 2018-1-6-03
@@ -3853,34 +3856,20 @@ file://./Images_2024/IMG_20240707_112001158.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Monika    | Marschall   | 19.004.1868 | 29.005.1952 |   |
-|           |          |       | Monika    | Nöth        | 19.004.1868 | 29.005.1952 |   |
-|           |          |       | Monika    | Stamm       | 19.004.1868 | 29.005.1952 | b |
-|           |          |       | Emilian   | Marschall   | 09.009.1880 | 24.006.1965 |   |
-|           |          |       | Albin     | Marschall   | 15.012.1907 | 04.002.1955 |   |
-|           |          |       | Elisabeth | Marschall   | 22.004.1913 | 07.001.2014 |   |
-|           |          |       | Joseph    | Nöth        | 23.004.1861 | 23.005.1905 |   |
-|           |          |       | Gregor    | Nöth        | 17.007.1893 | 14.010.1918 |   |
+| 274692991 | GBSD-8LM | U 582 | Monika    | Marschall   | 19.004.1868 | 29.005.1952 |   |
+| 274692991 | GBSD-8LM | U 582 | Monika    | Nöth        | 19.004.1868 | 29.005.1952 |   |
+| 274692991 | GBSD-8LM | U 582 | Monika    | Stamm       | 19.004.1868 | 29.005.1952 | b |
+| 274693038 | GBS8-8SW | U 583 | Emilian   | Marschall   | 09.009.1880 | 24.006.1965 |   |
+| 274693101 | GBSD-68M | U 584 | Albin     | Marschall   | 15.012.1907 | 04.002.1955 |   |
+| 274693183 | GBSD-QK9 | U 585 | Elisabeth | Marschall   | 22.004.1913 | 07.001.2014 |   |
+| 274693341 | GBS8-JLP | U 586 | Joseph    | Nöth        | 23.004.1861 | 23.005.1905 |   |
+| 274693388 | GS8-2BX3 | U 587 | Gregor    | Nöth        | 17.007.1893 | 14.010.1918 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 1
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-03
@@ -3934,31 +3923,17 @@ file://./Images_2024\IMG_20240707_112015357.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Elisabeth | Marschall   | 28.009.1941 | 17.012.1966 |   |
-|           |          |       | Elisabeth | Marschall   | 28.009.1941 | 17.012.1966 | b |
-|           |          |       | Hedwig    | Marschall   | 31.005.1922 | 05.005.2016 |   |
-|           |          |       | Hedwig    | Stamm       | 31.005.1922 | 05.005.2016 | b |
-|           |          |       | Thomas    | Marschall   | 07.002.1915 | 00.006.1944 |   |
+| 274681728 | GBS3-RC9 | U 579 | Elisabeth | Marschall   | 28.009.1941 | 17.012.1966 |   |
+| 274681728 | GBS3-RC9 | U 579 | Elisabeth | Marschall   | 28.009.1941 | 17.012.1966 | b |
+| 274681750 | GBSQ-77V | U 580 | Hedwig    | Marschall   | 31.005.1922 | 05.005.2016 |   |
+| 274681750 | GBSQ-77V | U 580 | Hedwig    | Stamm       | 31.005.1922 | 05.005.2016 | b |
+| 274681769 | GBS3-VCC | U 581 | Thomas    | Marschall   | 07.002.1915 | 00.006.1944 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 1
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-04
@@ -4181,6 +4156,11 @@ Direct reading and transcription from grave stone.
 Recorded as: "81 Hausen"
 
 ===Interpretation:
+Guess Richard & Rosa were married.
+Guess Erika was daughter of Richard & Rosa.
+Guess Veronika was first married to Christian and then Johann.
+Guess Hugo was son of Veronika and Christina.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-1-6-08  NOT_IN_2024
 ===OLD_PID: 2018-1-6-09
@@ -4193,33 +4173,21 @@ file://./Images_2024/IMG_20240707_112114770.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Erika     | Seufert     | 02.007.1937 | 01.007.1955 |   |
-|           |          |       | Richard   | Seufert     | 20.001.1913 | 19.006.1990 |   |
-|           |          |       | Rosa      | Seufert     | 02.002.1913 | 28.007.1991 |   |
-|           |          |       | Christian | Peter       | 08.001.1866 | 27.006.1907 |   |
-|           |          |       | Veronika  | Müller      | 20.005.1871 | 18.009.1923 |   |
-|           |          |       | Veronika  | Stamm       | 20.005.1871 | 18.009.1923 | b |
-|           |          |       | Veronika  | Peter       | 20.005.1871 | 18.009.1923 |   |
-|           |          |       | Johann    | Müller      | 10.001.1870 | 26.002.1958 |   |
-|           |          |       | Hugo      | Peter       | 03.002.1906 | 09.011.1944 |   |
+| 274697834 | GBS6-XR1 | U 588 | Richard   | Seufert     | 20.001.1913 | 19.006.1990 |   |
+| 274697919 | GBS6-LSP | U 589 | Rosa      | Seufert     | 02.002.1913 | 28.007.1991 |   |
+| 274697969 | GBSX-PYR | U 590 | Erika     | Seufert     | 02.007.1937 | 01.007.1955 |   |
+| 274698075 | GBSX-23H | U 591 | Veronika  | Müller      | 20.005.1871 | 18.009.1923 |   |
+| 274698075 | GBSX-23H | U 591 | Veronika  | Peter       | 20.005.1871 | 18.009.1923 | m |
+| 274698075 | GBSX-23H | U 591 | Veronika  | Stamm       | 20.005.1871 | 18.009.1923 | b |
+| 274698147 | GBSX-NHD | U 592 | Christian | Peter       | 08.001.1866 | 27.006.1907 |   |
+| 274698206 | GBS6-B5K | U 593 | Johann    | Müller      | 10.001.1870 | 26.002.1958 |   |
+| 274698256 | GBSX-2QW | U 594 | Hugo      | Peter       | 03.002.1906 | 09.011.1944 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 1
-FG
-transcription
-photo
-
-FS
-FSFG-citation pending-
-FS-memory 
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag
-FG citation
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-08
@@ -5680,7 +5648,7 @@ bei Karvin
 file://./Images_2015/20150307_032329.jpg  detail
 file://./Images_2015/20150307_032231.jpg  overview
 ===Notes:
-Cannot read text, but stone is present.
+No changes since 1995.
 
 ===Date: 1995
 ===Photos: 0
@@ -5691,6 +5659,8 @@ Recorded as: "05 Hausen"
 ===Interpretation:
 Kath. = Katarina
 Sab. = Sabine
+Guess Monika & Hermann were married.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-2-1-05
 ===Location:
@@ -5703,38 +5673,24 @@ file://./Images_2024/IMG_20240707_112811399.jpg  left
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Adam      | Stamm       | 11.001.1826 | 26.005.1902 |   |
-|           |          |       | Katharina | Stamm       | 14.012.1825 | 01.011.1888 |   |
-|           |          |       | Katharina | Dietz       | 14.012.1825 | 01.011.1888 | b |
-|           |          |       | Richard   | Stamm       | 20.006.1898 | 29.007.1918 |   |
-|           |          |       | Ferdinand | Stamm       | 24.005.1890 | 03.004.1963 |   |
-|           |          |       | Juliane   | Stamm       | 26.010.1892 | 03.001.1981 |   |
-|           |          |       | Monika    | Stamm       | 04.003.1915 | 10.004.1981 |   |
-|           |          |       | Hermann   | Stamm       | 10.008.1911 | 26.001.1989 |   |
-|           |          |       | Eduard    | Stamm       | 29.012.1861 | 25.003.1946 |   |
-|           |          |       | Sabine    | Stamm       | 12.007.1865 | 09.007.1943 |   |
-|           |          |       | Sabine    | Geissler    | 12.007.1865 | 09.007.1943 | b |
-|           |          |       | Herrmann  | Stamm       | 12.011.1891 | 20.011.1915 |   |
+| 274657469 | GB98-HXY | U 559 | Adam      | Stamm       | 11.001.1826 | 26.005.1902 |   |
+| 274657481 | GB9Z-B33 | U 560 | Katharina | Stamm       | 14.012.1825 | 01.011.1888 |   |
+| 274657481 | GB9Z-B33 | U 560 | Katharina | Dietz       | 14.012.1825 | 01.011.1888 | b |
+| 274657507 | GB98-N4W | U 561 | Richard   | Stamm       | 20.006.1898 | 29.007.1918 |   |
+| 274657530 | GB98-JY4 | U 562 | Ferdinand | Stamm       | 24.005.1890 | 03.004.1963 |   |
+| 274657550 | GB98-LPD | U 563 | Juliane   | Stamm       | 26.010.1892 | 03.001.1981 |   |
+| 274657330 | GB9Z-B2J | U 564 | Monika    | Stamm       | 04.003.1915 | 10.004.1981 |   |
+| 274657370 | GB98-P66 | U 565 | Hermann   | Stamm       | 10.008.1911 | 26.001.1989 |   |
+| 274657567 | GB98-33K | U 566 | Eduard    | Stamm       | 29.012.1861 | 25.003.1946 |   |
+| 274657599 | GB98-2L8 | U 567 | Sabine    | Stamm       | 12.007.1865 | 09.007.1943 |   |
+| 274657599 | GB98-2L8 | U 567 | Sabine    | Geissler    | 12.007.1865 | 09.007.1943 | b |
+| 274657621 | GB98-G8K | U 568 | Herrmann  | Stamm       | 12.011.1891 | 20.011.1915 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 10
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-06
@@ -5781,6 +5737,9 @@ Direct reading and transcription from grave stone.
 Recorded as: "04 Hausen"
 
 ===Interpretation:
+Guess Vinzenz & Emile were married.
+Guess Vinzenz & Christine were married
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-2-1-06
 ===Location:
@@ -5793,32 +5752,18 @@ file://./Images_2024/IMG_20240707_112825405_HDR.jpg  left
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Vinzenz   | Stamm       |        1903 |        1961 |   |
-|           |          |       | Emilie    | Stamm       |        1908 |        1989 |   |
-|           |          |       | Erika     | Stamm       |        1940 |        2012 |   |
-|           |          |       | Josef     | Stamm       |        1937 |        2018 |   |
-|           |          |       | Christine | Stamm       |             |             |   |
-|           |          |       | Vinzenz   | Stamm       |             |             |   |
+| 274677272 | GB91-6HF | U 569 | Vinzenz   | Stamm       |        1903 |        1961 |   |
+| 274677290 | GB91-1QL | U 570 | Emilie    | Stamm       |        1908 |        1989 |   |
+| 274677385 | GB91-BS5 | U 571 | Erika     | Stamm       |        1940 |        2012 |   |
+| 274677408 | GBSM-85X | U 572 | Josef     | Stamm       |        1937 |        2018 |   |
+| 274677317 | GB91-TFQ | U 573 | Christine | Stamm       |             |             |   |
+| 274677348 | GB91-KYF | U 574 | Vinzenz   | Stamm       |             |             |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 6
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-07
@@ -6651,6 +6596,7 @@ GREGOR U. LUZIA
 
 ===Date: 2024
 ===Photos: 1
+file://./Images_2024\IMG_20240707_113253357.jpg  center
 ===Notes:
 Added name: Theresia
 Removed wooden cross: Theresia
@@ -6684,39 +6630,30 @@ Direct reading and transcription from grave stone.
 Recorded as: "12 Hausen"
 
 ===Interpretation:
+Guess  & Theresia were married.
+Entered as such in DB, FG and FSFT.
 
 ===OLD_PID: 2018-2-2-07
 ===Location:
+file://./Images_2024\IMG_20240707_113251542.jpg  left
+file://./Images_2024\IMG_20240707_113253357.jpg  center
+file://./Images_2024\IMG_20240707_113255143.jpg  right
 
 ===Table:
 | FG        | FS       | RM    | FN        | LN          | b           | d           | T |
 |-----------|----------|-------|-----------|-------------|-------------|-------------|---|
-|           |          |       | Burkhard  | Stamm       |        1929 |        2006 |   |
-|           |          |       | Klemens   | Stamm       |        1927 |        2007 |   |
-|           |          |       | Gregor    | Stamm       |             |             |   |
-|           |          |       | Luzia     | Stamm       |             |             |   |
-|           |          |       | Theresia  | Stamm       | 06.003.1935 | 16.007.2017 |   |
-|           |          |       | Theresia  | Frank       | 06.003.1935 | 16.007.2017 | b |
+| 274679459 | GBSS-7MP | U 575 | Burkhard  | Stamm       |        1929 |        2006 |   |
+| 274679533 | GBS9-28C | U 576 | Theresia  | Stamm       | 06.003.1935 | 16.007.2017 |   |
+| 274679533 | GBS9-28C | U 576 | Theresia  | Frank       | 06.003.1935 | 16.007.2017 | b |
+| 274679558 | G3RZ-V1S | U 176 | Klemens   | Stamm       |        1927 |        2007 |   |
+| 274679580 | GBS9-VL8 | U 577 | Gregor    | Stamm       |        1889 |        1965 |   |
+| 274679598 | GBSS-Z95 | U 578 | Luzia     | Stamm       |        1896 |        1985 |   |
 |           |          |       |           |             |             |             |   |
 
-===Status: TODO-Stamm 5
-FS
-FSFG-citation pending-
-FS-memory fully tagged
-
-FG
-transcription
-grave details FSFT:
-photo caption
-plot use  PID: 2024-
-
-DB
-entry
-FSFT-tag
-FG-tag
-Death tag
-Burial tag & place detail
-FG citation (only in main database)
+===Status:
+DB ok
+FG ok
+FS  mGS  FG-src pending
 
 =========================================================================DIV80==
 ===PID: 2024-2-2-08
