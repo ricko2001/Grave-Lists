@@ -72,7 +72,7 @@ file://./Images_2024/IMG_20240707_110151283.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-02
@@ -169,7 +169,7 @@ file://./Images_2024/IMG_20240707_110202833.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  noGSimg  FG-src pending 
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-03
@@ -250,7 +250,7 @@ file://./Images_2024/IMG_20240707_110243993.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-04
@@ -327,7 +327,7 @@ file://./Images_2024/IMG_20240707_110241598.jpg
 ===Status:
 DB ok
 FG ok
-FS  noGSimg  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-1-05
@@ -897,15 +897,15 @@ file://./Images_2024/IMG_20240707_110442593.jpg  right
 | 273729755 | GY8J-3SR | U 514 | Philipp  | Stamm       |        1897 |        1970 |   |
 | 273729761 | GY8N-NKQ | U 515 | Josefa   | Stamm       |        1898 |        1985 |   |
 |           |          |       |          |             |             |             |   |
-|           |          |       | Ludwig   | Wunderling  | 18.010.1922 | 01.008.2007 |   |
-|           |          |       | Hilde    | Wunderling  | 30.011.1925 | 25.007.2015 |   |
+|           | G17L-1R6 |       | Ludwig   | Wunderling  | 18.010.1922 | 01.008.2007 |   |
+|           | G17G-SSJ |       | Hilde    | Wunderling  | 30.011.1925 | 25.007.2015 |   |
 |           |          |       |          |             |             |             |   |
 
 ===Status:
 Stamm: no photo
 DB ok
 FG ok
-FS  noGSimg  FG-src pending
+FS  noGSimg  FG-src pending   TODO need to create FG for WUNDERLING
 
 =========================================================================DIV80==
 ===PID: 2024-1-2-02
@@ -2020,7 +2020,7 @@ file://./Images_2024/IMG_20240707_111204563.jpg  right
 
 ===Status: TODO
 FS
-FSFG-citation pending-
+FSFG-citation pending-    except Lucia    | Stamm  done
 FS-memory fully tagged
 
 FG
@@ -2410,7 +2410,7 @@ file://./Images_2024/IMG_20240707_111345406.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-4-04
@@ -2768,7 +2768,7 @@ file://./Images_2024/IMG_20240707_111502164.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2018-1-4-08
@@ -2992,7 +2992,7 @@ file://./Images_2024/IMG_20240707_111627351.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-03
@@ -3273,7 +3273,7 @@ file://./Images_2024/IMG_20240707_111733563.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-06
@@ -3398,7 +3398,7 @@ file://./Images_2024/IMG_20240707_111755059.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-08
@@ -3480,14 +3480,14 @@ file://./Images_2024/IMG_20240707_111820114.jpg  right
 | 274644281 | GB99-SL4 | U 550 | Josef      | Stamm       | 23.004.1859 | 01.010.1936 |   |
 | 274644434 | GB93-8D6 | U 551 | Bruno      | Stamm       | 30.008.1888 | 25.011.1951 |   |
 | 274644477 | GB93-VNY | U 552 | Rosa       | Stamm       | 20.001.1892 | 10.002.1983 |   |
-| 274644641 | GB9Q-9HC | U 553 | Ernst      | Stamm       | 15.007.1934 | 09.004.2018 |   |
+| 274644641 | GB9Q-9HC | U 553 | Ernst      | Stamm       | 15.007.1924 | 09.004.2018 |   |
 | 274644701 | GB93-52L | U 554 | Rudolf     | Stamm       | 24.003.1964 | 05.007.1965 |   |
 |           |          |       |            |             |             |             |   |
 
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-5-09
@@ -3869,7 +3869,7 @@ file://./Images_2024/IMG_20240707_112001158.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-03
@@ -3933,7 +3933,7 @@ file://./Images_2024\IMG_20240707_112015357.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-04
@@ -3977,8 +3977,8 @@ file://./Images_2024/IMG_20240707_112035079.jpg  right
 ===Table:
 | FG        | FS       | RM    | FN       | LN          | b           | d           | T |
 |-----------|----------|-------|----------|-------------|-------------|-------------|---|
-|           |          |       | Martin   | Marschall   | 23.004.1940 | 23.011.2001 |   | 
-|           |          |       | Margot   | Marschall   | 06.005.1937 | 23.003.2013 |   | 
+|           | G1WS-5DZ |       | Martin   | Marschall   | 23.004.1940 | 23.011.2001 |   | 
+|           | G1W3-R9P |       | Margot   | Marschall   | 06.005.1937 | 23.003.2013 |   | 
 |           |          |       |          |             |             |             |   |
 
 ===Status: TODO
@@ -4187,7 +4187,7 @@ file://./Images_2024/IMG_20240707_112114770.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-6-08
@@ -4395,7 +4395,7 @@ file://./Images_2024/IMG_20240707_112234981.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-1-7-02
@@ -4705,7 +4705,7 @@ file://./Images_2024/IMG_20240707_112353459.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 ========================================================================DIV80==
 ===PID: 2024-1-7-08
@@ -5275,7 +5275,7 @@ file://./Images_2024/IMG_20240707_112513789.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-01
@@ -5486,7 +5486,7 @@ file://./Images_2024/IMG_20240707_112744783.jpg  left
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-04
@@ -5564,7 +5564,7 @@ file://./Images_2024/IMG_20240707_112755727.jpg  right
 ===Status:
 DB ok
 FG ok
-FS mGS mFC       FG-src pending    mFC for Walter Biernet only
+FS mGS mFC     mFC for Walter Biernet only
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-05
@@ -5690,7 +5690,7 @@ file://./Images_2024/IMG_20240707_112811399.jpg  left
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-06
@@ -5763,7 +5763,7 @@ file://./Images_2024/IMG_20240707_112825405_HDR.jpg  left
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-1-07
@@ -6653,7 +6653,7 @@ file://./Images_2024\IMG_20240707_113255143.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-2-08
@@ -6695,7 +6695,7 @@ file://./Images_2024/IMG_20240707_113306037.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-2-09
@@ -7505,7 +7505,7 @@ file://./Images_2024/IMG_20240707_113830083.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-3-08
@@ -8107,8 +8107,7 @@ file://./Images_2024/IMG_20240707_114144000.jpg  right
 ===Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
-
+FS ok
 =========================================================================DIV80==
 ===PID: 2024-2-4-06
 ===Coord: []
@@ -8417,7 +8416,7 @@ file://./Images_2024/IMG_20240707_114354123.jpg  right
 Status:
 DB ok
 FG ok
-FS  mGS  FG-src pending
+FS ok
 
 =========================================================================DIV80==
 ===PID: 2024-2-5-01
