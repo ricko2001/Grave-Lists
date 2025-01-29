@@ -29,8 +29,8 @@ If a row has fewer, create dummy plots and state that they are not real plots.
 Odd numbered rows have stones that face south. Photos of those stone face north.
 Even numbered rows have stones that face north. Photos of those stone face south.
 
-row
-16
+row                     NORTH WALL
+16   samll building
 15
 
 14
@@ -38,7 +38,7 @@ row
 
 12
 11
-
+      WEST WALL                                 EAST WALL
 10
 9
 
@@ -51,10 +51,10 @@ row
 4                      PID:2022-04-07
 3
 
-2
+2                     SOUTH WALL
 1   
 +   1  2  3  4  5  6  7  8     9 10 11 12 13 14 15 16  col
-========================================
+=======================   CHURCH WALL   =================
 
 
 East Wall-
